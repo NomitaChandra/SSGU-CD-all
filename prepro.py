@@ -880,7 +880,6 @@ def get_pubtator(file_in):
 
 
 def read_docred(meta, file_in, tokenizer, max_seq_length=1024):
-    docred_rel2id = json.load(open(meta, 'r'))
     i_line = 0
     pos_samples = 0
     neg_samples = 0
@@ -895,7 +894,9 @@ def read_docred(meta, file_in, tokenizer, max_seq_length=1024):
         words = []
         token_map = []
         lengthofPice = 0
+        # 实体位置
         mentions = []
+        # 对应一个长宽均为实体类型数的矩阵，如果两实体在同一句子中，标记为0
         inter_mask = []
         for i in range(0, len(sample['vertexSet'])):
             inter_mask.append([1] * len(sample['vertexSet']))
@@ -915,6 +916,7 @@ def read_docred(meta, file_in, tokenizer, max_seq_length=1024):
                         if breakFlag == 1:
                             break
         entities = sample['vertexSet']
+        # 定义了一种离散方式将实体分割成词放入list中，作为一个新的句子
         vertexsentencelist = addEntitySentence(entities, sample['sents'])
         entity_start, entity_end = {}, {}
         for entity in entities:
@@ -951,8 +953,11 @@ def read_docred(meta, file_in, tokenizer, max_seq_length=1024):
                     oneToken.append(lengthofPice)
                     lengthofPice += len(tokens_wordpiece)
                     oneToken.append(lengthofPice)
+                # 各个句子的长度
                 new_map[i_t] = len(sents)
+                # 分词
                 sents.extend(tokens_wordpiece)
+                # 位置
                 token_map.append(oneToken)
             new_map[i_t + 1] = len(sents)
             sent_map.append(new_map)
