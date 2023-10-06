@@ -728,157 +728,6 @@ def get_pubtator(file_in):
     return data
 
 
-#
-# def read_pubtator(args, file_in, tokenizer, max_seq_length=1024, lower=True):
-#     i_line = 0
-#     pos_samples = 0
-#     neg_samples = 0
-#     ent_nums = 0
-#     rel_nums = 0
-#     max_len = 0
-#     features = []
-#     cls_token = tokenizer.cls_token
-#     sep_token = tokenizer.sep_token
-#     padid = tokenizer.pad_token_id
-#     cls_token_length = len(cls_token)
-#     print(cls_token, sep_token)
-#     relation2id = relation2id_cdr
-#     id2relation = id2relation_cdr
-#
-#     # 读取 pubtator 格式数据集
-#     all_documents = load_pubtator_into_documents(file_in, normalized_type_dict={}, re_id_spliter_str=r'\|')
-#     data = all_documents
-#
-#     re_fre = np.zeros(len(relation2id))
-#     for idx, sample in tqdm(enumerate(data), desc="Example"):
-#         if "passages" in sample:
-#             text = sample["passages"][0]["text"] + " " + sample["passages"][1]["text"]
-#             if lower == True:
-#                 text = text.lower()
-#         else:
-#             text = sample["passages"][0]["text"]
-#             if lower == True:
-#                 text = text.lower()
-#
-#         text = unidecode.unidecode(text)
-#         tokens = tokenizer.tokenize(text)
-#         tokens = [cls_token] + tokens + [sep_token]
-#         text = cls_token + " " + text + " " + sep_token
-#         ind_map = map_index(text, tokens)
-#         entities = sample['passages'][0]['annotations'] + sample['passages'][1]['annotations']
-#
-#         train_triple = {}
-#         if "relations" in sample:
-#             for label in sample['relations']:
-#                 if label['infons']['type'] not in relation2id:
-#                     print(label['infons']['type'], 'not in relation2id')
-#                     continue
-#                 if 'novel' not in label:
-#                     novel = 'No'
-#                 else:
-#                     novel = label['infons']['novel']
-#                 r = int(relation2id[label['infons']['type']])
-#                 re_fre[r] += 1
-#                 if (label['infons']['entity1'], label['infons']['entity2']) not in train_triple:
-#                     train_triple[(label['infons']['entity1'], label['infons']['entity2'])] = [
-#                         {'relation': r, 'novel': novel}]
-#                 else:
-#                     train_triple[(label['infons']['entity1'], label['infons']['entity2'])].append(
-#                         {'relation': r, 'novel': novel})
-#
-#         entity_dict = {}
-#         entity2id = {}
-#         entity_type = {}
-#         eids = 0
-#         offset = 0
-#
-#         for e in entities:
-#             e_start = int(e['locations'][0]['offset'])
-#             e_end = int(e['locations'][0]['offset']) + int(e['locations'][0]['length'])
-#             e_id = e['infons']['identifier']
-#             e_ids = e_id.split(',')
-#             entity_type[e_id] = e['infons']['type']
-#             if e_start + cls_token_length in ind_map:
-#                 startid = ind_map[e_start + cls_token_length] + offset
-#                 tokens = tokens[:startid] + ['*'] + tokens[startid:]
-#                 offset += 1
-#             else:
-#                 continue
-#                 startid = 0
-#
-#             if e_end + cls_token_length in ind_map:
-#                 endid = ind_map[e_end + cls_token_length] + offset
-#                 endid += 1
-#                 tokens = tokens[:endid] + ['*'] + tokens[endid:]
-#                 endid += 1
-#                 offset += 1
-#             else:
-#                 continue
-#                 endid = 0
-#
-#             if startid >= endid:
-#                 endid = startid + 1
-#             for e_id in e_ids:
-#                 if e_id not in entity_dict:
-#                     entity_dict[e_id] = [(startid, endid,)]
-#                     entity2id[e_id] = eids
-#                     eids += 1
-#                     if e_id != "-":
-#                         ent_nums += 1
-#                 else:
-#                     entity_dict[e_id].append((startid, endid,))
-#
-#         relations, hts = [], []
-#         for h, t in train_triple.keys():
-#             if h not in entity2id or t not in entity2id:
-#                 print('error: ', h, t)
-#                 continue
-#             relation = [0] * (len(relation2id) + 1)
-#             for mention in train_triple[h, t]:
-#                 relation[mention["relation"] + 1] = 1
-#
-#             relations.append(relation)
-#             hts.append([entity2id[h], entity2id[t]])
-#             pos_samples += 1
-#
-#             rel_num = sum(relation)
-#             rel_nums += rel_num
-#
-#         for h in entity_dict.keys():
-#             for t in entity_dict.keys():
-#                 if [entity2id[h], entity2id[t]] not in hts:
-#                     relation = [1] + [0] * (len(relation2id))
-#                     relations.append(relation)
-#                     hts.append([entity2id[h], entity2id[t]])
-#                     neg_samples += 1
-#
-#         if len(tokens) > max_len:
-#             max_len = len(tokens)
-#
-#         tokens = tokens[1:-1][:max_seq_length - 2]
-#         input_ids = tokenizer.convert_tokens_to_ids(tokens)
-#         input_ids = tokenizer.build_inputs_with_special_tokens(input_ids)
-#
-#         i_line += 1
-#
-#         feature = {'input_ids': input_ids,
-#                    'entity_pos': list(entity_dict.values()),
-#                    'labels': relations,
-#                    'hts': hts,
-#                    'title': sample['id'],
-#                    'id2entity': dict(zip(entity2id.values(), entity2id.keys()))
-#                    }
-#         features.append(feature)
-#
-#     print("# of documents {}.".format(i_line))
-#     print("# of positive examples {}.".format(pos_samples))
-#     print("# of negative examples {}.".format(neg_samples))
-#     re_fre = 1. * re_fre / (pos_samples + neg_samples)
-#     print(re_fre)
-#     print("# rels per doc", 1. * rel_nums / i_line)
-#     return features, re_fre
-
-
 def read_docred(meta, file_in, tokenizer, max_seq_length=1024):
     i_line = 0
     pos_samples = 0
@@ -975,6 +824,7 @@ def read_docred(meta, file_in, tokenizer, max_seq_length=1024):
                         {'relation': r, 'evidence': evidence})
 
         entity_pos = []
+        # 每句中的有哪些实体，记录该实体的id，好像没用？
         sent_occur = {}
         ei = 0
         for e in entities:
@@ -1025,6 +875,7 @@ def read_docred(meta, file_in, tokenizer, max_seq_length=1024):
                         if A[i][j] == 0:
                             A[i][j] = 1
                             edges += 1
+        # 所有实体在 tokens 中的跨度
         mentionsofPice = []
         for ment in mentions:
             mentionsofPice.append([token_map[ment[0]][0], token_map[ment[1] - 1][1]])
@@ -1039,8 +890,10 @@ def read_docred(meta, file_in, tokenizer, max_seq_length=1024):
                             edges += 1
         entityofPice = []
         for ent in entity_pos:
+            # 每个单词（属于实体）的起始位置，可能是字母或者索引
             oneEntityP = []
             for ment in ent:
+                # 这里可以通过 ment[1] - offset + 1 进行合并
                 if (ment[0] + offset) == (ment[1] - offset):
                     oneEntityP.append(ment[0] + offset)
                 for i in range(ment[0] + offset, ment[1] - offset):
