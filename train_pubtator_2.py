@@ -12,6 +12,7 @@ from tqdm import tqdm
 from model_test import DocREModel
 from utils import set_seed, collate_fn
 from prepro import read_biored, read_cdr, read_gda
+from prepro_test import read_cdr_test
 from save_result import Logger
 
 os.environ["CUDA_VISIBLE_DEVICES"] = "1"
@@ -232,7 +233,7 @@ def main():
         args.learning_rate = 2e-5
         args.num_class = 2
         args.num_train_epochs = 30
-        read = read_cdr
+        read = read_cdr_test
     elif args.task == 'gda':
         args.data_dir = './dataset/gda'
         args.train_file = 'train.data'

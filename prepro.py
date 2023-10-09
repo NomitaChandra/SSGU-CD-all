@@ -792,7 +792,6 @@ def read_docred(meta, file_in, tokenizer, max_seq_length=1024):
                     oneToken.append(lengthofPice + 1)
                     lengthofPice += len(tokens_wordpiece)
                     oneToken.append(lengthofPice)
-
                 elif (i_s, i_t) in entity_end:
                     tokens_wordpiece = tokens_wordpiece + [entity_end[(i_s, i_t)]]
                     oneToken.append(lengthofPice)
@@ -802,7 +801,7 @@ def read_docred(meta, file_in, tokenizer, max_seq_length=1024):
                     oneToken.append(lengthofPice)
                     lengthofPice += len(tokens_wordpiece)
                     oneToken.append(lengthofPice)
-                # 各个句子的长度
+                # 分词后每个词对应的位置
                 new_map[i_t] = len(sents)
                 # 分词
                 sents.extend(tokens_wordpiece)

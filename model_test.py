@@ -183,11 +183,11 @@ class DocREModel(nn.Module):
         sequence_output, attention = self.encode(input_ids, attention_mask)
 
         # todo ugdre
-        # sequence_output = self.dropout(sequence_output)
-        # # GCN
-        # Adj = F.normalize(Adj)
-        # sequence_output_A = torch.relu(self.gc1(sequence_output, Adj))
-        # sequence_output = torch.cat([sequence_output, sequence_output_A], dim=2)
+        sequence_output = self.dropout(sequence_output)
+        # GCN
+        Adj = F.normalize(Adj)
+        sequence_output_A = torch.relu(self.gc1(sequence_output, Adj))
+        sequence_output = torch.cat([sequence_output, sequence_output_A], dim=2)
 
         hs, rs, ts, entity_embs, entity_as = self.get_hrt(sequence_output, attention, entity_pos, hts)
         bs, sequen_len, d = sequence_output.shape
