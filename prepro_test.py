@@ -131,7 +131,8 @@ def read_cdr_test(args, file_in, tokenizer, max_seq_length=1024):
                             if sents_len[i] > end:
                                 sent_in_id = i
                                 break
-                        entities[entity_id].append([start, end, tpy, string, sent_in_id])
+                        if [start, end, tpy, string, sent_in_id] not in entities[entity_id]:
+                            entities[entity_id].append([start, end, tpy, string, sent_in_id])
 
                     es = list(map(int, p[14].split(':')))
                     ed = list(map(int, p[15].split(':')))
@@ -148,7 +149,8 @@ def read_cdr_test(args, file_in, tokenizer, max_seq_length=1024):
                             if sents_len[i] > end:
                                 sent_in_id = i
                                 break
-                        entities[entity_id].append([start, end, tpy, string, sent_in_id])
+                        if [start, end, tpy, string, sent_in_id] not in entities[entity_id]:
+                            entities[entity_id].append([start, end, tpy, string, sent_in_id])
 
                 for i in range(0, len(entities)):
                     inter_mask.append([1] * len(entities))
@@ -192,17 +194,17 @@ def read_cdr_test(args, file_in, tokenizer, max_seq_length=1024):
                             if i_t == start or i_t == end:
                                 eid = i
                                 break
-                        if i_t == entity_pos[eid][0]:
+                        if i_t == entity_pos[eid][0] or i_t == entity_pos[eid][1]:
                             oneToken.append(lengthofPice + 1)
                             tokens_wordpiece = ["*"] + tokens_wordpiece
                             lengthofPice += len(tokens_wordpiece)
                             oneToken.append(lengthofPice)
-                        elif i_t == entity_pos[eid][1]:
-                            oneToken.append(lengthofPice)
-                            lengthofPice += len(tokens_wordpiece)
-                            oneToken.append(lengthofPice)
-                            tokens_wordpiece = tokens_wordpiece + ["*"]
-                            lengthofPice += 1
+                        # elif i_t == entity_pos[eid][1]:
+                        #     oneToken.append(lengthofPice)
+                        #     lengthofPice += len(tokens_wordpiece)
+                        #     oneToken.append(lengthofPice)
+                        #     tokens_wordpiece = tokens_wordpiece + ["*"]
+                        #     lengthofPice += 1
                         else:
                             oneToken.append(lengthofPice)
                             lengthofPice += len(tokens_wordpiece)
@@ -281,9 +283,49 @@ def read_cdr_test(args, file_in, tokenizer, max_seq_length=1024):
                             if a[i][j] == 0:
                                 a[i][j] = 1
                                 edges += 1
-
             # 所有实体在 tokens 中的跨度
+            mentionsofPice = []
+            for eid in entities:
+                for i in entities[eid]:
+                    ment = [i[0], i[1]]
+                    mentionsofPice.append([token_map[ment[0]][0], token_map[ment[1] - 1][1]])
+            for ment in mentionsofPice:
+                start = ment[0] + offset
+                end = ment[1] + offset
+                for i in range(start, end):
+                    for j in range(start, end):
+                        if i < (len(input_ids) - 1) and j < (len(input_ids) - 1):
+                            if a[i][j] == 0:
+                                a[i][j] = 1
+                                edges += 1
+            # 各类实体的实体跨度
+            entityofPice = []
+            for ent in entity_pos:
+                # 每个单词（属于实体）的起始位置，可能是字母或者索引
+                oneEntityP = []
+                for ment in ent:
+                    if (ment[0] + offset) == ment[1]:
+                        oneEntityP.append(ment[0] + offset)
+                    for i in range(ment[0] + offset, ment[1]):
+                        oneEntityP.append(i)
+                entityofPice.append(oneEntityP)
+            predicted_Doc2 = []
+            for h in range(0, len(entities)):
+                item = [0, h]
+                predicted_Doc2.append(item)
 
+            predictedEntityPairPiece = []
+            for item in predicted_Doc2:
+                one_predicted = entityofPice[item[0]] + entityofPice[item[1]]
+                predictedEntityPairPiece.append(one_predicted)
+            for line in predictedEntityPairPiece:
+                for i in line:
+                    for j in line:
+                        if a[i + offset][j + offset] == 0:
+                            a[i + offset][j + offset] = 1
+                            edges += 1
+            for i in range(0, len(a)):
+                a[i][i] = 1
 
             if len(hts) > 0:
                 feature = {'input_ids': input_ids,

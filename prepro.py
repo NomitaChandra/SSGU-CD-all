@@ -823,7 +823,6 @@ def read_docred(meta, file_in, tokenizer, max_seq_length=1024):
                         {'relation': r, 'evidence': evidence})
 
         entity_pos = []
-        # 每句中的有哪些实体，记录该实体的id，好像没用？
         sent_occur = {}
         ei = 0
         for e in entities:
@@ -902,7 +901,7 @@ def read_docred(meta, file_in, tokenizer, max_seq_length=1024):
         for h in range(0, len(entities)):
             item = [0, h]
             predicted_Doc2.append(item)
-
+        # 获取在input_ids中每种实体的位置，并将第一个分别跟所有的拼起来放在predictedEntityPairPiece中，真tm离谱
         predictedEntityPairPiece = []
         for item in predicted_Doc2:
             one_predicted = entityofPice[item[0]] + entityofPice[item[1]]
