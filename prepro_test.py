@@ -333,7 +333,7 @@ def read_cdr_test(args, file_in, tokenizer, max_seq_length=1024):
                            'labels': relations,
                            'hts': hts,
                            'title': pmid,
-                           'adj': a,
+                           'Adj': a,
                            'inter_mask': inter_mask
                            }
                 features.append(feature)

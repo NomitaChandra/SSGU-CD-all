@@ -40,6 +40,7 @@ def train(args, model, train_features, dev_features, test_features):
                           'labels': batch[2],
                           'entity_pos': batch[3],
                           'hts': batch[4],
+                          'Adj': batch[5].to(args.device),
                           'list_feature_id': list_feature_id.to(args.device)
                           }
                 outputs = model(**inputs)
@@ -102,6 +103,7 @@ def cal_val_risk(args, model, features):
                   'labels': batch[2],
                   'entity_pos': batch[3],
                   'hts': batch[4],
+                  'Adj': batch[5].to(args.device),
                   'list_feature_id': list_feature_id.to(args.device)
                   }
         with torch.no_grad():
@@ -124,6 +126,7 @@ def evaluate(args, model, features, tag="dev"):
                   'labels': batch[2],
                   'entity_pos': batch[3],
                   'hts': batch[4],
+                  'Adj': batch[5].to(args.device),
                   'list_feature_id': list_feature_id.to(args.device)
                   }
         with torch.no_grad():
@@ -224,12 +227,12 @@ def main():
 
     if args.task == 'cdr':
         args.data_dir = './dataset/cdr'
-        args.train_file = 'train_filter.data'
-        args.dev_file = 'dev_filter.data'
-        args.test_file = 'test_filter.data'
+        args.train_file = 'train.data'
+        args.dev_file = 'dev.data'
+        args.test_file = 'test.data'
         args.model_name_or_path = '/home/yjs1217/Downloads/pretrained/scibert_scivocab_uncased'
-        args.train_batch_size = 16
-        args.test_batch_size = 16
+        args.train_batch_size = 8
+        args.test_batch_size = 8
         args.learning_rate = 2e-5
         args.num_class = 2
         args.num_train_epochs = 30
