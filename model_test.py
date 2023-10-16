@@ -15,9 +15,9 @@ class DocREModel(nn.Module):
     def __init__(self, args, config, model, emb_size=768, block_size=64, num_labels=-1):
         super().__init__()
         # todo ugdre
-        # self.sizeA = 256
-        # self.gc1 = GraphConvolution(config.hidden_size, self.sizeA)
-        # self.dropout = nn.Dropout(0.2)
+        self.sizeA = 256
+        self.gc1 = GraphConvolution(config.hidden_size, self.sizeA)
+        self.dropout = nn.Dropout(0.2)
 
         self.args = args
         self.config = config
@@ -39,8 +39,8 @@ class DocREModel(nn.Module):
         # self.tail_extractor = nn.Linear(2 * config.hidden_size, emb_size)
         # self.head_extractor = nn.Linear(config.hidden_size + self.sizeA + args.unet_out_dim, emb_size)
         # self.tail_extractor = nn.Linear(config.hidden_size + self.sizeA + args.unet_out_dim, emb_size)
-        self.head_extractor = nn.Linear(config.hidden_size + args.unet_out_dim, emb_size)
-        self.tail_extractor = nn.Linear(config.hidden_size + args.unet_out_dim, emb_size)
+        self.head_extractor = nn.Linear(config.hidden_size + 2 * args.unet_out_dim, emb_size)
+        self.tail_extractor = nn.Linear(config.hidden_size + 2 * args.unet_out_dim, emb_size)
         self.bilinear = nn.Linear(emb_size * block_size, config.num_labels)
 
         self.emb_size = emb_size
@@ -50,7 +50,7 @@ class DocREModel(nn.Module):
         self.bertdrop = nn.Dropout(0.6)
         self.unet_in_dim = args.unet_in_dim
         self.unet_out_dim = args.unet_in_dim
-        self.liner = nn.Linear(config.hidden_size, args.unet_in_dim)
+        self.liner = nn.Linear(config.hidden_size + self.sizeA, args.unet_in_dim)
         self.min_height = args.max_height
         self.channel_type = args.channel_type
         self.segmentation_net = AttentionUNet(input_channels=args.unet_in_dim,

@@ -20,5 +20,16 @@ def collate_fn(batch):
     hts = [f["hts"] for f in batch]
     input_ids = torch.tensor(input_ids, dtype=torch.long)
     input_mask = torch.tensor(input_mask, dtype=torch.float)
-    output = (input_ids, input_mask, labels, entity_pos, hts)
+    Adjs = []
+    for f in batch:
+        Adj = []
+        for i in range(0, max_len):
+            Adj.append([0] * max_len)
+        A = f['Adj']
+        for i in range(0, len(A)):
+            for j in range(0, len(A)):
+                Adj[i][j] = A[i][j]
+        Adjs.append(Adj)
+    Adj = torch.tensor(Adjs, dtype=torch.float)
+    output = (input_ids, input_mask, labels, entity_pos, hts, Adj)
     return output

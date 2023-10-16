@@ -227,9 +227,9 @@ def main():
 
     if args.task == 'cdr':
         args.data_dir = './dataset/cdr'
-        args.train_file = 'train.data'
-        args.dev_file = 'dev.data'
-        args.test_file = 'test.data'
+        args.train_file = 'train_filter.data'
+        args.dev_file = 'dev_filter.data'
+        args.test_file = 'test_filter.data'
         args.model_name_or_path = '/home/yjs1217/Downloads/pretrained/scibert_scivocab_uncased'
         args.train_batch_size = 8
         args.test_batch_size = 8
