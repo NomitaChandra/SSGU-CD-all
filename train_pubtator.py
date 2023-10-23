@@ -2,6 +2,8 @@ import argparse
 import sys
 import datetime
 import os
+
+os.environ["CUDA_VISIBLE_DEVICES"] = "0"
 import numpy as np
 import torch
 import ujson as json
@@ -14,8 +16,6 @@ from model_bio import DocREModel
 from utils import set_seed, collate_fn
 from prepro import read_biored, read_cdr, read_gda
 from save_result import Logger
-
-os.environ["CUDA_VISIBLE_DEVICES"] = "0"
 
 
 def train(args, model, train_features, dev_features, test_features):
@@ -291,15 +291,12 @@ def main():
 
     if args.task == 'cdr':
         args.data_dir = './dataset/cdr'
-        args.train_file = 'train.data'
-        args.dev_file = 'dev.data'
-        args.test_file = 'test.data'
-        # args.train_file = 'train_filter.data'
-        # args.dev_file = 'dev_filter.data'
-        # args.test_file = 'test_filter.data'
+        args.train_file = 'train_filter.data'
+        args.dev_file = 'dev_filter.data'
+        args.test_file = 'test_filter.data'
         args.model_name_or_path = '/home/yjs1217/Downloads/pretrained/scibert_scivocab_uncased'
-        args.train_batch_size = 16
-        args.test_batch_size = 16
+        args.train_batch_size = 8
+        args.test_batch_size = 8
         args.learning_rate = 2e-5
         args.num_class = 2
         args.num_train_epochs = 50
@@ -314,7 +311,7 @@ def main():
         args.test_batch_size = 4
         args.learning_rate = 2e-5
         args.num_class = 2
-        args.num_train_epochs = 50
+        args.num_train_epochs = 10
         read = read_gda
 
     if not os.path.exists(args.save_path):
@@ -325,10 +322,10 @@ def main():
         args.data_dir.split('/')[-1],
         str(args.seed))
     args.save_path = os.path.join(args.save_path, file_name)
-    print(args)
     timestamp = datetime.datetime.now().strftime("%Y%m%d-%H%M%S-%f")
     sys.stdout = Logger(stream=sys.stdout,
                         filename='./result/' + args.task + '/' + args.task + '_' + timestamp + '.log')
+    print(args)
 
     device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
     args.n_gpu = torch.cuda.device_count()

@@ -329,6 +329,12 @@ def read_cdr_test(args, file_in, tokenizer, max_seq_length=1024):
             for i in range(0, len(a)):
                 a[i][i] = 1
 
+            if args.use_gcn == 'false':
+                new_list = list(a)  # 复制原始二维列表
+                for i in range(len(new_list)):
+                    for j in range(len(new_list[i])):
+                        a[i][j] = 0  # 将复制的二维列表中的所有元素赋值为0
+
             if len(hts) > 0:
                 feature = {'input_ids': input_ids,
                            'entity_pos': entity_pos,

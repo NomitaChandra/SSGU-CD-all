@@ -497,6 +497,8 @@ def read_gda(args, file_in, tokenizer, max_seq_length=1024):
 
                 entity_pos = set()
                 for p in prs:
+                    if p[0] == "not_include":
+                        continue
                     es = list(map(int, p[8].split(':')))
                     ed = list(map(int, p[9].split(':')))
                     tpy = p[7]

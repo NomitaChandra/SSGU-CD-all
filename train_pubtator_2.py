@@ -2,6 +2,8 @@ import argparse
 import sys
 import datetime
 import os
+
+os.environ["CUDA_VISIBLE_DEVICES"] = "1"
 import numpy as np
 import torch
 import ujson as json
@@ -14,8 +16,6 @@ from utils import set_seed, collate_fn
 from prepro import read_biored, read_cdr, read_gda
 from prepro_test import read_cdr_test
 from save_result import Logger
-
-os.environ["CUDA_VISIBLE_DEVICES"] = "1"
 
 
 def train(args, model, train_features, dev_features, test_features):
@@ -179,8 +179,6 @@ def main():
                         help="Batch size for testing.")
     parser.add_argument("--gradient_accumulation_steps", default=1, type=int,
                         help="Number of updates steps to accumulate before performing a backward/update pass.")
-    parser.add_argument("--num_labels", default=4, type=int,
-                        help="Max number of labels in prediction.")
     parser.add_argument("--learning_rate", default=5e-5, type=float,
                         help="The initial learning rate for Adam.")
     parser.add_argument("--adam_epsilon", default=1e-6, type=float,
@@ -203,6 +201,7 @@ def main():
     parser.add_argument('--gamma', type=float, default=1.0, help='gamma of pu learning (default 1.0)')
     parser.add_argument('--m', type=float, default=1.0, help='margin')
     parser.add_argument('--e', type=float, default=3.0, help='estimated a priors multiple')
+    parser.add_argument('--use_gcn', type=str, default='true', help="use gcn, true/false")
 
     parser.add_argument("--unet_in_dim", type=int, default=3,
                         help="unet_in_dim.")
@@ -236,6 +235,7 @@ def main():
         args.learning_rate = 2e-5
         args.num_class = 2
         args.num_train_epochs = 30
+        args.use_gcn = 'false'
         read = read_cdr_test
     elif args.task == 'gda':
         args.data_dir = './dataset/gda'
@@ -258,10 +258,10 @@ def main():
         args.data_dir.split('/')[-1],
         str(args.seed))
     args.save_path = os.path.join(args.save_path, file_name)
-    print(args)
     timestamp = datetime.datetime.now().strftime("%Y%m%d-%H%M%S-%f")
     sys.stdout = Logger(stream=sys.stdout,
                         filename='./result/' + args.task + '/' + args.task + '_' + timestamp + '_test.log')
+    print(args)
 
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
     args.n_gpu = torch.cuda.device_count()
