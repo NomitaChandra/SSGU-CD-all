@@ -3,7 +3,7 @@ import sys
 import datetime
 import os
 
-os.environ["CUDA_VISIBLE_DEVICES"] = "1"
+os.environ["CUDA_VISIBLE_DEVICES"] = "0"
 import numpy as np
 import torch
 import ujson as json
@@ -14,7 +14,7 @@ from tqdm import tqdm
 from model_test import DocREModel
 from utils import set_seed, collate_fn
 from prepro import read_biored, read_cdr, read_gda
-from prepro_test import read_cdr_test
+from prepro_test import read_cdr_test, read_gda_test
 from save_result import Logger
 
 
@@ -230,12 +230,12 @@ def main():
         args.dev_file = 'dev_filter.data'
         args.test_file = 'test_filter.data'
         args.model_name_or_path = '/home/yjs1217/Downloads/pretrained/scibert_scivocab_uncased'
-        args.train_batch_size = 8
-        args.test_batch_size = 8
+        args.train_batch_size = 16
+        args.test_batch_size = 16
         args.learning_rate = 2e-5
         args.num_class = 2
         args.num_train_epochs = 30
-        args.use_gcn = 'false'
+        args.use_gcn = 'true'
         read = read_cdr_test
     elif args.task == 'gda':
         args.data_dir = './dataset/gda'
@@ -243,12 +243,12 @@ def main():
         args.dev_file = 'dev.data'
         args.test_file = 'test.data'
         args.model_name_or_path = '/home/yjs1217/Downloads/pretrained/scibert_scivocab_uncased'
-        args.train_batch_size = 4
-        args.test_batch_size = 4
+        args.train_batch_size = 8
+        args.test_batch_size = 8
         args.learning_rate = 2e-5
         args.num_class = 2
-        args.num_train_epochs = 30
-        read = read_gda
+        args.num_train_epochs = 10
+        read = read_gda_test
 
     if not os.path.exists(args.save_path):
         os.mkdir(args.save_path)

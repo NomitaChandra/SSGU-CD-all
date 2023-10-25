@@ -8,6 +8,7 @@ import numpy as np
 import math
 from losses import *
 from model_utils.attn_unet import AttentionUNet
+from model_utils.agcn import GraphConvolution, TypeGraphConvolution
 from allennlp.modules.matrix_attention import DotProductMatrixAttention, CosineMatrixAttention, BilinearMatrixAttention
 
 
@@ -24,10 +25,6 @@ class DocREModel(nn.Module):
         self.model = model
         self.hidden_size = config.hidden_size
         self.loss_fnt = ATLoss()
-        # todo pemscl
-        # self.lambda_3 = args.lambda_3
-        # self.loss_fnt = PMTEMloss(args.lambda_1, args.lambda_2)
-        # self.SCL_loss = MLLTRSCLloss(tau=args.tau, tau_base=args.tau_base)
 
         self.margin = args.m
         if args.isrank:
@@ -89,7 +86,7 @@ class DocREModel(nn.Module):
                         e_emb = torch.logsumexp(torch.stack(e_emb, dim=0), dim=0)
                         e_att = torch.stack(e_att, dim=0).mean(0)
                     else:
-                        e_emb = torch.zeros(self.config.hidden_size).to(sequence_output)
+                        e_emb = torch.zeros(c).to(sequence_output)
                         e_att = torch.zeros(h, c).to(attention)
                 else:
                     start, end = e[0]
@@ -97,7 +94,7 @@ class DocREModel(nn.Module):
                         e_emb = sequence_output[i, start + offset]
                         e_att = attention[i, :, start + offset]
                     else:
-                        e_emb = torch.zeros(self.config.hidden_size).to(sequence_output)
+                        e_emb = torch.zeros(c).to(sequence_output)
                         e_att = torch.zeros(h, c).to(attention)
                 entity_embs.append(e_emb)
                 entity_atts.append(e_att)
@@ -176,10 +173,6 @@ class DocREModel(nn.Module):
 
     def forward(self, input_ids=None, attention_mask=None, labels=None, entity_pos=None, hts=None, list_feature_id=None,
                 Adj=None):
-        # list_feature_id = list_feature_id.tolist()
-        # labels = [labels[i] for i in list_feature_id]
-        # entity_pos = [entity_pos[i] for i in list_feature_id]
-        # hts = [hts[i] for i in list_feature_id]
         sequence_output, attention = self.encode(input_ids, attention_mask)
 
         # todo ugdre
@@ -231,54 +224,6 @@ class DocREModel(nn.Module):
             labels = [torch.tensor(label) for label in labels]
             labels = torch.cat(labels, dim=0).to(logits)
             loss = self.loss_fnt(logits.float(), labels.float())
-            # todo pemscl
-            # scl_loss = self.SCL_loss(F.normalize(bl, dim=-1), labels)
-            # loss = loss + scl_loss * self.lambda_3
+
             output = [loss.to(sequence_output), output]
         return output
-
-
-class GraphConvolution(nn.Module):
-    """
-    Simple GCN layer, similar to https://arxiv.org/abs/1609.02907
-    """
-    '''定义对象的属性'''
-
-    def __init__(self, in_features, out_features, bias=True):
-        super(GraphConvolution, self).__init__()
-        self.in_features = in_features
-        self.out_features = out_features
-        self.weight = nn.Parameter(torch.FloatTensor(in_features, out_features))  # in_features × out_features
-        if bias:
-            self.bias = nn.Parameter(torch.FloatTensor(out_features))
-        else:
-            self.register_parameter('bias', None)
-        self.reset_parameters()
-
-    '''生成权重'''
-
-    def reset_parameters(self):
-        stdv = 1. / math.sqrt(self.weight.size(1))
-        self.weight.data.uniform_(-stdv, stdv)  # .uniform()：将tensor用从均匀分布中抽样得到的值填充。
-        if self.bias is not None:
-            self.bias.data.uniform_(-stdv, stdv)
-
-    '''前向传播 of 一层之内：即本层的计算方法：A * X * W '''
-
-    def forward(self, input, adj):
-        # print(input.shape)
-        # print(self.weight.shape)
-        support = torch.matmul(input, self.weight)  # torch.mm：Matrix multiply，input和weight实现矩阵点乘。
-        # output = torch.spmm(adj, support)  # torch.spmm：稀疏矩阵乘法，sp即sparse。
-        output = torch.matmul(adj, support)
-        if self.bias is not None:
-            return output + self.bias
-        else:
-            return output
-
-    '''把一个对象用字符串的形式表达出来以便辨认，在终端调用的时候会显示信息'''
-
-    def __repr__(self):
-        return self.__class__.__name__ + ' (' \
-               + str(self.in_features) + ' -> ' \
-               + str(self.out_features) + ')'
