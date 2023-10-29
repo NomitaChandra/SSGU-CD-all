@@ -294,7 +294,7 @@ def main():
         args.train_file = 'train_filter.data'
         args.dev_file = 'dev_filter.data'
         args.test_file = 'test_filter.data'
-        args.model_name_or_path = '/home/yjs1217/Downloads/pretrained/scibert_scivocab_uncased'
+        args.model_name_or_path = '/home/yjs1217/Downloads/pretrained/scibert_scivocab_cased'
         args.train_batch_size = 8
         args.test_batch_size = 8
         args.learning_rate = 2e-5
@@ -306,7 +306,7 @@ def main():
         args.train_file = 'train.data'
         args.dev_file = 'dev.data'
         args.test_file = 'test.data'
-        args.model_name_or_path = '/home/yjs1217/Downloads/pretrained/scibert_scivocab_uncased'
+        args.model_name_or_path = '/home/yjs1217/Downloads/pretrained/scibert_scivocab_cased'
         args.train_batch_size = 4
         args.test_batch_size = 4
         args.learning_rate = 2e-5

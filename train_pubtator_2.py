@@ -248,6 +248,7 @@ def main():
         args.learning_rate = 2e-5
         args.num_class = 2
         args.num_train_epochs = 10
+        args.use_gcn = 'false'
         read = read_gda_test
 
     if not os.path.exists(args.save_path):
