@@ -10,6 +10,7 @@ from losses import *
 from model_utils.attn_unet import AttentionUNet
 from model_utils.agcn import GraphConvolution, TypeGraphConvolution
 from allennlp.modules.matrix_attention import DotProductMatrixAttention, CosineMatrixAttention, BilinearMatrixAttention
+from model_utils.ACC_UNet import ACC_UNet
 
 
 class DocREModel(nn.Module):
@@ -18,7 +19,7 @@ class DocREModel(nn.Module):
         # todo ugdre
         self.sizeA = 256
         self.gc1 = GraphConvolution(config.hidden_size, self.sizeA)
-        self.dropout = nn.Dropout(0.2)
+        self.dropout = nn.Dropout(0.5)
 
         self.args = args
         self.config = config
@@ -53,6 +54,7 @@ class DocREModel(nn.Module):
         self.segmentation_net = AttentionUNet(input_channels=args.unet_in_dim,
                                               class_number=args.unet_out_dim,
                                               down_channel=args.down_dim)
+        self.segmentation_net_acc_unet = ACC_UNet(n_channels=args.unet_in_dim, n_classes=args.unet_out_dim)
 
     def encode(self, input_ids, attention_mask):
         config = self.config
@@ -204,6 +206,8 @@ class DocREModel(nn.Module):
             raise Exception("channel_type must be specify correctly")
 
         attn_map = self.segmentation_net(attn_input)
+        # attn_map = self.segmentation_net_acc_unet(attn_input)
+        # attn_map = attn_map.permute(0, 2, 3, 1).contiguous()
         h_t = self.get_ht(attn_map, hts)
         rs = h_t
 

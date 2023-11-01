@@ -213,7 +213,7 @@ def main():
                         help="unet_out_dim.")
     parser.add_argument("--bert_lr", default=3e-5, type=float,
                         help="The initial learning rate for Adam.")
-    parser.add_argument("--max_height", type=int, default=35,
+    parser.add_argument("--max_height", type=int, default=64,
                         help="log.")
 
     parser.add_argument("--tau", default=2.0, type=float, help="tau")
@@ -229,9 +229,9 @@ def main():
         args.train_file = 'train_filter.data'
         args.dev_file = 'dev_filter.data'
         args.test_file = 'test_filter.data'
-        args.model_name_or_path = '/home/yjs1217/Downloads/pretrained/scibert_scivocab_uncased'
-        args.train_batch_size = 16
-        args.test_batch_size = 16
+        args.model_name_or_path = '/home/yjs1217/Downloads/pretrained/scibert_scivocab_cased'
+        args.train_batch_size = 12
+        args.test_batch_size = 12
         args.learning_rate = 2e-5
         args.num_class = 2
         args.num_train_epochs = 30
@@ -242,7 +242,7 @@ def main():
         args.train_file = 'train.data'
         args.dev_file = 'dev.data'
         args.test_file = 'test.data'
-        args.model_name_or_path = '/home/yjs1217/Downloads/pretrained/scibert_scivocab_uncased'
+        args.model_name_or_path = '/home/yjs1217/Downloads/pretrained/scibert_scivocab_cased'
         args.train_batch_size = 8
         args.test_batch_size = 8
         args.learning_rate = 2e-5

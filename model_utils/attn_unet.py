@@ -13,20 +13,16 @@ class AttentionUNet(torch.nn.Module):
 
         down_channel = kwargs['down_channel']  # default = 256
         down_channel_2 = down_channel * 2
-        down_channel_3 = down_channel * 4
-        up_channel_1 = down_channel * 8
-        up_channel_2 = down_channel * 4
-        up_channel_3 = down_channel * 2
+        up_channel_1 = down_channel * 4
+        up_channel_2 = down_channel * 2
 
         self.inc = InConv(input_channels, down_channel)
         self.down1 = DownLayer(down_channel, down_channel_2)  # 512
-        self.down2 = DownLayer(down_channel_2, down_channel_3)  # 1024
-        self.down3 = DownLayer(down_channel_3, down_channel_3)  # 1024
+        self.down2 = DownLayer(down_channel_2, down_channel_2)  # 512
 
         self.up1 = UpLayer(up_channel_1, up_channel_1 // 4)
         self.up2 = UpLayer(up_channel_2, up_channel_2 // 4)
-        self.up3 = UpLayer(up_channel_3, up_channel_3 // 4)
-        self.outc = OutConv(up_channel_3 // 4, class_number)
+        self.outc = OutConv(up_channel_2 // 4, class_number)
 
     def forward(self, attention_channels):
         """
@@ -39,10 +35,8 @@ class AttentionUNet(torch.nn.Module):
         x1 = self.inc(x)
         x2 = self.down1(x1)
         x3 = self.down2(x2)
-        x4 = self.down3(x3)
-        x = self.up1(x4, x3)
-        x = self.up2(x, x2)
-        x = self.up3(x, x1)
+        x = self.up1(x3, x2)
+        x = self.up2(x, x1)
         output = self.outc(x)
         # attn_map as the shape of: batch_size x width x height x class
         output = output.permute(0, 2, 3, 1).contiguous()
