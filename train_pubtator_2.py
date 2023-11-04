@@ -14,7 +14,7 @@ from tqdm import tqdm
 from model_test import DocREModel
 from utils import set_seed, collate_fn
 from prepro import read_biored, read_cdr, read_gda
-from prepro_test import read_cdr_test, read_gda_test
+from prepro_test import read_bio_test
 from save_result import Logger
 
 
@@ -41,6 +41,7 @@ def train(args, model, train_features, dev_features, test_features):
                           'entity_pos': batch[3],
                           'hts': batch[4],
                           'Adj': batch[5].to(args.device),
+                          'adj_syntactic_dependency_tree': batch[6].to(args.device),
                           'list_feature_id': list_feature_id.to(args.device)
                           }
                 outputs = model(**inputs)
@@ -104,6 +105,7 @@ def cal_val_risk(args, model, features):
                   'entity_pos': batch[3],
                   'hts': batch[4],
                   'Adj': batch[5].to(args.device),
+                  'adj_syntactic_dependency_tree': batch[6].to(args.device),
                   'list_feature_id': list_feature_id.to(args.device)
                   }
         with torch.no_grad():
@@ -127,6 +129,7 @@ def evaluate(args, model, features, tag="dev"):
                   'entity_pos': batch[3],
                   'hts': batch[4],
                   'Adj': batch[5].to(args.device),
+                  'adj_syntactic_dependency_tree': batch[6].to(args.device),
                   'list_feature_id': list_feature_id.to(args.device)
                   }
         with torch.no_grad():
@@ -236,7 +239,6 @@ def main():
         args.num_class = 2
         args.num_train_epochs = 30
         args.use_gcn = 'true'
-        read = read_cdr_test
     elif args.task == 'gda':
         args.data_dir = './dataset/gda'
         args.train_file = 'train.data'
@@ -249,7 +251,6 @@ def main():
         args.num_class = 2
         args.num_train_epochs = 10
         args.use_gcn = 'false'
-        read = read_gda_test
 
     if not os.path.exists(args.save_path):
         os.mkdir(args.save_path)
@@ -262,6 +263,7 @@ def main():
     timestamp = datetime.datetime.now().strftime("%Y%m%d-%H%M%S-%f")
     sys.stdout = Logger(stream=sys.stdout,
                         filename='./result/' + args.task + '/' + args.task + '_' + timestamp + '_test.log')
+    read = read_bio_test
     print(args)
 
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
