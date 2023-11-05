@@ -174,7 +174,7 @@ class DocREModel(nn.Module):
         return htss
 
     def forward(self, input_ids=None, attention_mask=None, labels=None, entity_pos=None, hts=None, list_feature_id=None,
-                Adj=None):
+                Adj=None, adj_syntactic_dependency_tree=None):
         sequence_output, attention = self.encode(input_ids, attention_mask)
 
         # todo ugdre

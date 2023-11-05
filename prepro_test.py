@@ -3,8 +3,11 @@ import ujson as json
 import numpy as np
 import unidecode
 from pubtator.convert_pubtator import load_pubtator_into_documents
+from spacy.tokenizer import Tokenizer
+from spacy.tokens import Doc
 import random
 import copy
+import re
 import os
 import spacy
 
@@ -19,6 +22,28 @@ def chunks(l, n):
         assert len(l[i:i + n]) == n
         res += [l[i:i + n]]
     return res
+
+
+class WhitespaceTokenizer:
+    def __init__(self, vocab):
+        self.vocab = vocab
+
+    def __call__(self, text):
+        words = text.split(" ")
+        spaces = [True] * len(words)
+        # Avoid zero-length tokens
+        for i, word in enumerate(words):
+            if word == "":
+                words[i] = " "
+                spaces[i] = False
+        # Remove the final trailing space
+        if words[-1] == " ":
+            words = words[0:-1]
+            spaces = spaces[0:-1]
+        else:
+            spaces[-1] = False
+
+        return Doc(self.vocab, words=words, spaces=spaces)
 
 
 def addEntitySentence(entities, curSent):
@@ -163,6 +188,7 @@ def read_bio_test(args, file_in, tokenizer, max_seq_length=1024):
                                     break
 
                 # spacy 分析
+                nlp.tokenizer = WhitespaceTokenizer(nlp.vocab)
                 doc = nlp(text.replace('|', ' '))
                 spacy_tokens = []
                 spacy_offset = nlp("*")[0]
@@ -229,7 +255,7 @@ def read_bio_test(args, file_in, tokenizer, max_seq_length=1024):
                         token_map.append(oneToken)
                         i_t += 1
                         spacy_token_id += 1
-                    sent_map[i_t] = len(new_sents)
+                    # sent_map[i_t] = len(new_sents)
                 sents = new_sents
 
                 entity_pos = []
@@ -342,7 +368,7 @@ def read_bio_test(args, file_in, tokenizer, max_seq_length=1024):
             for i in range(0, len(a_mentions)):
                 a_mentions[i][i] = 1
 
-            # 句法树 todo 后面需要补充？行？列作为 tokenizer.build_inputs_with_special_tokens
+            # 句法树
             count = 0
             i = 0
             while i < len(input_ids):
@@ -358,18 +384,15 @@ def read_bio_test(args, file_in, tokenizer, max_seq_length=1024):
                     child_key = next(key for key, val in index2word.items() if val == child)
                     # obtain the start index of spacy_word
                     word_key = next(key for key, val in index2word.items() if val == word)
-                    print("child:{}, word:{}".format(child, word))
+                    # print("child:{}, word:{}".format(child, word))
                     for m in range(child_key, len(adj_word_list) + child_key):
                         for n in range(word_key, len(word_list) + word_key):
-                            print("m:{}, n:{}".format(m, n))
+                            # print("m:{}, n:{}".format(m, n))
                             adj_syntactic_dependency_tree[m][n] = 1  # 无向图
                             adj_syntactic_dependency_tree[n][m] = 1
 
                 i += len(word_sp)
                 count += 1
-
-            print(adj_syntactic_dependency_tree)
-            # for word_piece in
 
             if args.use_gcn == 'false':
                 new_list = list(a_mentions)  # 复制原始二维列表
@@ -379,6 +402,23 @@ def read_bio_test(args, file_in, tokenizer, max_seq_length=1024):
                         adj_syntactic_dependency_tree[i][j] = 0
 
             input_ids = tokenizer.build_inputs_with_special_tokens(input_ids)
+            a_mentions_new = np.eye(len(input_ids))
+            adj_syntactic_dependency_tree_new = np.eye(len(input_ids))
+            if args.transformer_type == "bert":
+                for i in range(len(a_mentions)):
+                    for j in range(len(a_mentions)):
+                        a_mentions_new[i + 1][j + 1] = a_mentions[i][j]
+                for i in range(len(adj_syntactic_dependency_tree)):
+                    for j in range(len(adj_syntactic_dependency_tree)):
+                        adj_syntactic_dependency_tree_new[i + 1][j + 1] = adj_syntactic_dependency_tree[i][j]
+            elif args.transformer_type == "roberta":
+                for i in range(len(a_mentions)):
+                    for j in range(len(a_mentions)):
+                        a_mentions_new[i + 1][j + 1] = a_mentions[i][j]
+                for i in range(len(adj_syntactic_dependency_tree)):
+                    for j in range(len(adj_syntactic_dependency_tree)):
+                        adj_syntactic_dependency_tree_new[i + 1][j + 1] = adj_syntactic_dependency_tree[i][j]
+
             if len(hts) > 0:
                 feature = {'input_ids': input_ids,
                            'entity_pos': entity_pos,
@@ -386,7 +426,7 @@ def read_bio_test(args, file_in, tokenizer, max_seq_length=1024):
                            'hts': hts,
                            'title': pmid,
                            'Adj': a_mentions,
-                           'adj_syntactic_dependency_tree': adj_syntactic_dependency_tree,
+                           'adj_syntactic_dependency_tree': adj_syntactic_dependency_tree_new,
                            'inter_mask': inter_mask
                            }
                 features.append(feature)
