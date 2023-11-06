@@ -430,6 +430,9 @@ def read_bio_test(args, file_in, tokenizer, max_seq_length=1024):
                            'inter_mask': inter_mask
                            }
                 features.append(feature)
+
+            if args.demo == 'true' and len(features) > 100:
+                break
     re_fre[0] = pos_samples
     re_fre = 1. * re_fre / (pos_samples + neg_samples)
     return features, re_fre

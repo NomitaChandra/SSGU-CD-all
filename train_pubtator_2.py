@@ -112,7 +112,6 @@ def cal_val_risk(args, model, features):
             risk, logits = model(**inputs)
             val_risk += risk.item()
             nums += 1
-
     return val_risk / nums
 
 
@@ -204,20 +203,15 @@ def main():
     parser.add_argument('--gamma', type=float, default=1.0, help='gamma of pu learning (default 1.0)')
     parser.add_argument('--m', type=float, default=1.0, help='margin')
     parser.add_argument('--e', type=float, default=3.0, help='estimated a priors multiple')
-    parser.add_argument('--use_gcn', type=str, default='true', help="use gcn, true/false")
+    parser.add_argument('--use_gcn', type=str, default='tree', help="use gcn, both1/both2/mentions/tree/false")
+    parser.add_argument("--demo", type=str, default='false', help='true/false')
 
-    parser.add_argument("--unet_in_dim", type=int, default=3,
-                        help="unet_in_dim.")
-    parser.add_argument("--unet_out_dim", type=int, default=256,
-                        help="unet_out_dim.")
-    parser.add_argument("--down_dim", type=int, default=256,
-                        help="down_dim.")
-    parser.add_argument("--channel_type", type=str, default='context-based',
-                        help="unet_out_dim.")
-    parser.add_argument("--bert_lr", default=3e-5, type=float,
-                        help="The initial learning rate for Adam.")
-    parser.add_argument("--max_height", type=int, default=64,
-                        help="log.")
+    parser.add_argument("--unet_in_dim", type=int, default=3, help="unet_in_dim.")
+    parser.add_argument("--unet_out_dim", type=int, default=256, help="unet_out_dim.")
+    parser.add_argument("--down_dim", type=int, default=256, help="down_dim.")
+    parser.add_argument("--channel_type", type=str, default='context-based', help="unet_out_dim.")
+    parser.add_argument("--bert_lr", default=3e-5, type=float, help="The initial learning rate for Adam.")
+    parser.add_argument("--max_height", type=int, default=64, help="log.")
 
     parser.add_argument("--tau", default=2.0, type=float, help="tau")
     parser.add_argument("--tau_base", default=1.0, type=float, help="tau_base")
@@ -238,7 +232,6 @@ def main():
         args.learning_rate = 2e-5
         args.num_class = 2
         args.num_train_epochs = 30
-        args.use_gcn = 'false'
     elif args.task == 'gda':
         args.data_dir = './dataset/gda'
         args.train_file = 'train.data'
@@ -249,8 +242,7 @@ def main():
         args.test_batch_size = 8
         args.learning_rate = 2e-5
         args.num_class = 2
-        args.num_train_epochs = 10
-        args.use_gcn = 'false'
+        args.num_train_epochs = 20
 
     if not os.path.exists(args.save_path):
         os.mkdir(args.save_path)
@@ -260,9 +252,10 @@ def main():
         args.data_dir.split('/')[-1],
         str(args.seed))
     args.save_path = os.path.join(args.save_path, file_name)
-    timestamp = datetime.datetime.now().strftime("%Y%m%d-%H%M%S-%f")
+    timestamp = datetime.datetime.now().strftime("%Y%m%d-%H%M")
     sys.stdout = Logger(stream=sys.stdout,
-                        filename='./result/' + args.task + '/' + args.task + '_' + timestamp + '_test.log')
+                        filename='./result/' + args.task + '/' + args.task + '_' + timestamp + '_' + args.use_gcn + '_'
+                                 + str(args.seed) + '_test.log')
     read = read_bio_test
     print(args)
 
@@ -301,8 +294,6 @@ def main():
     #     # 如果有多个GPU，使用nn.DataParallel包装你的模型
     #     model = torch.nn.DataParallel(model, device_ids=[0, 1])
     model.to(0)
-
-    print(args.m_tag, args.isrank)
 
     if args.load_path == "":  # Training
         train(args, model, train_features, dev_features, test_features)

@@ -19,6 +19,7 @@ class DocREModel(nn.Module):
         # todo ugdre
         self.sizeA = 256
         self.gc1 = GraphConvolution(config.hidden_size, self.sizeA)
+        self.gc2 = GraphConvolution(config.hidden_size, self.sizeA // 2)
         self.dropout = nn.Dropout(0.5)
 
         self.args = args
@@ -55,6 +56,8 @@ class DocREModel(nn.Module):
                                               class_number=args.unet_out_dim,
                                               down_channel=args.down_dim)
         self.segmentation_net_acc_unet = ACC_UNet(n_channels=args.unet_in_dim, n_classes=args.unet_out_dim)
+        self.use_gcn = args.use_gcn
+        self.adj_linear = nn.Linear(self.sizeA * 2, self.sizeA)
 
     def encode(self, input_ids, attention_mask):
         config = self.config
@@ -176,35 +179,44 @@ class DocREModel(nn.Module):
     def forward(self, input_ids=None, attention_mask=None, labels=None, entity_pos=None, hts=None, list_feature_id=None,
                 Adj=None, adj_syntactic_dependency_tree=None):
         sequence_output, attention = self.encode(input_ids, attention_mask)
-
-        # todo ugdre
         sequence_output = self.dropout(sequence_output)
         # GCN
-        Adj = F.normalize(Adj)
-        sequence_output_A = torch.relu(self.gc1(sequence_output, Adj))
-        sequence_output = torch.cat([sequence_output, sequence_output_A], dim=2)
+        if self.use_gcn == 'both1':
+            a = F.normalize(Adj + adj_syntactic_dependency_tree)
+            sequence_output_A = torch.relu(self.gc1(sequence_output, a))
+            sequence_output = torch.cat([sequence_output, sequence_output_A], dim=2)
+        elif self.use_gcn == 'both2':
+            a = F.normalize(Adj)
+            b = F.normalize(adj_syntactic_dependency_tree)
+            sequence_output_A = torch.relu(self.gc2(sequence_output, a))
+            sequence_output_B = torch.relu(self.gc2(sequence_output, b))
+            sequence_output = torch.cat([sequence_output, sequence_output_A, sequence_output_B], dim=2)
+        elif self.use_gcn == 'mentions':
+            a = F.normalize(Adj)
+            sequence_output_A = torch.relu(self.gc1(sequence_output, a))
+            sequence_output = torch.cat([sequence_output, sequence_output_A], dim=2)
+        elif self.use_gcn == 'tree':
+            a = F.normalize(adj_syntactic_dependency_tree)
+            sequence_output_A = torch.relu(self.gc1(sequence_output, a))
+            sequence_output = torch.cat([sequence_output, sequence_output_A], dim=2)
+        else:
+            # 这时的Adj和adj_syntactic_dependency_tree都是空矩阵
+            a = F.normalize(Adj)
+            sequence_output_A = torch.relu(self.gc1(sequence_output, a))
+            sequence_output = torch.cat([sequence_output, sequence_output_A], dim=2)
+
+        if self.use_gcn == 'both':
+            a = F.normalize(adj_syntactic_dependency_tree)
+            sequence_output_B = torch.relu(self.gc1(sequence_output, a))
+            sequence_output_A = self.adj_linear(torch.cat([sequence_output_A, sequence_output_B], dim=2))
+            sequence_output = torch.cat([sequence_output, sequence_output_A, sequence_output_B], dim=2)
+            # 不知道这里还需不需要torch.relu
+            # sequence_output = torch.relu(sequence_output)
 
         hs, rs, ts, entity_embs, entity_as = self.get_hrt(sequence_output, attention, entity_pos, hts)
-        bs, sequen_len, d = sequence_output.shape
-        if self.channel_type == 'context-based':
-            feature_map = self.get_channel_map(sequence_output, entity_as)
-            # print('feature_map:', feature_map.shape)
-            attn_input = self.liner(feature_map).permute(0, 3, 1, 2).contiguous()
-        elif self.channel_type == 'similarity-based':
-            ent_encode = sequence_output.new_zeros(bs, self.min_height, d)
-            for _b in range(bs):
-                entity_emb = entity_embs[_b]
-                entity_num = entity_emb.size(0)
-                ent_encode[_b, :entity_num, :] = entity_emb
-            # similar0 = ElementWiseMatrixAttention()(ent_encode, ent_encode).unsqueeze(-1)
-            similar1 = DotProductMatrixAttention()(ent_encode, ent_encode).unsqueeze(-1)
-            similar2 = CosineMatrixAttention()(ent_encode, ent_encode).unsqueeze(-1)
-            similar3 = BilinearMatrixAttention(self.emb_size, self.self.emb_size).to(
-                ent_encode.device)(ent_encode, ent_encode).unsqueeze(-1)
-            attn_input = torch.cat([similar1, similar2, similar3], dim=-1).permute(0, 3, 1, 2).contiguous()
-        else:
-            raise Exception("channel_type must be specify correctly")
-
+        feature_map = self.get_channel_map(sequence_output, entity_as)
+        # print('feature_map:', feature_map.shape)
+        attn_input = self.liner(feature_map).permute(0, 3, 1, 2).contiguous()
         attn_map = self.segmentation_net(attn_input)
         # attn_map = self.segmentation_net_acc_unet(attn_input)
         # attn_map = attn_map.permute(0, 2, 3, 1).contiguous()
