@@ -110,6 +110,11 @@ def read_bio_test(args, file_in, tokenizer, max_seq_length=1024):
     with open(file_in, 'r') as infile:
         lines = infile.readlines()
         for i_l, line in enumerate(tqdm(lines)):
+            # todo debug
+            # if len(features) < 2510:
+            #     features.append([])
+            #     continue
+
             line = line.rstrip().split('\t')
             pmid = line[0]
             # gnn 对应一个长宽均为实体类型数的矩阵，如果两实体在同一句子中，标记为0
@@ -259,6 +264,9 @@ def read_bio_test(args, file_in, tokenizer, max_seq_length=1024):
                 sents = new_sents
 
                 entity_pos = []
+                # todo debug
+                # if len(sent_map) == 224 and len(features) > 2517:
+                #     print()
 
                 for p in prs:
                     if p[0] == "not_include":
