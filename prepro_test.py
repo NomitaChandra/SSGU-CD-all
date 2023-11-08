@@ -10,6 +10,7 @@ import copy
 import re
 import os
 import spacy
+import pickle
 
 ENTITY_PAIR_TYPE_SET = set([("Chemical", "Disease"), ("Chemical", "Gene"), ("Gene", "Disease")])
 cdr_rel2id = {'1:NR:2': 0, '1:CID:2': 1}
@@ -93,7 +94,15 @@ def map_index(chars, tokens):
     return ind_map
 
 
-def read_bio_test(args, file_in, tokenizer, max_seq_length=1024):
+def read_bio_test(args, file_in, tokenizer, max_seq_length=1024, save_file=''):
+    # 缓存处理的数据
+    if len(save_file) > 2 and os.path.exists(save_file):
+        with open(file=save_file, mode='rb') as fr:
+            features = pickle.load(fr)
+            fr.close()
+        print('load preprocessed data from {}.'.format(save_file))
+        return features
+
     rel2id = None
     if args.task == 'cdr':
         rel2id = cdr_rel2id
@@ -103,7 +112,6 @@ def read_bio_test(args, file_in, tokenizer, max_seq_length=1024):
     pmids = set()
     features = []
     maxlen = 0
-    re_fre = np.zeros(1)
     pos_samples = 0
     neg_samples = 0
     nlp = spacy.load('en_core_web_sm')
@@ -111,7 +119,7 @@ def read_bio_test(args, file_in, tokenizer, max_seq_length=1024):
         lines = infile.readlines()
         for i_l, line in enumerate(tqdm(lines)):
             # todo debug
-            # if len(features) < 2510:
+            # if len(features) < 10395:
             #     features.append([])
             #     continue
 
@@ -262,6 +270,10 @@ def read_bio_test(args, file_in, tokenizer, max_seq_length=1024):
                         spacy_token_id += 1
                     # sent_map[i_t] = len(new_sents)
                 sents = new_sents
+                # 长度限制 1024
+                if len(new_sents) > 1022:
+                    print(pmid, "too long")
+                    continue
 
                 entity_pos = []
                 # todo debug
@@ -441,6 +453,9 @@ def read_bio_test(args, file_in, tokenizer, max_seq_length=1024):
 
             if args.demo == 'true' and len(features) > 100:
                 break
-    re_fre[0] = pos_samples
-    re_fre = 1. * re_fre / (pos_samples + neg_samples)
-    return features, re_fre
+
+    if len(save_file) > 2:
+        with open(file=save_file, mode='wb') as fw:
+            pickle.dump(features, fw)
+        print('finish reading {} and save preprocessed data to {}.'.format(file_in, save_file))
+    return features

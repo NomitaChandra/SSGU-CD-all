@@ -204,7 +204,7 @@ def main():
     parser.add_argument('--m', type=float, default=1.0, help='margin')
     parser.add_argument('--e', type=float, default=3.0, help='estimated a priors multiple')
     parser.add_argument('--use_gcn', type=str, default='tree', help="use gcn, both1/both2/mentions/tree/false")
-    parser.add_argument("--demo", type=str, default='false', help='true/false')
+    parser.add_argument("--demo", type=str, default='false', help='use a few data to test. default true/false')
 
     parser.add_argument("--unet_in_dim", type=int, default=3, help="unet_in_dim.")
     parser.add_argument("--unet_out_dim", type=int, default=256, help="unet_out_dim.")
@@ -234,9 +234,9 @@ def main():
         args.num_train_epochs = 30
     elif args.task == 'gda':
         args.data_dir = './dataset/gda'
-        args.train_file = 'train.data'
-        args.dev_file = 'dev.data'
-        args.test_file = 'test.data'
+        args.train_file = 'training.data'
+        args.dev_file = 'testing.data'
+        args.test_file = 'testing.data'
         args.model_name_or_path = '/home/yjs1217/Downloads/pretrained/scibert_scivocab_cased'
         args.train_batch_size = 8
         args.test_batch_size = 8
@@ -274,10 +274,12 @@ def main():
     train_file = os.path.join(args.data_dir, args.train_file)
     dev_file = os.path.join(args.data_dir, args.dev_file)
     test_file = os.path.join(args.data_dir, args.test_file)
-
-    train_features, priors = read(args, train_file, tokenizer, max_seq_length=args.max_seq_length)
-    dev_features, _ = read(args, dev_file, tokenizer, max_seq_length=args.max_seq_length)
-    test_features, _ = read(args, test_file, tokenizer, max_seq_length=args.max_seq_length)
+    train_cache = os.path.join(args.data_dir, 'train_cache')
+    dev_cache = os.path.join(args.data_dir, 'dev_cache')
+    test_cache = os.path.join(args.data_dir, 'test_cache')
+    train_features = read(args, train_file, tokenizer, max_seq_length=args.max_seq_length, save_file=train_cache)
+    dev_features = read(args, dev_file, tokenizer, max_seq_length=args.max_seq_length, save_file=dev_cache)
+    test_features = read(args, test_file, tokenizer, max_seq_length=args.max_seq_length, save_file=test_cache)
 
     model = AutoModel.from_pretrained(
         args.model_name_or_path,
