@@ -10,13 +10,11 @@ from losses import *
 from model_utils.attn_unet import AttentionUNet
 from model_utils.agcn import GraphConvolution, TypeGraphConvolution
 from allennlp.modules.matrix_attention import DotProductMatrixAttention, CosineMatrixAttention, BilinearMatrixAttention
-from model_utils.ACC_UNet import ACC_UNet
 
 
 class DocREModel(nn.Module):
     def __init__(self, args, config, model, emb_size=768, block_size=64, num_labels=-1):
         super().__init__()
-        # todo ugdre
         self.sizeA = 256
         self.gc1 = GraphConvolution(config.hidden_size, self.sizeA)
         self.gc2 = GraphConvolution(config.hidden_size, self.sizeA // 2)
@@ -55,7 +53,6 @@ class DocREModel(nn.Module):
         self.segmentation_net = AttentionUNet(input_channels=args.unet_in_dim,
                                               class_number=args.unet_out_dim,
                                               down_channel=args.down_dim)
-        self.segmentation_net_acc_unet = ACC_UNet(n_channels=args.unet_in_dim, n_classes=args.unet_out_dim)
         self.use_gcn = args.use_gcn
         self.adj_linear = nn.Linear(self.sizeA * 2, self.sizeA)
 
@@ -204,14 +201,6 @@ class DocREModel(nn.Module):
             a = F.normalize(Adj)
             sequence_output_A = torch.relu(self.gc1(sequence_output, a))
             sequence_output = torch.cat([sequence_output, sequence_output_A], dim=2)
-
-        if self.use_gcn == 'both':
-            a = F.normalize(adj_syntactic_dependency_tree)
-            sequence_output_B = torch.relu(self.gc1(sequence_output, a))
-            sequence_output_A = self.adj_linear(torch.cat([sequence_output_A, sequence_output_B], dim=2))
-            sequence_output = torch.cat([sequence_output, sequence_output_A, sequence_output_B], dim=2)
-            # 不知道这里还需不需要torch.relu
-            # sequence_output = torch.relu(sequence_output)
 
         hs, rs, ts, entity_embs, entity_as = self.get_hrt(sequence_output, attention, entity_pos, hts)
         feature_map = self.get_channel_map(sequence_output, entity_as)

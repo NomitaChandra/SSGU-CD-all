@@ -55,24 +55,21 @@ def train(args, model, train_features, dev_features, test_features):
                     scheduler.step()
                     model.zero_grad()
                     num_steps += 1
-
-                if (step + 1) == len(train_dataloader) - 1 or (
-                        args.evaluation_steps > 0 and num_steps % args.evaluation_steps == 0 and step % args.gradient_accumulation_steps == 0):
+                if (step + 1) == len(train_dataloader) - 1 or (args.evaluation_steps > 0
+                                                               and num_steps % args.evaluation_steps == 0
+                                                               and step % args.gradient_accumulation_steps == 0):
                     print("training risk:", loss.item(), "   step:", num_steps)
-
                     avg_val_risk = cal_val_risk(args, model, dev_features)
                     print('avg val risk:', avg_val_risk, '\n')
-
-            # 进行每轮的评估测试
-            torch.save(model.state_dict(), args.save_path)
-            dev_score, dev_output = evaluate(args, model, dev_features, tag="dev")
-            test_score, test_output = evaluate(args, model, test_features, tag="test")
-            print("dev_score: ", dev_score, "dev_output: ", dev_output)
-            print("test_score: ", test_score, "test_output: ", test_output)
-            if score_best < dev_score:
-                score_best = dev_score
-                torch.save(model.state_dict(), args.save_path + '_best')
-
+                    # 进行每轮的评估测试
+                    torch.save(model.state_dict(), args.save_path)
+                    dev_score, dev_output = evaluate(args, model, dev_features, tag="dev")
+                    test_score, test_output = evaluate(args, model, test_features, tag="test")
+                    print("dev_score: ", dev_score, "dev_output: ", dev_output)
+                    print("test_score: ", test_score, "test_output: ", test_output)
+                    if score_best < dev_score:
+                        score_best = dev_score
+                        torch.save(model.state_dict(), args.save_path + '_best')
         return num_steps
 
     extract_layer = ["extractor", "bilinear"]
@@ -234,15 +231,17 @@ def main():
         args.num_train_epochs = 30
     elif args.task == 'gda':
         args.data_dir = './dataset/gda'
-        args.train_file = 'training.data'
-        args.dev_file = 'testing.data'
-        args.test_file = 'testing.data'
+        args.train_file = 'train.data'
+        args.dev_file = 'dev.data'
+        args.test_file = 'test.data'
         args.model_name_or_path = '/home/yjs1217/Downloads/pretrained/scibert_scivocab_cased'
         args.train_batch_size = 8
         args.test_batch_size = 8
         args.learning_rate = 2e-5
         args.num_class = 2
-        args.num_train_epochs = 20
+        args.gradient_accumulation_steps = 4
+        args.evaluation_steps = 400
+        args.num_train_epochs = 10
 
     if not os.path.exists(args.save_path):
         os.mkdir(args.save_path)
@@ -290,7 +289,7 @@ def main():
     config.sep_token_id = tokenizer.sep_token_id
     config.transformer_type = args.transformer_type
     set_seed(args)
-    model = DocREModel(args, config, model)
+    model = DocREModel(args, config, model, num_labels=args.num_class - 1)
     # if torch.cuda.device_count() > 1:
     #     print("Using ", torch.cuda.device_count(), " GPUs!")
     #     # 如果有多个GPU，使用nn.DataParallel包装你的模型
