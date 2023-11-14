@@ -200,7 +200,7 @@ def main():
     parser.add_argument('--gamma', type=float, default=1.0, help='gamma of pu learning (default 1.0)')
     parser.add_argument('--m', type=float, default=1.0, help='margin')
     parser.add_argument('--e', type=float, default=3.0, help='estimated a priors multiple')
-    parser.add_argument('--use_gcn', type=str, default='tree', help="use gcn, both1/both2/mentions/tree/false")
+    parser.add_argument('--use_gcn', type=str, default='tree', help="use gcn, both/mentions/tree/false")
     parser.add_argument("--demo", type=str, default='false', help='use a few data to test. default true/false')
 
     parser.add_argument("--unet_in_dim", type=int, default=3, help="unet_in_dim.")

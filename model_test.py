@@ -178,11 +178,7 @@ class DocREModel(nn.Module):
         sequence_output, attention = self.encode(input_ids, attention_mask)
         sequence_output = self.dropout(sequence_output)
         # GCN
-        if self.use_gcn == 'both1':
-            a = F.normalize(Adj + adj_syntactic_dependency_tree)
-            sequence_output_A = torch.relu(self.gc1(sequence_output, a))
-            sequence_output = torch.cat([sequence_output, sequence_output_A], dim=2)
-        elif self.use_gcn == 'both2':
+        if self.use_gcn == 'both':
             a = F.normalize(Adj)
             b = F.normalize(adj_syntactic_dependency_tree)
             sequence_output_A = torch.relu(self.gc2(sequence_output, a))
