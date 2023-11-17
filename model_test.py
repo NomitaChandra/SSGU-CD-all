@@ -15,6 +15,7 @@ from allennlp.modules.matrix_attention import DotProductMatrixAttention, CosineM
 class DocREModel(nn.Module):
     def __init__(self, args, config, model, emb_size=768, block_size=64, num_labels=-1):
         super().__init__()
+        self.device = args.device
         self.sizeA = 256
         self.gc1 = GraphConvolution(config.hidden_size, self.sizeA)
         self.gc2 = GraphConvolution(config.hidden_size, self.sizeA // 2)
@@ -49,7 +50,7 @@ class DocREModel(nn.Module):
         self.unet_out_dim = args.unet_in_dim
         self.liner = nn.Linear(config.hidden_size + self.sizeA, args.unet_in_dim)
         self.min_height = args.max_height
-        self.channel_type = args.channel_type
+
         self.segmentation_net = AttentionUNet(input_channels=args.unet_in_dim,
                                               class_number=args.unet_out_dim,
                                               down_channel=args.down_dim)
@@ -194,8 +195,10 @@ class DocREModel(nn.Module):
             sequence_output = torch.cat([sequence_output, sequence_output_A], dim=2)
         else:
             # 这时的Adj和adj_syntactic_dependency_tree都是空矩阵
-            a = F.normalize(Adj)
-            sequence_output_A = torch.relu(self.gc1(sequence_output, a))
+            a1, a2, _ = Adj.size()
+            sequence_output_A = Adj.clone()
+            sequence_output_A = sequence_output_A.resize_(a1, a2, self.sizeA)
+            sequence_output_A = sequence_output_A.zero_()
             sequence_output = torch.cat([sequence_output, sequence_output_A], dim=2)
 
         hs, rs, ts, entity_embs, entity_as = self.get_hrt(sequence_output, attention, entity_pos, hts)

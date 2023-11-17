@@ -325,7 +325,6 @@ def read_bio_test(args, file_in, tokenizer, max_seq_length=1024, save_file=''):
                     relations.append(relation)
                     hts.append([h, t])
 
-            maxlen = max(maxlen, len(sents))
             sents = sents[:max_seq_length - 2]
             input_ids = tokenizer.convert_tokens_to_ids(sents)
 
@@ -414,16 +413,9 @@ def read_bio_test(args, file_in, tokenizer, max_seq_length=1024, save_file=''):
                 i += len(word_sp)
                 count += 1
 
-            if args.use_gcn == 'false':
-                new_list = list(a_mentions)  # 复制原始二维列表
-                for i in range(len(new_list)):
-                    for j in range(len(new_list[i])):
-                        a_mentions[i][j] = 0  # 将复制的二维列表中的所有元素赋值为0
-                        adj_syntactic_dependency_tree[i][j] = 0
-
             input_ids = tokenizer.build_inputs_with_special_tokens(input_ids)
-            a_mentions_new = np.eye(len(input_ids))
-            adj_syntactic_dependency_tree_new = np.eye(len(input_ids))
+            a_mentions_new = [[0 for j in range(max_seq_length)] for i in range(max_seq_length)]
+            adj_syntactic_dependency_tree_new = [[0 for j in range(max_seq_length)] for i in range(max_seq_length)]
             if args.transformer_type == "bert":
                 for i in range(len(a_mentions)):
                     for j in range(len(a_mentions)):
@@ -445,7 +437,7 @@ def read_bio_test(args, file_in, tokenizer, max_seq_length=1024, save_file=''):
                            'labels': relations,
                            'hts': hts,
                            'title': pmid,
-                           'Adj': a_mentions,
+                           'Adj': a_mentions_new,
                            'adj_syntactic_dependency_tree': adj_syntactic_dependency_tree_new,
                            'inter_mask': inter_mask
                            }

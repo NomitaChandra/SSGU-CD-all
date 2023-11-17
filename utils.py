@@ -20,32 +20,21 @@ def collate_fn(batch):
     hts = [f["hts"] for f in batch]
     input_ids = torch.tensor(input_ids, dtype=torch.long)
     input_mask = torch.tensor(input_mask, dtype=torch.float)
-    Adjs = []
-    Adj = torch.tensor(Adjs, dtype=torch.float)
-    if 'Adj' in batch[0]:
+    adj_mentions = []
+    adj_trees = []
+    if 'Adj' in batch[0] and 'adj_syntactic_dependency_tree' in batch[0]:
         for f in batch:
-            Adj = []
-            for i in range(0, max_len):
-                Adj.append([0] * max_len)
-            A = f['Adj']
-            for i in range(0, len(A)):
-                for j in range(0, len(A)):
-                    Adj[i][j] = A[i][j]
-            Adjs.append(Adj)
-        Adj = torch.tensor(Adjs, dtype=torch.float)
+            adj_mention = []
+            adj_tree = []
+            adj_ = f['Adj']
+            adj_tree_ = f['adj_syntactic_dependency_tree']
+            for i in range(max_len):
+                adj_mention.append(adj_[i][:max_len])
+                adj_tree.append(adj_tree_[i][:max_len])
+            adj_mentions.append(adj_mention)
+            adj_trees.append(adj_tree)
+    adj_mention = torch.tensor(adj_mentions, dtype=torch.float)
+    adj_tree = torch.tensor(adj_trees, dtype=torch.float)
 
-    adj_syntactic_dependency_trees = []
-    adj_syntactic_dependency_tree = torch.tensor(adj_syntactic_dependency_trees, dtype=torch.float)
-    if 'adj_syntactic_dependency_tree' in batch[0]:
-        for f in batch:
-            adj_syntactic_dependency_tree = []
-            for i in range(0, max_len):
-                adj_syntactic_dependency_tree.append([0] * max_len)
-            A = f['adj_syntactic_dependency_tree']
-            for i in range(0, len(A)):
-                for j in range(0, len(A)):
-                    adj_syntactic_dependency_tree[i][j] = A[i][j]
-            adj_syntactic_dependency_trees.append(adj_syntactic_dependency_tree)
-        adj_syntactic_dependency_tree = torch.tensor(adj_syntactic_dependency_trees, dtype=torch.float)
-    output = (input_ids, input_mask, labels, entity_pos, hts, Adj, adj_syntactic_dependency_tree)
+    output = (input_ids, input_mask, labels, entity_pos, hts, adj_mention, adj_tree)
     return output

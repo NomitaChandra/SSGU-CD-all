@@ -3,7 +3,7 @@ import sys
 import datetime
 import os
 
-os.environ["CUDA_VISIBLE_DEVICES"] = "0"
+os.environ["CUDA_VISIBLE_DEVICES"] = "1"
 import numpy as np
 import torch
 import ujson as json
@@ -223,8 +223,8 @@ def main():
         args.dev_file = 'dev_filter.data'
         args.test_file = 'test_filter.data'
         args.model_name_or_path = '/home/yjs1217/Downloads/pretrained/scibert_scivocab_cased'
-        args.train_batch_size = 12
-        args.test_batch_size = 12
+        args.train_batch_size = 8
+        args.test_batch_size = 8
         args.learning_rate = 2e-5
         args.num_class = 2
         args.num_train_epochs = 30
@@ -234,8 +234,8 @@ def main():
         args.dev_file = 'dev.data'
         args.test_file = 'test.data'
         args.model_name_or_path = '/home/yjs1217/Downloads/pretrained/scibert_scivocab_cased'
-        args.train_batch_size = 8
-        args.test_batch_size = 8
+        args.train_batch_size = 4
+        args.test_batch_size = 4
         args.learning_rate = 2e-5
         args.num_class = 2
         args.gradient_accumulation_steps = 4
