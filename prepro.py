@@ -7,8 +7,8 @@ import random
 import copy
 import os
 
-docred_rel2id = json.load(open('meta/rel2id.json', 'r'))
-ctd_rel2id = json.load(open('meta/relation_map.json', 'r'))
+# docred_rel2id = json.load(open('meta/rel2id.json', 'r'))
+# ctd_rel2id = json.load(open('meta/relation_map.json', 'r'))
 ENTITY_PAIR_TYPE_SET = set([("Chemical", "Disease"), ("Chemical", "Gene"), ("Gene", "Disease")])
 relation2id_biored = {'1:NR:2': 0, '1:Association:2': 1, '1:Positive_Correlation:2': 2, '1:Bind:2': 3,
                       '1:Negative_Correlation:2': 4, '1:Comparison:2': 5, '1:Conversion:2': 6,

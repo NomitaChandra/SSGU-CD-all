@@ -111,7 +111,6 @@ def read_bio_test(args, file_in, tokenizer, max_seq_length=1024, save_file=''):
     assert rel2id is not None
     pmids = set()
     features = []
-    maxlen = 0
     pos_samples = 0
     neg_samples = 0
     nlp = spacy.load('en_core_web_sm')
@@ -414,8 +413,9 @@ def read_bio_test(args, file_in, tokenizer, max_seq_length=1024, save_file=''):
                 count += 1
 
             input_ids = tokenizer.build_inputs_with_special_tokens(input_ids)
-            a_mentions_new = [[0 for j in range(max_seq_length)] for i in range(max_seq_length)]
-            adj_syntactic_dependency_tree_new = [[0 for j in range(max_seq_length)] for i in range(max_seq_length)]
+            max_len = len(input_ids)
+            a_mentions_new = [[0 for j in range(max_len)] for i in range(max_len)]
+            adj_syntactic_dependency_tree_new = [[0 for j in range(max_len)] for i in range(max_len)]
             if args.transformer_type == "bert":
                 for i in range(len(a_mentions)):
                     for j in range(len(a_mentions)):

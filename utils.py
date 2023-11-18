@@ -29,8 +29,12 @@ def collate_fn(batch):
             adj_ = f['Adj']
             adj_tree_ = f['adj_syntactic_dependency_tree']
             for i in range(max_len):
-                adj_mention.append(adj_[i][:max_len])
-                adj_tree.append(adj_tree_[i][:max_len])
+                if i < len(adj_[0]):
+                    adj_mention.append(adj_[i] + [0] * (max_len - len(adj_[i])))
+                    adj_tree.append(adj_tree_[i] + [0] * (max_len - len(adj_tree_[i])))
+                else:
+                    adj_mention.append([0] * max_len)
+                    adj_tree.append([0] * max_len)
             adj_mentions.append(adj_mention)
             adj_trees.append(adj_tree)
     adj_mention = torch.tensor(adj_mentions, dtype=torch.float)
