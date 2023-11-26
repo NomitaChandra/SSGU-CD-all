@@ -26,8 +26,8 @@ class DocREModel(nn.Module):
             self.gc1 = TypeGraphConvolution(config.hidden_size, self.sizeA)
             self.gc2 = TypeGraphConvolution(config.hidden_size, self.sizeA // 2)
         elif self.gnn == 'GAT':
-            self.gc1 = GraphAttention(config.hidden_size, self.sizeA)
-            self.gc2 = GraphAttention(config.hidden_size, self.sizeA // 2)
+            self.gc1 = GraphAttentionLayer(config.hidden_size, self.sizeA)
+            self.gc2 = GraphAttentionLayer(config.hidden_size, self.sizeA // 2)
         else:
             raise ValueError('This is a GNN Error')
 

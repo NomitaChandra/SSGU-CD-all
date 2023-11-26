@@ -107,10 +107,12 @@ class GraphAttention(nn.Module):
     def forward(self, text, adj):
         # 计算结点的特征矩阵和边的权重矩阵
         hidden = torch.matmul(text.float(), self.weight.float())
-        a = torch.matmul(text.float(), adj.float())
+        text2 = text.clone()
+        text2.resize_as_(adj)
+        a = torch.matmul(text2.float(), adj.float())
         # 计算注意力权重
         e = torch.softmax(a, dim=2)
-        denom = torch.sum(adj, dim=2, keepdim=True) + 1
+        denom = torch.sum(e, dim=2, keepdim=True) + 1
         # 将注意力权重应用于结点特征矩阵
         output = torch.matmul(e.float(), hidden) / denom
         if self.bias is not None:
@@ -138,8 +140,10 @@ class GraphAttentionLayer(nn.Module):
 
         self.W = nn.Parameter(torch.empty(size=(in_features, out_features)))
         nn.init.xavier_uniform_(self.W.data, gain=1.414)
-        self.a = nn.Parameter(torch.empty(size=(2 * out_features, 1)))
+        self.a = nn.Parameter(torch.empty(size=(out_features, 1)))
         nn.init.xavier_uniform_(self.a.data, gain=1.414)  # Xavier均匀分布初始化
+        self.aa = nn.Parameter(torch.empty(size=(2, 1)))
+        nn.init.xavier_uniform_(self.aa.data, gain=1.414)  # Xavier均匀分布初始化
         # xavier初始化方法中服从均匀分布U(−a,a) ，分布的参数a = gain * sqrt(6/fan_in+fan_out)，这里有一个gain，增益的大小是依据激活函数类型来设定
         self.leakyrelu = nn.LeakyReLU(self.alpha)
 
@@ -147,7 +151,7 @@ class GraphAttentionLayer(nn.Module):
         hidden = torch.matmul(h, self.W)  # h.shape: (N, in_features), hidden.shape: (N, out_features) #torch.mm矩阵相乘
         a_input = self._prepare_attentional_mechanism_input(hidden)
         # torch.matmul矩阵乘法，输入可以是高维；squeeze可以将维度为1的那个维度去掉，当输入值中
-        e = self.leakyrelu(torch.matmul(a_input, self.a).squeeze(3))
+        e = self.leakyrelu(a_input)
         # 存在dim时，则只有当dim对应的维度为1时会实现降维
         # eij = a([Whi||Whj]),j属于Ni
         zero_vec = -9e15 * torch.ones_like(e)  # 范围维度和e一样的全1的矩阵
@@ -162,12 +166,15 @@ class GraphAttentionLayer(nn.Module):
 
     def _prepare_attentional_mechanism_input(self, Wh):
         N = Wh.size()[1]  # number of nodes
-        Wh_repeated_in_chunks = Wh.repeat_interleave(N, dim=1)
-        Wh_repeated_alternating = Wh.repeat(1, N, 1)
+        h = Wh.clone()
+        h = torch.matmul(h, self.a)
+        Wh_repeated_in_chunks = h.repeat_interleave(N, dim=1)
+        Wh_repeated_alternating = h.repeat(1, N, 1)
         # repeat_interleave()：在原有的tensor上，按每一个tensor复制。
         # repeat()：根据原有的tensor复制n个，然后拼接在一起。
         all_combinations_matrix = torch.cat([Wh_repeated_in_chunks, Wh_repeated_alternating], dim=2)
-        return all_combinations_matrix.view(Wh.size()[0], N, N, 2 * self.out_features)
+        all_combinations_matrix = torch.matmul(all_combinations_matrix, self.aa).squeeze(2)
+        return all_combinations_matrix.view(Wh.size()[0], N, N)
 
     def __repr__(self):
         return self.__class__.__name__ + ' (' + str(self.in_features) + ' -> ' + str(self.out_features) + ')'
