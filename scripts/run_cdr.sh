@@ -1,13 +1,21 @@
 #!/bin/sh
 
-#python train_pubtator_2.py --task cdr --use_gcn mentions --demo false --seed 66
+python train_pubtator_2.py --task cdr --gnn TGCN --use_gcn mentions --demo false --seed 66
+sleep 100
+python train_pubtator_2.py --task cdr --gnn TGCN --use_gcn tree --demo false --seed 66
+sleep 100
+python train_pubtator_2.py --task cdr --gnn TGCN --use_gcn mentions --demo false --seed 68
+sleep 100
+python train_pubtator_2.py --task cdr --gnn TGCN --use_gcn tree --demo false --seed 68
+sleep 100
+#python train_pubtator_2.py --task cdr --gnn GAT --use_gcn mentions --demo false --seed 66
 #sleep 100
-#python train_pubtator_2.py --task cdr --use_gcn tree --demo false --seed 66
+#python train_pubtator_2.py --task cdr --gnn GAT --use_gcn tree --demo false --seed 66
 #sleep 100
-#python train_pubtator_2.py --task cdr --use_gcn mentions --demo false --seed 68
+#python train_pubtator_2.py --task cdr --gnn GAT --use_gcn mentions --demo false --seed 68
 #sleep 100
-#python train_pubtator_2.py --task cdr --use_gcn tree --demo false --seed 68
-#sleep 100
+#python train_pubtator_2.py --task cdr --gnn GAT --use_gcn tree --demo false --seed 68
+##sleep 100
 #python train_pubtator_2.py --task cdr --use_gcn mentions --demo false --seed 70
 #sleep 100
 #python train_pubtator_2.py --task cdr --use_gcn tree --demo false --seed 70
@@ -16,10 +24,10 @@
 #sleep 100
 #python train_pubtator_2.py --task cdr --use_gcn false --demo false --seed 68
 #sleep 100
-python train_pubtator_2.py --task cdr --use_gcn both --demo false --seed 66
-sleep 100
-python train_pubtator_2.py --task cdr --use_gcn both --demo false --seed 68
-sleep 100
-python train_pubtator_2.py --task cdr --use_gcn both --demo false --seed 70
-sleep 100
-python train_pubtator_2.py --task cdr --use_gcn both --demo false --seed 72
+#python train_pubtator_2.py --task cdr --use_gcn both --demo false --seed 66
+#sleep 100
+#python train_pubtator_2.py --task cdr --use_gcn both --demo false --seed 68
+#sleep 100
+#python train_pubtator_2.py --task cdr --use_gcn both --demo false --seed 70
+#sleep 100
+#python train_pubtator_2.py --task cdr --use_gcn both --demo false --seed 72

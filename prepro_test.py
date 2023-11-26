@@ -11,6 +11,8 @@ import re
 import os
 import spacy
 import pickle
+import joblib
+
 
 ENTITY_PAIR_TYPE_SET = set([("Chemical", "Disease"), ("Chemical", "Gene"), ("Gene", "Disease")])
 cdr_rel2id = {'1:NR:2': 0, '1:CID:2': 1}
@@ -125,7 +127,7 @@ def read_bio_test(args, file_in, tokenizer, max_seq_length=1024, save_file=''):
             line = line.rstrip().split('\t')
             pmid = line[0]
             # gnn 对应一个长宽均为实体类型数的矩阵，如果两实体在同一句子中，标记为0
-            inter_mask = []
+            # inter_mask = []
             entities = {}
             if pmid not in pmids:
                 pmids.add(pmid)
@@ -181,23 +183,23 @@ def read_bio_test(args, file_in, tokenizer, max_seq_length=1024, save_file=''):
                         if [start, end, tpy, string, sent_in_id] not in entities[entity_id]:
                             entities[entity_id].append([start, end, tpy, string, sent_in_id])
 
-                for i in range(0, len(entities)):
-                    inter_mask.append([1] * len(entities))
-                for i in range(0, len(entities)):
-                    inter_mask[i][i] = 0
-                for i, ent1 in enumerate(entities):
-                    for j, ent2 in enumerate(entities):
-                        if i != j:
-                            breakFlag = 0
-                            for men1 in entities[ent1]:
-                                for men2 in entities[ent2]:
-                                    if men1[4] == men2[4]:
-                                        inter_mask[i][j] = 0
-                                        inter_mask[j][i] = 0
-                                        breakFlag = 1
-                                        break
-                                if breakFlag == 1:
-                                    break
+                # for i in range(0, len(entities)):
+                #     inter_mask.append([1] * len(entities))
+                # for i in range(0, len(entities)):
+                #     inter_mask[i][i] = 0
+                # for i, ent1 in enumerate(entities):
+                #     for j, ent2 in enumerate(entities):
+                #         if i != j:
+                #             breakFlag = 0
+                #             for men1 in entities[ent1]:
+                #                 for men2 in entities[ent2]:
+                #                     if men1[4] == men2[4]:
+                #                         inter_mask[i][j] = 0
+                #                         inter_mask[j][i] = 0
+                #                         breakFlag = 1
+                #                         break
+                #                 if breakFlag == 1:
+                #                     break
 
                 # spacy 分析
                 nlp.tokenizer = WhitespaceTokenizer(nlp.vocab)
@@ -420,15 +422,11 @@ def read_bio_test(args, file_in, tokenizer, max_seq_length=1024, save_file=''):
                 for i in range(len(a_mentions)):
                     for j in range(len(a_mentions)):
                         a_mentions_new[i + 1][j + 1] = a_mentions[i][j]
-                for i in range(len(adj_syntactic_dependency_tree)):
-                    for j in range(len(adj_syntactic_dependency_tree)):
                         adj_syntactic_dependency_tree_new[i + 1][j + 1] = adj_syntactic_dependency_tree[i][j]
             elif args.transformer_type == "roberta":
                 for i in range(len(a_mentions)):
                     for j in range(len(a_mentions)):
                         a_mentions_new[i + 1][j + 1] = a_mentions[i][j]
-                for i in range(len(adj_syntactic_dependency_tree)):
-                    for j in range(len(adj_syntactic_dependency_tree)):
                         adj_syntactic_dependency_tree_new[i + 1][j + 1] = adj_syntactic_dependency_tree[i][j]
 
             if len(hts) > 0:
@@ -439,15 +437,15 @@ def read_bio_test(args, file_in, tokenizer, max_seq_length=1024, save_file=''):
                            'title': pmid,
                            'Adj': a_mentions_new,
                            'adj_syntactic_dependency_tree': adj_syntactic_dependency_tree_new,
-                           'inter_mask': inter_mask
+                           # 'inter_mask': inter_mask
                            }
                 features.append(feature)
 
-            if args.demo == 'true' and len(features) > 100:
+            if args.demo == 'true' and len(features) > 20:
                 break
 
-    if len(save_file) > 2:
-        with open(file=save_file, mode='wb') as fw:
-            pickle.dump(features, fw)
-        print('finish reading {} and save preprocessed data to {}.'.format(file_in, save_file))
+    # if len(save_file) > 2:
+    #     with open(file=save_file, mode='wb') as fw:
+    #         pickle.dump(features, fw)
+    #     print('finish reading {} and save preprocessed data to {}.'.format(file_in, save_file))
     return features

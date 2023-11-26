@@ -13,7 +13,6 @@ from transformers.optimization import AdamW, get_linear_schedule_with_warmup
 from tqdm import tqdm
 from model_test import DocREModel
 from utils import set_seed, collate_fn
-from prepro import read_biored, read_cdr, read_gda
 from prepro_test import read_bio_test
 from save_result import Logger
 
@@ -200,6 +199,7 @@ def main():
     parser.add_argument('--gamma', type=float, default=1.0, help='gamma of pu learning (default 1.0)')
     parser.add_argument('--m', type=float, default=1.0, help='margin')
     parser.add_argument('--e', type=float, default=3.0, help='estimated a priors multiple')
+    parser.add_argument('--gnn', type=str, default='GCN', help="GCN/TGCN/GAT")
     parser.add_argument('--use_gcn', type=str, default='tree', help="use gcn, both/mentions/tree/false")
     parser.add_argument("--demo", type=str, default='false', help='use a few data to test. default true/false')
 
@@ -239,7 +239,7 @@ def main():
         args.learning_rate = 2e-5
         args.num_class = 2
         args.gradient_accumulation_steps = 4
-        args.evaluation_steps = 200
+        args.evaluation_steps = 300
         args.num_train_epochs = 10
 
     if not os.path.exists(args.save_path):
@@ -253,7 +253,7 @@ def main():
     timestamp = datetime.datetime.now().strftime("%Y%m%d-%H%M")
     sys.stdout = Logger(stream=sys.stdout,
                         filename='./result/' + args.task + '/' + args.task + '_' + timestamp + '_' + args.use_gcn + '_'
-                                 + str(args.seed) + '_test.log')
+                                 + args.gnn + '_' + str(args.seed) + '_test.log')
     read = read_bio_test
     print(args)
 

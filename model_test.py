@@ -8,7 +8,8 @@ import numpy as np
 import math
 from losses import *
 from model_utils.attn_unet import AttentionUNet
-from model_utils.agcn import GraphConvolution, TypeGraphConvolution
+from model_utils.graph_networks import (GraphConvolution, TypeGraphConvolution, GraphAttention,
+                                        GraphAttentionLayer, GraphAttentionV2Layer)
 from allennlp.modules.matrix_attention import DotProductMatrixAttention, CosineMatrixAttention, BilinearMatrixAttention
 
 
@@ -17,16 +18,25 @@ class DocREModel(nn.Module):
         super().__init__()
         self.device = args.device
         self.sizeA = 256
-        self.gc1 = GraphConvolution(config.hidden_size, self.sizeA)
-        self.gc2 = GraphConvolution(config.hidden_size, self.sizeA // 2)
-        self.dropout = nn.Dropout(0.5)
+        self.gnn = args.gnn
+        if self.gnn == 'GCN':
+            self.gc1 = GraphConvolution(config.hidden_size, self.sizeA)
+            self.gc2 = GraphConvolution(config.hidden_size, self.sizeA // 2)
+        elif self.gnn == 'TGCN':
+            self.gc1 = TypeGraphConvolution(config.hidden_size, self.sizeA)
+            self.gc2 = TypeGraphConvolution(config.hidden_size, self.sizeA // 2)
+        elif self.gnn == 'GAT':
+            self.gc1 = GraphAttention(config.hidden_size, self.sizeA)
+            self.gc2 = GraphAttention(config.hidden_size, self.sizeA // 2)
+        else:
+            raise ValueError('This is a GNN Error')
 
+        self.dropout = nn.Dropout(0.5)
         self.args = args
         self.config = config
         self.model = model
         self.hidden_size = config.hidden_size
         self.loss_fnt = ATLoss()
-
         self.margin = args.m
         if args.isrank:
             self.rels = args.num_class - 1
