@@ -15,6 +15,7 @@ from model_test import DocREModel
 from utils import set_seed, collate_fn
 from prepro_test import read_bio_test
 from save_result import Logger
+from evaluation import to_official_bio, gen_data_bio
 
 
 def train(args, model, train_features, dev_features, test_features):
@@ -111,7 +112,7 @@ def cal_val_risk(args, model, features):
     return val_risk / nums
 
 
-def evaluate(args, model, features, tag="dev"):
+def evaluate(args, model, features, tag="dev", generate=False):
     dataloader = DataLoader(features, batch_size=args.test_batch_size, shuffle=False, collate_fn=collate_fn,
                             drop_last=False)
     preds, golds = [], []
@@ -137,11 +138,24 @@ def evaluate(args, model, features, tag="dev"):
 
     preds = np.concatenate(preds, axis=0).astype(np.float32)
     golds = np.concatenate(golds, axis=0).astype(np.float32)
-    tp = ((preds[:, 1] == 1) & (golds[:, 1] == 1)).astype(np.float32).sum()
-    tn = ((golds[:, 1] == 1) & (preds[:, 1] != 1)).astype(np.float32).sum()
-    fp = ((preds[:, 1] == 1) & (golds[:, 1] != 1)).astype(np.float32).sum()
-    precision = tp / (tp + fp + 1e-5)
-    recall = tp / (tp + tn + 1e-5)
+    # tp = ((preds[:, 1] == 1) & (golds[:, 1] == 1)).astype(np.float32).sum()
+    # tn = ((preds[:, 1] != 1) & (golds[:, 1] == 1)).astype(np.float32).sum()
+    # fp = ((preds[:, 1] == 1) & (golds[:, 1] != 1)).astype(np.float32).sum()
+    # precision = tp / (tp + fp + 1e-5)
+    # recall = tp / (tp + tn + 1e-5)
+
+    re_correct = 0
+    preds_ans = to_official_bio(args, preds, features)
+    golds_ans = to_official_bio(args, golds, features)
+    if generate:
+        gen_data_bio(args, preds_ans)
+        return 0, "generate finish"
+    for pred in preds_ans:
+        if pred in golds_ans:
+            re_correct += 1
+    precision = re_correct / (len(preds_ans) + 1e-5)
+    recall = re_correct / (len(golds_ans) + 1e-5)
+
     f1 = 2 * precision * recall / (precision + recall + 1e-5)
     output = {
         tag + "_F1": f1 * 100,
@@ -302,7 +316,7 @@ def main():
         model.load_state_dict(torch.load(args.save_path + '_best'))
         dev_score, dev_output = evaluate(args, model, dev_features, tag="dev")
         print(dev_output)
-        test_score, test_output = evaluate(args, model, test_features, tag="test")
+        test_score, test_output = evaluate(args, model, test_features, tag="test", generate=True)
         print(test_output)
 
     else:  # Testing

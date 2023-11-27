@@ -9,7 +9,7 @@ import os
 
 # docred_rel2id = json.load(open('meta/rel2id.json', 'r'))
 # ctd_rel2id = json.load(open('meta/relation_map.json', 'r'))
-ENTITY_PAIR_TYPE_SET = set([("Chemical", "Disease"), ("Chemical", "Gene"), ("Gene", "Disease")])
+ENTITY_PAIR_TYPE_SET = set([("Chemical", "Disease"), ("Chemical", "Gene"), ])
 relation2id_biored = {'1:NR:2': 0, '1:Association:2': 1, '1:Positive_Correlation:2': 2, '1:Bind:2': 3,
                       '1:Negative_Correlation:2': 4, '1:Comparison:2': 5, '1:Conversion:2': 6,
                       '1:Cotreatment:2': 7, '1:Drug_Interaction:2': 8}
@@ -18,7 +18,8 @@ id2relation_biored = {0: '1:NR:2', 1: '1:Association:2', 2: '1:Positive_Correlat
                       7: '1:Cotreatment:2', 8: '1:Drug_Interaction:2'}
 cdr_rel2id = {'1:NR:2': 0, '1:CID:2': 1}
 gda_rel2id = {'1:NR:2': 0, '1:GDA:2': 1}
-
+cdr_id2rel = {0: '1:NR:2', 1: '1:CID:2'}
+gda_id2rel = {0: '1:NR:2', 1: '1:GDA:2'}
 biored_pairs = [("DiseaseOrPhenotypicFeature", "GeneOrGeneProduct"),
                 ("DiseaseOrPhenotypicFeature", "SequenceVariant"),
                 ("ChemicalEntity", "ChemicalEntity"),
