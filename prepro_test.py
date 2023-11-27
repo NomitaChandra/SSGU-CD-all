@@ -13,10 +13,12 @@ import spacy
 import pickle
 import joblib
 
-
-ENTITY_PAIR_TYPE_SET = set([("Chemical", "Disease"), ("Chemical", "Gene"), ("Gene", "Disease")])
+# ENTITY_PAIR_TYPE_SET = set([("Chemical", "Disease"), ("Chemical", "Gene"), ("Gene", "Disease")])
 cdr_rel2id = {'1:NR:2': 0, '1:CID:2': 1}
 gda_rel2id = {'1:NR:2': 0, '1:GDA:2': 1}
+biored_rel2id = {'1:NR:2': 0, '1:Association:2': 1, '1:Positive_Correlation:2': 2, '1:Bind:2': 3,
+                 '1:Negative_Correlation:2': 4, '1:Comparison:2': 5, '1:Conversion:2': 6,
+                 '1:Cotreatment:2': 7, '1:Drug_Interaction:2': 8}
 
 
 def chunks(l, n):
@@ -110,6 +112,8 @@ def read_bio_test(args, file_in, tokenizer, max_seq_length=1024, save_file=''):
         rel2id = cdr_rel2id
     elif args.task == 'gda':
         rel2id = gda_rel2id
+    elif args.task == 'biored':
+        rel2id = biored_rel2id
     assert rel2id is not None
     pmids = set()
     features = []
@@ -129,6 +133,7 @@ def read_bio_test(args, file_in, tokenizer, max_seq_length=1024, save_file=''):
             # gnn 对应一个长宽均为实体类型数的矩阵，如果两实体在同一句子中，标记为0
             # inter_mask = []
             entities = {}
+            ent2ent_type = {}
             if pmid not in pmids:
                 pmids.add(pmid)
                 text = line[1]
@@ -182,7 +187,13 @@ def read_bio_test(args, file_in, tokenizer, max_seq_length=1024, save_file=''):
                                 break
                         if [start, end, tpy, string, sent_in_id] not in entities[entity_id]:
                             entities[entity_id].append([start, end, tpy, string, sent_in_id])
-
+                    if p[5] not in ent2ent_type:
+                        ent2ent_type[p[5]] = p[7]
+                    if p[11] not in ent2ent_type:
+                        ent2ent_type[p[11]] = p[13]
+                if len(entity_pos) == 0:
+                    print(pmid, 'rel is none')
+                    continue
                 # for i in range(0, len(entities)):
                 #     inter_mask.append([1] * len(entities))
                 # for i in range(0, len(entities)):
@@ -240,6 +251,7 @@ def read_bio_test(args, file_in, tokenizer, max_seq_length=1024, save_file=''):
                             if i_t == start or i_t == end:
                                 eid = i
                                 break
+
                         if i_t == entity_pos[eid][0] or i_t == entity_pos[eid][1]:
                             # 目前认为标记实体的'*'应该算在是实体的一部分，但不是一个单词的一部分，故不算其中。
                             index2word[len(index2word)] = spacy_offset
@@ -429,12 +441,15 @@ def read_bio_test(args, file_in, tokenizer, max_seq_length=1024, save_file=''):
                         a_mentions_new[i + 1][j + 1] = a_mentions[i][j]
                         adj_syntactic_dependency_tree_new[i + 1][j + 1] = adj_syntactic_dependency_tree[i][j]
 
+            assert len(ent2idx) == len(ent2ent_type)
             if len(hts) > 0:
                 feature = {'input_ids': input_ids,
                            'entity_pos': entity_pos,
                            'labels': relations,
                            'hts': hts,
                            'title': pmid,
+                           'ent2idx': ent2idx,
+                           'ent2ent_type': ent2ent_type,
                            'Adj': a_mentions_new,
                            'adj_syntactic_dependency_tree': adj_syntactic_dependency_tree_new,
                            # 'inter_mask': inter_mask

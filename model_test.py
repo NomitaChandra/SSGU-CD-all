@@ -8,8 +8,8 @@ import numpy as np
 import math
 from losses import *
 from model_utils.attn_unet import AttentionUNet
-from model_utils.graph_networks import (GraphConvolution, TypeGraphConvolution, GraphAttention,
-                                        GraphAttentionLayer, GraphAttentionV2Layer)
+from model_utils.graph_networks import GraphConvolution, TypeGraphConvolution, GraphAttentionLayer, \
+    GraphAttentionV2Layer
 from allennlp.modules.matrix_attention import DotProductMatrixAttention, CosineMatrixAttention, BilinearMatrixAttention
 
 

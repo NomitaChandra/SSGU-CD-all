@@ -80,51 +80,6 @@ class TypeGraphConvolution(nn.Module):
         return F.relu(output.type_as(text))
 
 
-class GraphAttention(nn.Module):
-    """
-    Simple GAT layer
-    """
-
-    def __init__(self, in_features, out_features, bias=True):
-        super(GraphAttention, self).__init__()
-        self.in_features = in_features
-        self.out_features = out_features
-        self.weight = nn.Parameter(torch.FloatTensor(in_features, out_features))
-        self.alpha = nn.Parameter(torch.FloatTensor(in_features, out_features))
-        if bias:
-            self.bias = nn.Parameter(torch.FloatTensor(out_features))
-        else:
-            self.register_parameter('bias', None)
-        self.reset_parameters()
-
-    def reset_parameters(self):
-        init.kaiming_uniform_(self.weight, a=math.sqrt(5))
-        if self.bias is not None:
-            fan_in, _ = init._calculate_fan_in_and_fan_out(self.weight)
-            bound = 1 / math.sqrt(fan_in)
-            init.uniform_(self.bias, -bound, bound)
-
-    def forward(self, text, adj):
-        # 计算结点的特征矩阵和边的权重矩阵
-        hidden = torch.matmul(text.float(), self.weight.float())
-        text2 = text.clone()
-        text2.resize_as_(adj)
-        a = torch.matmul(text2.float(), adj.float())
-        # 计算注意力权重
-        e = torch.softmax(a, dim=2)
-        denom = torch.sum(e, dim=2, keepdim=True) + 1
-        # 将注意力权重应用于结点特征矩阵
-        output = torch.matmul(e.float(), hidden) / denom
-        if self.bias is not None:
-            output = output + self.bias
-        return F.relu(output.type_as(text))
-
-    def __repr__(self):
-        return self.__class__.__name__ + ' (' \
-            + str(self.in_features) + ' -> ' \
-            + str(self.out_features) + ')'
-
-
 class GraphAttentionLayer(nn.Module):
     """
     Simple GAT layer, similar to https://arxiv.org/abs/1710.10903

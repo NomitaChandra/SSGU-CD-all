@@ -1,69 +1,19 @@
 #!/bin/sh
 
-python train_biored.py
-  --train_file
-  train.json
-  --dev_file
-  dev.json
-  --test_file
-  test.json
-  --model_name_or_path
-  /home/yjs1217/Downloads/pretrained/BiomedNLP-PubMedBERT-base-uncased-abstract
-  --train_batch_size
-  12
-  --test_batch_size
-  12
-  --gradient_accumulation_steps
-  1
-  --learning_rate
-  2e-4
-  --max_grad_norm
-  1.0
-  --warmup_ratio
-  0.06
-  --num_train_epochs
-  30
-  --seed
-  66
-  --num_class
-  9
-  --isrank
-  0
-  --m_tag
-  PN
-  --e
-  2.0
-
-python biored_kaggle.py
-  --train_file
-  train.json
-  --dev_file
-  dev.json
-  --test_file
-  bc8_biored_task1_val.json
-  --model_name_or_path
-  /home/yjs1217/Downloads/pretrained/BiomedNLP-PubMedBERT-base-uncased-abstract
-  --train_batch_size
-  12
-  --test_batch_size
-  12
-  --gradient_accumulation_steps
-  1
-  --learning_rate
-  2e-6
-  --max_grad_norm
-  1.0
-  --warmup_ratio
-  0.06
-  --num_train_epochs
-  30
-  --seed
-  66
-  --num_class
-  8
-  --isrank
-  0
-  --m_tag
-  PN
-  --e
-  2.0
+python train_biored.py --task biored --gnn GCN --use_gcn mentions --demo false --seed 66
+sleep 100
+python train_biored.py --task biored --gnn GCN --use_gcn tree --demo false --seed 66
+sleep 100
+python train_biored.py --task biored --gnn GCN --use_gcn both --demo false --seed 66
+sleep 100
+python train_biored.py --task biored --gnn GCN --use_gcn mentions --demo false --seed 68
+sleep 100
+python train_biored.py --task biored --gnn GCN --use_gcn tree --demo false --seed 68
+sleep 100
+python train_biored.py --task biored --gnn GCN --use_gcn both --demo false --seed 68
+sleep 100
+python train_biored.py --task biored --gnn GCN --use_gcn mentions --demo false --seed 70
+sleep 100
+python train_biored.py --task biored --gnn GCN --use_gcn tree --demo false --seed 70
+sleep 100
+python train_biored.py --task biored --gnn GCN --use_gcn both --demo false --seed 70
