@@ -265,9 +265,10 @@ def main():
         str(args.seed))
     args.save_path = os.path.join(args.save_path, file_name)
     timestamp = datetime.datetime.now().strftime("%Y%m%d-%H%M")
-    sys.stdout = Logger(stream=sys.stdout,
-                        filename='./result/' + args.task + '/' + args.task + '_' + timestamp + '_' + args.use_gcn + '_'
-                                 + str(args.seed) + '_test.log')
+    if args.load_path == "":
+        sys.stdout = Logger(stream=sys.stdout,
+                            filename='./result/' + args.task + '/' + args.task + '_' + timestamp + '_' + args.use_gcn + '_'
+                                     + str(args.seed) + '_test.log')
     read = read_bio_test
     print(args)
 
@@ -282,17 +283,6 @@ def main():
     tokenizer = AutoTokenizer.from_pretrained(
         args.tokenizer_name if args.tokenizer_name else args.model_name_or_path,
     )
-
-    train_file = os.path.join(args.data_dir, args.train_file)
-    dev_file = os.path.join(args.data_dir, args.dev_file)
-    test_file = os.path.join(args.data_dir, args.test_file)
-    train_cache = os.path.join(args.data_dir, 'train_cache')
-    dev_cache = os.path.join(args.data_dir, 'dev_cache')
-    test_cache = os.path.join(args.data_dir, 'test_cache')
-    train_features = read(args, train_file, tokenizer, max_seq_length=args.max_seq_length, save_file=train_cache)
-    dev_features = read(args, dev_file, tokenizer, max_seq_length=args.max_seq_length, save_file=dev_cache)
-    test_features = read(args, test_file, tokenizer, max_seq_length=args.max_seq_length, save_file=test_cache)
-
     model = AutoModel.from_pretrained(
         args.model_name_or_path,
         from_tf=bool(".ckpt" in args.model_name_or_path),
@@ -310,6 +300,16 @@ def main():
     model.to(0)
 
     if args.load_path == "":  # Training
+        train_file = os.path.join(args.data_dir, args.train_file)
+        dev_file = os.path.join(args.data_dir, args.dev_file)
+        test_file = os.path.join(args.data_dir, args.test_file)
+        train_cache = os.path.join(args.data_dir, 'train_cache')
+        dev_cache = os.path.join(args.data_dir, 'dev_cache')
+        test_cache = os.path.join(args.data_dir, 'test_cache')
+        train_features = read(args, train_file, tokenizer, max_seq_length=args.max_seq_length, save_file=train_cache)
+        dev_features = read(args, dev_file, tokenizer, max_seq_length=args.max_seq_length, save_file=dev_cache)
+        test_features = read(args, test_file, tokenizer, max_seq_length=args.max_seq_length, save_file=test_cache)
+
         train(args, model, train_features, dev_features, test_features)
 
         print("BEST TEST")
@@ -322,6 +322,9 @@ def main():
     else:  # Testing
         args.load_path = os.path.join(args.load_path, file_name)
         print(args.load_path)
+        test_file = os.path.join(args.data_dir, args.test_file)
+        test_cache = os.path.join(args.data_dir, 'test_cache')
+        test_features = read(args, test_file, tokenizer, max_seq_length=args.max_seq_length, save_file=test_cache)
 
         print("TEST")
         model.load_state_dict(torch.load(args.load_path))

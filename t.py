@@ -6,7 +6,7 @@ from transformers import BertTokenizerFast
 from transformers import AutoConfig, AutoModel, AutoTokenizer
 from model_utils.tree import Tree, head_to_tree, tree_to_adj
 
-text = "The rats in the control group were intraperitoneally ( i . p . ) injected with 0 . 9 % saline ( 4 ml / kg ) ; the rats in the model group were i . p ."
+text = "4 - diphenylacetoxy - N - methylpiperidine"
 nlp = spacy.load('en_core_web_sm')
 tokenizer = AutoTokenizer.from_pretrained('/home/yjs1217/Downloads/pretrained/scibert_scivocab_cased')
 
