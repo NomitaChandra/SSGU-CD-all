@@ -5,33 +5,50 @@ import torch.nn.functional as F
 from opt_einsum import contract
 from long_seq import process_long_input
 import numpy as np
+import math
 from losses import *
 from model_utils.attn_unet import AttentionUNet
+from model_utils.graph_networks import GraphConvolution, TypeGraphConvolution, GraphAttentionLayer, \
+    GraphAttentionV2Layer
 from allennlp.modules.matrix_attention import DotProductMatrixAttention, CosineMatrixAttention, BilinearMatrixAttention
 
 
 class DocREModel(nn.Module):
-    def __init__(self, args, config, priors_l, priors_o, model, emb_size=768, block_size=64, num_labels=-1):
+    def __init__(self, args, config, model, emb_size=768, block_size=64, num_labels=-1):
         super().__init__()
+        self.device = args.device
+        self.sizeA = 256
+        self.gnn = args.gnn
+        if self.gnn == 'GCN':
+            self.gc1 = GraphConvolution(config.hidden_size, self.sizeA)
+            self.gc2 = GraphConvolution(config.hidden_size, self.sizeA // 2)
+        elif self.gnn == 'TGCN':
+            self.gc1 = TypeGraphConvolution(config.hidden_size, self.sizeA)
+            self.gc2 = TypeGraphConvolution(config.hidden_size, self.sizeA // 2)
+        elif self.gnn == 'GAT':
+            self.gc1 = GraphAttentionLayer(config.hidden_size, self.sizeA)
+            self.gc2 = GraphAttentionLayer(config.hidden_size, self.sizeA // 2)
+        else:
+            raise ValueError('This is a GNN Error')
+
+        self.dropout = nn.Dropout(0.5)
         self.args = args
         self.config = config
         self.model = model
         self.hidden_size = config.hidden_size
         self.loss_fnt = ATLoss()
-        self.priors_l = priors_l
-        self.priors_o = priors_o
-        self.weight = ((1 - self.priors_o) / self.priors_o) ** 0.5
-        # todo pemscl
-        # self.lambda_3 = args.lambda_3
-        # self.loss_fnt = PMTEMloss(args.lambda_1, args.lambda_2)
-        # self.SCL_loss = MLLTRSCLloss(tau=args.tau, tau_base=args.tau_base)
         self.margin = args.m
-        self.rels = args.num_class - 1
+        if args.isrank:
+            self.rels = args.num_class - 1
+        else:
+            self.rels = args.num_class
         # 768 * 2, 768
         # self.head_extractor = nn.Linear(2 * config.hidden_size, emb_size)
         # self.tail_extractor = nn.Linear(2 * config.hidden_size, emb_size)
-        self.head_extractor = nn.Linear(1 * config.hidden_size + args.unet_out_dim, emb_size)
-        self.tail_extractor = nn.Linear(1 * config.hidden_size + args.unet_out_dim, emb_size)
+        # self.head_extractor = nn.Linear(config.hidden_size + self.sizeA + args.unet_out_dim, emb_size)
+        # self.tail_extractor = nn.Linear(config.hidden_size + self.sizeA + args.unet_out_dim, emb_size)
+        self.head_extractor = nn.Linear(config.hidden_size + 2 * args.unet_out_dim, emb_size)
+        self.tail_extractor = nn.Linear(config.hidden_size + 2 * args.unet_out_dim, emb_size)
         self.bilinear = nn.Linear(emb_size * block_size, config.num_labels)
 
         self.emb_size = emb_size
@@ -41,12 +58,14 @@ class DocREModel(nn.Module):
         self.bertdrop = nn.Dropout(0.6)
         self.unet_in_dim = args.unet_in_dim
         self.unet_out_dim = args.unet_in_dim
-        self.liner = nn.Linear(config.hidden_size, args.unet_in_dim)
+        self.liner = nn.Linear(config.hidden_size + self.sizeA, args.unet_in_dim)
         self.min_height = args.max_height
-        self.channel_type = args.channel_type
+
         self.segmentation_net = AttentionUNet(input_channels=args.unet_in_dim,
                                               class_number=args.unet_out_dim,
                                               down_channel=args.down_dim)
+        self.use_gcn = args.use_gcn
+        self.adj_linear = nn.Linear(self.sizeA * 2, self.sizeA)
 
     def encode(self, input_ids, attention_mask):
         config = self.config
@@ -80,7 +99,7 @@ class DocREModel(nn.Module):
                         e_emb = torch.logsumexp(torch.stack(e_emb, dim=0), dim=0)
                         e_att = torch.stack(e_att, dim=0).mean(0)
                     else:
-                        e_emb = torch.zeros(self.config.hidden_size).to(sequence_output)
+                        e_emb = torch.zeros(c).to(sequence_output)
                         e_att = torch.zeros(h, c).to(attention)
                 else:
                     start, end = e[0]
@@ -88,7 +107,7 @@ class DocREModel(nn.Module):
                         e_emb = sequence_output[i, start + offset]
                         e_att = attention[i, :, start + offset]
                     else:
-                        e_emb = torch.zeros(self.config.hidden_size).to(sequence_output)
+                        e_emb = torch.zeros(c).to(sequence_output)
                         e_att = torch.zeros(h, c).to(attention)
                 entity_embs.append(e_emb)
                 entity_atts.append(e_att)
@@ -165,31 +184,40 @@ class DocREModel(nn.Module):
         htss = torch.stack(htss, dim=0)
         return htss
 
-    def forward(self, input_ids=None, attention_mask=None, labels=None, entity_pos=None, hts=None):
+    def forward(self, input_ids=None, attention_mask=None, labels=None, entity_pos=None, hts=None, list_feature_id=None,
+                Adj=None, adj_syntactic_dependency_tree=None):
         sequence_output, attention = self.encode(input_ids, attention_mask)
-        hs, rs, ts, entity_embs, entity_as = self.get_hrt(sequence_output, attention, entity_pos, hts)
-
-        bs, sequen_len, d = sequence_output.shape
-        if self.channel_type == 'context-based':
-            feature_map = self.get_channel_map(sequence_output, entity_as)
-            # print('feature_map:', feature_map.shape)
-            attn_input = self.liner(feature_map).permute(0, 3, 1, 2).contiguous()
-        elif self.channel_type == 'similarity-based':
-            ent_encode = sequence_output.new_zeros(bs, self.min_height, d)
-            for _b in range(bs):
-                entity_emb = entity_embs[_b]
-                entity_num = entity_emb.size(0)
-                ent_encode[_b, :entity_num, :] = entity_emb
-            # similar0 = ElementWiseMatrixAttention()(ent_encode, ent_encode).unsqueeze(-1)
-            similar1 = DotProductMatrixAttention()(ent_encode, ent_encode).unsqueeze(-1)
-            similar2 = CosineMatrixAttention()(ent_encode, ent_encode).unsqueeze(-1)
-            similar3 = BilinearMatrixAttention(self.emb_size, self.self.emb_size).to(
-                ent_encode.device)(ent_encode, ent_encode).unsqueeze(-1)
-            attn_input = torch.cat([similar1, similar2, similar3], dim=-1).permute(0, 3, 1, 2).contiguous()
+        sequence_output = self.dropout(sequence_output)
+        # GCN
+        if self.use_gcn == 'both':
+            a = F.normalize(Adj)
+            b = F.normalize(adj_syntactic_dependency_tree)
+            sequence_output_A = torch.relu(self.gc2(sequence_output, a))
+            sequence_output_B = torch.relu(self.gc2(sequence_output, b))
+            sequence_output = torch.cat([sequence_output, sequence_output_A, sequence_output_B], dim=2)
+        elif self.use_gcn == 'mentions':
+            a = F.normalize(Adj)
+            sequence_output_A = torch.relu(self.gc1(sequence_output, a))
+            sequence_output = torch.cat([sequence_output, sequence_output_A], dim=2)
+        elif self.use_gcn == 'tree':
+            a = F.normalize(adj_syntactic_dependency_tree)
+            sequence_output_A = torch.relu(self.gc1(sequence_output, a))
+            sequence_output = torch.cat([sequence_output, sequence_output_A], dim=2)
         else:
-            raise Exception("channel_type must be specify correctly")
+            # 这时的Adj和adj_syntactic_dependency_tree都是空矩阵
+            a1, a2, _ = Adj.size()
+            sequence_output_A = Adj.clone()
+            sequence_output_A = sequence_output_A.resize_(a1, a2, self.sizeA)
+            sequence_output_A = sequence_output_A.zero_()
+            sequence_output = torch.cat([sequence_output, sequence_output_A], dim=2)
 
+        hs, rs, ts, entity_embs, entity_as = self.get_hrt(sequence_output, attention, entity_pos, hts)
+        feature_map = self.get_channel_map(sequence_output, entity_as)
+        # print('feature_map:', feature_map.shape)
+        attn_input = self.liner(feature_map).permute(0, 3, 1, 2).contiguous()
         attn_map = self.segmentation_net(attn_input)
+        # attn_map = self.segmentation_net_acc_unet(attn_input)
+        # attn_map = attn_map.permute(0, 2, 3, 1).contiguous()
         h_t = self.get_ht(attn_map, hts)
         rs = h_t
 
@@ -210,7 +238,6 @@ class DocREModel(nn.Module):
             labels = [torch.tensor(label) for label in labels]
             labels = torch.cat(labels, dim=0).to(logits)
             loss = self.loss_fnt(logits.float(), labels.float())
-            # scl_loss = self.SCL_loss(F.normalize(bl, dim=-1), labels)
-            # loss = loss + scl_loss * self.lambda_3
+
             output = [loss.to(sequence_output), output]
         return output

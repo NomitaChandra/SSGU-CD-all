@@ -11,7 +11,7 @@ from torch.utils.data import DataLoader
 from transformers import AutoConfig, AutoModel, AutoTokenizer
 from transformers.optimization import AdamW, get_linear_schedule_with_warmup
 from tqdm import tqdm
-from model_test import DocREModel
+from model_bio import DocREModel
 from utils import set_seed, collate_fn
 from prepro_test import read_bio_test
 from save_result import Logger
