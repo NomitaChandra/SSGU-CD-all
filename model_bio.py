@@ -5,12 +5,10 @@ import torch.nn.functional as F
 from opt_einsum import contract
 from long_seq import process_long_input
 import numpy as np
-import math
 from losses import *
 from model_utils.attn_unet import AttentionUNet
 from model_utils.graph_networks import GraphConvolution, TypeGraphConvolution, GraphAttentionLayer, \
     GraphAttentionV2Layer
-from allennlp.modules.matrix_attention import DotProductMatrixAttention, CosineMatrixAttention, BilinearMatrixAttention
 
 
 class DocREModel(nn.Module):
@@ -185,18 +183,18 @@ class DocREModel(nn.Module):
         return htss
 
     def forward(self, input_ids=None, attention_mask=None, labels=None, entity_pos=None, hts=None, list_feature_id=None,
-                Adj=None, adj_syntactic_dependency_tree=None):
+                adj_mention=None, adj_syntactic_dependency_tree=None):
         sequence_output, attention = self.encode(input_ids, attention_mask)
         sequence_output = self.dropout(sequence_output)
         # GCN
         if self.use_gcn == 'both':
-            a = F.normalize(Adj)
+            a = F.normalize(adj_mention)
             b = F.normalize(adj_syntactic_dependency_tree)
             sequence_output_A = torch.relu(self.gc2(sequence_output, a))
             sequence_output_B = torch.relu(self.gc2(sequence_output, b))
             sequence_output = torch.cat([sequence_output, sequence_output_A, sequence_output_B], dim=2)
         elif self.use_gcn == 'mentions':
-            a = F.normalize(Adj)
+            a = F.normalize(adj_mention)
             sequence_output_A = torch.relu(self.gc1(sequence_output, a))
             sequence_output = torch.cat([sequence_output, sequence_output_A], dim=2)
         elif self.use_gcn == 'tree':
@@ -205,8 +203,8 @@ class DocREModel(nn.Module):
             sequence_output = torch.cat([sequence_output, sequence_output_A], dim=2)
         else:
             # 这时的Adj和adj_syntactic_dependency_tree都是空矩阵
-            a1, a2, _ = Adj.size()
-            sequence_output_A = Adj.clone()
+            a1, a2, _ = adj_mention.size()
+            sequence_output_A = adj_mention.clone()
             sequence_output_A = sequence_output_A.resize_(a1, a2, self.sizeA)
             sequence_output_A = sequence_output_A.zero_()
             sequence_output = torch.cat([sequence_output, sequence_output_A], dim=2)

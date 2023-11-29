@@ -6,6 +6,17 @@ from transformers import BertTokenizerFast
 from transformers import AutoConfig, AutoModel, AutoTokenizer
 from model_utils.tree import Tree, head_to_tree, tree_to_adj
 
+
+# 创建一个二维张量
+tensor = torch.tensor([[10, 20], [30, 40], [50, 60], [70, 80]])
+
+# 在第一个维度上获取最大的2个元素
+values, indices = torch.topk(tensor, 2, dim=0)
+
+print("Values:", values)  # 输出最大的2个值
+print("Indices:", indices)  # 输出这些值的原始索引
+
+
 text = "4 - diphenylacetoxy - N - methylpiperidine"
 nlp = spacy.load('en_core_web_sm')
 tokenizer = AutoTokenizer.from_pretrained('/home/yjs1217/Downloads/pretrained/scibert_scivocab_cased')

@@ -13,7 +13,7 @@ from transformers.optimization import AdamW, get_linear_schedule_with_warmup
 from tqdm import tqdm
 from model_bio import DocREModel
 from utils import set_seed, collate_fn
-from prepro_bio import read_bio_test
+from prepro_bio import read_bio
 from save_result import Logger
 from evaluation_biored import to_official, gen_data
 
@@ -259,7 +259,7 @@ def main():
     sys.stdout = Logger(stream=sys.stdout,
                         filename='./result/' + args.task + '/' + args.task + '_' + timestamp + '_' + args.use_gcn + '_'
                                  + args.gnn + '_' + str(args.seed) + '_test.log')
-    read = read_bio_test
+    read = read_bio
     print(args)
 
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")

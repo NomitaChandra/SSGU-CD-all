@@ -13,7 +13,7 @@ from transformers.optimization import AdamW, get_linear_schedule_with_warmup
 from tqdm import tqdm
 from model_bio import DocREModel
 from utils import set_seed, collate_fn
-from prepro_bio import read_bio_test
+from prepro_bio import read_bio
 from save_result import Logger
 from evaluation import to_official_bio, gen_data_bio
 
@@ -40,7 +40,7 @@ def train(args, model, train_features, dev_features, test_features):
                           'labels': batch[2],
                           'entity_pos': batch[3],
                           'hts': batch[4],
-                          'Adj': batch[5].to(args.device),
+                          'adj_mention': batch[5].to(args.device),
                           'adj_syntactic_dependency_tree': batch[6].to(args.device),
                           'list_feature_id': list_feature_id.to(args.device)
                           }
@@ -101,7 +101,7 @@ def cal_val_risk(args, model, features):
                   'labels': batch[2],
                   'entity_pos': batch[3],
                   'hts': batch[4],
-                  'Adj': batch[5].to(args.device),
+                  'adj_mention': batch[5].to(args.device),
                   'adj_syntactic_dependency_tree': batch[6].to(args.device),
                   'list_feature_id': list_feature_id.to(args.device)
                   }
@@ -124,7 +124,7 @@ def evaluate(args, model, features, tag="dev", generate=False):
                   'labels': batch[2],
                   'entity_pos': batch[3],
                   'hts': batch[4],
-                  'Adj': batch[5].to(args.device),
+                  'adj_mention': batch[5].to(args.device),
                   'adj_syntactic_dependency_tree': batch[6].to(args.device),
                   'list_feature_id': list_feature_id.to(args.device)
                   }
@@ -269,7 +269,7 @@ def main():
         sys.stdout = Logger(stream=sys.stdout,
                             filename='./result/' + args.task + '/' + args.task + '_' + timestamp + '_' + args.use_gcn + '_'
                                      + str(args.seed) + '_test.log')
-    read = read_bio_test
+    read = read_bio
     print(args)
 
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
