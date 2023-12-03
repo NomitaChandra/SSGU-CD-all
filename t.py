@@ -6,6 +6,11 @@ from transformers import BertTokenizerFast
 from transformers import AutoConfig, AutoModel, AutoTokenizer
 from model_utils.tree import Tree, head_to_tree, tree_to_adj
 
+pred = torch.tensor([[1.0000, 0.2000, 0.1000, 0.5000],
+                     [0.3000, 0.4000, 0.7000, 0.6000],
+                     [0.6000, 0.5000, 0.2000, 0.9000]])
+
+pred = pred[..., :1]
 
 # 创建一个二维张量
 tensor = torch.tensor([[10, 20], [30, 40], [50, 60], [70, 80]])
@@ -15,7 +20,6 @@ values, indices = torch.topk(tensor, 2, dim=0)
 
 print("Values:", values)  # 输出最大的2个值
 print("Indices:", indices)  # 输出这些值的原始索引
-
 
 text = "4 - diphenylacetoxy - N - methylpiperidine"
 nlp = spacy.load('en_core_web_sm')

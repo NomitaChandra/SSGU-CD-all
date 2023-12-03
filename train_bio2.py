@@ -59,8 +59,8 @@ def train(args, model, train_features, dev_features, test_features):
                                                                and num_steps % args.evaluation_steps == 0
                                                                and step % args.gradient_accumulation_steps == 0):
                     print("training risk:", loss.item(), "   step:", num_steps)
-                    avg_val_risk = cal_val_risk(args, model, dev_features)
-                    print('avg val risk:', avg_val_risk, '\n')
+                    # avg_val_risk = cal_val_risk(args, model, dev_features)
+                    # print('avg val risk:', avg_val_risk, '\n')
                     # 进行每轮的评估测试
                     torch.save(model.state_dict(), args.save_path)
                     dev_score, dev_output = evaluate(args, model, dev_features, tag="dev")
@@ -149,7 +149,6 @@ def evaluate(args, model, features, tag="dev", generate=False):
     golds_ans = to_official_bio(args, golds, features)
     if generate:
         gen_data_bio(args, preds_ans)
-        return 0, "generate finish"
     for pred in preds_ans:
         if pred in golds_ans:
             re_correct += 1

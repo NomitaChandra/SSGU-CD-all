@@ -1,14 +1,9 @@
-from cProfile import label
-import torch
-import torch.nn as nn
-import torch.nn.functional as F
 from opt_einsum import contract
-from long_seq import process_long_input
-import numpy as np
-from losses import *
+from model_utils.long_seq import process_long_input
+from model_utils.losses import *
+from model_utils.losses_test import *
 from model_utils.attn_unet import AttentionUNet
-from model_utils.graph_networks import GraphConvolution, TypeGraphConvolution, GraphAttentionLayer, \
-    GraphAttentionV2Layer
+from model_utils.graph_networks import GraphConvolution, TypeGraphConvolution, GraphAttentionLayer
 
 
 class DocREModel(nn.Module):
@@ -34,7 +29,7 @@ class DocREModel(nn.Module):
         self.config = config
         self.model = model
         self.hidden_size = config.hidden_size
-        self.loss_fnt = ATLoss()
+        self.loss_fn = AULLoss()
         self.margin = args.m
         if args.isrank:
             self.rels = args.num_class - 1
@@ -231,11 +226,10 @@ class DocREModel(nn.Module):
         bl = (b1.unsqueeze(3) * b2.unsqueeze(2)).view(-1, self.emb_size * self.block_size)
         logits = self.bilinear(bl)
 
-        output = (self.loss_fnt.get_label(logits, num_labels=self.num_labels))
+        output = (get_label(logits, num_labels=self.num_labels))
         if labels is not None:
             labels = [torch.tensor(label) for label in labels]
             labels = torch.cat(labels, dim=0).to(logits)
-            loss = self.loss_fnt(logits.float(), labels.float())
-
+            loss = self.loss_fn(logits.float(), labels.float())
             output = [loss.to(sequence_output), output]
         return output

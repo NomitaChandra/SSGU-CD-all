@@ -22,15 +22,15 @@ def collate_fn(batch):
     input_mask = torch.tensor(input_mask, dtype=torch.float)
     adj_mentions = []
     adj_trees = []
-    if 'Adj' in batch[0] and 'adj_syntactic_dependency_tree' in batch[0]:
+    if 'adj_mention' in batch[0] and 'adj_syntactic_dependency_tree' in batch[0] and len(batch[0]['adj_mention']) > 0:
         for f in batch:
             adj_mention = []
             adj_tree = []
-            adj_ = f['Adj']
+            adj_mention_ = f['adj_mention']
             adj_tree_ = f['adj_syntactic_dependency_tree']
             for i in range(max_len):
-                if i < len(adj_[0]):
-                    adj_mention.append(adj_[i] + [0] * (max_len - len(adj_[i])))
+                if i < len(adj_mention_[0]):
+                    adj_mention.append(adj_mention_[i] + [0] * (max_len - len(adj_mention_[i])))
                     adj_tree.append(adj_tree_[i] + [0] * (max_len - len(adj_tree_[i])))
                 else:
                     adj_mention.append([0] * max_len)

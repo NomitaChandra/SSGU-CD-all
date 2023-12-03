@@ -1,10 +1,7 @@
-from cProfile import label
 import torch
 import torch.nn as nn
-import torch.nn.functional as F
 from opt_einsum import contract
-from long_seq import process_long_input
-import numpy as np
+from model_utils.long_seq import process_long_input
 
 
 class DocREModel(nn.Module):

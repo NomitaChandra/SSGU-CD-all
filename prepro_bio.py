@@ -342,104 +342,103 @@ def read_bio(args, file_in, tokenizer, max_seq_length=1024, save_file=''):
             input_ids = tokenizer.convert_tokens_to_ids(sents)
             input_ids_new = tokenizer.build_inputs_with_special_tokens(input_ids)
             max_len = len(input_ids_new)
-            a_mentions_new, adj_syntactic_dependency_tree_new = [], []
-            if 'train' in file_in:
-                a_mentions = np.eye(len(input_ids))
-                # 句法依存树
-                adj_syntactic_dependency_tree = np.eye(len(input_ids))
-                offset = 1
-                edges = 0
-                for token_s in token_map:
-                    start = token_s[0] + offset
-                    end = token_s[1] + offset
-                    for i in range(start, end):
-                        for j in range(start, end):
-                            if i < (len(input_ids) - 1) and j < (len(input_ids) - 1):
-                                if a_mentions[i][j] == 0:
-                                    a_mentions[i][j] = 1
-                                    edges += 1
-                # 所有实体在 tokens 中的跨度
-                mentionsofPice = []
-                for eid in entities:
-                    for i in entities[eid]:
-                        ment = [i[0], i[1]]
-                        mentionsofPice.append([token_map[ment[0]][0], token_map[ment[1] - 1][1]])
-                for ment in mentionsofPice:
-                    start = ment[0] + offset
-                    end = ment[1] + offset
-                    for i in range(start, end):
-                        for j in range(start, end):
-                            if i < (len(input_ids) - 1) and j < (len(input_ids) - 1):
-                                if a_mentions[i][j] == 0:
-                                    a_mentions[i][j] = 1
-                                    edges += 1
-                # 各类实体的实体跨度
-                entityofPice = []
-                for ent in entity_pos:
-                    # 每个单词（属于实体）的起始位置，可能是字母或者索引
-                    oneEntityP = []
-                    for ment in ent:
-                        if (ment[0] + offset) == ment[1]:
-                            oneEntityP.append(ment[0] + offset)
-                        for i in range(ment[0] + offset, ment[1]):
-                            oneEntityP.append(i)
-                    entityofPice.append(oneEntityP)
-                predicted_Doc2 = []
-                for h in range(0, len(entities)):
-                    item = [0, h]
-                    predicted_Doc2.append(item)
-
-                predictedEntityPairPiece = []
-                for item in predicted_Doc2:
-                    one_predicted = entityofPice[item[0]] + entityofPice[item[1]]
-                    predictedEntityPairPiece.append(one_predicted)
-                for line in predictedEntityPairPiece:
-                    for i in line:
-                        for j in line:
-                            if a_mentions[i + offset][j + offset] == 0:
-                                a_mentions[i + offset][j + offset] = 1
+            # 结构计算
+            a_mentions = np.eye(len(input_ids))
+            # 句法依存树
+            adj_syntactic_dependency_tree = np.eye(len(input_ids))
+            offset = 1
+            edges = 0
+            for token_s in token_map:
+                start = token_s[0] + offset
+                end = token_s[1] + offset
+                for i in range(start, end):
+                    for j in range(start, end):
+                        if i < (len(input_ids) - 1) and j < (len(input_ids) - 1):
+                            if a_mentions[i][j] == 0:
+                                a_mentions[i][j] = 1
                                 edges += 1
-                for i in range(0, len(a_mentions)):
-                    a_mentions[i][i] = 1
+            # 所有实体在 tokens 中的跨度
+            mentionsofPice = []
+            for eid in entities:
+                for i in entities[eid]:
+                    ment = [i[0], i[1]]
+                    mentionsofPice.append([token_map[ment[0]][0], token_map[ment[1] - 1][1]])
+            for ment in mentionsofPice:
+                start = ment[0] + offset
+                end = ment[1] + offset
+                for i in range(start, end):
+                    for j in range(start, end):
+                        if i < (len(input_ids) - 1) and j < (len(input_ids) - 1):
+                            if a_mentions[i][j] == 0:
+                                a_mentions[i][j] = 1
+                                edges += 1
+            # 各类实体的实体跨度
+            entityofPice = []
+            for ent in entity_pos:
+                # 每个单词（属于实体）的起始位置，可能是字母或者索引
+                oneEntityP = []
+                for ment in ent:
+                    if (ment[0] + offset) == ment[1]:
+                        oneEntityP.append(ment[0] + offset)
+                    for i in range(ment[0] + offset, ment[1]):
+                        oneEntityP.append(i)
+                entityofPice.append(oneEntityP)
+            predicted_Doc2 = []
+            for h in range(0, len(entities)):
+                item = [0, h]
+                predicted_Doc2.append(item)
 
-                # 句法树
-                count = 0
-                i = 0
-                while i < len(input_ids):
-                    if index2word[i] == spacy_offset:
-                        i += 1
-                        continue
-                    word = spacy_tokens[count]
-                    word_sp = tokenizer.tokenize(word.text)
-                    for child in word.children:
-                        adj_word_list = word2piecesid[child]
-                        word_list = word2piecesid[word]
-                        # obtain the start index of child
-                        child_key = next(key for key, val in index2word.items() if val == child)
-                        # obtain the start index of spacy_word
-                        word_key = next(key for key, val in index2word.items() if val == word)
-                        # print("child:{}, word:{}".format(child, word))
-                        for m in range(child_key, len(adj_word_list) + child_key):
-                            for n in range(word_key, len(word_list) + word_key):
-                                # print("m:{}, n:{}".format(m, n))
-                                adj_syntactic_dependency_tree[m][n] = 1  # 无向图
-                                adj_syntactic_dependency_tree[n][m] = 1
+            predictedEntityPairPiece = []
+            for item in predicted_Doc2:
+                one_predicted = entityofPice[item[0]] + entityofPice[item[1]]
+                predictedEntityPairPiece.append(one_predicted)
+            for line in predictedEntityPairPiece:
+                for i in line:
+                    for j in line:
+                        if a_mentions[i + offset][j + offset] == 0:
+                            a_mentions[i + offset][j + offset] = 1
+                            edges += 1
+            for i in range(0, len(a_mentions)):
+                a_mentions[i][i] = 1
 
-                    i += len(word_sp)
-                    count += 1
+            # 句法树
+            count = 0
+            i = 0
+            while i < len(input_ids):
+                if index2word[i] == spacy_offset:
+                    i += 1
+                    continue
+                word = spacy_tokens[count]
+                word_sp = tokenizer.tokenize(word.text)
+                for child in word.children:
+                    adj_word_list = word2piecesid[child]
+                    word_list = word2piecesid[word]
+                    # obtain the start index of child
+                    child_key = next(key for key, val in index2word.items() if val == child)
+                    # obtain the start index of spacy_word
+                    word_key = next(key for key, val in index2word.items() if val == word)
+                    # print("child:{}, word:{}".format(child, word))
+                    for m in range(child_key, len(adj_word_list) + child_key):
+                        for n in range(word_key, len(word_list) + word_key):
+                            # print("m:{}, n:{}".format(m, n))
+                            adj_syntactic_dependency_tree[m][n] = 1  # 无向图
+                            adj_syntactic_dependency_tree[n][m] = 1
 
-                a_mentions_new = [[0 for j in range(max_len)] for i in range(max_len)]
-                adj_syntactic_dependency_tree_new = [[0 for j in range(max_len)] for i in range(max_len)]
-                if args.transformer_type == "bert":
-                    for i in range(len(a_mentions)):
-                        for j in range(len(a_mentions)):
-                            a_mentions_new[i + 1][j + 1] = a_mentions[i][j]
-                            adj_syntactic_dependency_tree_new[i + 1][j + 1] = adj_syntactic_dependency_tree[i][j]
-                elif args.transformer_type == "roberta":
-                    for i in range(len(a_mentions)):
-                        for j in range(len(a_mentions)):
-                            a_mentions_new[i + 1][j + 1] = a_mentions[i][j]
-                            adj_syntactic_dependency_tree_new[i + 1][j + 1] = adj_syntactic_dependency_tree[i][j]
+                i += len(word_sp)
+                count += 1
+
+            a_mentions_new = [[0 for j in range(max_len)] for i in range(max_len)]
+            adj_syntactic_dependency_tree_new = [[0 for j in range(max_len)] for i in range(max_len)]
+            if args.transformer_type == "bert":
+                for i in range(len(a_mentions)):
+                    for j in range(len(a_mentions)):
+                        a_mentions_new[i + 1][j + 1] = a_mentions[i][j]
+                        adj_syntactic_dependency_tree_new[i + 1][j + 1] = adj_syntactic_dependency_tree[i][j]
+            elif args.transformer_type == "roberta":
+                for i in range(len(a_mentions)):
+                    for j in range(len(a_mentions)):
+                        a_mentions_new[i + 1][j + 1] = a_mentions[i][j]
+                        adj_syntactic_dependency_tree_new[i + 1][j + 1] = adj_syntactic_dependency_tree[i][j]
 
             assert len(ent2idx) == len(ent2ent_type)
             if len(hts) > 0:
@@ -450,7 +449,7 @@ def read_bio(args, file_in, tokenizer, max_seq_length=1024, save_file=''):
                            'title': pmid,
                            'ent2idx': ent2idx,
                            'ent2ent_type': ent2ent_type,
-                           'Adj': a_mentions_new,
+                           'adj_mention': a_mentions_new,
                            'adj_syntactic_dependency_tree': adj_syntactic_dependency_tree_new,
                            # 'inter_mask': inter_mask
                            }

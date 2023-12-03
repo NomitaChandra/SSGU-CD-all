@@ -15,6 +15,7 @@ from model_bio import DocREModel
 from utils import set_seed, collate_fn
 from prepro_bio import read_bio
 from save_result import Logger
+from evaluation import to_official_bio, gen_data_bio
 
 
 def train(args, model, train_features, dev_features, test_features):
@@ -58,8 +59,8 @@ def train(args, model, train_features, dev_features, test_features):
                                                                and num_steps % args.evaluation_steps == 0
                                                                and step % args.gradient_accumulation_steps == 0):
                     print("training risk:", loss.item(), "   step:", num_steps)
-                    avg_val_risk = cal_val_risk(args, model, dev_features)
-                    print('avg val risk:', avg_val_risk, '\n')
+                    # avg_val_risk = cal_val_risk(args, model, dev_features)
+                    # print('avg val risk:', avg_val_risk, '\n')
                     # 进行每轮的评估测试
                     torch.save(model.state_dict(), args.save_path)
                     dev_score, dev_output = evaluate(args, model, dev_features, tag="dev")
@@ -111,7 +112,7 @@ def cal_val_risk(args, model, features):
     return val_risk / nums
 
 
-def evaluate(args, model, features, tag="dev"):
+def evaluate(args, model, features, tag="dev", generate=False):
     dataloader = DataLoader(features, batch_size=args.test_batch_size, shuffle=False, collate_fn=collate_fn,
                             drop_last=False)
     preds, golds = [], []
@@ -137,11 +138,23 @@ def evaluate(args, model, features, tag="dev"):
 
     preds = np.concatenate(preds, axis=0).astype(np.float32)
     golds = np.concatenate(golds, axis=0).astype(np.float32)
-    tp = ((preds[:, 1] == 1) & (golds[:, 1] == 1)).astype(np.float32).sum()
-    tn = ((golds[:, 1] == 1) & (preds[:, 1] != 1)).astype(np.float32).sum()
-    fp = ((preds[:, 1] == 1) & (golds[:, 1] != 1)).astype(np.float32).sum()
-    precision = tp / (tp + fp + 1e-5)
-    recall = tp / (tp + tn + 1e-5)
+    # tp = ((preds[:, 1] == 1) & (golds[:, 1] == 1)).astype(np.float32).sum()
+    # tn = ((preds[:, 1] != 1) & (golds[:, 1] == 1)).astype(np.float32).sum()
+    # fp = ((preds[:, 1] == 1) & (golds[:, 1] != 1)).astype(np.float32).sum()
+    # precision = tp / (tp + fp + 1e-5)
+    # recall = tp / (tp + tn + 1e-5)
+
+    re_correct = 0
+    preds_ans = to_official_bio(args, preds, features)
+    golds_ans = to_official_bio(args, golds, features)
+    if generate:
+        gen_data_bio(args, preds_ans)
+    for pred in preds_ans:
+        if pred in golds_ans:
+            re_correct += 1
+    precision = re_correct / (len(preds_ans) + 1e-5)
+    recall = re_correct / (len(golds_ans) + 1e-5)
+
     f1 = 2 * precision * recall / (precision + recall + 1e-5)
     output = {
         tag + "_F1": f1 * 100,
@@ -251,9 +264,10 @@ def main():
         str(args.seed))
     args.save_path = os.path.join(args.save_path, file_name)
     timestamp = datetime.datetime.now().strftime("%Y%m%d-%H%M")
-    sys.stdout = Logger(stream=sys.stdout,
-                        filename='./result/' + args.task + '/' + args.task + '_' + timestamp + '_' + args.use_gcn + '_'
-                                 + args.gnn + '_' + str(args.seed) + '_test.log')
+    if args.load_path == "":
+        sys.stdout = Logger(stream=sys.stdout,
+                            filename='./result/' + args.task + '/' + args.task + '_' + timestamp + '_' + args.use_gcn
+                                     + '_' + str(args.seed) + '_test.log')
     read = read_bio
     print(args)
 
@@ -268,17 +282,6 @@ def main():
     tokenizer = AutoTokenizer.from_pretrained(
         args.tokenizer_name if args.tokenizer_name else args.model_name_or_path,
     )
-
-    train_file = os.path.join(args.data_dir, args.train_file)
-    dev_file = os.path.join(args.data_dir, args.dev_file)
-    test_file = os.path.join(args.data_dir, args.test_file)
-    train_cache = os.path.join(args.data_dir, 'train_cache')
-    dev_cache = os.path.join(args.data_dir, 'dev_cache')
-    test_cache = os.path.join(args.data_dir, 'test_cache')
-    train_features = read(args, train_file, tokenizer, max_seq_length=args.max_seq_length, save_file=train_cache)
-    dev_features = read(args, dev_file, tokenizer, max_seq_length=args.max_seq_length, save_file=dev_cache)
-    test_features = read(args, test_file, tokenizer, max_seq_length=args.max_seq_length, save_file=test_cache)
-
     model = AutoModel.from_pretrained(
         args.model_name_or_path,
         from_tf=bool(".ckpt" in args.model_name_or_path),
@@ -296,18 +299,32 @@ def main():
     model.to(0)
 
     if args.load_path == "":  # Training
+        train_file = os.path.join(args.data_dir, args.train_file)
+        dev_file = os.path.join(args.data_dir, args.dev_file)
+        test_file = os.path.join(args.data_dir, args.test_file)
+        train_cache = os.path.join(args.data_dir, 'train_cache')
+        dev_cache = os.path.join(args.data_dir, 'dev_cache')
+        test_cache = os.path.join(args.data_dir, 'test_cache')
+        train_features = read(args, train_file, tokenizer, max_seq_length=args.max_seq_length,
+                              save_file=train_cache)
+        dev_features = read(args, dev_file, tokenizer, max_seq_length=args.max_seq_length, save_file=dev_cache)
+        test_features = read(args, test_file, tokenizer, max_seq_length=args.max_seq_length, save_file=test_cache)
+
         train(args, model, train_features, dev_features, test_features)
 
         print("BEST TEST")
         model.load_state_dict(torch.load(args.save_path + '_best'))
         dev_score, dev_output = evaluate(args, model, dev_features, tag="dev")
         print(dev_output)
-        test_score, test_output = evaluate(args, model, test_features, tag="test")
+        test_score, test_output = evaluate(args, model, test_features, tag="test", generate=True)
         print(test_output)
 
     else:  # Testing
         args.load_path = os.path.join(args.load_path, file_name)
         print(args.load_path)
+        test_file = os.path.join(args.data_dir, args.test_file)
+        test_cache = os.path.join(args.data_dir, 'test_cache')
+        test_features = read(args, test_file, tokenizer, max_seq_length=args.max_seq_length, save_file=test_cache)
 
         print("TEST")
         model.load_state_dict(torch.load(args.load_path))
