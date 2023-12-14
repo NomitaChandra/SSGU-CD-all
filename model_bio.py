@@ -29,7 +29,19 @@ class DocREModel(nn.Module):
         self.config = config
         self.model = model
         self.hidden_size = config.hidden_size
-        self.loss_fn = AULLoss()
+        if args.loss == 'CrossEntropyLoss':
+            self.loss_fn = CrossEntropyLoss(args.s0)
+        elif args.loss == 'BalancedLoss':
+            self.loss_fn = BalancedLoss()
+        elif args.loss == 'ATLoss':
+            self.loss_fn = ATLoss()
+        elif args.loss == 'AsymmetricLoss/APLLoss':
+            self.loss_fn = AsymmetricLoss()
+        elif args.loss == 'APLLoss':
+            self.loss_fn = APLLoss()
+        else:
+            print('error loss')
+            return
         self.margin = args.m
         if args.isrank:
             self.rels = args.num_class - 1
@@ -162,12 +174,6 @@ class DocREModel(nn.Module):
         map_rss = torch.cat(map_rss, dim=0).reshape(bs, ne, ne, d)
         return map_rss
 
-    def square_loss(self, yPred, yTrue, margin=1.):
-        if len(yPred) == 0:
-            return torch.FloatTensor([0]).cuda()
-        loss = 0.25 * (yPred * yTrue - margin) ** 2
-        return torch.mean(loss.sum() / yPred.shape[0])
-
     def get_ht(self, rel_enco, hts):
         htss = []
         for i in range(len(hts)):
@@ -211,8 +217,7 @@ class DocREModel(nn.Module):
         attn_map = self.segmentation_net(attn_input)
         # attn_map = self.segmentation_net_acc_unet(attn_input)
         # attn_map = attn_map.permute(0, 2, 3, 1).contiguous()
-        h_t = self.get_ht(attn_map, hts)
-        rs = h_t
+        rs = self.get_ht(attn_map, hts)
 
         # Binary Classifier
         # a = torch.cat([hs, rs], dim=1)

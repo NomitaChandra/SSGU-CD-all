@@ -140,7 +140,7 @@ class ATLoss(nn.Module):
         return loss
 
 
-class balanced_loss(nn.Module):
+class BalancedLoss(nn.Module):
     def __init__(self):
         super().__init__()
 
@@ -154,6 +154,28 @@ class balanced_loss(nn.Module):
         pos_loss = torch.logsumexp(y_pred_pos, axis=-1)
         y_pred_neg = torch.cat([y_pred_neg, zeros], dim=-1)
         neg_loss = torch.logsumexp(y_pred_neg, axis=-1)
+        loss = pos_loss + neg_loss
+        loss = loss.mean()
+        return loss
+
+
+class CrossEntropyLoss(nn.Module):
+    def __init__(self, s0=0.2):
+        super().__init__()
+        self.s0 = s0
+
+    def forward(self, logits, labels):
+        spos = torch.Tensor(logits.shape).fill_(self.s0)
+        sneg = torch.Tensor(logits.shape).fill_(-self.s0)
+        # 多标签分类的交叉熵
+        logits = (1 - 2 * labels) * logits
+        y_pred_pos = logits - (1 - labels) * 1e30
+        y_pred_neg = logits - labels * 1e30
+        zeros = torch.zeros_like(logits[..., :1])
+        y_pred_pos = torch.cat([y_pred_pos, zeros], dim=-1)
+        pos_loss = torch.log(torch.sum(torch.exp(y_pred_pos)) + torch.exp(spos))
+        y_pred_neg = torch.cat([y_pred_neg, zeros], dim=-1)
+        neg_loss = torch.log(torch.sum(torch.exp(y_pred_neg)) + torch.exp(sneg))
         loss = pos_loss + neg_loss
         loss = loss.mean()
         return loss

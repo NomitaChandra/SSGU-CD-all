@@ -214,6 +214,9 @@ def main():
     parser.add_argument('--e', type=float, default=3.0, help='estimated a priors multiple')
     parser.add_argument('--gnn', type=str, default='GCN', help="GCN/TGCN/GAT")
     parser.add_argument('--use_gcn', type=str, default='tree', help="use gcn, both/mentions/tree/false")
+    parser.add_argument('--loss', type=str, default='CrossEntropyLoss',
+                        help="use CrossEntropyLoss/BalancedLoss/ATLoss/AsymmetricLoss/APLLoss")
+    parser.add_argument('--s0', type=float, default=0.2)
     parser.add_argument("--demo", type=str, default='false', help='use a few data to test. default true/false')
 
     parser.add_argument("--unet_in_dim", type=int, default=3, help="unet_in_dim.")
@@ -267,7 +270,7 @@ def main():
     if args.load_path == "":
         sys.stdout = Logger(stream=sys.stdout,
                             filename='./result/' + args.task + '/' + args.task + '_' + timestamp + '_' + args.use_gcn
-                                     + '_' + str(args.seed) + '_test.log')
+                                     + '_' + args.loss + '_s0=' + args.s0 + '_' + str(args.seed) + '_test.log')
     read = read_bio
     print(args)
 
