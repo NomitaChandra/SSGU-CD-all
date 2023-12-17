@@ -15,9 +15,6 @@ class DocREModel(nn.Module):
         if self.gnn == 'GCN':
             self.gc1 = GraphConvolution(config.hidden_size, self.sizeA)
             self.gc2 = GraphConvolution(config.hidden_size, self.sizeA // 2)
-        elif self.gnn == 'TGCN':
-            self.gc1 = TypeGraphConvolution(config.hidden_size, self.sizeA)
-            self.gc2 = TypeGraphConvolution(config.hidden_size, self.sizeA // 2)
         elif self.gnn == 'GAT':
             self.gc1 = GraphAttentionLayer(config.hidden_size, self.sizeA)
             self.gc2 = GraphAttentionLayer(config.hidden_size, self.sizeA // 2)
@@ -42,11 +39,7 @@ class DocREModel(nn.Module):
         else:
             print('error loss')
             return
-        self.margin = args.m
-        if args.isrank:
-            self.rels = args.num_class - 1
-        else:
-            self.rels = args.num_class
+        self.rels = args.num_class - 1
         # 768 * 2, 768
         # self.head_extractor = nn.Linear(2 * config.hidden_size, emb_size)
         # self.tail_extractor = nn.Linear(2 * config.hidden_size, emb_size)

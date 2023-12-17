@@ -165,8 +165,8 @@ class CrossEntropyLoss(nn.Module):
         self.s0 = s0
 
     def forward(self, logits, labels):
-        spos = torch.Tensor(logits.shape).fill_(self.s0)
-        sneg = torch.Tensor(logits.shape).fill_(-self.s0)
+        spos = torch.clone(logits).fill_(self.s0)
+        sneg = torch.clone(logits).fill_(-self.s0)
         # 多标签分类的交叉熵
         logits = (1 - 2 * labels) * logits
         y_pred_pos = logits - (1 - labels) * 1e30
@@ -174,8 +174,10 @@ class CrossEntropyLoss(nn.Module):
         zeros = torch.zeros_like(logits[..., :1])
         y_pred_pos = torch.cat([y_pred_pos, zeros], dim=-1)
         pos_loss = torch.log(torch.sum(torch.exp(y_pred_pos)) + torch.exp(spos))
+        # pos_loss = torch.log1p(torch.sum(torch.exp(y_pred_pos)))
         y_pred_neg = torch.cat([y_pred_neg, zeros], dim=-1)
         neg_loss = torch.log(torch.sum(torch.exp(y_pred_neg)) + torch.exp(sneg))
+        # neg_loss = torch.log1p(torch.sum(torch.exp(y_pred_neg)))
         loss = pos_loss + neg_loss
         loss = loss.mean()
         return loss

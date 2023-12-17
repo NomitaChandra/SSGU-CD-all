@@ -206,14 +206,11 @@ def main():
                         help="random seed for initialization")
     parser.add_argument("--num_class", type=int, default=97,
                         help="Number of relation types in dataset.")
-    parser.add_argument("--isrank", type=int, default='1', help='1 means use ranking loss, 0 means not use')
-    parser.add_argument("--m_tag", type=str, default='S-PU', help='PN/PU/S-PU')
-    parser.add_argument('--beta', type=float, default=0.0, help='beta of pu learning (default 0.0)')
-    parser.add_argument('--gamma', type=float, default=1.0, help='gamma of pu learning (default 1.0)')
-    parser.add_argument('--m', type=float, default=1.0, help='margin')
-    parser.add_argument('--e', type=float, default=3.0, help='estimated a priors multiple')
     parser.add_argument('--gnn', type=str, default='GCN', help="GCN/TGCN/GAT")
     parser.add_argument('--use_gcn', type=str, default='tree', help="use gcn, both/mentions/tree/false")
+    parser.add_argument('--loss', type=str, default='CrossEntropyLoss',
+                        help="use CrossEntropyLoss/BalancedLoss/ATLoss/AsymmetricLoss/APLLoss")
+    parser.add_argument('--s0', type=float, default=0.2)
     parser.add_argument("--demo", type=str, default='false', help='use a few data to test. default true/false')
 
     parser.add_argument("--unet_in_dim", type=int, default=3, help="unet_in_dim.")
@@ -221,13 +218,7 @@ def main():
     parser.add_argument("--down_dim", type=int, default=256, help="down_dim.")
     parser.add_argument("--bert_lr", default=3e-5, type=float, help="The initial learning rate for Adam.")
     parser.add_argument("--max_height", type=int, default=64, help="log.")
-
-    parser.add_argument("--tau", default=2.0, type=float, help="tau")
-    parser.add_argument("--tau_base", default=1.0, type=float, help="tau_base")
-    parser.add_argument("--lambda_1", default=1.0, type=float, help="lambda_1")
-    parser.add_argument("--lambda_2", default=1.0, type=float, help="lambda_2")
-    parser.add_argument("--lambda_3", default=1.0, type=float, help="lambda_3")
-    parser.add_argument("--sample_ratio", default=1.0, type=float, help="sample_ratio")
+    args = parser.parse_args()
     args = parser.parse_args()
 
     if args.task == 'cdr':
