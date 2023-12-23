@@ -208,6 +208,7 @@ def main():
                         help="Number of relation types in dataset.")
     parser.add_argument('--gnn', type=str, default='GCN', help="GCN/TGCN/GAT")
     parser.add_argument('--use_gcn', type=str, default='tree', help="use gcn, both/mentions/tree/false")
+    parser.add_argument('--dropout', type=float, default=0.5, help="0.0/0.2/0.5")
     parser.add_argument('--loss', type=str, default='CrossEntropyLoss',
                         help="use CrossEntropyLoss/BalancedLoss/ATLoss/AsymmetricLoss/APLLoss")
     parser.add_argument('--s0', type=float, default=0.3)
@@ -256,8 +257,9 @@ def main():
     timestamp = datetime.datetime.now().strftime("%Y%m%d-%H%M")
     if args.load_path == "":
         sys.stdout = Logger(stream=sys.stdout,
-                            filename='./result/' + args.task + '/' + args.task + '_' + timestamp + '_' + args.use_gcn
-                                     + '_' + args.loss + '_s0=' + str(args.s0) + '_' + str(args.seed) + '_test.log')
+                            filename='./result/' + args.task + '/' + args.task + '_' + timestamp + '_' + args.loss
+                                     + '_s0=' + str(args.s0) + '_' + str(args.dropout)
+                                     + '_' + str(args.seed) + '_test.log')
     read = read_bio
     print(args)
 

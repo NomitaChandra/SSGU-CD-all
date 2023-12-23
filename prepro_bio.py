@@ -131,7 +131,6 @@ def read_bio(args, file_in, tokenizer, max_seq_length=1024, save_file=''):
             line = line.rstrip().split('\t')
             pmid = line[0]
             # gnn 对应一个长宽均为实体类型数的矩阵，如果两实体在同一句子中，标记为0
-            # inter_mask = []
             entities = {}
             ent2ent_type = {}
             if pmid not in pmids:
@@ -194,23 +193,6 @@ def read_bio(args, file_in, tokenizer, max_seq_length=1024, save_file=''):
                 if len(entity_pos) == 0:
                     print(pmid, 'rel is none')
                     continue
-                # for i in range(0, len(entities)):
-                #     inter_mask.append([1] * len(entities))
-                # for i in range(0, len(entities)):
-                #     inter_mask[i][i] = 0
-                # for i, ent1 in enumerate(entities):
-                #     for j, ent2 in enumerate(entities):
-                #         if i != j:
-                #             breakFlag = 0
-                #             for men1 in entities[ent1]:
-                #                 for men2 in entities[ent2]:
-                #                     if men1[4] == men2[4]:
-                #                         inter_mask[i][j] = 0
-                #                         inter_mask[j][i] = 0
-                #                         breakFlag = 1
-                #                         break
-                #                 if breakFlag == 1:
-                #                     break
 
                 # spacy 分析
                 nlp.tokenizer = WhitespaceTokenizer(nlp.vocab)
@@ -229,9 +211,6 @@ def read_bio(args, file_in, tokenizer, max_seq_length=1024, save_file=''):
 
                 # entitys 中缺少来源于哪个句子的id，可以考虑添加
                 sents = [t.split(' ') for t in text.split('|')]
-                # 定义了一种离散方式将实体分割成词放入list中，作为一个新的句子
-                # vertexsentencelist = addEntitySentence(entities, sents)
-                # sents.append(vertexsentencelist)
 
                 new_sents = []
                 token_map = []
@@ -450,16 +429,11 @@ def read_bio(args, file_in, tokenizer, max_seq_length=1024, save_file=''):
                            'ent2idx': ent2idx,
                            'ent2ent_type': ent2ent_type,
                            'adj_mention': a_mentions_new,
-                           'adj_syntactic_dependency_tree': adj_syntactic_dependency_tree_new,
-                           # 'inter_mask': inter_mask
+                           'adj_syntactic_dependency_tree': adj_syntactic_dependency_tree_new
                            }
                 features.append(feature)
 
             if args.demo == 'true' and len(features) > 20:
                 break
 
-    # if len(save_file) > 2:
-    #     with open(file=save_file, mode='wb') as fw:
-    #         pickle.dump(features, fw)
-    #     print('finish reading {} and save preprocessed data to {}.'.format(file_in, save_file))
     return features

@@ -3,7 +3,7 @@ from model_utils.long_seq import process_long_input
 from model_utils.losses import *
 from model_utils.losses_test import *
 from model_utils.attn_unet import AttentionUNet
-from model_utils.graph_networks import GraphConvolution, TypeGraphConvolution, GraphAttentionLayer
+from model_utils.graph_networks import GraphConvolution, GraphAttentionLayer
 
 
 class DocREModel(nn.Module):
@@ -21,7 +21,10 @@ class DocREModel(nn.Module):
         else:
             raise ValueError('This is a GNN Error')
 
-        self.dropout = nn.Dropout(0.5)
+        if args.dropout > 0.0:
+            self.dropout = nn.Dropout(args.dropout)
+        else:
+            self.dropout = None
         self.args = args
         self.config = config
         self.model = model
@@ -32,7 +35,7 @@ class DocREModel(nn.Module):
             self.loss_fn = BalancedLoss()
         elif args.loss == 'ATLoss':
             self.loss_fn = ATLoss()
-        elif args.loss == 'AsymmetricLoss/APLLoss':
+        elif args.loss == 'AsymmetricLoss':
             self.loss_fn = AsymmetricLoss()
         elif args.loss == 'APLLoss':
             self.loss_fn = APLLoss()
@@ -179,7 +182,8 @@ class DocREModel(nn.Module):
     def forward(self, input_ids=None, attention_mask=None, labels=None, entity_pos=None, hts=None, list_feature_id=None,
                 adj_mention=None, adj_syntactic_dependency_tree=None):
         sequence_output, attention = self.encode(input_ids, attention_mask)
-        sequence_output = self.dropout(sequence_output)
+        if self.dropout is not None:
+            sequence_output = self.dropout(sequence_output)
         # GCN
         if self.use_gcn == 'both':
             a = F.normalize(adj_mention)
@@ -196,7 +200,7 @@ class DocREModel(nn.Module):
             sequence_output_A = torch.relu(self.gc1(sequence_output, a))
             sequence_output = torch.cat([sequence_output, sequence_output_A], dim=2)
         else:
-            # 这时的Adj和adj_syntactic_dependency_tree都是空矩阵
+            # 这时的adj_mention和adj_syntactic_dependency_tree都是空矩阵
             a1, a2, _ = adj_mention.size()
             sequence_output_A = adj_mention.clone()
             sequence_output_A = sequence_output_A.resize_(a1, a2, self.sizeA)
