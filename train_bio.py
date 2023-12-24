@@ -258,7 +258,7 @@ def main():
     if args.load_path == "":
         sys.stdout = Logger(stream=sys.stdout,
                             filename='./result/' + args.task + '/' + args.task + '_' + timestamp + '_' + args.loss
-                                     + '_s0=' + str(args.s0) + '_' + str(args.dropout)
+                                     + '_s0=' + str(args.s0) + '_dropout=' + str(args.dropout)
                                      + '_' + str(args.seed) + '_test.log')
     read = read_bio
     print(args)
