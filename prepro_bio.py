@@ -2,7 +2,6 @@ from tqdm import tqdm
 import ujson as json
 import numpy as np
 import unidecode
-from pubtator.convert_pubtator import load_pubtator_into_documents
 from spacy.tokenizer import Tokenizer
 from spacy.tokens import Doc
 import random

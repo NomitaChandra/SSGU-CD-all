@@ -1,7 +1,6 @@
 from opt_einsum import contract
 from model_utils.long_seq import process_long_input
 from model_utils.losses import *
-from model_utils.losses_test import *
 from model_utils.attn_unet import AttentionUNet
 from model_utils.graph_networks import GraphConvolution, GraphAttentionLayer
 
@@ -29,8 +28,8 @@ class DocREModel(nn.Module):
         self.config = config
         self.model = model
         self.hidden_size = config.hidden_size
-        if args.loss == 'CrossEntropyLoss':
-            self.loss_fn = CrossEntropyLoss(args.s0)
+        if args.loss == 'BSCELoss':
+            self.loss_fn = BSCELoss(args.s0)
         elif args.loss == 'BalancedLoss':
             self.loss_fn = BalancedLoss()
         elif args.loss == 'ATLoss':

@@ -209,8 +209,8 @@ def main():
     parser.add_argument('--gnn', type=str, default='GCN', help="GCN/TGCN/GAT")
     parser.add_argument('--use_gcn', type=str, default='tree', help="use gcn, both/mentions/tree/false")
     parser.add_argument('--dropout', type=float, default=0.5, help="0.0/0.2/0.5")
-    parser.add_argument('--loss', type=str, default='CrossEntropyLoss',
-                        help="use CrossEntropyLoss/BalancedLoss/ATLoss/AsymmetricLoss/APLLoss")
+    parser.add_argument('--loss', type=str, default='BSCELoss',
+                        help="use BSCELoss/BalancedLoss/ATLoss/AsymmetricLoss/APLLoss")
     parser.add_argument('--s0', type=float, default=0.3)
     parser.add_argument("--demo", type=str, default='false', help='use a few data to test. default true/false')
 

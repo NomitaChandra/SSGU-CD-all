@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" autoUpload="Always" serverName="biodre" remoteFilesAllowedToDisappearOnAutoupload="false" confirmBeforeUploading="false">
+  <component name="PublishConfigData" autoUpload="Always" serverName="DGUNet-CD" remoteFilesAllowedToDisappearOnAutoupload="false" confirmBeforeUploading="false">
     <option name="confirmBeforeUploading" value="false" />
     <serverData>
-      <paths name="biodre">
+      <paths name="DGUNet-CD">
         <serverdata>
           <mappings>
-            <mapping deploy="/py_project/biodre" local="$PROJECT_DIR$" />
+            <mapping deploy="/py_project/DGUNet-CD" local="$PROJECT_DIR$/../DGUNet-CD" />
           </mappings>
           <excludedPaths>
-            <excludedPath path="/py_project/biodre/out" />
+            <excludedPath path="/py_project/DGUNet-CD/out" />
           </excludedPaths>
         </serverdata>
       </paths>

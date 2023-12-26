@@ -159,7 +159,7 @@ class BalancedLoss(nn.Module):
         return loss
 
 
-class CrossEntropyLoss(nn.Module):
+class BSCELoss(nn.Module):
     def __init__(self, s0=0.2):
         super().__init__()
         self.s0 = s0

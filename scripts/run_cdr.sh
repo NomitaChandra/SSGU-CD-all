@@ -18,7 +18,7 @@
 #sleep 100
 
 #losses=(BalancedLoss ATLoss AsymmetricLoss APLLoss)
-losses=CrossEntropyLoss
+losses=BSCELoss
 for loss in "${losses[@]}"
 do
 #python train_bio.py --task cdr --gnn GCN --loss $loss --use_gcn both --seed 66
