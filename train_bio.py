@@ -260,13 +260,11 @@ def main():
     )
     timestamp = datetime.datetime.now().strftime("%Y%m%d-%H%M")
     args.save_pubtator = os.path.join('./result/' + args.task + '/' + args.task + '_' + timestamp + '_' + args.loss
-                                  + '_' + str(args.use_gcn) + '_s0=' + str(args.s0) + '_dropout=' + str(args.dropout)
-                                  + '_' + str(args.seed))
+                                      + '_' + str(args.use_gcn) + '_s0=' + str(args.s0) + '_dropout=' + str(
+        args.dropout)
+                                      + '_' + str(args.seed))
     if args.load_path == "":
-        sys.stdout = Logger(stream=sys.stdout,
-                            filename='./result/' + args.task + '/' + args.task + '_' + timestamp + '_' + args.loss
-                                     + '_' + str(args.use_gcn) + '_s0=' + str(args.s0) + '_dropout=' + str(args.dropout)
-                                     + '_' + str(args.seed) + '_test.log')
+        sys.stdout = Logger(stream=sys.stdout, filename=args.save_pubtator + '_test.log')
     read = read_bio
     print(args)
 
@@ -312,7 +310,7 @@ def main():
         train(args, model, train_features, dev_features, test_features)
 
         print("BEST TEST")
-        model.load_state_dict(torch.load(args.save_path + '_best'))
+        model.load_state_dict(torch.load(args.os.path.join(args.save_path, file_name) + '_best'))
         dev_score, dev_output = evaluate(args, model, dev_features, tag="dev")
         print(dev_output)
         test_score, test_output = evaluate(args, model, test_features, tag="test", generate=True)
