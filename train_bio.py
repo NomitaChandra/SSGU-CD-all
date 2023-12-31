@@ -248,17 +248,24 @@ def main():
 
     if not os.path.exists(args.save_path):
         os.mkdir(args.save_path)
-    file_name = "{}_{}_{}_seed_{}".format(
+    file_name = "{}_{}_{}_seed_{}_{}_{}_{}_{}".format(
         args.train_file.split('.')[0],
         args.transformer_type,
         args.data_dir.split('/')[-1],
-        str(args.seed))
-    args.save_path = os.path.join(args.save_path, file_name)
+        args.loss,
+        args.use_gcn,
+        args.s0,
+        args.dropout,
+        str(args.seed),
+    )
     timestamp = datetime.datetime.now().strftime("%Y%m%d-%H%M")
+    args.save_pubtator = os.path.join('./result/' + args.task + '/' + args.task + '_' + timestamp + '_' + args.loss
+                                  + '_' + str(args.use_gcn) + '_s0=' + str(args.s0) + '_dropout=' + str(args.dropout)
+                                  + '_' + str(args.seed))
     if args.load_path == "":
         sys.stdout = Logger(stream=sys.stdout,
                             filename='./result/' + args.task + '/' + args.task + '_' + timestamp + '_' + args.loss
-                                     + '_s0=' + str(args.s0) + '_dropout=' + str(args.dropout)
+                                     + '_' + str(args.use_gcn) + '_s0=' + str(args.s0) + '_dropout=' + str(args.dropout)
                                      + '_' + str(args.seed) + '_test.log')
     read = read_bio
     print(args)
@@ -320,7 +327,7 @@ def main():
 
         print("TEST")
         model.load_state_dict(torch.load(args.load_path))
-        test_score, test_output = evaluate(args, model, test_features, tag="test")
+        test_score, test_output = evaluate(args, model, test_features, tag="test", generate=True)
         print(test_output)
 
 

@@ -17,33 +17,43 @@
 #python train_bio.py --task cdr --gnn GCN --s0 0.8 --use_gcn tree --seed 66
 #sleep 100
 
+load_path=""
+#load_path == /py_project/DGUNet-CD/out/train_filter_bert_cdr_seed_best
 #losses=(BalancedLoss ATLoss AsymmetricLoss APLLoss)
 losses=BSCELoss
 for loss in "${losses[@]}"
 do
-#python train_bio.py --task cdr --gnn GCN --loss $loss --use_gcn both --seed 66
-#sleep 100
-#python train_bio.py --task cdr --gnn GCN --loss $loss --use_gcn mentions --seed 66
-#sleep 100
-python train_bio.py --task cdr --gnn GCN --loss $loss --use_gcn tree --seed 66
+python train_bio.py --task cdr --loss $loss --use_gcn both --seed 66 --load_path "$load_path"
 sleep 100
-#python train_bio.py --task cdr --gnn GCN --loss $loss --use_gcn false --seed 66
+#python train_bio.py --task cdr --loss $loss --use_gcn mentions --seed 66 --load_path "$load_path"
 #sleep 100
-#python train_bio.py --task cdr --gnn GCN --loss $loss --use_gcn both --seed 68
+#python train_bio.py --task cdr --loss $loss --use_gcn tree --seed 66 --load_path "$load_path"
 #sleep 100
-#python train_bio.py --task cdr --gnn GCN --loss $loss --use_gcn mentions --seed 68
-#sleep 100
-python train_bio.py --task cdr --gnn GCN --loss $loss --use_gcn tree --seed 68
+python train_bio.py --task cdr --loss $loss --use_gcn false --seed 66 --load_path "$load_path"
 sleep 100
-#python train_bio.py --task cdr --gnn GCN --loss $loss --use_gcn false --seed 68
-#sleep 100
-#python train_bio.py --task cdr --gnn GCN --loss $loss --use_gcn both --seed 70
-#sleep 100
-#python train_bio.py --task cdr --gnn GCN --loss $loss --use_gcn mentions --seed 70
-#sleep 100
-python train_bio.py --task cdr --gnn GCN --loss $loss --use_gcn tree --seed 70
+python train_bio.py --task cdr --loss $loss --use_gcn both --seed 68 --load_path "$load_path"
 sleep 100
-#python train_bio.py --task cdr --gnn GCN --loss $loss --use_gcn false --seed 70
+#python train_bio.py --task cdr --loss $loss --use_gcn mentions --seed 68 --load_path "$load_path"
 #sleep 100
-
+#python train_bio.py --task cdr --loss $loss --use_gcn tree --seed 68 --load_path "$load_path"
+#sleep 100
+python train_bio.py --task cdr --loss $loss --use_gcn false --seed 68 --load_path "$load_path"
+sleep 100
+python train_bio.py --task cdr --loss $loss --use_gcn both --seed 70 --load_path "$load_path"
+sleep 100
+#python train_bio.py --task cdr --loss $loss --use_gcn mentions --seed 70 --load_path "$load_path"
+#sleep 100
+#python train_bio.py --task cdr --loss $loss --use_gcn tree --seed 70 --load_path "$load_path"
+#sleep 100
+python train_bio.py --task cdr --loss $loss --use_gcn false --seed 70 --load_path "$load_path"
+sleep 100
+python train_bio.py --task cdr --loss $loss --use_gcn both --seed 72 --load_path "$load_path"
+sleep 100
+#python train_bio.py --task cdr --loss $loss --use_gcn mentions --seed 72 --load_path "$load_path"
+#sleep 100
+#python train_bio.py --task cdr --loss $loss --use_gcn tree --seed 72 --load_path "$load_path"
+#sleep 100
+python train_bio.py --task cdr --loss $loss --use_gcn false --seed 72 --load_path "$load_path"
+sleep 100
 done
+

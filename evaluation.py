@@ -228,8 +228,6 @@ def gen_data_bio(args, res):
     save_path = './result/' + args.task
     if args.task == 'cdr':
         pubtator_test = './dataset/' + args.task + '/CDR_TestSet.PubTator.txt'
-    elif args.task == 'gda':
-        pubtator_test = './dataset/' + args.task + '/testing.pubtator'
     if not os.path.exists(save_path):
         os.makedirs(save_path)
     origin = []
@@ -245,7 +243,7 @@ def gen_data_bio(args, res):
                 origin.append({pmid: use})
                 use = []
                 pmid = ''
-    with open(save_path + '/test_output.pubtator', 'w') as f:
+    with open(args.save_pubtator + '.pubtator', 'w') as f:
         for i in origin:
             pmid = next(iter(i))
             for line in i[pmid]:
@@ -254,5 +252,6 @@ def gen_data_bio(args, res):
                 if x['title'] == pmid:
                     f.write(x['title'] + '\t' + x['r'] + '\t' + x['h_idx'] + '\t' + x['t_idx'] + '\tpredict' + '\n')
             f.write('\n')
+    print(args.save_pubtator + '.pubtator')
     # with ZipFile(save_path + '/output.zip', 'w') as z:
     #     z.write(save_path + '/output.pubtator')

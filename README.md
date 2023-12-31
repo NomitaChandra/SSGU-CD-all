@@ -28,7 +28,7 @@ biodre
 
 ## Training and Evaluation
 
-### CDR
+### CDR、GDA
 Train ChemDisGene model with the following command:
 ```bash
 >> sh scripts/run_bio.sh
