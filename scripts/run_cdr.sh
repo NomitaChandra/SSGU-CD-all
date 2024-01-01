@@ -21,39 +21,16 @@ load_path=""
 #load_path == /py_project/DGUNet-CD/out/train_filter_bert_cdr_seed_best
 #losses=(BalancedLoss ATLoss AsymmetricLoss APLLoss)
 losses=BSCELoss
+use_gcns=(tree mentions)
+seeds=(66 68 70 72)
 for loss in "${losses[@]}"
 do
-python train_bio.py --task cdr --loss $loss --use_gcn both --seed 66 --load_path "$load_path"
-sleep 100
-#python train_bio.py --task cdr --loss $loss --use_gcn mentions --seed 66 --load_path "$load_path"
-#sleep 100
-#python train_bio.py --task cdr --loss $loss --use_gcn tree --seed 66 --load_path "$load_path"
-#sleep 100
-python train_bio.py --task cdr --loss $loss --use_gcn false --seed 66 --load_path "$load_path"
-sleep 100
-python train_bio.py --task cdr --loss $loss --use_gcn both --seed 68 --load_path "$load_path"
-sleep 100
-#python train_bio.py --task cdr --loss $loss --use_gcn mentions --seed 68 --load_path "$load_path"
-#sleep 100
-#python train_bio.py --task cdr --loss $loss --use_gcn tree --seed 68 --load_path "$load_path"
-#sleep 100
-python train_bio.py --task cdr --loss $loss --use_gcn false --seed 68 --load_path "$load_path"
-sleep 100
-python train_bio.py --task cdr --loss $loss --use_gcn both --seed 70 --load_path "$load_path"
-sleep 100
-#python train_bio.py --task cdr --loss $loss --use_gcn mentions --seed 70 --load_path "$load_path"
-#sleep 100
-#python train_bio.py --task cdr --loss $loss --use_gcn tree --seed 70 --load_path "$load_path"
-#sleep 100
-python train_bio.py --task cdr --loss $loss --use_gcn false --seed 70 --load_path "$load_path"
-sleep 100
-python train_bio.py --task cdr --loss $loss --use_gcn both --seed 72 --load_path "$load_path"
-sleep 100
-#python train_bio.py --task cdr --loss $loss --use_gcn mentions --seed 72 --load_path "$load_path"
-#sleep 100
-#python train_bio.py --task cdr --loss $loss --use_gcn tree --seed 72 --load_path "$load_path"
-#sleep 100
-python train_bio.py --task cdr --loss $loss --use_gcn false --seed 72 --load_path "$load_path"
-sleep 100
+  for use_gcn in "${losses[@]}"
+  do
+    for seed in "${seeds[@]}"
+    do
+    python train_bio.py --task cdr --loss $loss --use_gcn $use_gcn --seed $seed --load_path "$load_path"
+    sleep 100
+    done
+  done
 done
-
