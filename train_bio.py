@@ -206,7 +206,7 @@ def main():
                         help="random seed for initialization")
     parser.add_argument("--num_class", type=int, default=97,
                         help="Number of relation types in dataset.")
-    parser.add_argument('--gnn', type=str, default='GCN', help="GCN/TGCN/GAT")
+    parser.add_argument('--gnn', type=str, default='GCN', help="GCN/GAT")
     parser.add_argument('--use_gcn', type=str, default='tree', help="use gcn, both/mentions/tree/false")
     parser.add_argument('--dropout', type=float, default=0.5, help="0.0/0.2/0.5")
     parser.add_argument('--loss', type=str, default='BSCELoss',

@@ -3,20 +3,17 @@
 
 Our code is modified based on [ATLOP](https://github.com/wzhouad/ATLOP), [DocuNet](https://github.com/zjunlp/DocuNet) and [UGDRE](https://github.com/QiSun123/UGDRE). Here we sincerely thanks for their excellent work.
 
-## Requirements
+## Environments
 * Python (tested on 3.6.7)
-* CUDA (tested on 11.0)
-* [PyTorch](http://pytorch.org/) (tested on 1.7.1)
-* [Transformers](https://github.com/huggingface/transformers) (tested on 4.18.0)
-* numpy (tested on 1.19.5)
-* spacy (tested on 3.0.9)
-* [apex](https://github.com/NVIDIA/apex) (tested on 0.1)
-* [opt-einsum](https://github.com/dgasmith/opt_einsum) (tested on 3.3.0)
-* ujson
-* tqdm
+* CUDA (tested on 10.1)
+```bash
+conda create -n DGUNet-CD python=3.6.7
+conda activate DGUNet-CD
+pip install -r requirements.txt
+```
 
 ## Dataset
-The [CDR](https://arxiv.org/abs/2204.06584) dataset can be downloaded following the instructions at [link](https://github.com/chanzuckerberg/ChemDisGene).
+The [CDR](https://pubmed.ncbi.nlm.nih.gov/26994911/) dataset can be downloaded following the instructions in [edge-oriented graph](https://github.com/fenchri/edge-oriented-graph). The expected structure of files is:
 ```
 biodre
  |-- dataset
@@ -27,9 +24,11 @@ biodre
 ```
 
 ## Training and Evaluation
+Train the BERT model on CDR with the following command:
 
-### CDR、GDA
-Train ChemDisGene model with the following command:
 ```bash
->> sh scripts/run_bio.sh
+sh scripts/run_cdr.sh
 ```
+
+## Saving and Evaluating Models
+You can save the model by setting the `--save_path` argument before training. The model correponds to the best dev results will be saved. After that, You can evaluate the saved model by setting the `--load_path` argument, then the code will skip training and evaluate the saved model on benchmarks.
