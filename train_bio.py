@@ -139,10 +139,10 @@ def evaluate(args, model, features, tag="dev", generate=False):
     preds = np.concatenate(preds, axis=0).astype(np.float32)
     golds = np.concatenate(golds, axis=0).astype(np.float32)
     # tp = ((preds[:, 1] == 1) & (golds[:, 1] == 1)).astype(np.float32).sum()
-    # tn = ((preds[:, 1] != 1) & (golds[:, 1] == 1)).astype(np.float32).sum()
+    # fn = ((preds[:, 1] != 1) & (golds[:, 1] == 1)).astype(np.float32).sum()
     # fp = ((preds[:, 1] == 1) & (golds[:, 1] != 1)).astype(np.float32).sum()
     # precision = tp / (tp + fp + 1e-5)
-    # recall = tp / (tp + tn + 1e-5)
+    # recall = tp / (tp + fn + 1e-5)
 
     re_correct = 0
     preds_ans = to_official_bio(args, preds, features)
