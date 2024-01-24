@@ -319,15 +319,16 @@ def read_bio(args, file_in, tokenizer, max_seq_length=1024, save_file=''):
             sents = sents[:max_seq_length - 2]
             input_ids = tokenizer.convert_tokens_to_ids(sents)
             input_ids_new = tokenizer.build_inputs_with_special_tokens(input_ids)
-            # todo debug
-            if pmid == '2234245':
-                print()
+
             max_len = len(input_ids_new)
             # 结构计算
             a_mentions = np.eye(len(input_ids))
+            # # todo debug
+            # if pmid == '2234245':
+            #     print()
             # 句法依存树
             adj_syntactic_dependency_tree = np.eye(len(input_ids))
-            offset = 1
+            offset = 0
             edges = 0
             for token_s in token_map:
                 start = token_s[0] + offset
