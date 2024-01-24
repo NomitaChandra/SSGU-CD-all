@@ -326,13 +326,12 @@ def read_bio(args, file_in, tokenizer, max_seq_length=1024, save_file=''):
             # # todo debug
             # if pmid == '2234245':
             #     print()
-            # 句法依存树
             adj_syntactic_dependency_tree = np.eye(len(input_ids))
-            offset = 0
+            offset = 1
             edges = 0
             for token_s in token_map:
-                start = token_s[0] + offset
-                end = token_s[1] + offset
+                start = token_s[0]
+                end = token_s[1]
                 for i in range(start, end):
                     for j in range(start, end):
                         if i < (len(input_ids) - 1) and j < (len(input_ids) - 1):
@@ -346,8 +345,8 @@ def read_bio(args, file_in, tokenizer, max_seq_length=1024, save_file=''):
                     ment = [i[0], i[1]]
                     mentionsofPice.append([token_map[ment[0]][0], token_map[ment[1] - 1][1]])
             for ment in mentionsofPice:
-                start = ment[0] + offset
-                end = ment[1] + offset
+                start = ment[0]
+                end = ment[1]
                 for i in range(start, end):
                     for j in range(start, end):
                         if i < (len(input_ids) - 1) and j < (len(input_ids) - 1):
@@ -377,8 +376,8 @@ def read_bio(args, file_in, tokenizer, max_seq_length=1024, save_file=''):
             for line in predictedEntityPairPiece:
                 for i in line:
                     for j in line:
-                        if a_mentions[i + offset][j + offset] == 0:
-                            a_mentions[i + offset][j + offset] = 1
+                        if a_mentions[i][j] == 0:
+                            a_mentions[i][j] = 1
                             edges += 1
             for i in range(0, len(a_mentions)):
                 a_mentions[i][i] = 1
