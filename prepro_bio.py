@@ -324,8 +324,8 @@ def read_bio(args, file_in, tokenizer, max_seq_length=1024, save_file=''):
             # 结构计算
             a_mentions = np.eye(len(input_ids))
             # # todo debug
-            # if pmid == '2234245':
-            #     print()
+            if pmid == '2234245':
+                print()
             adj_syntactic_dependency_tree = np.eye(len(input_ids))
             offset = 1
             edges = 0

@@ -5,7 +5,7 @@ from spacy import displacy
 from transformers import BertTokenizerFast
 from transformers import AutoConfig, AutoModel, AutoTokenizer
 
-text = "Ocular and auditory toxicity in hemodialyzed patients receiving desferrioxamine ."
+text = "( n = 48 , 1 . 34 + / - 0 . 89 )"
 nlp = spacy.load('en_core_web_sm')
 tokenizer = AutoTokenizer.from_pretrained('/home/yjs1217/Downloads/pretrained/scibert_scivocab_cased')
 
