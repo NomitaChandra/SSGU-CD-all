@@ -226,25 +226,12 @@ def main():
         args.train_file = 'train_filter.data'
         args.dev_file = 'dev_filter.data'
         args.test_file = 'test_filter.data'
-        args.model_name_or_path = '/home/yjs1217/Downloads/pretrained/scibert_scivocab_cased'
+        args.model_name_or_path = '/data/pretrained/scibert_scivocab_cased'
         args.train_batch_size = 12
         args.test_batch_size = 12
         args.learning_rate = 2e-5
         args.num_class = 2
         args.num_train_epochs = 30
-    elif args.task == 'gda':
-        args.data_dir = './dataset/gda'
-        args.train_file = 'train.data'
-        args.dev_file = 'dev.data'
-        args.test_file = 'test.data'
-        args.model_name_or_path = '/home/yjs1217/Downloads/pretrained/scibert_scivocab_cased'
-        args.train_batch_size = 8
-        args.test_batch_size = 8
-        args.learning_rate = 2e-5
-        args.num_class = 2
-        args.gradient_accumulation_steps = 4
-        args.evaluation_steps = 300
-        args.num_train_epochs = 10
 
     if not os.path.exists(args.save_path):
         os.mkdir(args.save_path)

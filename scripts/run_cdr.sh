@@ -18,11 +18,11 @@
 #sleep 100
 
 load_path=""
-#load_path == /py_project/DGUNet-CD/out/train_filter_bert_cdr_seed_best
+#load_path == /py_project/SSGU-CD/out/train_filter_bert_cdr_seed_best
 #losses=(BalancedLoss ATLoss AsymmetricLoss APLLoss)
 losses=BSCELoss
-use_gcns=(both mentions)
-seeds=(66 68 70 72 74)
+use_gcns=(both mentions tree)
+seeds=(66)
 for loss in "${losses[@]}"
 do
   for use_gcn in "${use_gcns[@]}"

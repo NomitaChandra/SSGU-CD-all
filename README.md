@@ -1,5 +1,5 @@
 # DGUNet-CD
-<div style="display:none">Code for arxiv 2022 Main Conference paper [A ](https://arxiv.org/).</div>
+<div style="display:none">Code for arxiv [](https://arxiv.org/).</div>
 
 Our code is modified based on [ATLOP](https://github.com/wzhouad/ATLOP), [DocuNet](https://github.com/zjunlp/DocuNet) and [UGDRE](https://github.com/QiSun123/UGDRE). Here we sincerely thanks for their excellent work.
 
@@ -7,15 +7,15 @@ Our code is modified based on [ATLOP](https://github.com/wzhouad/ATLOP), [DocuNe
 * Python (tested on 3.6.7)
 * CUDA (tested on 10.1)
 ```bash
-conda create -n DGUNet-CD python=3.6.7
-conda activate DGUNet-CD
+conda create -n SSGU-CD python=3.6.7
+conda activate SSGU-CD
 pip install -r requirements.txt
 ```
 
 ## Dataset
 The [CDR](https://pubmed.ncbi.nlm.nih.gov/26994911/) dataset can be downloaded following the instructions in [edge-oriented graph](https://github.com/fenchri/edge-oriented-graph). The expected structure of files is:
 ```
-biodre
+SSGU-CD
  |-- dataset
  |    |-- cdr
  |    |    |-- train_filter.data
