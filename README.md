@@ -1,5 +1,5 @@
-# DGUNet-CD
-<div style="display:none">Code for arxiv [](https://arxiv.org/).</div>
+# SSGU-CD
+<div style="display:none">Code for [](https://arxiv.org/).</div>
 
 Our code is modified based on [ATLOP](https://github.com/wzhouad/ATLOP), [DocuNet](https://github.com/zjunlp/DocuNet) and [UGDRE](https://github.com/QiSun123/UGDRE). Here we sincerely thanks for their excellent work.
 
