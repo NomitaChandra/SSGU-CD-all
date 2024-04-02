@@ -152,9 +152,19 @@ def evaluate(args, model, features, tag="dev", generate=False):
     for pred in preds_ans:
         if pred in golds_ans:
             re_correct += 1
+    re_correct_2 = 0
+    if args.dataset == 'biored_cd':
+        for pred in preds_ans:
+            for gold in golds_ans:
+                if pred['title'] == gold['title'] and pred['h_idx'] == gold['h_idx'] and pred['t_idx'] == gold['t_idx']:
+                    re_correct_2 += 1
+        precision_2 = re_correct_2 / (len(preds_ans) + 1e-5)
+        recall_2 = re_correct_2 / (len(golds_ans) + 1e-5)
+        f1_2 = 2 * precision_2 * recall_2 / (precision_2 + recall_2 + 1e-5)
+        print('biored_cd_rel2   f1_2: ', f1_2 * 100, '  precision_2: ',
+              precision_2 * 100, '  recall_2: ', recall_2 * 100)
     precision = re_correct / (len(preds_ans) + 1e-5)
     recall = re_correct / (len(golds_ans) + 1e-5)
-
     f1 = 2 * precision * recall / (precision + recall + 1e-5)
     output = {
         tag + "_F1": f1 * 100,
@@ -242,7 +252,7 @@ def main():
         args.test_batch_size = 8
         args.learning_rate = 2e-5
         args.num_class = 6
-        args.num_train_epochs = 30
+        args.num_train_epochs = 50
 
     if not os.path.exists(args.save_path):
         os.mkdir(args.save_path)

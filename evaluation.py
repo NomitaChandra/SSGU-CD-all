@@ -61,6 +61,8 @@ def gen_data_bio(args, res):
     save_path = './result/' + args.task
     if args.task == 'cdr':
         pubtator_test = './dataset/' + args.task + '/CDR_TestSet.PubTator.txt'
+    else:
+        return
     if not os.path.exists(save_path):
         os.makedirs(save_path)
     origin = []
