@@ -11,7 +11,7 @@ from torch.utils.data import DataLoader
 from transformers import AutoConfig, AutoModel, AutoTokenizer
 from transformers.optimization import AdamW, get_linear_schedule_with_warmup
 from tqdm import tqdm
-from model_bio import DocREModel
+from model_bio import Model
 from utils import set_seed, collate_fn
 from prepro_bio import read_bio
 from save_result import Logger
@@ -232,6 +232,17 @@ def main():
         args.learning_rate = 2e-5
         args.num_class = 2
         args.num_train_epochs = 30
+    if args.task == 'biored_cd':
+        args.data_dir = './dataset/biored_cd'
+        args.train_file = 'train.data'
+        args.dev_file = 'dev.data'
+        args.test_file = 'test.data'
+        args.model_name_or_path = '/data/pretrained/scibert_scivocab_cased'
+        args.train_batch_size = 8
+        args.test_batch_size = 8
+        args.learning_rate = 2e-5
+        args.num_class = 6
+        args.num_train_epochs = 30
 
     if not os.path.exists(args.save_path):
         os.mkdir(args.save_path)
@@ -275,11 +286,7 @@ def main():
     config.sep_token_id = tokenizer.sep_token_id
     config.transformer_type = args.transformer_type
     set_seed(args)
-    model = DocREModel(args, config, model, num_labels=args.num_class - 1)
-    # if torch.cuda.device_count() > 1:
-    #     print("Using ", torch.cuda.device_count(), " GPUs!")
-    #     # 如果有多个GPU，使用nn.DataParallel包装你的模型
-    #     model = torch.nn.DataParallel(model, device_ids=[0, 1])
+    model = Model(args, config, model, num_labels=args.num_class - 1)
     model.to(0)
 
     if args.load_path == "":  # Training
@@ -304,7 +311,7 @@ def main():
         print(test_output)
 
     else:  # Testing
-        args.load_path = os.path.join(args.load_path, file_name)
+        args.load_path = os.path.join(args.load_path)
         print(args.load_path)
         test_file = os.path.join(args.data_dir, args.test_file)
         test_cache = os.path.join(args.data_dir, 'test_cache')

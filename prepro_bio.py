@@ -1,20 +1,16 @@
 from tqdm import tqdm
-import ujson as json
 import numpy as np
-import unidecode
-from spacy.tokenizer import Tokenizer
 from spacy.tokens import Doc
-import random
 import copy
-import re
-import os
 import spacy
-import pickle
-import joblib
+import time
 
-# ENTITY_PAIR_TYPE_SET = set([("Chemical", "Disease"), ("Chemical", "Gene"), ("Gene", "Disease")])
 cdr_rel2id = {'1:NR:2': 0, '1:CID:2': 1}
-gda_rel2id = {'1:NR:2': 0, '1:GDA:2': 1}
+cdr_id2rel = {0: '1:NR:2', 1: '1:CID:2'}
+biored_cd_rel2id = {'1:NR:2': 0, '1:Association:2': 1, '1:Positive_Correlation:2': 2, '1:Bind:2': 3,
+                    '1:Negative_Correlation:2': 4, '1:Cotreatment:2': 5}
+biored_cd_id2rel = {0: '1:NR:2', 1: '1:Association:2', 2: '1:Positive_Correlation:2', 3: '1:Bind:2',
+                    4: '1:Negative_Correlation:2', 5: '1:Cotreatment:2'}
 biored_rel2id = {'1:NR:2': 0, '1:Association:2': 1, '1:Positive_Correlation:2': 2, '1:Bind:2': 3,
                  '1:Negative_Correlation:2': 4, '1:Comparison:2': 5, '1:Conversion:2': 6,
                  '1:Cotreatment:2': 7, '1:Drug_Interaction:2': 8}
@@ -99,20 +95,18 @@ def map_index(chars, tokens):
 
 def read_bio(args, file_in, tokenizer, max_seq_length=1024, save_file=''):
     # 缓存处理的数据
-    if len(save_file) > 2 and os.path.exists(save_file):
-        with open(file=save_file, mode='rb') as fr:
-            features = pickle.load(fr)
-            fr.close()
-        print('load preprocessed data from {}.'.format(save_file))
-        return features
+    # if len(save_file) > 2 and os.path.exists(save_file):
+    #     with open(file=save_file, mode='rb') as fr:
+    #         features = pickle.load(fr)
+    #         fr.close()
+    #     print('load preprocessed data from {}.'.format(save_file))
+    #     return features
 
     rel2id = None
     if args.task == 'cdr':
         rel2id = cdr_rel2id
-    elif args.task == 'gda':
-        rel2id = gda_rel2id
-    elif args.task == 'biored':
-        rel2id = biored_rel2id
+    elif args.task == 'biored_cd':
+        rel2id = biored_cd_rel2id
     assert rel2id is not None
     pmids = set()
     features = []
@@ -122,11 +116,6 @@ def read_bio(args, file_in, tokenizer, max_seq_length=1024, save_file=''):
     with open(file_in, 'r') as infile:
         lines = infile.readlines()
         for i_l, line in enumerate(tqdm(lines)):
-            # todo debug
-            # if len(features) < 10395:
-            #     features.append([])
-            #     continue
-
             line = line.rstrip().split('\t')
             pmid = line[0]
             # gnn 对应一个长宽均为实体类型数的矩阵，如果两实体在同一句子中，标记为0
@@ -231,7 +220,7 @@ def read_bio(args, file_in, tokenizer, max_seq_length=1024, save_file=''):
                                 break
 
                         if i_t == entity_pos[eid][0] or i_t == entity_pos[eid][1]:
-                            # 目前认为标记实体的'*'应该算在是实体的一部分，但不是一个单词的一部分，故不算其中。
+                            # 标记实体的'*'应该算在是实体的一部分，但不是一个单词的一部分，故不算其中。
                             index2word[len(index2word)] = spacy_offset
                             for token_wordpiece in tokens_wordpiece:
                                 index2word[len(index2word)] = spacy_tokens[spacy_token_id]
@@ -240,7 +229,13 @@ def read_bio(args, file_in, tokenizer, max_seq_length=1024, save_file=''):
                                 word2piecesid[spacy_tokens[spacy_token_id]].append(len(index2word) - 1)
 
                             oneToken.append(lengthofPice + 1)
-                            tokens_wordpiece = ["*"] + tokens_wordpiece
+                            if 'Chemical' in entity_pos[eid][2]:
+                                special_token = '<<Chemical>>'
+                            elif 'Disease' in entity_pos[eid][2]:
+                                special_token = '<<Disease>>'
+                            else:
+                                raise KeyError('not Chemical or Disease')
+                            tokens_wordpiece = [special_token] + tokens_wordpiece
                             lengthofPice += len(tokens_wordpiece)
                             oneToken.append(lengthofPice)
                         else:
@@ -261,16 +256,8 @@ def read_bio(args, file_in, tokenizer, max_seq_length=1024, save_file=''):
                         spacy_token_id += 1
                     # sent_map[i_t] = len(new_sents)
                 sents = new_sents
-                # 长度限制 1024
-                if len(new_sents) > 1022:
-                    print(pmid, "too long")
-                    continue
 
                 entity_pos = []
-                # todo debug
-                # if len(sent_map) == 224 and len(features) > 2517:
-                #     print()
-
                 for p in prs:
                     if p[0] == "not_include":
                         continue
@@ -315,7 +302,6 @@ def read_bio(args, file_in, tokenizer, max_seq_length=1024, save_file=''):
                             neg_samples += 1
                     relations.append(relation)
                     hts.append([h, t])
-
             sents = sents[:max_seq_length - 2]
             input_ids = tokenizer.convert_tokens_to_ids(sents)
             input_ids_new = tokenizer.build_inputs_with_special_tokens(input_ids)
@@ -323,10 +309,9 @@ def read_bio(args, file_in, tokenizer, max_seq_length=1024, save_file=''):
             max_len = len(input_ids_new)
             # 结构计算
             a_mentions = np.eye(len(input_ids))
-            # # todo debug
-            if pmid == '2234245':
-                print()
+            a_mentions_new = np.eye(max_len)
             adj_syntactic_dependency_tree = np.eye(len(input_ids))
+            adj_syntactic_dependency_tree_new = np.eye(max_len)
             offset = 1
             edges = 0
             for token_s in token_map:
@@ -337,6 +322,7 @@ def read_bio(args, file_in, tokenizer, max_seq_length=1024, save_file=''):
                         if i < (len(input_ids) - 1) and j < (len(input_ids) - 1):
                             if a_mentions[i][j] == 0:
                                 a_mentions[i][j] = 1
+                                a_mentions_new[i + 1][j + 1] = 1
                                 edges += 1
             # 所有实体在 tokens 中的跨度
             mentionsofPice = []
@@ -352,6 +338,7 @@ def read_bio(args, file_in, tokenizer, max_seq_length=1024, save_file=''):
                         if i < (len(input_ids) - 1) and j < (len(input_ids) - 1):
                             if a_mentions[i][j] == 0:
                                 a_mentions[i][j] = 1
+                                a_mentions_new[i + 1][j + 1] = 1
                                 edges += 1
             # 各类实体的实体跨度
             entityofPice = []
@@ -378,9 +365,8 @@ def read_bio(args, file_in, tokenizer, max_seq_length=1024, save_file=''):
                     for j in line:
                         if a_mentions[i][j] == 0:
                             a_mentions[i][j] = 1
+                            a_mentions_new[i + 1][j + 1] = 1
                             edges += 1
-            for i in range(0, len(a_mentions)):
-                a_mentions[i][i] = 1
 
             # 句法树
             count = 0
@@ -404,23 +390,16 @@ def read_bio(args, file_in, tokenizer, max_seq_length=1024, save_file=''):
                             # print("m:{}, n:{}".format(m, n))
                             adj_syntactic_dependency_tree[m][n] = 1  # 无向图
                             adj_syntactic_dependency_tree[n][m] = 1
+                            adj_syntactic_dependency_tree_new[m + 1][n + 1] = 1
+                            adj_syntactic_dependency_tree_new[n + 1][m + 1] = 1
 
                 i += len(word_sp)
                 count += 1
 
-            a_mentions_new = [[0 for j in range(max_len)] for i in range(max_len)]
-            adj_syntactic_dependency_tree_new = [[0 for j in range(max_len)] for i in range(max_len)]
-            if args.transformer_type == "bert":
-                for i in range(len(a_mentions)):
-                    for j in range(len(a_mentions)):
-                        a_mentions_new[i + 1][j + 1] = a_mentions[i][j]
-                        adj_syntactic_dependency_tree_new[i + 1][j + 1] = adj_syntactic_dependency_tree[i][j]
-            elif args.transformer_type == "roberta":
-                for i in range(len(a_mentions)):
-                    for j in range(len(a_mentions)):
-                        a_mentions_new[i + 1][j + 1] = a_mentions[i][j]
-                        adj_syntactic_dependency_tree_new[i + 1][j + 1] = adj_syntactic_dependency_tree[i][j]
-
+            adj_syntactic_dependency_tree_new[0][0] = 0
+            adj_syntactic_dependency_tree_new[-1][-1] = 0
+            a_mentions_new[0][0] = 0
+            a_mentions_new[-1][-1] = 0
             assert len(ent2idx) == len(ent2ent_type)
             if len(hts) > 0:
                 feature = {'input_ids': input_ids_new,
@@ -430,8 +409,8 @@ def read_bio(args, file_in, tokenizer, max_seq_length=1024, save_file=''):
                            'title': pmid,
                            'ent2idx': ent2idx,
                            'ent2ent_type': ent2ent_type,
-                           'adj_mention': a_mentions_new,
-                           'adj_syntactic_dependency_tree': adj_syntactic_dependency_tree_new
+                           'adj_mention': a_mentions_new.tolist(),
+                           'adj_syntactic_dependency_tree': adj_syntactic_dependency_tree_new.tolist()
                            }
                 features.append(feature)
 

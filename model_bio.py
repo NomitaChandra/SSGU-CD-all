@@ -5,7 +5,7 @@ from model_utils.attn_unet import AttentionUNet
 from model_utils.graph_networks import GraphConvolution, GraphAttentionLayer
 
 
-class DocREModel(nn.Module):
+class Model(nn.Module):
     def __init__(self, args, config, model, emb_size=768, block_size=64, num_labels=-1):
         super().__init__()
         self.device = args.device
