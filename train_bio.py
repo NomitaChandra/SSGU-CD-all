@@ -259,7 +259,7 @@ def main():
         args.dev_file = 'test.data'
         args.test_file = 'test.data'
         args.model_name_or_path = '/data/pretrained/BiomedNLP-PubMedBERT-base-uncased-abstract'
-        args.train_batch_size = 12
+        args.train_batch_size = 8
         args.test_batch_size = 12
         args.learning_rate = 2e-5
         args.num_class = 4
