@@ -153,15 +153,23 @@ def evaluate(args, model, features, tag="dev", generate=False):
         if pred in golds_ans:
             re_correct += 1
     re_correct_2 = 0
-    if args.dataset == 'biored_cd':
-        for pred in preds_ans:
-            for gold in golds_ans:
-                if pred['title'] == gold['title'] and pred['h_idx'] == gold['h_idx'] and pred['t_idx'] == gold['t_idx']:
-                    re_correct_2 += 1
+    preds_ans_2 = []
+    golds_ans_2 = []
+    for pred in preds_ans:
+        if [pred['title'], pred['h_idx'], pred['t_idx']] not in preds_ans_2 \
+                and [pred['title'], pred['t_idx'], pred['h_idx']] not in preds_ans_2:
+            preds_ans_2.append([pred['title'], pred['h_idx'], pred['t_idx']])
+    for gold in golds_ans:
+        if [gold['title'], gold['h_idx'], gold['t_idx']] not in golds_ans_2:
+            golds_ans_2.append([gold['title'], gold['h_idx'], gold['t_idx']])
+    if args.task == 'biored_cd':
+        for pred in preds_ans_2:
+            if pred in golds_ans_2 or [pred[0], pred[2], pred[1]] in golds_ans_2:
+                re_correct_2 += 1
         precision_2 = re_correct_2 / (len(preds_ans) + 1e-5)
         recall_2 = re_correct_2 / (len(golds_ans) + 1e-5)
         f1_2 = 2 * precision_2 * recall_2 / (precision_2 + recall_2 + 1e-5)
-        print('biored_cd_rel2   f1_2: ', f1_2 * 100, '  precision_2: ',
+        print('biored_cd_rel2 ', tag, '   f1_2: ', f1_2 * 100, '  precision_2: ',
               precision_2 * 100, '  recall_2: ', recall_2 * 100)
     precision = re_correct / (len(preds_ans) + 1e-5)
     recall = re_correct / (len(golds_ans) + 1e-5)
@@ -229,6 +237,7 @@ def main():
     parser.add_argument("--down_dim", type=int, default=256, help="down_dim.")
     parser.add_argument("--bert_lr", default=3e-5, type=float, help="The initial learning rate for Adam.")
     parser.add_argument("--max_height", type=int, default=64, help="max_height.")
+    parser.add_argument("--rel2", type=bool, default=False, help="")
     args = parser.parse_args()
 
     if args.task == 'cdr':
@@ -246,13 +255,20 @@ def main():
         args.data_dir = './dataset/biored_cd'
         args.train_file = 'train.data'
         args.dev_file = 'dev.data'
+        args.train_file = 'train+dev.data'
+        args.dev_file = 'test.data'
         args.test_file = 'test.data'
-        args.model_name_or_path = '/data/pretrained/scibert_scivocab_cased'
-        args.train_batch_size = 8
-        args.test_batch_size = 8
+        args.model_name_or_path = '/data/pretrained/BiomedNLP-PubMedBERT-base-uncased-abstract'
+        args.train_batch_size = 12
+        args.test_batch_size = 12
         args.learning_rate = 2e-5
-        args.num_class = 6
+        args.num_class = 4
         args.num_train_epochs = 50
+        args.rel2 = True
+        if args.rel2:
+            args.train_file = 'train+dev.data'
+            args.dev_file = 'test.data'
+            args.num_class = 2
 
     if not os.path.exists(args.save_path):
         os.mkdir(args.save_path)
@@ -296,20 +312,16 @@ def main():
     config.sep_token_id = tokenizer.sep_token_id
     config.transformer_type = args.transformer_type
     set_seed(args)
-    model = Model(args, config, model, num_labels=args.num_class - 1)
+    model = Model(args, config, model, num_labels=1)
     model.to(0)
 
     if args.load_path == "":  # Training
         train_file = os.path.join(args.data_dir, args.train_file)
         dev_file = os.path.join(args.data_dir, args.dev_file)
         test_file = os.path.join(args.data_dir, args.test_file)
-        train_cache = os.path.join(args.data_dir, 'train_cache')
-        dev_cache = os.path.join(args.data_dir, 'dev_cache')
-        test_cache = os.path.join(args.data_dir, 'test_cache')
-        train_features = read(args, train_file, tokenizer, max_seq_length=args.max_seq_length,
-                              save_file=train_cache)
-        dev_features = read(args, dev_file, tokenizer, max_seq_length=args.max_seq_length, save_file=dev_cache)
-        test_features = read(args, test_file, tokenizer, max_seq_length=args.max_seq_length, save_file=test_cache)
+        train_features = read(args, train_file, tokenizer, max_seq_length=args.max_seq_length)
+        dev_features = read(args, dev_file, tokenizer, max_seq_length=args.max_seq_length)
+        test_features = read(args, test_file, tokenizer, max_seq_length=args.max_seq_length)
 
         train(args, model, train_features, dev_features, test_features)
 
@@ -324,8 +336,7 @@ def main():
         args.load_path = os.path.join(args.load_path)
         print(args.load_path)
         test_file = os.path.join(args.data_dir, args.test_file)
-        test_cache = os.path.join(args.data_dir, 'test_cache')
-        test_features = read(args, test_file, tokenizer, max_seq_length=args.max_seq_length, save_file=test_cache)
+        test_features = read(args, test_file, tokenizer, max_seq_length=args.max_seq_length)
 
         print("TEST")
         model.load_state_dict(torch.load(args.load_path))

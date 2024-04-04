@@ -9,8 +9,7 @@ cdr_rel2id = {'1:NR:2': 0, '1:CID:2': 1}
 cdr_id2rel = {0: '1:NR:2', 1: '1:CID:2'}
 biored_cd_rel2id = {'1:NR:2': 0, '1:Association:2': 1, '1:Positive_Correlation:2': 2, '1:Bind:2': 3,
                     '1:Negative_Correlation:2': 4, '1:Cotreatment:2': 5}
-biored_cd_id2rel = {0: '1:NR:2', 1: '1:Association:2', 2: '1:Positive_Correlation:2', 3: '1:Bind:2',
-                    4: '1:Negative_Correlation:2', 5: '1:Cotreatment:2'}
+biored_cd_id2rel = {0: '1:NR:2', 1: '1:Association:2', 2: '1:Positive_Correlation:2', 3: '1:Negative_Correlation:2'}
 biored_rel2id = {'1:NR:2': 0, '1:Association:2': 1, '1:Positive_Correlation:2': 2, '1:Bind:2': 3,
                  '1:Negative_Correlation:2': 4, '1:Comparison:2': 5, '1:Conversion:2': 6,
                  '1:Cotreatment:2': 7, '1:Drug_Interaction:2': 8}
@@ -93,17 +92,9 @@ def map_index(chars, tokens):
     return ind_map
 
 
-def read_bio(args, file_in, tokenizer, max_seq_length=1024, save_file=''):
-    # 缓存处理的数据
-    # if len(save_file) > 2 and os.path.exists(save_file):
-    #     with open(file=save_file, mode='rb') as fr:
-    #         features = pickle.load(fr)
-    #         fr.close()
-    #     print('load preprocessed data from {}.'.format(save_file))
-    #     return features
-
+def read_bio(args, file_in, tokenizer, max_seq_length=1024):
     rel2id = None
-    if args.task == 'cdr':
+    if args.task == 'cdr' or args.rel2:
         rel2id = cdr_rel2id
     elif args.task == 'biored_cd':
         rel2id = biored_cd_rel2id
@@ -179,7 +170,7 @@ def read_bio(args, file_in, tokenizer, max_seq_length=1024, save_file=''):
                     if p[11] not in ent2ent_type:
                         ent2ent_type[p[11]] = p[13]
                 if len(entity_pos) == 0:
-                    print(pmid, 'rel is none')
+                    # print(pmid, 'rel is none')
                     continue
 
                 # spacy 分析
@@ -285,7 +276,10 @@ def read_bio(args, file_in, tokenizer, max_seq_length=1024, save_file=''):
                         entity_pos.append(list(zip(t_start, t_end)))
                     h_id, t_id = ent2idx[h_id], ent2idx[t_id]
 
-                    r = rel2id[p[0]]
+                    if args.rel2:
+                        r = 0 if p[0] == '1:NR:2' else 1
+                    else:
+                        r = rel2id[p[0]]
                     if (h_id, t_id) not in train_triples:
                         train_triples[(h_id, t_id)] = [{'relation': r}]
                     else:
@@ -413,8 +407,4 @@ def read_bio(args, file_in, tokenizer, max_seq_length=1024, save_file=''):
                            'adj_syntactic_dependency_tree': adj_syntactic_dependency_tree_new.tolist()
                            }
                 features.append(feature)
-
-            if args.demo == 'true' and len(features) > 20:
-                break
-
     return features

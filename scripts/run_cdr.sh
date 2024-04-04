@@ -22,7 +22,7 @@ load_path=""
 #losses=(BalancedLoss ATLoss AsymmetricLoss APLLoss)
 losses=BSCELoss
 use_gcns=("both" "mentions" "tree" "false")
-seeds=(72 74 76)
+seeds=(64 66 68 70 72)
 for loss in "${losses[@]}"
 do
   for use_gcn in "${use_gcns[@]}"
