@@ -237,7 +237,7 @@ def main():
     parser.add_argument("--down_dim", type=int, default=256, help="down_dim.")
     parser.add_argument("--bert_lr", default=3e-5, type=float, help="The initial learning rate for Adam.")
     parser.add_argument("--max_height", type=int, default=64, help="max_height.")
-    parser.add_argument("--rel2", type=bool, default=False, help="")
+    parser.add_argument("--rel2", type=int, default=0, help="")
     args = parser.parse_args()
 
     if args.task == 'cdr':
@@ -253,18 +253,15 @@ def main():
         args.num_train_epochs = 30
     if args.task == 'biored_cd':
         args.data_dir = './dataset/biored_cd'
-        args.train_file = 'train.data'
-        args.dev_file = 'dev.data'
         args.train_file = 'train+dev.data'
         args.dev_file = 'test.data'
         args.test_file = 'test.data'
         args.model_name_or_path = '/data/pretrained/BiomedNLP-PubMedBERT-base-uncased-abstract'
-        args.train_batch_size = 8
+        args.train_batch_size = 12
         args.test_batch_size = 12
         args.learning_rate = 2e-5
         args.num_class = 4
         args.num_train_epochs = 50
-        args.rel2 = True
         if args.rel2:
             args.train_file = 'train+dev.data'
             args.dev_file = 'test.data'
@@ -272,8 +269,10 @@ def main():
 
     if not os.path.exists(args.save_path):
         os.mkdir(args.save_path)
-    file_name = "{}_{}_{}_seed_{}_{}_{}_{}_{}".format(
+    timestamp = datetime.datetime.now().strftime("%Y%m%d-%H%M")
+    file_name = "{}_{}_{}_{}_seed_{}_{}_{}_{}_{}".format(
         args.train_file.split('.')[0],
+        timestamp,
         args.transformer_type,
         args.data_dir.split('/')[-1],
         args.loss,
@@ -283,7 +282,7 @@ def main():
         str(args.seed),
     )
     args.save_path = os.path.join(args.save_path, file_name)
-    timestamp = datetime.datetime.now().strftime("%Y%m%d-%H%M")
+
     args.save_pubtator = os.path.join('./result/' + args.task + '/' + args.task + '_' + timestamp + '_' + args.loss
                                       + '_' + str(args.use_gcn) + '_s0=' + str(args.s0)
                                       + '_dropout=' + str(args.dropout) + '_' + str(args.seed))

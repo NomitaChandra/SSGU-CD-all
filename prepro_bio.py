@@ -7,8 +7,7 @@ import time
 
 cdr_rel2id = {'1:NR:2': 0, '1:CID:2': 1}
 cdr_id2rel = {0: '1:NR:2', 1: '1:CID:2'}
-biored_cd_rel2id = {'1:NR:2': 0, '1:Association:2': 1, '1:Positive_Correlation:2': 2, '1:Bind:2': 3,
-                    '1:Negative_Correlation:2': 4, '1:Cotreatment:2': 5}
+biored_cd_rel2id = {'1:NR:2': 0, '1:Association:2': 1, '1:Positive_Correlation:2': 2, '1:Negative_Correlation:2': 3}
 biored_cd_id2rel = {0: '1:NR:2', 1: '1:Association:2', 2: '1:Positive_Correlation:2', 3: '1:Negative_Correlation:2'}
 biored_rel2id = {'1:NR:2': 0, '1:Association:2': 1, '1:Positive_Correlation:2': 2, '1:Bind:2': 3,
                  '1:Negative_Correlation:2': 4, '1:Comparison:2': 5, '1:Conversion:2': 6,
