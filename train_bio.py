@@ -238,6 +238,7 @@ def main():
     parser.add_argument("--bert_lr", default=3e-5, type=float, help="The initial learning rate for Adam.")
     parser.add_argument("--max_height", type=int, default=64, help="max_height.")
     parser.add_argument("--rel2", type=int, default=0, help="")
+    parser.add_argument("--save_result", type=str, default="", help="save predict result.")
     args = parser.parse_args()
 
     if args.task == 'cdr':
@@ -332,7 +333,10 @@ def main():
         print(test_output)
 
     else:  # Testing
+        if len(args.save_result) < 1:
+            args.save_result = './result/' + args.task + '/'
         args.load_path = os.path.join(args.load_path)
+        args.save_pubtator = os.path.join(args.save_result + args.task + '_rel2_' + str(args.rel2) + '_test')
         print(args.load_path)
         test_file = os.path.join(args.data_dir, args.test_file)
         test_features = read(args, test_file, tokenizer, max_seq_length=args.max_seq_length)

@@ -59,8 +59,11 @@ def to_official_bio(args, preds, features):
 
 def gen_data_bio(args, res):
     save_path = './result/' + args.task
+    print('generate predict result in ' + args.save_pubtator)
     if args.task == 'cdr':
         pubtator_test = './dataset/' + args.task + '/CDR_TestSet.PubTator.txt'
+    elif args.task == 'biored_cd':
+        pubtator_test = './dataset/' + args.task + '/Test.pubtator'
     else:
         return
     if not os.path.exists(save_path):
