@@ -3,7 +3,6 @@ import numpy as np
 from spacy.tokens import Doc
 import copy
 import spacy
-import time
 
 cdr_rel2id = {'1:NR:2': 0, '1:CID:2': 1}
 cdr_id2rel = {0: '1:NR:2', 1: '1:CID:2'}
@@ -108,7 +107,6 @@ def read_bio(args, file_in, tokenizer, max_seq_length=1024):
         for i_l, line in enumerate(tqdm(lines)):
             line = line.rstrip().split('\t')
             pmid = line[0]
-            # gnn 对应一个长宽均为实体类型数的矩阵，如果两实体在同一句子中，标记为0
             entities = {}
             ent2ent_type = {}
             if pmid not in pmids:
@@ -138,7 +136,7 @@ def read_bio(args, file_in, tokenizer, max_seq_length=1024):
                         entities[entity_id] = []
                     for start, end, string in zip(es, ed, entity_str):
                         entity_pos.add((start, end, tpy))
-                        # 当前实体在哪个句子中
+                        # entity in which sent
                         sent_in_id = -1
                         for i in range(len(sents_len)):
                             if sents_len[i] > end:
@@ -156,7 +154,7 @@ def read_bio(args, file_in, tokenizer, max_seq_length=1024):
                         entities[entity_id] = []
                     for start, end, string in zip(es, ed, entity_str):
                         entity_pos.add((start, end, tpy))
-                        # 当前实体在哪个句子中
+                        # entity in which sent
                         sent_in_id = -1
                         for i in range(len(sents_len)):
                             if sents_len[i] > end:
