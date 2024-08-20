@@ -7,7 +7,7 @@ python train_bio.py \
           --s0 0.3 \
           --dropout 0.5 \
           --rel2 1 \
-          --load_path "/py_project/SSGU-CD/result/our_results/train+dev_biored_cd_both_rel2" \
+          --load_path "./result/train+dev_biored_cd_both_rel2" \
           --save_result ""
 
 python train_bio.py \
@@ -17,5 +17,5 @@ python train_bio.py \
           --s0 0.3 \
           --dropout 0.5 \
           --rel2 0 \
-          --load_path "/py_project/SSGU-CD/result/our_results/train+dev_biored_cd_both" \
+          --load_path "./result/train+dev_biored_cd_both" \
           --save_result ""
