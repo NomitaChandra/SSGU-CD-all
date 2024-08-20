@@ -2,8 +2,7 @@
 
 Code for [](https://).
 
-Our code is modified based on [ATLOP](https://github.com/wzhouad/ATLOP), [DocuNet](https://github.com/zjunlp/DocuNet)
-and [UGDRE](https://github.com/QiSun123/UGDRE). Here we sincerely thanks for their excellent work.
+Our code is modified based on [ATLOP](https://github.com/wzhouad/ATLOP), [DocuNet](https://github.com/zjunlp/DocuNet), and [UGDRE](https://github.com/QiSun123/UGDRE). Here we sincerely thanks for their excellent work.
 
 ## Environments
 
@@ -11,8 +10,7 @@ and [UGDRE](https://github.com/QiSun123/UGDRE). Here we sincerely thanks for the
 * pytorch (tested in 1.7.1)
 * CUDA (tested on 10.2)
 
-Firstly, you need to download and enter the project folder SSGU-CD. Then, you need to create and enter the conda environment. The
-command is as follows:
+Firstly, you need to download and enter the project folder SSGU-CD. Then, you need to create and enter the conda environment. The command is as follows:
 
 ```bash
 cd SSGU-CD
@@ -24,18 +22,13 @@ chmod +x ./data_preprocess/common/
 
 ## Dataset and Model
 
-The [CDR](https://pubmed.ncbi.nlm.nih.gov/26994911/) dataset and
-the [BioRED](https://ftp.ncbi.nlm.nih.gov/pub/lu/BioRED/) dataset can be downloaded.
-Since [geniass](http://www.nactem.ac.uk/y-matsu/geniass/geniass-1.00.tar.gz) may not be available, we provide it in the
-repository.
-The [PubMedBERT](https://huggingface.co/microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract) pre-trained model can be
-downloaded.
+The [CDR](https://pubmed.ncbi.nlm.nih.gov/26994911/) dataset and the [BioRED](https://ftp.ncbi.nlm.nih.gov/pub/lu/BioRED/) dataset can be downloaded.
+Since [geniass](http://www.nactem.ac.uk/y-matsu/geniass/geniass-1.00.tar.gz) may not be available, we provide it in the repository.
+The [PubMedBERT](https://huggingface.co/microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract) pre-trained model can be downloaded.
 The [SciBERT](https://huggingface.co/allenai/scibert_scivocab_cased) pre-trained model can be downloaded.
-You can download our pre-trained model, which is available for download
-at [huggingface](https://huggingface.co/NNroc/SSGU-CD/tree/main).
+You can download our pre-trained model, which is available for download at [huggingface](https://huggingface.co/NNroc/SSGU-CD/tree/main).
 
-You can regenerate the processed data using the following command, and then intermediate data (`{}.data`) can be
-generated from `preprocess_cdr.sh` and `preprocess_biored_cd.sh`.
+You can regenerate the processed data using the following command, and then intermediate data (`{}.data`) can be generated from `preprocess_cdr.sh` and `preprocess_biored_cd.sh`.
 
 ```shell
 cd data_processing
@@ -73,7 +66,7 @@ SSGU-CD
 
 ## Training and Evaluation (in Jupyter)
 
-Details of training and evaluation can be found in the `train_cdr.ipynb`, `train_biored.ipynb`, and `evaluate.ipynb` (not best results). You need to configure the conda environment first.
+Details of training and evaluation can be found in the `train_cdr.ipynb`, `train_biored.ipynb`, `train_biored_entity_pair.ipynb`, and `evaluate.ipynb` (not best results). You need to configure the conda environment first.
 Among them, 10 documents in biored's training do not include chemical and disease entities. Therefore, the training set only consists of 490 documents.
 
 ## Training and Evaluation
@@ -85,8 +78,7 @@ python train_bio.py --task cdr
 python train_bio.py --task biored_cd
 ```
 
-Before running the shell script, you need to modify the `--load_path`, which represents the storage location of the
-model. You can also modify the `--save_result`, which represents the storage location for the output files.
+Before running the shell script, you need to modify the `--load_path`, which represents the storage location of the model. You can also modify the `--save_result`, which represents the storage location for the output files.
 
 ```bash
 bash scripts/test_cdr.sh
