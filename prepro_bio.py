@@ -11,6 +11,9 @@ biored_cd_id2rel = {0: '1:NR:2', 1: '1:Association:2', 2: '1:Positive_Correlatio
 biored_rel2id = {'1:NR:2': 0, '1:Association:2': 1, '1:Positive_Correlation:2': 2, '1:Bind:2': 3,
                  '1:Negative_Correlation:2': 4, '1:Comparison:2': 5, '1:Conversion:2': 6,
                  '1:Cotreatment:2': 7, '1:Drug_Interaction:2': 8}
+biored_id2rel = {0: '1:NR:2', 1: '1:Association:2', 2: '1:Positive_Correlation:2', 3: '1:Bind:2',
+                 4: '1:Negative_Correlation:2', 5: '1:Comparison:2', 6: '1:Conversion:2',
+                 7: '1:Cotreatment:2', 8: '1:Drug_Interaction:2'}
 
 
 def chunks(l, n):
@@ -96,6 +99,8 @@ def read_bio(args, file_in, tokenizer, max_seq_length=1024):
         rel2id = cdr_rel2id
     elif args.task == 'biored_cd':
         rel2id = biored_cd_rel2id
+    elif args.task == 'biored':
+        rel2id = biored_rel2id
     assert rel2id is not None
     pmids = set()
     features = []
@@ -221,8 +226,12 @@ def read_bio(args, file_in, tokenizer, max_seq_length=1024):
                                 special_token = '<<Chemical>>'
                             elif 'Disease' in entity_pos[eid][2]:
                                 special_token = '<<Disease>>'
+                            elif 'Gene' in entity_pos[eid][2]:
+                                special_token = '<<Gene>>'
+                            elif 'Variant' in entity_pos[eid][2]:
+                                special_token = '<<Variant>>'
                             else:
-                                raise KeyError('not Chemical or Disease')
+                                raise KeyError('not Chemical or Disease or Gene or Variant')
                             tokens_wordpiece = [special_token] + tokens_wordpiece
                             lengthofPice += len(tokens_wordpiece)
                             oneToken.append(lengthofPice)

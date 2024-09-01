@@ -10,6 +10,8 @@ from prepro_bio import read_bio
 from save_result import Logger
 from evaluation import train, evaluate
 
+os.environ['CUDA_VISIBLE_DEVICES'] = '1'
+
 
 def main():
     parser = argparse.ArgumentParser()
@@ -77,7 +79,7 @@ def main():
         args.test_file = 'test_filter.data'
         args.model_name_or_path = '/data/pretrained/scibert_scivocab_cased'
         args.train_batch_size = 12
-        args.test_batch_size = 12
+        args.test_batch_size = 24
         args.learning_rate = 2e-5
         args.num_class = 2
         args.num_train_epochs = 30
@@ -88,7 +90,7 @@ def main():
         args.test_file = 'test.data'
         args.model_name_or_path = '/data/pretrained/BiomedNLP-PubMedBERT-base-uncased-abstract'
         args.train_batch_size = 12
-        args.test_batch_size = 12
+        args.test_batch_size = 24
         args.learning_rate = 2e-5
         args.num_class = 4
         args.num_train_epochs = 50
@@ -101,18 +103,11 @@ def main():
         os.mkdir(args.save_path)
     timestamp = datetime.datetime.now().strftime("%Y%m%d-%H%M")
     file_name = "{}_{}_{}_{}_seed_{}_{}_{}_{}_{}".format(
-        args.train_file.split('.')[0],
-        timestamp,
-        args.transformer_type,
-        args.data_dir.split('/')[-1],
-        args.loss,
-        args.use_gcn,
-        args.s0,
-        args.dropout,
-        str(args.seed),
+        args.train_file.split('.')[0], timestamp,
+        args.transformer_type, args.data_dir.split('/')[-1],
+        args.loss, args.use_gcn, args.s0, args.dropout, str(args.seed),
     )
     args.save_path = os.path.join(args.save_path, file_name)
-
     args.save_pubtator = os.path.join('./result/' + args.task + '/' + args.task + '_' + timestamp + '_' + args.loss
                                       + '_' + str(args.use_gcn) + '_s0=' + str(args.s0)
                                       + '_dropout=' + str(args.dropout) + '_' + str(args.seed))

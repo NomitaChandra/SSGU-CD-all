@@ -5,11 +5,19 @@ from transformers.optimization import AdamW, get_linear_schedule_with_warmup
 from tqdm import tqdm
 from torch.utils.data import DataLoader
 from utils import set_seed, collate_fn
-from prepro_bio import cdr_id2rel, biored_cd_id2rel
+from prepro_bio import cdr_id2rel, biored_cd_id2rel, biored_id2rel
 
 cdr_pairs = [("Chemical", "Disease"), ("Disease", "Chemical")]
 biored_cd_pairs = [("ChemicalEntity", "DiseaseOrPhenotypicFeature"), ("DiseaseOrPhenotypicFeature", "ChemicalEntity")]
 gda_pairs = [("Gene", "Disease"), ("Disease", "Gene")]
+biored_pairs = [("ChemicalEntity", "ChemicalEntity"),
+                ("GeneOrGeneProduct", "GeneOrGeneProduct"),
+                ("ChemicalEntity", "DiseaseOrPhenotypicFeature"), ("DiseaseOrPhenotypicFeature", "ChemicalEntity"),
+                ("ChemicalEntity", "GeneOrGeneProduct"), ("GeneOrGeneProduct", "ChemicalEntity"),
+                ("ChemicalEntity", "SequenceVariant"), ("SequenceVariant", "ChemicalEntity"),
+                ("GeneOrGeneProduct", "DiseaseOrPhenotypicFeature"),
+                ("DiseaseOrPhenotypicFeature", "GeneOrGeneProduct"),
+                ("DiseaseOrPhenotypicFeature", "SequenceVariant"), ("SequenceVariant", "DiseaseOrPhenotypicFeature")]
 
 
 def train(args, model, train_features, dev_features, test_features):
@@ -116,21 +124,26 @@ def evaluate(args, model, features, tag="dev", generate=False):
     preds_ans_2 = []
     golds_ans_2 = []
     for pred in preds_ans:
-        if [pred['title'], pred['h_idx'], pred['t_idx']] not in preds_ans_2 \
-                and [pred['title'], pred['t_idx'], pred['h_idx']] not in preds_ans_2:
-            preds_ans_2.append([pred['title'], pred['h_idx'], pred['t_idx']])
+        if [pred['title'], pred['h_idx'], pred['t_idx'], pred['r']] not in preds_ans_2 \
+                and [pred['title'], pred['t_idx'], pred['h_idx'], pred['r']] not in preds_ans_2:
+            preds_ans_2.append([pred['title'], pred['h_idx'], pred['t_idx'], pred['r']])
     for gold in golds_ans:
-        if [gold['title'], gold['h_idx'], gold['t_idx']] not in golds_ans_2:
-            golds_ans_2.append([gold['title'], gold['h_idx'], gold['t_idx']])
-    if args.task == 'biored_cd':
+        if [gold['title'], gold['h_idx'], gold['t_idx'], gold['r']] not in golds_ans_2 \
+                and [pred['title'], gold['t_idx'], gold['h_idx'], gold['r']] not in golds_ans_2:
+            golds_ans_2.append([gold['title'], gold['h_idx'], gold['t_idx'], gold['r']])
+    if args.task == 'biored':
         for pred in preds_ans_2:
-            if pred in golds_ans_2 or [pred[0], pred[2], pred[1]] in golds_ans_2:
+            if pred in golds_ans_2 or [pred[0], pred[2], pred[1], pred[3]] in golds_ans_2:
                 re_correct_2 += 1
         precision_2 = re_correct_2 / (len(preds_ans) + 1e-5)
         recall_2 = re_correct_2 / (len(golds_ans) + 1e-5)
         f1_2 = 2 * precision_2 * recall_2 / (precision_2 + recall_2 + 1e-5)
-        # print('biored_cd_rel2 ', tag, '   f1_2: ', f1_2 * 100, '  precision_2: ',
-        #       precision_2 * 100, '  recall_2: ', recall_2 * 100)
+        output = {
+            tag + "_F1": f1_2 * 100,
+            tag + "_P": precision_2 * 100,
+            tag + "_R": recall_2 * 100
+        }
+        return f1_2, output
     precision = re_correct / (len(preds_ans) + 1e-5)
     recall = re_correct / (len(golds_ans) + 1e-5)
     f1 = 2 * precision * recall / (precision + recall + 1e-5)
@@ -150,6 +163,9 @@ def to_official_bio(args, preds, features):
     elif args.task == 'biored_cd':
         bio_pairs = biored_cd_pairs
         id2rel = biored_cd_id2rel
+    elif args.task == 'biored':
+        bio_pairs = biored_pairs
+        id2rel = biored_id2rel
     else:
         return
 
@@ -173,7 +189,7 @@ def to_official_bio(args, preds, features):
             if p != 0:
                 if (h_idx_type[i], t_idx_type[i]) not in bio_pairs and (
                         t_idx_type[i], h_idx_type[i]) not in bio_pairs:
-                    print(h_idx_type[i], t_idx_type[i], 'no')
+                    # print(h_idx_type[i], t_idx_type[i], 'no')
                     continue
                 res.append(
                     {
@@ -183,7 +199,6 @@ def to_official_bio(args, preds, features):
                         'r': id2rel[p].split(':')[1]
                     }
                 )
-    # res.sort(key=lambda x: (x['title'], x['h_idx'], x['t_idx'], x['r']))
     return res
 
 
