@@ -1,8 +1,6 @@
 # SSGU-CD
 
-Code for [](https://).
-
-Our code is modified based on [ATLOP](https://github.com/wzhouad/ATLOP), [DocuNet](https://github.com/zjunlp/DocuNet), and [UGDRE](https://github.com/QiSun123/UGDRE). Here we sincerely thanks for their excellent work.
+Code for [Journal of Biomedical Informatics](https://www.sciencedirect.com/science/article/pii/S1532046424001370).
 
 ## Environments
 

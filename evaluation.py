@@ -129,7 +129,7 @@ def evaluate(args, model, features, tag="dev", generate=False):
             preds_ans_2.append([pred['title'], pred['h_idx'], pred['t_idx'], pred['r']])
     for gold in golds_ans:
         if [gold['title'], gold['h_idx'], gold['t_idx'], gold['r']] not in golds_ans_2 \
-                and [pred['title'], gold['t_idx'], gold['h_idx'], gold['r']] not in golds_ans_2:
+                and [gold['title'], gold['t_idx'], gold['h_idx'], gold['r']] not in golds_ans_2:
             golds_ans_2.append([gold['title'], gold['h_idx'], gold['t_idx'], gold['r']])
     if args.task == 'biored':
         for pred in preds_ans_2:
