@@ -1,0 +1,8 @@
+Systemic toxicity following administration of sirolimus (formerly rapamycin) for psoriasis: association of capillary leak syndrome with apoptosis of lesional lymphocytes.
+BACKGROUND: Sirolimus (formerly rapamycin) is an immunosuppressive agent that interferes with T-cell activation.
+After 2 individuals with psoriasis developed a capillary leak syndrome following treatment with oral sirolimus lesional skin cells and activated peripheral blood cells were analyzed for induction of apoptosis.
+OBSERVATIONS: A keratome skin specimen from 1 patient with sirolimus-induced capillary leak syndrome had a 2.3-fold increase in percentage of apoptotic cells (to 48%) compared with an unaffected sirolimus-treated patient with psoriasis (21%).
+Activated peripheral blood T cells from patients with psoriasis tended to exhibit greater spontaneous or dexamethasone-induced apoptosis than did normal T cells, particularly in the presence of sirolimus.
+CONCLUSIONS: Severe adverse effects of sirolimus include fever, anemia, and capillary leak syndrome.
+These symptoms may be the result of drug-induced apoptosis of lesional leukocytes, especially activated T lymphocytes, and possibly release of inflammatory mediators.
+Because patients with severe psoriasis may develop capillary leak from various systemic therapies, clinical monitoring is advisable for patients with inflammatory diseases who are treated with immune modulators.

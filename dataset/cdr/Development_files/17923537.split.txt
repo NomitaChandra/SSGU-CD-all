@@ -1,0 +1,8 @@
+Intraocular pressure in patients with uveitis treated with fluocinolone acetonide implants.
+OBJECTIVE: To report the incidence and management of elevated intraocular pressure (IOP) in patients with uveitis treated with the fluocinolone acetonide (FA) intravitreal implant.
+DESIGN: Pooled data from 3 multicenter, double-masked, randomized, controlled, phase 2b/3 clinical trials evaluating the safety and efficacy of the 0.59-mg or 2.1-mg FA intravitreal implant or standard therapy were analyzed.
+RESULTS: During the 3-year follow-up, 71.0% of implanted eyes had an IOP increase of 10 mm Hg or more than baseline and 55.1%, 24.7%, and 6.2% of eyes reached an IOP of 30 mm Hg or more, 40 mm Hg or more, and 50 mm Hg or more, respectively.
+Topical IOP-lowering medication was administered in 74.8% of implanted eyes, and IOP-lowering surgeries, most of which were trabeculectomies (76.2%), were performed on 36.6% of implanted eyes.
+Intraocular pressure-lowering surgeries were considered a success (postoperative IOP of 6-21 mm Hg with or without additional IOP-lowering medication) in 85.1% of eyes at 1 year.
+The rate of hypotony (IOP </= 5 mm Hg) following IOP-lowering surgery (42.5%) was not different from that of implanted eyes not subjected to surgery (35.4%) (P = .09).
+CONCLUSION: Elevated IOP is a significant complication with the FA intravitreal implant but may be controlled with medication and surgery.

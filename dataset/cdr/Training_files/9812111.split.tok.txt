@@ -1,0 +1,12 @@
+A randomized , placebo - controlled dose - comparison trial of haloperidol for psychosis and disruptive behaviors in Alzheimer 's disease .
+OBJECTIVE : The goal of this study was to compare the efficacy and side effects of two doses of haloperidol and placebo in the treatment of psychosis and disruptive behaviors in patients with Alzheimer 's disease .
+METHOD : In a 6 - week random - assignment , double - blind , placebo - controlled trial ( phase A ) , haloperidol , 2 - 3 mg / day ( standard dose ) , and haloperidol , 0 . 50 - 0 . 75 mg / day ( low dose ) , were compared in 71 outpatients with Alzheimer 's disease .
+For the subsequent 6 - week double - blind crossover phase ( phase B ) , patients taking standard - or low - dose haloperidol were switched to placebo , and patients taking placebo were randomly assigned to standard - or low - dose haloperidol .
+RESULTS : For the 60 patients who completed phase A , standard - dose haloperidol was efficacious and superior to both low - dose haloperidol and placebo for scores on the Brief Psychiatric Rating Scale psychosis factor and on psychomotor agitation .
+Response rates according to three sets of criteria were greater with the standard dose ( 55 % - 60 % ) than the low dose ( 25 % - 35 % ) and placebo ( 25 % - 30 % ) .
+The advantage of standard dose over low dose was replicated in phase B .
+In phase A , extrapyramidal signs tended to be greater with the standard dose than in the other two conditions , primarily because of a subgroup ( 20 % ) who developed moderate to severe signs .
+Low - dose haloperidol did not differ from placebo on any measure of efficacy or side effects .
+CONCLUSIONS : The results indicated a favorable therapeutic profile for haloperidol in doses of 2 - 3 mg / day , although a subgroup developed moderate to severe extrapyramidal signs .
+A starting dose of 1 mg / day with gradual , upward dose titration is recommended .
+The narrow therapeutic window observed with haloperidol may also apply to other neuroleptics used in Alzheimer 's disease patients with psychosis and disruptive behaviors .

@@ -1,0 +1,7 @@
+Deaths from local anesthetic - induced convulsions in mice .
+Median convulsant ( CD50 ) and median lethal ( LD50 ) doses of three representative local anesthetics were determined in adult mice to evaluate the threat to life of local anesthetic - induced convulsions .
+The CD50 and LD50 , respectively , were 57 . 7 and 58 . 7 mg / kg for bupivacaine , 111 . 0 and 133 . 1 mg / kg for lidocaine , and 243 . 4 and 266 . 5 mg / kg for chloroprocaine .
+When given intraperitoneally , bupivacaine thus was only about twice as toxic as lidocaine and four times as toxic as chloroprocaine .
+Convulsions always preceded death , except after precipitous cardiopulmonary arrest from extreme doses .
+A CD50 dose of local anesthetic ( causing convulsions in 50 % of mice ) was fatal in 90 % of bupivacaine - induced seizures , in 57 % of the chloroprocaine group , and in 6 % of the lidocaine group .
+The narrow gap between convulsant and lethal doses of local anesthetics indicates that untreated convulsions present much more of a threat to life than heretofore appreciated .

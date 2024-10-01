@@ -1,0 +1,6 @@
+Reversal of neuroleptic-induced catalepsy by novel aryl-piperazine anxiolytic drugs.
+The novel anxiolytic drug, buspirone, reverses catalepsy induced by haloperidol.
+A series of aryl-piperazine analogues of buspirone and other 5-hydroxytryptaminergic agonists were tested for their ability to reverse haloperidol induced catalepsy.
+Those drugs with strong affinity for 5-hydroxytryptamine1a receptors were able to reverse catalepsy.
+Drugs with affinity for other 5-HT receptors or weak affinity were ineffective.
+However, inhibition of postsynaptic 5-HT receptors neither inhibited nor potentiated reversal of catalepsy and leaves open the question as to the site or mechanism for this effect.

@@ -1,4 +1,4 @@
-CXX=g++
+CXX?=g++
 TARGET = geniass makeMapping remapStandOff
 CFLAGS = -O2 -DNDEBUG
 #CFLAGS = -g

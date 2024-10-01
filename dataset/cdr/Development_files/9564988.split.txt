@@ -1,0 +1,15 @@
+Open-label assessment of levofloxacin for the treatment of acute bacterial sinusitis in adults.
+PURPOSE: To evaluate the efficacy and safety of levofloxacin (500 mg orally once daily for 10 to 14 days) in treating adult outpatients with acute bacterial sinusitis.
+PATIENTS AND METHODS: A total of 329 patients enrolled in the study at 24 centers.
+All patients had a pre-therapy Gram's stain and culture of sinus exudate obtained by antral puncture or nasal endoscopy.
+Clinical response was assessed on the basis of signs and symptoms and sinus radiograph or computed tomography results.
+Microbiologic cure rates were determined on the basis of presumed plus documented eradication of the pre-therapy pathogen(s).
+RESULTS: The most common pathogens were Haemophilus influenzae, Streptococcus pneumoniae, Staphylococcus aureus, and Moraxella catarrhalis.
+Of 300 clinically evaluable patients, 175 (58%) were cured and 90 (30%) were improved at the post-therapy evaluation, resulting in a clinical success rate of 88%.
+Thirty-five patients (12%) clinically failed treatment.
+The microbiologic eradication rate (presumed plus documented) among 138 microbiologically evaluable patients was 92%.
+Microbiologic eradication rates (presumed plus documented) of the most common pathogens ranged from 93% (M. catarrhalis) to 100% (S. pneumoniae) at the post-therapy visit.
+All but one of the 265 patients who were cured or improved at post-therapy returned for a long-term follow-up visit; 243 (92%) remained well 4 to 6 weeks after therapy; and 21 (8%) had a relapse of symptoms.
+Adverse events considered to be related to levofloxacin administration were reported by 29 patients (9%).
+The most common drug-related adverse events were diarrhea, flatulence, and nausea; most adverse events were mild to moderate in severity.
+CONCLUSION: The results of this study indicate that levofloxacin 500 mg once daily is an effective and safe treatment for acute bacterial sinusitis.

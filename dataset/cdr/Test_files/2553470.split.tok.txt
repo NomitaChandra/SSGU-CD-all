@@ -1,0 +1,10 @@
+Anticonvulsant actions of MK - 801 on the lithium - pilocarpine model of status epilepticus in rats .
+MK - 801 , a noncompetitive N - methyl - D - aspartate ( NMDA ) receptor antagonist , was tested for anticonvulsant effects in rats using two seizure models , coadministration of lithium and pilocarpine and administration of a high dose of pilocarpine alone .
+Three major results are reported .
+First , pretreatment with MK - 801 produced an effective and dose - dependent anticonvulsant action with the lithium - pilocarpine model but not with rats treated with pilocarpine alone , suggesting that different biochemical mechanisms control seizures in these two models .
+Second , the anticonvulsant effect of MK - 801 in the lithium - pilocarpine model only occurred after initial periods of seizure activity .
+This observation is suggested to be an in vivo demonstration of the conclusion derived from in vitro experiments that MK - 801 binding requires agonist - induced opening of the channel sites of the NMDA receptor .
+Third , although it is relatively easy to block seizures induced by lithium and pilocarpine by administration of anticonvulsants prior to pilocarpine , it is more difficult to terminate ongoing status epilepticus and block the lethality of the seizures .
+Administration of MK - 801 30 or 60 min after pilocarpine , i . e . , during status epilepticus , gradually reduced electrical and behavioral seizure activity and greatly enhanced the survival rate .
+These results suggest that activation of NMDA receptors plays an important role in status epilepticus and brain damage in the lithium - pilocarpine model .
+This was further supported by results showing that nonconvulsive doses of NMDA and pilocarpine were synergistic , resulting in status epilepticus and subsequent mortality .

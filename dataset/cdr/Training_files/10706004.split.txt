@@ -1,0 +1,13 @@
+Changes of sodium and ATP affinities of the cardiac (Na,K)-ATPase during and after nitric oxide deficient hypertension.
+In the cardiovascular system, NO is involved in the regulation of a variety of functions.
+Inhibition of NO synthesis induces sustained hypertension.
+In several models of hypertension, elevation of intracellular sodium level was documented in cardiac tissue.
+To assess the molecular basis of disturbances in transmembraneous transport of Na+, we studied the response of cardiac (Na,K)-ATPase to NO-deficient hypertension induced in rats by NO-synthase inhibition with 40 mg/kg/day N(G)-nitro-L-arginine methyl ester (L-NAME) for 4 four weeks.
+After 4-week administration of L-NAME, the systolic blood pressure (SBP) increased by 36%.
+Two weeks after terminating the treatment, the SBP recovered to control value.
+When activating the (Na,K)-ATPase with its substrate ATP, no changes in Km and Vmax values were observed in NO-deficient rats.
+During activation with Na+, the Vmax remained unchanged, however the K(Na) increased by 50%, indicating a profound decrease in the affinity of the Na+-binding site in NO-deficient rats.
+After recovery from hypertension, the activity of (Na,K)-ATPase increased, due to higher affinity of the ATP-binding site, as revealed from the lowered Km value for ATP.
+The K(Na) value for Na+ returned to control value.
+Inhibition of NO-synthase induced a reversible hypertension accompanied by depressed Na+-extrusion from cardiac cells as a consequence of deteriorated Na+-binding properties of the (Na,K)-ATPase.
+After recovery of blood pressure to control values, the extrusion of Na+ from cardiac cells was normalized, as revealed by restoration of the (Na,K)-ATPase activity.

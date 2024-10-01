@@ -1,0 +1,8 @@
+Effects of suprofen on the isolated perfused rat kidney.
+Although suprofen has been associated with the development of acute renal failure in greater than 100 subjects, the mechanism of damage remains unclear.
+The direct nephrotoxic effects of a single dose of 15 mg of suprofen were compared in the recirculating isolated rat kidney perfused with cell-free buffer with or without the addition of 5 mg/dL of uric acid.
+There were no significant differences in renal sodium excretion, oxygen consumption, or urinary flow rates in kidneys perfused with suprofen compared with the drug-free control groups.
+In contrast, a significant decline in glomerular filtration rate was found after the introduction of suprofen to the kidney perfused with uric acid; no changes were found with suprofen in the absence of uric acid.
+A significant decrease in the baseline excretion rate of uric acid was found in rats given suprofen, compared with drug-free controls.
+However, the fractional excretion of uric acid was unchanged between the groups over the experimental period.
+In summary, suprofen causes acute declines in renal function, most likely by directly altering the intrarenal distribution of uric acid.

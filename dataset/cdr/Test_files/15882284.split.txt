@@ -1,0 +1,13 @@
+Case-control study of regular analgesic and nonsteroidal anti-inflammatory use and end-stage renal disease.
+BACKGROUND: Studies on the association between the long-term use of aspirin and other analgesic and nonsteroidal anti-inflammatory drugs (NSAIDs) and end-stage renal disease (ESRD) have given conflicting results.
+In order to examine this association, a case-control study with incident cases of ESRD was carried out.
+METHODS: The cases were all patients entering the local dialysis program because of ESRD in the study area between June 1, 1995 and November 30, 1997.
+They were classified according to the underlying disease, which had presumably led them to ESRD.
+Controls were patients admitted to the same hospitals from where the cases arose, also matched by age and sex.
+Odds ratios were calculated using a conditional logistic model, including potential confounding factors, both for the whole study population and for the various underlying diseases.
+RESULTS: Five hundred and eighty-three cases and 1190 controls were included in the analysis.
+Long-term use of any analgesic was associated with an overall odds ratio of 1.22 (95% CI, 0.89-1.66).
+For specific groups of drugs, the risks were 1.56 (1.05-2.30) for aspirin, 1.03 (0.60-1.76) for pyrazolones, 0.80 (0.39-1.63) for paracetamol, and 0.94 (0.57-1.56) for nonaspirin NSAIDs.
+The risk of ESRD associated with aspirin was related to the cumulated dose and duration of use, and it was particularly high among the subset of patients with vascular nephropathy as underlying disease [2.35 (1.17-4.72)].
+CONCLUSION: Our data indicate that long-term use of nonaspirin analgesic drugs and NSAIDs is not associated with an increased risk of ESRD.
+However, the chronic use of aspirin may increase the risk of ESRD.

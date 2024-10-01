@@ -1,0 +1,8 @@
+Sub-chronic low dose gamma-vinyl GABA (vigabatrin) inhibits cocaine-induced increases in nucleus accumbens dopamine.
+RATIONALE: gamma-Vinyl GABA (GVG) irreversibly inhibits GABA-transaminase.
+This non-receptor mediated inhibition requires de novo synthesis for restoration of functional GABA catabolism.
+OBJECTIVES: Given its preclinical success for treating substance abuse and the increased risk of visual field defects (VFD) associated with cumulative lifetime exposure, we explored the effects of sub-chronic low dose GVG on cocaine-induced increases in nucleus accumbens (NAcc) dopamine (DA).
+METHODS: Using in vivo microdialysis, we compared acute exposure (450 mg/kg) to an identical sub-chronic exposure (150 mg/kg per day for 3 days), followed by 1- or 3-day washout.
+Finally, we examined the low dose of 150 mg/kg (50 mg/kg per day) using a similar washout period.
+RESULTS: Sub-chronic GVG exposure inhibited the effect of cocaine for 3 days, which exceeded in magnitude and duration the identical acute dose.
+CONCLUSIONS: Sub-chronic low dose GVG potentiates and extends the inhibition of cocaine-induced increases in dopamine, effectively reducing cumulative exposures and the risk for VFDS.

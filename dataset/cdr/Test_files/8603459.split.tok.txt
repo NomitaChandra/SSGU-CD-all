@@ -1,0 +1,17 @@
+Doxorubicin - induced cardiotoxicity monitored by ECG in freely moving mice .
+A new model to test potential protectors .
+In laboratory animals , histology is most commonly used to study doxorubicin - induced cardiotoxicity .
+However , for monitoring during treatment , large numbers of animals are needed .
+Recently we developed a new method to measure ECG values in freely moving mice by telemetry .
+With this model we investigated the effect of chronic doxorubicin administration on the ECG of freely moving BALB / c mice and the efficacy of ICRF - 187 as a protective agent .
+The ST interval significantly widened from 15 . 0 + / - 1 . 5 to 56 . 8 + / - 11 . 8 ms in week 10 ( 7 weekly doses of 4 mg / kg doxorubicin given i . v .
+plus 3 weeks of observation ) .
+The ECG of the control animals did not change during the entire study .
+After sacrifice the hearts of doxorubicin - treated animals were enlarged and the atria were hypertrophic .
+As this schedule exerted more toxicity than needed to investigate protective agents , the protection of ICRF - 187 was determined using a dose schedule with lower general toxicity ( 6 weekly doses of 4 mg / kg doxorubicin given i . v .
+plus 2 weeks of observation ) .
+On this schedule , the animals ' hearts appeared normal after sacrifice and ICRF - 187 ( 50 mg / kg given i . p .
+1 h before doxorubicin ) provided almost full protection .
+These data were confirmed by histology .
+The results indicate that this new model is very sensitive and enables monitoring of the development of cardiotoxicity with time .
+These findings result in a model that allows the testing of protectors against doxorubicin - induced cardiotoxicity as demonstrated by the protection provided by ICRF - 187 .

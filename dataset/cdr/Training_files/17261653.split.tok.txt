@@ -1,0 +1,10 @@
+Direct inhibition of cardiac hyperpolarization - activated cyclic nucleotide - gated pacemaker channels by clonidine .
+BACKGROUND : Inhibition of cardiac sympathetic tone represents an important strategy for treatment of cardiovascular disease , including arrhythmia , coronary heart disease , and chronic heart failure .
+Activation of presynaptic alpha2 - adrenoceptors is the most widely accepted mechanism of action of the antisympathetic drug clonidine ; however , other target proteins have been postulated to contribute to the in vivo actions of clonidine .
+METHODS AND RESULTS : To test whether clonidine elicits pharmacological effects independent of alpha2 - adrenoceptors , we have generated mice with a targeted deletion of all 3 alpha2 - adrenoceptor subtypes ( alpha2ABC - / - ) .
+Alpha2ABC - / - mice were completely unresponsive to the analgesic and hypnotic effects of clonidine ; however , clonidine significantly lowered heart rate in alpha2ABC - / - mice by up to 150 bpm .
+Clonidine - induced bradycardia in conscious alpha2ABC - / - mice was 32 . 3 % ( 10 microg / kg ) and 26 . 6 % ( 100 microg / kg ) of the effect in wild - type mice .
+A similar bradycardic effect of clonidine was observed in isolated spontaneously beating right atria from alpha2ABC - knockout and wild - type mice .
+Clonidine inhibited the native pacemaker current ( I ( f ) ) in isolated sinoatrial node pacemaker cells and the I ( f ) - generating hyperpolarization - activated cyclic nucleotide - gated ( HCN ) 2 and HCN4 channels in transfected HEK293 cells .
+As a consequence of blocking I ( f ) , clonidine reduced the slope of the diastolic depolarization and the frequency of pacemaker potentials in sinoatrial node cells from wild - type and alpha2ABC - knockout mice .
+CONCLUSIONS : Direct inhibition of cardiac HCN pacemaker channels contributes to the bradycardic effects of clonidine gene - targeted mice in vivo , and thus , clonidine - like drugs represent novel structures for future HCN channel inhibitors .

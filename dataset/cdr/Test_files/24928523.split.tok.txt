@@ -1,0 +1,9 @@
+Combination of bortezomib , thalidomide , and dexamethasone ( VTD ) as a consolidation therapy after autologous stem cell transplantation for symptomatic multiple myeloma in Japanese patients .
+Consolidation therapy for patients with multiple myeloma ( MM ) has been widely adopted to improve treatment response following autologous stem cell transplantation .
+In this study , we retrospectively analyzed the safety and efficacy of combination regimen of bortezomib , thalidomide , and dexamethasone ( VTD ) as consolidation therapy in 24 Japanese patients with newly diagnosed MM .
+VTD consisted of bortezomib at a dose of 1 . 3 mg / m ( 2 ) and dexamethasone at a dose of 40 mg / day on days 1 , 8 , 15 , and 22 of a 35 - day cycle , with daily oral thalidomide at a dose of 100 mg / day .
+Grade 3 - 4 neutropenia and thrombocytopenia were documented in four and three patients ( 17 and 13 % ) , respectively , but drug dose reduction due to cytopenia was not required in any case .
+Peripheral neuropathy was common ( 63 % ) , but severe grade 3 - 4 peripheral neuropathy was not observed .
+Very good partial response or better response ( > VGPR ) rates before and after consolidation therapy were 54 and 79 % , respectively .
+Patients had a significant probability of improving from < VGPR before consolidation therapy to > VGPR after consolidation therapy ( p = 0 . 041 ) .
+The VTD regimen may be safe and effective as a consolidation therapy in the treatment of MM in Japanese population .

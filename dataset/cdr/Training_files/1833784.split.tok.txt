@@ -1,0 +1,11 @@
+Evidence for an involvement of D1 and D2 dopamine receptors in mediating nicotine - induced hyperactivity in rats .
+Previous studies have suggested that repeated exposure of rats to the drug or to the experimental environment is necessary to observe nicotine - induced locomotor stimulation .
+In the present study the role of habituation to the experimental environment on the stimulant effect of nicotine in rats was examined .
+In addition , the role of dopamine receptors in mediating nicotine - induced locomotor stimulation was investigated by examining the effects of selective D1 and D2 dopamine receptor antagonists on activity induced by nicotine .
+Locomotor activity was assessed in male Sprague - Dawley rats tested in photocell cages .
+Nicotine ( 1 . 0 mg / kg ) caused a significant increase in locomotor activity in rats that were habituated to the test environment , but had only a weak and delayed stimulant action in rats that were unfamiliar with the test environment .
+The stimulant action of nicotine was blocked by the central nicotinic antagonist mecamylamine but not by the peripheral nicotinic blocker hexamethonium , indicating that the response is probably mediated by central nicotinic receptors .
+Nicotine - induced hyperactivity was blocked by the selective D1 antagonist SCH 23390 , the selective D2 antagonist raclopride and the D1 / D2 antagonist fluphenazine .
+Pretreatment with the D2 agonist PHNO enhanced nicotine - induced hyperactivity , whereas the D1 agonist SKF 38393 had no effect .
+The results indicate that acute nicotine injection induces a pronounced hyperactivity in rats habituated to the test environment .
+The effect appears to be mediated by central nicotine receptors , possibly located on dopaminergic neurons , and also requires the activation of both D1 and D2 dopamine receptors .

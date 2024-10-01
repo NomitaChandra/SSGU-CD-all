@@ -1,0 +1,14 @@
+Salicylate nephropathy in the Gunn rat: potential role of prostaglandins.
+We examined the potential role of prostaglandins in the development of analgesic nephropathy in the Gunn strain of rat.
+The homozygous Gunn rats have unconjugated hyperbilirubinemia due to the absence of glucuronyl transferase, leading to marked bilirubin deposition in renal medulla and papilla.
+These rats are also highly susceptible to develop papillary necrosis with analgesic administration.
+We used homozygous (jj) and phenotypically normal heterozygous (jJ) animals.
+Four groups of rats (n = 7) were studied: jj and jJ rats treated either with aspirin 300 mg/kg every other day or sham-treated.
+After one week, slices of cortex, outer and inner medulla from one kidney were incubated in buffer and prostaglandin synthesis was determined by radioimmunoassay.
+The other kidney was examined histologically.
+A marked corticomedullary gradient of prostaglandin synthesis was observed in all groups.
+PGE2 synthesis was significantly higher in outer medulla, but not cortex or inner medulla, of jj (38 +/- 6 ng/mg prot) than jJ rats (15 +/- 3) (p less than 0.01).
+Aspirin treatment reduced PGE2 synthesis in all regions, but outer medullary PGE2 remained higher in jj (18 +/- 3) than jJ rats (9 +/- 2) (p less than 0.05).
+PGF2 alpha was also significantly higher in the outer medulla of jj rats with and without aspirin administration (p less than 0.05).
+The changes in renal prostaglandin synthesis were accompanied by evidence of renal damage in aspirin-treated jj but not jJ rats as evidenced by: increased incidence and severity of hematuria (p less than 0.01); increased serum creatinine (p less than 0.05); and increase in outer medullary histopathologic lesions (p less than 0.005 compared to either sham-treated jj or aspirin-treated jJ).
+These results suggest that enhanced prostaglandin synthesis contributes to maintenance of renal function and morphological integrity, and that inhibition of prostaglandin synthesis may lead to pathological renal medullary lesions and deterioration of renal function.

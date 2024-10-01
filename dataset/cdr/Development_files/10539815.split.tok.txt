@@ -1,0 +1,19 @@
+Predictors of decreased renal function in patients with heart failure during angiotensin - converting enzyme inhibitor therapy : results from the studies of left ventricular dysfunction ( SOLVD )
+BACKGROUND : Although angiotensin - converting enzyme inhibitor therapy reduces mortality rates in patients with congestive heart failure ( CHF ) , it may also cause decreased renal function .
+Little information is available to predict which patients are at highest risk for this complication .
+OBJECTIVE : To quantify specific clinical predictors of reduction in renal function in patients with CHF who are prescribed angiotensin - converting enzyme inhibitor therapy .
+METHOD : We analyzed data from the Studies of Left Ventricular Dysfunction ( SOLVD ) , a randomized , double - blind , placebo - controlled trial of enalapril for the treatment of CHF .
+There were 3379 patients randomly assigned to enalapril with a median follow - up of 974 days and 3379 patients randomly assigned to placebo with a mean follow - up of 967 days .
+Decreased renal function was defined as a rise in serum creatinine > / = 0 . 5 mg / dL ( 44 micromol / L ) from baseline .
+We used time - to - event analysis to identify potential predictors of decrease in renal function including age , baseline ejection fraction , baseline creatinine , low systolic blood pressure ( < 100 mm Hg ) , history of hypertension , diabetes , and use of antiplatelet , diuretic , and beta - blocker therapy .
+RESULTS : Patients randomly assigned to enalapril had a 33 % greater likelihood of decreased renal function than controls ( P = . 003 ) .
+By multivariate analysis , in both the placebo and enalapril groups older age , diuretic therapy , and diabetes were associated with decreased renal function , whereas beta - blocker therapy and higher ejection fraction were renoprotective .
+Older age was associated with a greater risk of developing decreased renal function in both groups , but significantly more so in the enalapril group ( enalapril : risk ratio [ RR ] 1 . 42 per 10 years , 95 % confidence interval [ CI ] 1 . 32 - 1 . 52 with enalapril ; placebo : RR 1 . 18 , 95 % CI 1 . 12 - 1 . 25 ) .
+Diuretic therapy was likewise associated with a greater risk of decreased renal function in the enalapril group ( RR 1 . 89 , 95 % CI 1 . 70 - 2 . 08 ) than in the placebo group ( RR 1 . 35 , 95 % CI 1 . 09 - 1 . 66 ) .
+Conversely , enalapril had a relative renoprotective effect ( RR 1 . 33 , 95 % CI 1 . 13 - 1 . 53 ) compared with placebo ( RR 1 . 96 , 95 % CI 1 . 57 - 2 . 44 ) in patients with diabetes .
+A lower risk of renal impairment was seen in both groups with beta - blocker therapy ( RR 0 . 70 , 95 % CI 0 . 57 - 0 . 85 ) and higher baseline ejection fraction ( RR 0 . 93 per 5 % increment , 95 % CI 0 . 91 - 0 .
+96 ) .
+CONCLUSIONS : Enalapril use caused a 33 % increase in the risk of decreased renal function in patients with CHF .
+Diuretic use and advanced age increased this risk .
+Diabetes was associated with an increased risk of renal impairment in all patients with CHF , but this risk was reduced in the enalapril group compared with the placebo group .
+beta - Blocker therapy and higher ejection fraction were renoprotective in all patients regardless of therapy .

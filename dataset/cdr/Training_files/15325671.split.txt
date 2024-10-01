@@ -1,0 +1,11 @@
+Cardiac toxicity observed in association with high-dose cyclophosphamide-based chemotherapy for metastatic breast cancer.
+INTRODUCTION: Cyclophosphamide is an alkylating agent given frequently as a component of many conditioning regimens.
+In high doses, its nonhematological dose-limiting toxicity is cardiomyopathy.
+STUDY DESIGN: We combined paclitaxel, melphalan and high-dose cyclophosphamide, thiotepa, and carboplatin in a triple sequential high-dose regimen for patients with metastatic breast cancer.
+Analysis was performed on 61 women with chemotherapy-responsive metastatic breast cancer receiving 96-h infusional cyclophosphamide as part of a triple sequential high-dose regimen to assess association between presence of peritransplant congestive heart failure (CHF) and the following pretreatment characteristics: presence of electrocardiogram (EKG) abnormalities, age, hypertension, prior cardiac history, smoking, diabetes mellitus, prior use of anthracyclines, and left-sided chest irradiation.
+RESULTS: Six of 61 women (10%) developed clinically reversible grade 3 CHF following infusional cyclophosphamide with a median percent decline in ejection fraction of 31%.
+Incidence of transient cyclophosphamide-related cardiac toxicity (10%) is comparable to previous recorded literature.
+Older age was significantly correlated with the CHF development; with median ages for the entire group and for patients developing CHF of 45 and 59, respectively.
+No association was found with other pretreatment characteristics.
+CONCLUSIONS: As a result of these findings, oncologists should carefully monitor fluid balance in older patients.
+Routine EKG monitoring during infusional cyclophosphamide did not predict CHF development.

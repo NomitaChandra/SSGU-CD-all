@@ -1,0 +1,11 @@
+Stroke and cocaine or amphetamine use.
+The association of cocaine and amphetamine use with hemorrhagic and ischemic stroke is based almost solely on data from case series.
+The limited number of epidemiologic studies of stroke and use of cocaine and/or amphetamine have been done in settings that serve mostly the poor and/or minorities.
+This case-control study was conducted in the defined population comprising members of Kaiser Permanente of Northern and Southern California.
+We attempted to identify all incident strokes in women ages 15-44 years during a 3-year period using hospital admission and discharge records, emergency department logs, and payment requests for out-of-plan hospitalizations.
+We selected controls, matched on age and facility of usual care, at random from healthy members of the health plan.
+We obtained information in face-to-face interviews.
+There were 347 confirmed stroke cases and 1,021 controls.
+The univariate matched odds ratio for stroke in women who admitted to using cocaine and/or amphetamine was 8.5 (95% confidence interval = 3.6-20.0).
+After further adjustment for potential confounders, the odds ratio in women who reported using cocaine and/or amphetamine was 7.0 (95% confidence interval = 2.8-17.9).
+The use of cocaine and/or amphetamine is a strong risk factor for stroke in this socioeconomically heterogeneous, insured urban population.

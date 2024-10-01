@@ -1,0 +1,13 @@
+Serotonin 6 receptor gene is associated with methamphetamine-induced psychosis in a Japanese population.
+BACKGROUND: Altered serotonergic neural transmission is hypothesized to be a susceptibility factor for psychotic disorders such as schizophrenia.
+The serotonin 6 (5-HT6) receptor is therapeutically targeted by several second generation antipsychotics, such as clozapine and olanzapine, and d-amphetamine-induced hyperactivity in rats is corrected with the use of a selective 5-HT6 receptor antagonist.
+In addition, the disrupted prepulse inhibition induced by d-amphetamine or phencyclidine was restored by 5-HT6 receptor antagonist in an animal study using rats.
+These animal models were considered to reflect the positive symptoms of schizophrenia, and the above evidence suggests that altered 5-HT6 receptors are involved in the pathophysiology of psychotic disorders.
+The symptoms of methamphetamine (METH)-induced psychosis are similar to those of paranoid type schizophrenia.
+Therefore, we conducted an analysis of the association of the 5-HT6 gene (HTR6) with METH-induced psychosis.
+METHOD: Using five tagging SNPs (rs6693503, rs1805054, rs4912138, rs3790757 and rs9659997), we conducted a genetic association analysis of case-control samples (197 METH-induced psychosis patients and 337 controls) in the Japanese population.
+The age and sex of the control subjects did not differ from those of the methamphetamine dependence patients.
+RESULTS: rs6693503 was associated with METH-induced psychosis patients in the allele/genotype-wise analysis.
+Moreover, this association remained significant after Bonferroni correction.
+In the haplotype-wise analysis, we detected an association between two markers (rs6693503 and rs1805054) and three markers (rs6693503, rs1805054 and rs4912138) in HTR6 and METH-induced psychosis patients, respectively.
+CONCLUSION: HTR6 may play an important role in the pathophysiology of METH-induced psychosis in the Japanese population.

@@ -1,0 +1,12 @@
+Use of chromosome substitution strains to identify seizure susceptibility loci in mice .
+Seizure susceptibility varies among inbred mouse strains .
+Chromosome substitution strains ( CSS ) , in which a single chromosome from one inbred strain ( donor ) has been transferred onto a second strain ( host ) by repeated backcrossing , may be used to identify quantitative trait loci ( QTLs ) that contribute to seizure susceptibility .
+QTLs for susceptibility to pilocarpine - induced seizures , a model of temporal lobe epilepsy , have not been reported , and CSS have not previously been used to localize seizure susceptibility genes .
+We report QTLs identified using a B6 ( host ) x A / J ( donor ) CSS panel to localize genes involved in susceptibility to pilocarpine - induced seizures .
+Three hundred fifty - five adult male CSS mice , 58 B6 , and 39 A / J were tested for susceptibility to pilocarpine - induced seizures .
+Highest stage reached and latency to each stage were recorded for all mice .
+B6 mice were resistant to seizures and slower to reach stages compared to A / J mice .
+The CSS for Chromosomes 10 and 18 progressed to the most severe stages , diverging dramatically from the B6 phenotype .
+Latencies to stages were also significantly shorter for CSS10 and CSS18 mice .
+CSS mapping suggests seizure susceptibility loci on mouse Chromosomes 10 and 18 .
+This approach provides a framework for identifying potentially novel homologous candidate genes for human temporal lobe epilepsy .

@@ -1,0 +1,13 @@
+Brain natriuretic peptide is a predictor of anthracycline - induced cardiotoxicity .
+Anthracyclines are effective antineoplastic drugs , but they frequently cause dose - related cardiotoxicity .
+The cardiotoxicity of conventional anthracycline therapy highlights a need to search for methods that are highly sensitive and capable of predicting cardiac dysfunction .
+We measured the plasma level of brain natriuretic peptide ( BNP ) to determine whether BNP might serve as a simple diagnostic indicator of anthracycline - induced cardiotoxicity in patients with acute leukemia treated with a daunorubicin ( DNR ) - containing regimen .
+Thirteen patients with acute leukemia were treated with a DNR - containing regimen .
+Cardiac functions were evaluated with radionuclide angiography before chemotherapies .
+The plasma levels of atrial natriuretic peptide ( ANP ) and BNP were measured at the time of radionuclide angiography .
+Three patients developed congestive heart failure after the completion of chemotherapy .
+Five patients were diagnosed as having subclinical heart failure after the completion of chemotherapy .
+The plasma levels of BNP in all the patients with clinical and subclinical heart failure increased above the normal limit ( 40 pg / ml ) before the detection of clinical or subclinical heart failure by radionuclide angiography .
+On the other hand , BNP did not increase in the patients without heart failure given DNR , even at more than 700 mg / m ( 2 ) .
+The plasma level of ANP did not always increase in all the patients with clinical and subclinical heart failure .
+These preliminary results suggest that BNP may be useful as an early and sensitive indicator of anthracycline - induced cardiotoxicity .

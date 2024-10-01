@@ -1,0 +1,17 @@
+Acute renal insufficiency after high - dose melphalan in patients with primary systemic amyloidosis during stem cell transplantation .
+BACKGROUND : Patients with primary systemic amyloidosis ( AL ) have a poor prognosis .
+Median survival time from standard treatments is only 17 months .
+High - dose intravenous melphalan followed by peripheral blood stem cell transplant ( PBSCT ) appears to be the most promising therapy , but treatment mortality can be high .
+The authors have noted the development of acute renal insufficiency immediately after melphalan conditioning .
+This study was undertaken to further examine its risk factors and impact on posttransplant mortality .
+METHODS : Consecutive AL patients who underwent PBSCT were studied retrospectively .
+Acute renal insufficiency ( ARI ) after high - dose melphalan was defined by a minimum increase of 0 . 5 mg / dL ( 44 micromol / L ) in the serum creatinine level that is greater than 50 % of baseline immediately after conditioning .
+Urine sediment score was the sum of the individual types of sediment identified on urine microscopy .
+RESULTS : Of the 80 patients studied , ARI developed in 18 . 8 % of the patients after high - dose melphalan .
+Univariate analysis identified age , hypoalbuminemia , heavy proteinuria , diuretic use , and urine sediment score ( > 3 ) as risk factors .
+Age and urine sediment score remained independently significant risk factors in the multivariate analysis .
+Patients who had ARI after high - dose melphalan underwent dialysis more often ( P = 0 . 007 ) , and had a worse 1 - year survival ( P = 0 . 03 ) .
+CONCLUSION : The timing of renal injury strongly suggests melphalan as the causative agent .
+Ongoing tubular injury may be a prerequisite for renal injury by melphalan as evidenced by the active urinary sediment .
+Development of ARI adversely affected the outcome after PBSCT .
+Effective preventive measures may help decrease the treatment mortality of PBSCT in AL patients .

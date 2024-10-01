@@ -1,0 +1,9 @@
+Attenuated disruption of prepulse inhibition by dopaminergic stimulation after maternal deprivation and adolescent corticosterone treatment in rats .
+The development of schizophrenia may include an early neurodevelopmental stress component which increases vulnerability to later stressful life events , in combination leading to overt disease .
+We investigated the effect of an early stress , in the form of maternal deprivation , combined with a later stress , simulated by chronic periadolescent corticosterone treatment , on behaviour in rats .
+Acute treatment with apomorphine caused disruption of prepulse inhibition ( PPI ) in controls and in rats that had undergone either maternal deprivation or corticosterone treatment , but was surprisingly absent in rats that had undergone the combined early and late stress .
+Amphetamine treatment significantly disrupted PPI in both non - deprived groups , but was absent in both maternally deprived groups .
+The serotonin - 1A receptor agonist , 8 - OH - DPAT , induced a significant disruption of PPI in all groups .
+Amphetamine - induced locomotor hyperactivity was similar in all groups .
+These results show an inhibitory interaction of early stress , caused by maternal deprivation , combined with ' adolescent ' stress , simulated by corticosterone treatment , on dopaminergic regulation of PPI .
+The altered effects of apomorphine and amphetamine could indicate differential changes in dopamine receptor signalling leading to functional desensitisation , or altered modulation of sensory gating in the nucleus accumbens by limbic structures such as the hippocampus .

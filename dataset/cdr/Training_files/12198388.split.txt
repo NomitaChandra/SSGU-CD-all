@@ -1,0 +1,14 @@
+The relationship between hippocampal acetylcholine release and cholinergic convulsant sensitivity in withdrawal seizure-prone and withdrawal seizure-resistant selected mouse lines.
+BACKGROUND: The septo-hippocampal cholinergic pathway has been implicated in epileptogenesis, and genetic factors influence the response to cholinergic agents, but limited data are available on cholinergic involvement in alcohol withdrawal severity.
+Thus, the relationship between cholinergic activity and responsiveness and alcohol withdrawal was investigated in a genetic animal model of ethanol withdrawal severity.
+METHODS: Cholinergic convulsant sensitivity was examined in alcohol-na  ve Withdrawal Seizure-Prone (WSP) and-Resistant (WSR) mice.
+Animals were administered nicotine, carbachol, or neostigmine via timed tail vein infusion, and the latencies to onset of tremor and clonus were recorded and converted to threshold dose.
+We also used microdialysis to measure basal and potassium-stimulated acetylcholine (ACh) release in the CA1 region of the hippocampus.
+Potassium was applied by reverse dialysis twice, separated by 75 min.
+Hippocampal ACh also was measured during testing for handling-induced convulsions.
+RESULTS: Sensitivity to several convulsion endpoints induced by nicotine, carbachol, and neostigmine were significantly greater in WSR versus WSP mice.
+In microdialysis experiments, the lines did not differ in basal release of ACh, and 50 mM KCl increased ACh output in both lines of mice.
+However, the increase in release of ACh produced by the first application of KCl was 2-fold higher in WSP versus WSR mice.
+When hippocampal ACh was measured during testing for handling-induced convulsions, extracellular ACh was significantly elevated (192%) in WSP mice, but was nonsignificantly elevated (59%) in WSR mice.
+CONCLUSIONS: These results suggest that differences in cholinergic activity and postsynaptic sensitivity to cholinergic convulsants may be associated with ethanol withdrawal severity and implicate cholinergic mechanisms in alcohol withdrawal.
+Specifically, WSP mice may have lower sensitivity to cholinergic convulsants compared with WSR because of postsynaptic receptor desensitization brought on by higher activity of cholinergic neurons.

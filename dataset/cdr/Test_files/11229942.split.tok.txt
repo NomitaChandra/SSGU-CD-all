@@ -1,0 +1,14 @@
+Cocaine , ethanol , and cocaethylene cardiotoxity in an animal model of cocaine and ethanol abuse .
+OBJECTIVES : Simultaneous abuse of cocaine and ethanol affects 12 million Americans annually .
+In combination , these substances are substantially more toxic than either drug alone .
+Their combined cardiac toxicity may be due to independent effects of each drug ; however , they may also be due to cocaethylene ( CE ) , a cocaine metabolite formed only in the presence of ethanol .
+The purpose of this study was to delineate the role of CE in the combined cardiotoxicity of cocaine and ethanol in a model simulating their abuse .
+METHODS : Twenty - three dogs were randomized to receive either 1 ) three intravenous ( IV ) boluses of cocaine 7 . 5 mg / kg with ethanol ( 1 g / kg ) as an IV infusion ( C + E , n = 8 ) , 2 ) three cocaine boluses only ( C , n = 6 ) , 3 ) ethanol infusion only ( E , n = 5 ) , or 4 ) placebo boluses and infusion ( n = 4 ) .
+Hemodynamic measurements , electrocardiograms , and serum drug concentrations were obtained at baseline , and then at fixed time intervals after each drug was administered .
+RESULTS : Two of eight dogs in the C + E group experienced cardiovascular collapse .
+The most dramatic hemodynamic changes occurred after each cocaine bolus in the C + E and C only groups ; however , persistent hemodynamic changes occurred in the C + E group .
+Peak CE levels were associated with a 45 % ( SD + / - 22 % , 95 % CI = 22 % to 69 % ) decrease in cardiac output ( p < 0 . 05 ) , a 56 % ( SD + / - 23 % , 95 % CI = 32 % to 80 % ) decrease in dP / dt ( max ) ( p < . 006 ) , and a 23 % ( SD + / - 15 % , 95 % CI = 7 % to 49 % ) decrease in SVO ( 2 ) ( p < 0 . 025 ) .
+Ventricular arrhythmias were primarily observed in the C + E group , in which four of eight dogs experienced ventricular tachycardia .
+CONCLUSIONS : Cocaine and ethanol in combination were more toxic than either substance alone .
+Co - administration resulted in prolonged cardiac toxicity and was dysrhythmogenic .
+Peak serum cocaethylene concentrations were associated with prolonged myocardial depression .

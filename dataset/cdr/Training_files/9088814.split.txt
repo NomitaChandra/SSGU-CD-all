@@ -1,0 +1,9 @@
+Combined effects of prolonged prostaglandin E1-induced hypotension and haemodilution on human hepatic function.
+Combined effects of prolonged prostaglandin E1 (PGE1)-induced hypotension and haemodilution on hepatic function were studied in 30 patients undergoing hip surgery.
+The patients were randomly allocated to one of three groups; those in group A (n = 10) were subjected to controlled hypotension alone, those in group B (n = 10) to haemodilution alone and those in group C (n = 10) to both controlled hypotension and haemodilution.
+Haemodilution in groups B and C was produced by withdrawing approximately 1000 mL of blood and replacing it with the same amount of dextran solution, and final haematocrit values were 21 or 22%.
+Controlled hypotension in groups A and C was induced with PGE1 to maintain mean arterial blood pressure at 55 mmHg for 180 min.
+Measurements included arterial ketone body ratio (AKBR, aceto-acetate/3-hydroxybutyrate) and clinical hepatic function parameters.
+AKBR and biological hepatic function tests showed no change throughout the time course in groups A and B.
+In group C, AKBR showed a significant decrease at 120 min (-40%) and at 180 min (-49%) after the start of hypotension and at 60 min (-32%) after recovery of normotension, and SGOT, SGPT, LDH and total bilirubin showed significant increases after operation.
+The results suggest that a prolonged combination of more than 120 min of PGE1-induced hypotension and moderate haemodilution would cause impairment of hepatic function.

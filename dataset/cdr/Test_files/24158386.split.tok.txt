@@ -1,0 +1,16 @@
+GEM - P chemotherapy is active in the treatment of relapsed Hodgkin lymphoma .
+Hodgkin lymphoma ( HL ) is a relatively chemosensitive malignancy .
+However , for those who relapse , high - dose chemotherapy with autologous stem cell transplant is the treatment of choice which relies on adequate disease control with salvage chemotherapy .
+Regimens commonly used often require inpatient administration and can be difficult to deliver due to toxicity .
+Gemcitabine and cisplatin have activity in HL , non - overlapping toxicity with first - line chemotherapeutics , and may be delivered in an outpatient setting .
+In this retrospective single - centre analysis , patients with relapsed or refractory HL treated with gemcitabine 1 , 000 mg / m ( 2 ) day ( D ) 1 , D8 and D15 ; methylprednisolone 1 , 000 mg D1 - 5 ; and cisplatin 100 mg / m ( 2 ) D15 , every 28 days ( GEM - P ) were included .
+Demographic , survival , response and toxicity data were recorded .
+Forty - one eligible patients were identified : median age 27 .
+One hundred and twenty - two cycles of GEM - P were administered in total ( median 3 cycles ; range 1 - 6 ) .
+Twenty of 41 ( 48 % ) patients received GEM - P as second - line treatment and 11 / 41 ( 27 % ) as third - line therapy .
+Overall response rate ( ORR ) to GEM - P in the entire cohort was 80 % ( complete response ( CR ) 37 % , partial response 44 % ) with 14 / 15 CR confirmed as a metabolic CR on PET and ORR of 85 % in the 20 second - line patients .
+The most common grade 3 / 4 toxicities were haematological : neutropenia 54 % and thrombocytopenia 51 % .
+Median follow - up from the start of GEM - P was 4 . 5 years .
+Following GEM - P , 5 - year progression - free survival was 46 % ( 95 % confidence interval ( CI ) , 30 - 62 % ) and 5 - year overall survival was 59 % ( 95 % CI , 43 - 74 % ) .
+Fourteen of 41 patients proceeded directly to autologous transplant .
+GEM - P is a salvage chemotherapy with relatively high response rates , leading to successful transplantation in appropriate patients , in the treatment of relapsed or refractory HL .

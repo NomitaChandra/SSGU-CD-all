@@ -1,0 +1,9 @@
+Acute effects of N - ( 2 - propylpentanoyl ) urea on hippocampal amino acid neurotransmitters in pilocarpine - induced seizure in rats .
+The present study aimed to investigate the anticonvulsant activity as well as the effects on the level of hippocampal amino acid neurotransmitters ( glutamate , aspartate , glycine and GABA ) of N - ( 2 - propylpentanoyl ) urea ( VPU ) in comparison to its parent compound , valproic acid ( VPA ) .
+VPU was more potent than VPA , exhibiting the median effective dose ( ED ( 50 ) ) of 49 mg / kg in protecting rats against pilocarpine - induced seizure whereas the corresponding value for VPA was 322 mg / kg .
+In vivo microdialysis demonstrated that an intraperitoneal administration of pilocarpine induced a pronounced increment of hippocampal glutamate and aspartate whereas no significant change was observed on the level of glycine and GABA .
+Pretreatment with either VPU ( 50 and 100 mg / kg ) or VPA ( 300 and 600 mg / kg ) completely abolished pilocarpine - evoked increases in extracellular glutamate and aspartate .
+In addition , a statistically significant reduction was also observed on the level of GABA and glycine but less than a drastic reduction of glutamate and aspartate level .
+Based on the finding that VPU and VPA could protect the animals against pilocarpine - induced seizure it is suggested that the reduction of inhibitory amino acid neurotransmitters was comparatively minor and offset by a pronounced reduction of glutamate and aspartate .
+Therefore , like VPA , the finding that VPU could drastically reduce pilocarpine - induced increases in glutamate and aspartate should account , at least partly , for its anticonvulsant activity observed in pilocarpine - induced seizure in experimental animals .
+Some other mechanism than those being reported herein should be further investigated .

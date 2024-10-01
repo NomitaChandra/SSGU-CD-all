@@ -1,0 +1,12 @@
+Antitumor effect, cardiotoxicity, and nephrotoxicity of doxorubicin in the IgM solid immunocytoma-bearing LOU/M/WSL rat.
+Antitumor activity, cardiotoxicity, and nephrotoxicity induced by doxorubicin were studied in LOU/M/WSL inbred rats each bearing a transplantable solid IgM immunocytoma.
+Animals with a tumor (diameter, 15.8 +/- 3.3 mm) were treated with iv injections of doxorubicin on 5 consecutive days, followed by 1 weekly injection for 7 weeks (dose range, 0.015-4.0 mg/kg body wt).
+Tumor regression was observed with 0.5 mg doxorubicin/kg.
+Complete disappearance of the tumor was induced with 1.0 mg doxorubicin/kg.
+Histologic evidence of cardiotoxicity scored as grade III was only observed at a dose of 1.0 mg doxorubicin/kg.
+Light microscopic evidence of renal damage was seen above a dose of 0.5 mg doxorubicin/kg, which resulted in albuminuria and very low serum albumin levels.
+In the group that received 1.0 mg doxorubicin/kg, the serum albumin level decreased from 33.6 +/- 4.1 to 1.5 +/- 0.5 g/liter.
+Ascites and hydrothorax were observed simultaneously.
+The same experiments were performed with non-tumor-bearing rats, in which no major differences were observed.
+In conclusion, antitumor activity, cardiotoxicity, and nephrotoxicity were studied simultaneously in the same LOU/M/WSL rat.
+Albuminuria due to renal damage led to extremely low serum albumin levels, so ascites and hydrothorax were not necessarily a consequence of the observed cardiomyopathy.

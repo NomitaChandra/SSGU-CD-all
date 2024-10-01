@@ -1,0 +1,8 @@
+Development of levodopa-induced dyskinesias in parkinsonian monkeys may depend upon rate of symptom onset and/or duration of symptoms.
+Levodopa-induced dyskinesias (LIDs) present a major problem for the long-term management of Parkinson's disease (PD) patients.
+Due to the interdependence of risk factors in clinical populations, it is difficult to independently examine factors that may influence the development of LIDs.
+Using macaque monkeys with different types of MPTP-induced parkinsonism, the current study evaluated the degree to which rate of symptom progression, symptom severity, and response to and duration of levodopa therapy may be involved in the development of LIDs.
+Monkeys with acute (short-term) MPTP exposure, rapid symptom onset and short symptom duration prior to initiation of levodopa therapy developed dyskinesia between 11 and 24 days of daily levodopa administration.
+In contrast, monkeys with long-term MPTP exposure, slow symptom progression and/or long symptom duration prior to initiation of levodopa therapy were more resistant to developing LIDs (e.g., dyskinesia developed no sooner than 146 days of chronic levodopa administration).
+All animals were similarly symptomatic at the start of levodopa treatment and had similar therapeutic responses to the drug.
+These data suggest distinct differences in the propensity to develop LIDs in monkeys with different rates of symptom progression or symptom durations prior to levodopa and demonstrate the value of these models for further studying the pathophysiology of LIDs.

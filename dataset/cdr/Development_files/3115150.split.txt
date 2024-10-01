@@ -1,0 +1,9 @@
+Ketanserin pretreatment reverses alfentanil-induced muscle rigidity.
+Systemic pretreatment with ketanserin, a relatively specific type-2 serotonin receptor antagonist, significantly attenuated the muscle rigidity produced in rats by the potent short-acting opiate agonist alfentanil.
+Following placement of subcutaneous electrodes in each animal's left gastrocnemius muscle, rigidity was assessed by analyzing root-mean-square electromyographic activity.
+Intraperitoneal ketanserin administration at doses of 0.63 and 2.5 mg/kg prevented the alfentanil-induced increase in electromyographic activity compared with animals pretreated with saline.
+Chlordiazepoxide at doses up to 10 mg/kg failed to significantly influence the rigidity produced by alfentanil.
+Despite the absence of rigidity, animals that received ketanserin (greater than 0.31 mg/kg i.p.) followed by alfentanil were motionless, flaccid, and less responsive to external stimuli than were animals receiving alfentanil alone.
+Rats that received ketanserin and alfentanil exhibited less rearing and exploratory behavior at the end of the 60-min recording period than did animals that received ketanserin alone.
+These results, in combination with previous work, suggest that muscle rigidity, a clinically relevant side-effect of parenteral narcotic administration, may be partly mediated via serotonergic pathways.
+Pretreatment with type-2 serotonin antagonists may be clinically useful in attenuating opiate-induced rigidity, although further studies will be necessary to assess the interaction of possibly enhanced CNS, cardiovascular, and respiratory depression.

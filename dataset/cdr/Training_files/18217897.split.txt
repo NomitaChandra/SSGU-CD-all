@@ -1,0 +1,10 @@
+Thalidomide has limited single-agent activity in relapsed or refractory indolent non-Hodgkin lymphomas: a phase II trial of the Cancer and Leukemia Group B.
+Thalidomide is an immunomodulatory agent with demonstrated activity in multiple myeloma, mantle cell lymphoma and lymphoplasmacytic lymphoma.
+Its activity is believed to be due modulation of the tumour milieu, including downregulation of angiogenesis and inflammatory cytokines.
+Between July 2001 and April 2004, 24 patients with relapsed/refractory indolent lymphomas received thalidomide 200 mg daily with escalation by 100 mg daily every 1-2 weeks as tolerated, up to a maximum of 800 mg daily.
+Patients had received a median of 2 (range, 1-4) prior regimens.
+Of 24 evaluable patients, two achieved a complete remission and one achieved a partial remission for an overall response rate of 12.5% (95% confidence interval: 2.6-32.4%).
+Eleven patients progressed during therapy.
+Grade 3-4 adverse effects included myelosuppression, fatigue, somnolence/depressed mood, neuropathy and dyspnea.
+Of concern was the occurrence of four thromboembolic events.
+Our results failed to demonstrate an important response rate to single agent thalidomide in indolent lymphomas and contrast with the higher activity level reported with the second generation immunomodulatory agent, lenalidomide.

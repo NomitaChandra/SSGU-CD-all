@@ -1,0 +1,13 @@
+Rates of Renal Toxicity in Cancer Patients Receiving Cisplatin With and Without Mannitol.
+BACKGROUND: Cisplatin is a widely used antineoplastic.
+One of the major complications of cisplatin use is dose-limiting nephrotoxicity.
+There are many strategies to prevent this toxicity, including the use of mannitol as a nephroprotectant in combination with hydration.
+OBJECTIVE: We aimed to evaluate the rates of cisplatin-induced nephrotoxicity in cancer patients receiving single-agent cisplatin with and without mannitol.
+METHODS: This single-center retrospective analysis was a quasi experiment created by the national mannitol shortage.
+Data were collected on adult cancer patients receiving single-agent cisplatin as an outpatient from January 2011 to September 2012.
+The primary outcome was acute kidney injury (AKI).
+RESULTS: We evaluated 143 patients who received single-agent cisplatin; 97.2% of patients had head and neck cancer as their primary malignancy.
+Patients who did not receive mannitol were more likely to develop nephrotoxicity: odds ratio [OR] = 2.646 (95% CI = 1.008, 6.944; P = 0.048).
+Patients who received the 100 mg/m(2) dosing and patients who had a history of hypertension also had a higher likelihood of developing nephrotoxicity: OR = 11.494 (95% CI = 4.149, 32.258; P < 0.0001) and OR = 3.219 (95% CI = 1.228, 8.439; P = 0.017), respectively.
+CONCLUSIONS: When limited quantities of mannitol are available, it should preferentially be given to patients at particularly high risk of nephrotoxicity.
+Our analysis suggests that those patients receiving the dosing schedule of 100 mg/m(2) cisplatin every 3 weeks and those with hypertension are at the greatest risk of nephrotoxicity and would benefit from the addition of mannitol.

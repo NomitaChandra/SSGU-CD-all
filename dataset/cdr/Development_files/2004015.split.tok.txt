@@ -1,0 +1,12 @@
+Sensitivity of erythroid progenitor colonies to erythropoietin in azidothymidine treated immunodeficient mice .
+The anaemia induced by 3 ' - azido - 3 ' dideoxythymidine ( AZT ) is poorly understood .
+We have used a murine model of AIDS , infection of female C57BL / 6 mice with LP - BM5 murine leukaemia ( MuLV ) virus , to determine if AZT - induced anaemia is due , in part , to decreased responsiveness of erythropoietic precursors ( BFU - e ) to erythropoietin ( EPO ) .
+Mice in the early stage of LP - BM5 MuLV disease were given AZT in their drinking water at 1 . 0 and 2 . 5 mg / ml .
+AZT produced anaemia in both groups , in a dose - dependent fashion .
+Despite the anaemia , the number of splenic and bone marrow BFU - e in AZT treated mice increased up to five - fold over levels observed in infected untreated animals after 15 d of treatment .
+Colony formation by splenic and bone marrow BFUe was stimulated at lower concentrations of EPO in mice receiving AZT for 15 d than for infected , untreated mice .
+By day 30 , sensitivity of both splenic and bone marrow BFU - e of treated animals returned to that observed from cells of infected untreated animals .
+The mean plasma levels of EPO observed in AZT treated mice were appropriate for the degree of anaemia observed when compared with phenylhydrazine ( PHZ ) treated mice .
+The numbers of BFU - e and the percentage of bone marrow erythroblasts observed were comparable in AZT and PHZ treated mice with similar degrees of anaemia .
+However , reticulocytosis was inappropriate for the degree of anaemia observed in AZT treated infected mice .
+AZT - induced peripheral anaemia in the face of increased numbers of BFU - e and increased levels of plasma EPO suggest a lesion in terminal differentiation .

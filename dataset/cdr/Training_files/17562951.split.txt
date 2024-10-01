@@ -1,0 +1,12 @@
+Cardiac Angiography in Renally Impaired Patients (CARE) study: a randomized double-blind trial of contrast-induced nephropathy in patients with chronic kidney disease.
+BACKGROUND: No direct comparisons exist of the renal tolerability of the low-osmolality contrast medium iopamidol with that of the iso-osmolality contrast medium iodixanol in high-risk patients.
+METHODS AND RESULTS: The present study is a multicenter, randomized, double-blind comparison of iopamidol and iodixanol in patients with chronic kidney disease (estimated glomerular filtration rate, 20 to 59 mL/min) who underwent cardiac angiography or percutaneous coronary interventions.
+Serum creatinine (SCr) levels and estimated glomerular filtration rate were assessed at baseline and 2 to 5 days after receiving medications.
+The primary outcome was a postdose SCr increase > or = 0.5 mg/dL (44.2 micromol/L) over baseline.
+Secondary outcomes were a postdose SCr increase > or = 25%, a postdose estimated glomerular filtration rate decrease of > or = 25%, and the mean peak change in SCr.
+In 414 patients, contrast volume, presence of diabetes mellitus, use of N-acetylcysteine, mean baseline SCr, and estimated glomerular filtration rate were comparable in the 2 groups.
+SCr increases > or = 0.5 mg/dL occurred in 4.4% (9 of 204 patients) after iopamidol and 6.7% (14 of 210 patients) after iodixanol (P=0.39), whereas rates of SCr increases > or = 25% were 9.8% and 12.4%, respectively (P=0.44).
+In patients with diabetes, SCr increases > or = 0.5 mg/dL were 5.1% (4 of 78 patients) with iopamidol and 13.0% (12 of 92 patients) with iodixanol (P=0.11), whereas SCr increases > or = 25% were 10.3% and 15.2%, respectively (P=0.37).
+Mean post-SCr increases were significantly less with iopamidol (all patients: 0.07 versus 0.12 mg/dL, 6.2 versus 10.6 micromol/L, P=0.03; patients with diabetes: 0.07 versus 0.16 mg/dL, 6.2 versus 14.1 micromol/L, P=0.01).
+CONCLUSIONS: The rate of contrast-induced nephropathy, defined by multiple end points, is not statistically different after the intraarterial administration of iopamidol or iodixanol to high-risk patients, with or without diabetes mellitus.
+Any true difference between the agents is small and not likely to be clinically significant.

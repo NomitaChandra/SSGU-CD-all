@@ -1,0 +1,12 @@
+Incidence of postoperative delirium is high even in a population without known risk factors.
+PURPOSE: Postoperative delirium is a recognized complication in populations at risk.
+The aim of this study is to assess the prevalence of early postoperative delirium in a population without known risk factors admitted to the ICU for postoperative monitoring after elective major surgery.
+The secondary outcome investigated is to identify eventual independent risk factors among demographic data and anesthetic drugs used.
+METHODS: An observational, prospective study was conducted on a consecutive cohort of patients admitted to our ICU within and for at least 24 h after major surgical procedures.
+Exclusion criteria were any preexisting predisposing factor for delirium or other potentially confounding neurological dysfunctions.
+Patients were assessed daily using the confusion assessment method for the ICU scale for 3 days after the surgical procedure.
+Early postoperative delirium incidence risk factors were then assessed through three different multiple regression models.
+RESULTS: According to the confusion assessment method for the ICU scale, 28 % of patients were diagnosed with early postoperative delirium.
+The use of thiopentone was significantly associated with an eight-fold-higher risk for delirium compared to propofol (57.1% vs. 7.1%, RR = 8.0, X2 = 4.256; df = 1; 0.05 < p < 0.02).
+CONCLUSION: In this study early postoperative delirium was found to be a very common complication after major surgery, even in a population without known risk factors.
+Thiopentone was independently associated with an increase in its relative risk.

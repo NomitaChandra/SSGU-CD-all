@@ -1,0 +1,10 @@
+Increased expression of neuronal nitric oxide synthase in bladder afferent pathways following chronic bladder irritation .
+Immunocytochemical techniques were used to examine alterations in the expression of neuronal nitric oxide synthase ( NOS ) in bladder pathways following acute and chronic irritation of the urinary tract of the rat .
+Chemical cystitis was induced by cyclophosphamide ( CYP ) which is metabolized to acrolein , an irritant eliminated in the urine .
+Injection of CYP ( n = 10 , 75 mg / kg , i . p . ) 2 hours prior to perfusion ( acute treatment ) of the animals increased Fos - immunoreactivity ( IR ) in neurons in the dorsal commissure , dorsal horn , and autonomic regions of spinal segments ( L1 - L2 and L6 - S1 ) which receive afferent inputs from the bladder , urethra , and ureter .
+Fos - IR in the spinal cord was not changed in rats receiving chronic CYP treatment ( n = 15 , 75 mg / kg , i . p . , every 3rd day for 2 weeks ) .
+In control animals and in animals treated acutely with CYP , only small numbers of NOS - IR cells ( 0 . 5 - 0 . 7 cell profiles / sections ) were detected in the L6 - S1 dorsal root ganglia ( DRG ) .
+Chronic CYP administration significantly ( P < or = . 002 ) increased bladder weight by 60 % and increased ( 7 - to 11 - fold ) the numbers of NOS - immunoreactive ( IR ) afferent neurons in the L6 - S1 DRG .
+A small increase ( 1 . 5 - fold ) also occurred in the L1 DRG , but no change was detected in the L2 and L5 DRG .
+Bladder afferent cells in the L6 - S1 DRG labeled by Fluorogold ( 40 microliters ) injected into the bladder wall did not exhibit NOS - IR in control animals ; however , following chronic CYP administration , a significant percentage of bladder afferent neurons were NOS - IR : L6 ( 19 . 8 + / - 4 . 6 % ) and S1 ( 25 . 3 + / - 2 . 9 % ) .
+These results indicate that neuronal gene expression in visceral sensory pathways can be upregulated by chemical irritation of afferent receptors in the urinary tract and / or that pathological changes in the urinary tract can initiate chemical signals that alter the chemical properties of visceral afferent neurons .

@@ -1,0 +1,9 @@
+Acute cocaine - induced seizures : differential sensitivity of six inbred mouse strains .
+Mature male and female mice from six inbred stains were tested for susceptibility to behavioral seizures induced by a single injection of cocaine .
+Cocaine was injected ip over a range of doses ( 50 - 100 mg / kg ) and behavior was monitored for 20 minutes .
+Seizure end points included latency to forelimb or hindlimb clonus , latency to clonic running seizure and latency to jumping bouncing seizure .
+A range of strain specific sensitivities was documented with A / J and SJL mice being most sensitive and C57BL / 6J most resistant .
+DBA / 2J , BALB / cByJ and NZW / LacJ strains exhibited intermediate sensitivity .
+EEG recordings were made in SJL , A / J and C57BL / 6J mice revealing a close correspondence between electrical activity and behavior .
+Additionally , levels of cocaine determined in hippocampus and cortex were not different between sensitive and resistant strains .
+Additional studies of these murine strains may be useful for investigating genetic influences on cocaine - induced seizures .

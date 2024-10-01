@@ -1,0 +1,14 @@
+Systemic toxicity and resuscitation in bupivacaine-, levobupivacaine-, or ropivacaine-infused rats.
+We compared the systemic toxicity of bupivacaine, levobupivacaine, and ropivacaine in anesthetized rats.
+We also compared the ability to resuscitate rats after lethal doses of these local anesthetics.
+Bupivacaine, levobupivacaine, or ropivacaine was infused at a rate of 2 mg.
+kg(-1).
+min(-1) while electrocardiogram, electroencephalogram, and arterial pressure were continuously monitored.
+When asystole was recorded, drug infusion was stopped and a resuscitation sequence was begun.
+Epinephrine 0.01 mg/kg was administered at 1-min intervals while external cardiac compressions were applied.
+Resuscitation was considered successful when a systolic arterial pressure > or =100 mm Hg was achieved within 5 min.
+The cumulative doses of levobupivacaine and ropivacaine that produced seizures were similar and were larger than those of bupivacaine.
+The cumulative doses of levobupivacaine that produced dysrhythmias and asystole were smaller than the corresponding doses of ropivacaine, but they were larger than those of bupivacaine.
+The number of successful resuscitations did not differ among groups.
+However, a smaller dose of epinephrine was required in the Ropivacaine group than in the other groups.
+We conclude that the systemic toxicity of levobupivacaine is intermediate between that of ropivacaine and bupivacaine when administered at the same rate and that ropivacaine-induced cardiac arrest appears to be more susceptible to treatment than that induced by bupivacaine or levobupivacaine.

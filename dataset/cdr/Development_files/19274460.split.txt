@@ -1,0 +1,9 @@
+DSMM XI study: dose definition for intravenous cyclophosphamide in combination with bortezomib/dexamethasone for remission induction in patients with newly diagnosed myeloma.
+A clinical trial was initiated to evaluate the recommended dose of cyclophosphamide in combination with bortezomib and dexamethasone as induction treatment before stem cell transplantation for younger patients with newly diagnosed multiple myeloma (MM).
+Thirty patients were treated with three 21-day cycles of bortezomib 1.3 mg/m(2) on days 1, 4, 8, and 11 plus dexamethasone 40 mg on the day of bortezomib injection and the day after plus cyclophosphamide at 900, 1,200, or 1,500 mg/m(2) on day 1.
+The maximum tolerated dose of cyclophosphamide was defined as 900 mg/m(2).
+At this dose level, 92% of patients achieved at least a partial response.
+The overall response rate [complete response (CR) plus partial response (PR)] across all dose levels was 77%, with a 10% CR rate.
+No patient experienced progressive disease.
+The most frequent adverse events were hematological and gastrointestinal toxicities as well as neuropathy.
+The results suggest that bortezomib in combination with cyclophosphamide at 900 mg/m(2) and dexamethasone is an effective induction treatment for patients with newly diagnosed MM that warrants further investigation.

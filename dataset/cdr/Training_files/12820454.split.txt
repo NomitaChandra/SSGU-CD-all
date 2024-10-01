@@ -1,0 +1,15 @@
+Combined androgen blockade-induced anemia in prostate cancer patients without bone involvement.
+BACKGROUND: To determine the onset and extent of combined androgen blockade (CAB)-induced anemia in prostate cancer patients without bone involvement.
+PATIENTS AND METHODS: Forty-two patients with biopsy-proven prostatic adenocarcinoma [26 with stage C (T3N0M0) and 16 with stage D1 (T3N1M0)] were included in this study.
+All patients received CAB [leuprolide acetate (LHRH-A) 3.75 mg, intramuscularly, every 28 days plus 250 mg flutamide, tid, per Os] and were evaluated for anemia by physical examination and laboratory tests at baseline and 4 subsequent intervals (1, 2, 3 and 6 months post-CAB).
+Hb, PSA and Testosterone measurements were recorded.
+Patients with stage D2-3 disease, abnormal hemoglobin level or renal and liver function tests that were higher than the upper limits were excluded from the study.
+The duration of the study was six months.
+RESULTS: The mean hemoglobin (Hb) levels were significantly declined in all patients from baseline of 14.2 g/dl to 14.0 g/dl, 13.5 g/dl, 13.2 g/dl and 12.7 g/dl at 1, 2, 3 and 6 months post-CAB, respectively.
+Severe and clinically evident anemia of Hb < 11 g/dl with clinical symptoms was detected in 6 patients (14.3%).
+This CAB-induced anemia was normochromic and normocytic.
+At six months post-CAB, patients with severe anemia had a Hb mean value of 10.2 +/- 0.1 g/dl (X +/- SE), whereas the other patients had mild anemia with Hb mean value of 13.2 +/- 0.17 (X +/- SE).
+The development of severe anemia at 6 months post-CAB was predictable by the reduction of Hb baseline value of more than 2.5 g/dl after 3 months of CAB (p = 0.01).
+The development of severe CAB-induced anemia in prostate cancer patients did not correlate with T baseline values (T < 3 ng/ml versus T > or = 3 ng/ml), with age (< 76 yrs versus > or = 76 yrs), and clinical stage (stage C versus stage D1).
+Severe and clinically evident anemia was easily corrected by subcutaneous injections (3 times/week for 1 month) of recombinant erythropoietin (rHuEPO-beta).
+CONCLUSION: Our data suggest that rHuEPO-beta correctable CAB-induced anemia occurs in 14.3% of prostate cancer patients after 6 months of therapy.

@@ -1,0 +1,9 @@
+Differential effects of gamma - hexachlorocyclohexane ( lindane ) on pharmacologically - induced seizures .
+Gamma - hexachlorocyclohexane ( gamma - HCH ) , the active ingredient of the insecticide lindane , has been shown to decrease seizure threshold to pentylenetrazol ( PTZ ) 3 h after exposure to gamma - HCH and conversely increase threshold to PTZ - induced seizures 24 h after exposure to gamma - HCH ( Vohland et al . 1981 ) .
+In this study , the severity of response to other seizure - inducing agents was tested in mice 1 and 24 h after intraperitoneal administration of 80 mg / kg gamma - HCH .
+One hour after the administration of gamma - HCH , the activity of seizure - inducing agents was increased , regardless of their mechanism , while 24 h after gamma - HCH a differential response was observed .
+Seizure activity due to PTZ and picrotoxin ( PTX ) was significantly decreased ; however , seizure activity due to 3 - mercaptopropionic acid ( MPA ) , bicuculline ( BCC ) , methyl 6 , 7 - dimethoxy - 4 - ethyl - B - carboline - 3 - carboxylate ( DMCM ) , or strychnine ( STR ) was not different from control .
+In vitro , gamma - HCH , pentylenetetrazol and picrotoxin were shown to inhibit 3H - TBOB binding in mouse whole brain , with IC50 values of 4 . 6 , 404 and 9 . 4 microM , respectively .
+MPA , BCC , DMCM , and STR showed no inhibition of 3H - TBOB ( t - butyl bicyclo - orthobenzoate ) binding at concentrations of 100 micron .
+The pharmacological challenge data suggest that tolerance may occur to seizure activity induced by PTZ and PTX 24 h after gamma - HCH , since the response to only these two seizure - inducing agents is decreased .
+The in vitro data suggest that the site responsible for the decrease in seizure activity 24 h after gamma - HCH may be the GABA - A receptor - linked chloride channel .

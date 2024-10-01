@@ -1,0 +1,7 @@
+The striatum as a target for anti-rigor effects of an antagonist of mGluR1, but not an agonist of group II metabotropic glutamate receptors.
+The aim of the present study was to find out whether the metabotropic receptor 1 (mGluR1) and group II mGluRs, localized in the striatum, are involved in antiparkinsonian-like effects in rats.
+Haloperidol (1 mg/kg ip) induced parkinsonian-like muscle rigidity, measured as an increased resistance of a rat's hind foot to passive flexion and extension at the ankle joint.
+(RS)-1-aminoindan-1,5-dicarboxylic acid (AIDA; 0.5-15 microg/0.5 microl), a potent and selective mGluR1 antagonist, or (2R,4R)-4-aminopyrrolidine-2,4-dicarboxylate (2R,4R-APDC; 7.5-15 microg/0.5 microl), a selective group II agonist, was injected bilaterally into the striatum of haloperidol-treated animals.
+AIDA in doses of 7.5-15 microg/0.5 microl diminished the haloperidol-induced muscle rigidity.
+In contrast, 2R,4R-APDC injections were ineffective.
+The present results may suggest that the blockade of striatal mGluR1, but not the stimulation of group II mGluRs, may ameliorate parkinsonian muscle rigidity.

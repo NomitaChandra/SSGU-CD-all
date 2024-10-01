@@ -1,0 +1,11 @@
+Acute renal toxicity of doxorubicin (adriamycin)-loaded cyanoacrylate nanoparticles.
+Acute doxorubicin-loaded nanoparticle (DXNP) renal toxicity was explored in both normal rats and rats with experimental glomerulonephritis.
+In normal rats, 2/6 rats given free doxorubicin (DX) (5 mg/kg) died within one week, whereas all control animals and all rats having received free NP or DXNP survived.
+A 3 times higher proteinuria appeared in animals treated with DXNP than in those treated with DX.
+Free NP did not provoke any proteinuria.
+Two hr post-injection, DXNP was 2.7 times more concentrated in kidneys than free DX (p < 0.025).
+In rats with immune experimental glomerulonephritis, 5/6 rats given DX died within 7 days, in contrast to animals treated by DXNP, NP, or untreated, which all survived.
+Proteinuria appeared in all series, but was 2-5 times more intense (p > 0.001) and prolonged after doxorubicin treatment (400-700 mg/day), without significant difference between DXNP and DX.
+Rats treated by unloaded NP behaved as controls.
+These results demonstrate that, in these experimental conditions, DXNP killed less animals than free DX, despite of an enhanced renal toxicity of the former.
+Both effects (better survival and nephrosis) are most probably related to an enhanced capture of DXNP by cells of the mononuclear phagocyte system, including mesangial cells.

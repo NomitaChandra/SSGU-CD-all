@@ -1,0 +1,4 @@
+Facilitation of memory retrieval by pre-test morphine and its state dependency in the step-through type passive avoidance learning test in mice.
+Amnesia produced by scopolamine and cycloheximide were reversed by morphine given 30 min before the test trial (pre-test), and pre-test morphine also facilitated the memory retrieval in the animals administered naloxone during the training trial.
+Similarly, pre-test scopolamine partially reversed the scopolamine-induced amnesia, but not significantly; and pre-test cycloheximide failed to reverse the cycloheximide-induced amnesia.
+These results suggest that the facilitation of memory retrieval by pre-test morphine might be the direct action of morphine rather than a state dependent effect.

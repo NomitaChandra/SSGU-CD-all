@@ -1,0 +1,9 @@
+Prostaglandin E2 - induced bladder hyperactivity in normal , conscious rats : involvement of tachykinins ?
+In normal conscious rats investigated by continuous cystometry , intravesically instilled prostaglandin ( PG ) E2 facilitated micturition and increased basal intravesical pressure .
+The effect was attenuated by both the NK1 receptor selective antagonist RP 67 , 580 and the NK2 receptor selective antagonist SR 48 , 968 , given intra - arterially , suggesting that it was mediated by stimulation of both NK1 and NK2 receptors .
+Intra - arterially given PGE2 produced a distinct increase in bladder pressure before initiating a micturition reflex , indicating that the PG had a direct contractant effect on the detrusor smooth muscle .
+The effect of intra - arterial PGE2 could not be blocked by intra - arterial RP 67 , 580 or SR 48 , 968 , which opens the possibility that the micturition reflex elicited by intra - arterial PGE2 was mediated by pathways other than the reflex initiated when the PG was given intravesically .
+The present results thus suggest that intra - arterial PGE2 , given near the bladder , may initiate micturition in the normal rat chiefly by directly contracting the smooth muscle of the detrusor .
+However , when given intravesically , PGE2 may stimulate micturition by releasing tachykinins from nerves in and / or immediately below the urothelium .
+These tachykinins , in turn , initiate a micturition reflex by stimulating NK1 and NK2 receptors .
+Prostanoids may , via release of tachykinins , contribute to both urge and bladder hyperactivity seen in inflammatory conditions of the lower urinary tract .

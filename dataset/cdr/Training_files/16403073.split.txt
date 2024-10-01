@@ -1,0 +1,7 @@
+Ketoconazole induced torsades de pointes without concomitant use of QT interval-prolonging drug.
+Ketoconazole is not known to be proarrhythmic without concomitant use of QT interval-prolonging drugs.
+We report a woman with coronary artery disease who developed a markedly prolonged QT interval and torsades de pointes (TdP) after taking ketoconazole for treatment of fungal infection.
+Her QT interval returned to normal upon withdrawal of ketoconazole.
+Genetic study did not find any mutation in her genes that encode cardiac IKr channel proteins.
+We postulate that by virtue of its direct blocking action on IKr, ketoconazole alone may prolong QT interval and induce TdP.
+This calls for attention when ketoconazole is administered to patients with risk factors for acquired long QT syndrome.

@@ -1,0 +1,9 @@
+Coenzyme Q10 treatment ameliorates acute cisplatin nephrotoxicity in mice .
+The nephroprotective effect of coenzyme Q10 was investigated in mice with acute renal injury induced by a single i . p .
+injection of cisplatin ( 5 mg / kg ) .
+Coenzyme Q10 treatment ( 10 mg / kg / day , i . p . ) was applied for 6 consecutive days , starting 1 day before cisplatin administration .
+Coenzyme Q10 significantly reduced blood urea nitrogen and serum creatinine levels which were increased by cisplatin .
+Coenzyme Q10 significantly compensated deficits in the antioxidant defense mechanisms ( reduced glutathione level and superoxide dismutase activity ) , suppressed lipid peroxidation , decreased the elevations of tumor necrosis factor - alpha , nitric oxide and platinum ion concentration , and attenuated the reductions of selenium and zinc ions in renal tissue resulted from cisplatin administration .
+Also , histopathological renal tissue damage mediated by cisplatin was ameliorated by coenzyme Q10 treatment .
+Immunohistochemical analysis revealed that coenzyme Q10 significantly decreased the cisplatin - induced overexpression of inducible nitric oxide synthase , nuclear factor - kappaB , caspase - 3 and p53 in renal tissue .
+It was concluded that coenzyme Q10 represents a potential therapeutic option to protect against acute cisplatin nephrotoxicity commonly encountered in clinical practice .

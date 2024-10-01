@@ -1,0 +1,10 @@
+An investigation of the pattern of kidney injury in HIV - positive persons exposed to tenofovir disoproxil fumarate : an examination of a large population database ( MHRA database ) .
+The potential for tenofovir to cause a range of kidney syndromes has been established from mechanistic and randomised clinical trials .
+However , the exact pattern of kidney involvement is still uncertain .
+We undertook a descriptive analysis of Yellow Card records of 407 HIV - positive persons taking tenofovir disoproxil fumarate ( TDF ) as part of their antiretroviral therapy regimen and submitted to the Medicines and Healthcare Products Regulatory Agency ( MHRA ) with suspected kidney adverse effects .
+Reports that satisfy defined criteria were classified as acute kidney injury , kidney tubular dysfunction and Fanconi syndrome .
+Of the 407 Yellow Card records analysed , 106 satisfied criteria for TDF - related kidney disease , of which 53 ( 50 % ) had features of kidney tubular dysfunction , 35 ( 33 % ) were found to have features of glomerular dysfunction and 18 ( 17 % ) had Fanconi syndrome .
+The median TDF exposure was 316 days ( interquartile range 120 - 740 ) .
+The incidence of hospitalisation for TDF kidney adverse effects was high , particularly amongst patients with features of Fanconi syndrome .
+The pattern of kidney syndromes in this population series mirrors that reported in randomised clinical trials .
+Cessation of TDF was associated with complete restoration of kidney function in up half of the patients in this report .

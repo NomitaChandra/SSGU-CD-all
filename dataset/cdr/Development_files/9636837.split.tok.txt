@@ -1,0 +1,12 @@
+Carboplatin toxic effects on the peripheral nervous system of the rat .
+BACKGROUND : The most striking of carboplatin 's advantages ( CBDCA ) over cisplatin ( CDDP ) is its markedly reduced rate of neurotoxic effects .
+However , the use of CBDCA higher - intensity schedules and the association with other neurotoxic drugs in polychemotherapy may cause some concern about its safety with respect to peripheral nervous system damage .
+MATERIALS AND METHODS : Two different schedules of CBDCA administration ( 10 mg / kg and 15 mg / kg i . p .
+twice a week for nine times ) were evaluated in Wistar rats .
+Neurotoxicity was assessed for behavioral ( tail - flick test ) , neurophysiological ( nerve conduction velocity in the tail nerve ) , morphological , morphometrical and analytical effects .
+RESULTS : CBDCA administration induced dose - dependent peripheral neurotoxicity .
+Pain perception and nerve conduction velocity in the tail were significantly impaired , particularly after the high - dose treatment .
+The dorsal root ganglia sensory neurons and , to a lesser extent , satellite cells showed the same changes as those induced by CDDP , mainly affecting the nucleus and nucleolus of ganglionic sensory neurons .
+Moreover , significant amounts of platinum were detected in the dorsal root ganglia and kidney after CBDCA treatment .
+CONCLUSIONS : CBDCA is neurotoxic in our model , and the type of pathological changes it induces are so closely similar to those caused by CDDP that it is probable that neurotoxicity is induced in the two drugs by the same mechanism .
+This model can be used alone or in combination with other drugs to explore the effect of CBDCA on the peripheral nervous system .

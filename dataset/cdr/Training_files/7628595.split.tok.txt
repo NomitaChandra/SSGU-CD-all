@@ -1,0 +1,9 @@
+Study of the role of vitamin B12 and folinic acid supplementation in preventing hematologic toxicity of zidovudine .
+A prospective , randomized study was conducted to evaluate the role of vitamin B12 and folinic acid supplementation in preventing zidovudine ( ZDV ) - induced bone marrow suppression .
+Seventy - five human immunodeficiency virus ( HIV ) - infected patients with CD4 + cell counts < 500 / mm3 were randomized to receive either ZDV ( 500 mg daily ) alone ( group I , n = 38 ) or in combination with folinic acid ( 15 mg daily ) and intramascular vitamin B12 ( 1000 micrograms monthly ) ( group II , n = 37 ) .
+Finally , 15 patients were excluded from the study ( noncompliance 14 , death 1 ) ; thus , 60 patients ( 31 in group I and 29 in group II ) were eligible for analysis .
+No significant differences between groups were found at enrollment .
+During the study , vitamin B12 and folate levels were significantly higher in group II patients ; however , no differences in hemoglobin , hematocrit , mean corpuscular volume , and white - cell , neutrophil and platelet counts were observed between groups at 3 , 6 , 9 and 12 months .
+Severe hematologic toxicity ( neutrophil count < 1000 / mm3 and / or hemoglobin < 8 g / dl ) occurred in 4 patients assigned to group I and 7 assigned to group II .
+There was no correlation between vitamin B12 or folate levels and development of myelosuppression .
+Vitamin B12 and folinic acid supplementation of ZDV therapy does not seem useful in preventing or reducing ZDV - induced myelotoxicity in the overall treated population , although a beneficial effect in certain subgroups of patients can not be excluded .

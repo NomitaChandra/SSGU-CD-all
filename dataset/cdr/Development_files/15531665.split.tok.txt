@@ -1,0 +1,11 @@
+Does supplemental vitamin C increase cardiovascular disease risk in women with diabetes ?
+BACKGROUND : Vitamin C acts as a potent antioxidant ; however , it can also be a prooxidant and glycate protein under certain circumstances in vitro .
+These observations led us to hypothesize that a high intake of vitamin C in diabetic persons might promote atherosclerosis .
+OBJECTIVE : The objective was to examine the relation between vitamin C intake and mortality from cardiovascular disease .
+DESIGN : We studied the relation between vitamin C intake and mortality from total cardiovascular disease ( n = 281 ) , coronary artery disease ( n = 175 ) , and stroke ( n = 57 ) in 1923 postmenopausal women who reported being diabetic at baseline .
+Diet was assessed with a food - frequency questionnaire at baseline , and subjects initially free of coronary artery disease were prospectively followed for 15 y .
+RESULTS : After adjustment for cardiovascular disease risk factors , type of diabetes medication used , duration of diabetes , and intakes of folate , vitamin E , and beta - carotene , the adjusted relative risks of total cardiovascular disease mortality were 1 . 0 , 0 . 97 , 1 . 11 , 1 . 47 , and 1 . 84 ( P for trend < 0 . 01 ) across quintiles of total vitamin C intake from food and supplements .
+Adjusted relative risks of coronary artery disease were 1 . 0 , 0 . 81 , 0 . 99 , 1 . 26 , and 1 . 91 ( P for trend = 0 . 01 ) and of stroke were 1 . 0 , 0 . 52 , 1 . 23 , 2 . 22 , and 2 . 57 ( P for trend < 0 . 01 ) .
+When dietary and supplemental vitamin C were analyzed separately , only supplemental vitamin C showed a positive association with mortality endpoints .
+Vitamin C intake was unrelated to mortality from cardiovascular disease in the nondiabetic subjects at baseline .
+CONCLUSION : A high vitamin C intake from supplements is associated with an increased risk of cardiovascular disease mortality in postmenopausal women with diabetes .

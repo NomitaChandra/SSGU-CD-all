@@ -1,0 +1,7 @@
+Diazepam facilitates reflex bradycardia in conscious rats .
+The effects of diazepam on cardiovascular function were assessed in conscious rats .
+Intravenous administration of diazepam ( 1 - 30 mg kg - 1 ) produced a dose - dependent decrease in both the mean arterial pressure and the heart rate .
+Also , reflex bradycardia was produced in rats by intravenous infusion of adrenaline ( 1 . 25 - 2 . 5 micrograms kg - 1 ) .
+Intravenous pretreatment of the rats with diazepam , although causing no change in the adrenaline - induced pressor effect , did enhance the adrenaline - induced reflex bradycardia .
+However , the diazepam enhancement of adrenaline - induced reflex bradycardia was antagonized by pretreatment of rats with an intravenous dose of picrotoxin ( an agent blocks chloride channels by binding to sites associated with the benzodiazepine - GABA - chloride channel macromolecular complex ) .
+The data indicate that diazepam acts through the benzodiazepine - GABA - chloride channel macromolecular complex within the central nervous system to facilitate reflex bradycardia mediated through baroreceptor reflexes in response to an acute increase in arterial pressure .

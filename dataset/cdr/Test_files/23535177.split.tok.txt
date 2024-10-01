@@ -1,0 +1,9 @@
+Cerebellar sensory processing alterations impact motor cortical plasticity in Parkinson 's disease : clues from dyskinetic patients .
+The plasticity of primary motor cortex ( M1 ) in patients with Parkinson 's disease ( PD ) and levodopa - induced dyskinesias ( LIDs ) is severely impaired .
+We recently reported in young healthy subjects that inhibitory cerebellar stimulation enhanced the sensorimotor plasticity of M1 that was induced by paired associative stimulation ( PAS ) .
+This study demonstrates that the deficient sensorimotor M1 plasticity in 16 patients with LIDs could be reinstated by a single session of real inhibitory cerebellar stimulation but not sham stimulation .
+This was evident only when a sensory component was involved in the induction of plasticity , indicating that cerebellar sensory processing function is involved in the resurgence of M1 plasticity .
+The benefit of inhibitory cerebellar stimulation on LIDs is known .
+To explore whether this benefit is linked to the restoration of sensorimotor plasticity of M1 , we conducted an additional study looking at changes in LIDs and PAS - induced plasticity after 10 sessions of either bilateral , real inhibitory cerebellar stimulation or sham stimulation .
+Only real and not sham stimulation had an antidyskinetic effect and it was paralleled by a resurgence in the sensorimotor plasticity of M1 .
+These results suggest that alterations in cerebellar sensory processing function , occurring secondary to abnormal basal ganglia signals reaching it , may be an important element contributing to the maladaptive sensorimotor plasticity of M1 and the emergence of abnormal involuntary movements .

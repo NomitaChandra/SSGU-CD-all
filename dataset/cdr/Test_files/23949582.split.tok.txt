@@ -1,0 +1,9 @@
+The cytogenetic action of ifosfamide , mesna , and their combination on peripheral rabbit lymphocytes : an in vivo / in vitro cytogenetic study .
+Ifosfamide ( IFO ) is an alkylating nitrogen mustard , administrated as an antineoplasmic agent .
+It is characterized by its intense urotoxic action , leading to hemorrhagic cystitis .
+This side effect of IFO raises the requirement for the co - administration with sodium 2 - sulfanylethanesulfonate ( Mesna ) aiming to avoid or minimize this effect .
+IFO and Mesna were administrated separately on rabbit 's lymphocytes in vivo , which were later developed in vitro .
+Cytogenetic markers for sister chromatid exchanges ( SCEs ) , proliferation rate index ( PRI ) and Mitotic Index were recorded .
+Mesna 's action , in conjunction with IFO reduces the frequency of SCEs , in comparison with the SCEs recordings obtained when IFO is administered alone .
+In addition to this , when high concentrations of Mesna were administered alone significant reductions of the PRI were noted , than with IFO acting at the same concentration on the lymphocytes .
+Mesna significantly reduces IFO 's genotoxicity , while when administered in high concentrations it acts in an inhibitory fashion on the cytostatic action of the drug .

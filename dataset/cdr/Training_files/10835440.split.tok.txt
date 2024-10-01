@@ -1,0 +1,15 @@
+Effect of intravenous nimodipine on blood pressure and outcome after acute stroke .
+BACKGROUND AND PURPOSE : The Intravenous Nimodipine West European Stroke Trial ( INWEST ) found a correlation between nimodipine - induced reduction in blood pressure ( BP ) and an unfavorable outcome in acute stroke .
+We sought to confirm this correlation with and without adjustment for prognostic variables and to investigate outcome in subgroups with increasing levels of BP reduction .
+METHODS : Patients with a clinical diagnosis of ischemic stroke ( within 24 hours ) were consecutively allocated to receive placebo ( n = 100 ) , 1 mg / h ( low - dose ) nimodipine ( n = 101 ) , or 2 mg / h ( high - dose ) nimodipine ( n = 94 ) .
+The correlation between average BP change during the first 2 days and the outcome at day 21 was analyzed .
+RESULTS : Two hundred sixty - five patients were included in this analysis ( n = 92 , 93 , and 80 for placebo , low dose , and high dose , respectively ) .
+Nimodipine treatment resulted in a statistically significant reduction in systolic BP ( SBP ) and diastolic BP ( DBP ) from baseline compared with placebo during the first few days .
+In multivariate analysis , a significant correlation between DBP reduction and worsening of the neurological score was found for the high - dose group ( beta = 0 . 49 , P = 0 .
+048 ) .
+Patients with a DBP reduction of > or = 20 % in the high - dose group had a significantly increased adjusted OR for the compound outcome variable death or dependency ( Barthel Index < 60 ) ( n / N = 25 / 26 , OR 10 .
+16 , 95 % CI 1 . 02 to 101 . 74 ) and death alone ( n / N = 9 / 26 , OR 4 . 336 , 95 % CI 1 . 131 16 . 619 ) compared with all placebo patients ( n / N = 62 / 92 and 14 / 92 , respectively ) .
+There was no correlation between SBP change and outcome .
+CONCLUSIONS : DBP , but not SBP , reduction was associated with neurological worsening after the intravenous administration of high - dose nimodipine after acute stroke .
+For low - dose nimodipine , the results were not conclusive .
+These results do not confirm or exclude a neuroprotective property of nimodipine .

@@ -1,0 +1,12 @@
+Thiopentone pretreatment for propofol injection pain in ambulatory patients.
+This study investigated propofol injection pain in patients undergoing ambulatory anaesthesia.
+In a randomized, double-blind trial, 90 women were allocated to receive one of three treatments prior to induction of anaesthesia with propofol.
+Patients in Group C received 2 ml normal saline, Group L, 2 ml, lidocaine 2% (40 mg) and Group T, 2 ml thiopentone 2.5% (50 mg).
+Venous discomfort was assessed with a visual analogue scale (VAS) 5-15 sec after commencing propofol administration using an infusion pump (rate 1000 micrograms.kg-1.min-1).
+Loss of consciousness occurred in 60-90 sec.
+Visual analogue scores (mean +/- SD) during induction were lower in Groups L (3.3 +/- 2.5) and T (4.1 +/- 2.7) than in Group C (5.6 +/- 2.3); P = 0.0031.
+The incidence of venous discomfort was lower in Group L (76.6%; P < 0.05) than in Group C (100%) but not different from Group T (90%).
+The VAS scores for recall of pain in the recovery room were correlated with the VAS scores during induction (r = 0.7045; P < 0.0001).
+Recovery room discharge times were similar: C (75.9 +/- 19.4 min); L 73.6 +/- 21.6 min); T (77.1 +/- 18.9 min).
+Assessing their overall satisfaction, 89.7% would choose propofol anaesthesia again.
+We conclude that lidocaine reduces the incidence and severity of propofol injection pain in ambulatory patients whereas thiopentone only reduces its severity.

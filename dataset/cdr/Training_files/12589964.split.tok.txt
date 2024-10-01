@@ -1,0 +1,23 @@
+Evaluation of cardiac troponin I and T levels as markers of myocardial damage in doxorubicin - induced cardiomyopathy rats , and their relationship with echocardiographic and histological findings .
+BACKGROUND : Cardiac troponins I ( cTnI ) and T ( cTnT ) have been shown to be highly sensitive and specific markers of myocardial cell injury .
+We investigated the diagnostic value of cTnI and cTnT for the diagnosis of myocardial damage in a rat model of doxorubicin ( DOX ) - induced cardiomyopathy , and we examined the relationship between serial cTnI and cTnT with the development of cardiac disorders monitored by echocardiography and histological examinations in this model .
+METHODS : Thirty - five Wistar rats were given 1 . 5 mg / kg DOX , i . v . , weekly for up to 8 weeks for a total cumulative dose of 12 mg / kg BW .
+Ten rats received saline as a control group .
+cTnI was measured with Access ( R ) ( ng / ml ) and a research immunoassay ( pg / ml ) , and compared with cTnT , CK - MB mass and CK .
+By using transthoracic echocardiography , anterior and posterior wall thickness , LV diameters and LV fractional shortening ( FS ) were measured in all rats before DOX or saline , and at weeks 6 and 9 after treatment in all surviving rats .
+Histology was performed in DOX - rats at 6 and 9 weeks after the last DOX dose and in all controls .
+RESULTS : Eighteen of the DOX rats died prematurely of general toxicity during the 9 - week period .
+End - diastolic ( ED ) and end - systolic ( ES ) LV diameters / BW significantly increased , whereas LV FS was decreased after 9 weeks in the DOX group ( p < 0 . 001 ) .
+These parameters remained unchanged in controls .
+Histological evaluation of hearts from all rats given DOX revealed significant slight degrees of perivascular and interstitial fibrosis .
+In 7 of the 18 rats , degeneration and myocyte vacuolisation were found .
+Only five of the controls exhibited evidence of very slight perivascular fibrosis .
+A significant rise in cTnT was found in DOX rats after cumulative doses of 7 . 5 and 12 mg / kg in comparison with baseline ( p < 0 . 05 ) .
+cTnT found in rats after 12 mg / kg were significantly greater than that found after 7 . 5 mg / kg DOX .
+Maximal cTnI ( pg / ml ) and cTnT levels were significantly increased in DOX rats compared with controls ( p = 0 . 006 , 0 . 007 ) .
+cTnI ( ng / ml ) , CK - MB mass and CK remained unchanged in DOX rats compared with controls .
+All markers remained stable in controls .
+Analysis of data revealed a significant correlation between maximal cTnT and ED and ES LV diameters / BW ( r = 0 . 81 and 0 . 65 ; p < 0 . 0001 ) .
+A significant relationship was observed between maximal cTnT and the extent of myocardial morphological changes , and between LV diameters / BW and histological findings .
+CONCLUSIONS : Among markers of ischemic injury after DOX in rats , cTnT showed the greatest ability to detect myocardial damage assessed by echocardiographic detection and histological changes .
+Although there was a discrepancy between the amount of cTnI and cTnT after DOX , probably due to heterogeneity in cross - reactivities of mAbs to various cTnI and cTnT forms , it is likely that cTnT in rats after DOX indicates cell damage determined by the magnitude of injury induced and that cTnT should be a useful marker for the prediction of experimentally induced cardiotoxicity and possibly for cardioprotective experiments .

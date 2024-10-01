@@ -1,0 +1,9 @@
+Daidzein activates choline acetyltransferase from MC-IXC cells and improves drug-induced amnesia.
+The choline acetyltransferase (ChAT) activator, which enhances cholinergic transmission via an augmentation of the enzymatic production of acetylcholine (ACh), is an important factor in the treatment of Alzheimer's disease (AD).
+Methanolic extracts from Pueraria thunbergiana exhibited an activation effect (46%) on ChAT in vitro.
+Via the sequential isolation of Pueraria thunbergiana, the active component was ultimately identified as daidzein (4',7-dihydroxy-isoflavone).
+In order to investigate the effects of daidzein from Pueraria thunbergiana on scopolamine-induced impairments of learning and memory, we conducted a series of in vivo tests.
+Administration of daidzein (4.5 mg/kg body weight) to mice was shown significantly to reverse scopolamine-induced amnesia, according to the results of a Y-maze test.
+Injections of scopolamine into mice resulted in impaired performance on Y-maze tests (a 37% decreases in alternation behavior).
+By way of contrast, mice treated with daidzein prior to the scopolamine injections were noticeably protected from this performance impairment (an approximately 12%-21% decrease in alternation behavior).
+These results indicate that daidzein might play a role in acetylcholine biosynthesis as a ChAT activator, and that it also ameliorates scopolamine-induced amnesia.

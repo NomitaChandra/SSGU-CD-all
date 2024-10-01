@@ -1,0 +1,10 @@
+Pharmacological modulation of pain - related brain activity during normal and central sensitization states in humans .
+Abnormal processing of somatosensory inputs in the central nervous system ( central sensitization ) is the mechanism accounting for the enhanced pain sensitivity in the skin surrounding tissue injury ( secondary hyperalgesia ) .
+Secondary hyperalgesia shares clinical characteristics with neurogenic hyperalgesia in patients with neuropathic pain .
+Abnormal brain responses to somatosensory stimuli have been found in patients with hyperalgesia as well as in normal subjects during experimental central sensitization .
+The aim of this study was to assess the effects of gabapentin , a drug effective in neuropathic pain patients , on brain processing of nociceptive information in normal and central sensitization states .
+Using functional magnetic resonance imaging ( fMRI ) in normal volunteers , we studied the gabapentin - induced modulation of brain activity in response to nociceptive mechanical stimulation of normal skin and capsaicin - induced secondary hyperalgesia .
+The dose of gabapentin was 1 , 800 mg per os , in a single administration .
+We found that ( i ) gabapentin reduced the activations in the bilateral operculoinsular cortex , independently of the presence of central sensitization ; ( ii ) gabapentin reduced the activation in the brainstem , only during central sensitization ; ( iii ) gabapentin suppressed stimulus - induced deactivations , only during central sensitization ; this effect was more robust than the effect on brain activation .
+The observed drug - induced effects were not due to changes in the baseline fMRI signal .
+These findings indicate that gabapentin has a measurable antinociceptive effect and a stronger antihyperalgesic effect most evident in the brain areas undergoing deactivation , thus supporting the concept that gabapentin is more effective in modulating nociceptive transmission when central sensitization is present .

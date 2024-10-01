@@ -1,0 +1,12 @@
+Inhibition of nuclear factor-kappaB activation attenuates tubulointerstitial nephritis induced by gentamicin.
+BACKGROUND: Animals treated with gentamicin can show residual areas of interstitial fibrosis in the renal cortex.
+This study investigated the expression of nuclear factor-kappaB (NF-kappaB), mitogen-activated protein (MAP) kinases and macrophages in the renal cortex and structural and functional renal changes of rats treated with gentamicin or gentamicin + pyrrolidine dithiocarbamate (PDTC), an NF-kappaB inhibitor.
+METHODS: 38 female Wistar rats were injected with gentamicin, 40 mg/kg, twice a day for 9 days, 38 with gentamicin + PDTC, and 28 with 0.15 M NaCl solution.
+The animals were killed 5 and 30 days after these injections and the kidneys were removed for histological and immunohistochemical studies.
+The results of the immunohistochemical studies were scored according to the extent of staining.
+The fractional interstitial area was determined by morphometry.
+RESULTS: Gentamicin-treated rats presented a transitory increase in plasma creatinine levels.
+Increased ED-1, MAP kinases and NF-kappaB staining were also observed in the renal cortex from all gentamicin-treated rats compared to control (p < 0.05).
+The animals killed on day 30 also presented fibrosis in the renal cortex despite the recovery of renal function.
+Treatment with PDTC reduced the functional and structural changes induced by gentamicin.
+CONCLUSIONS: These data show that inhibition of NF-kappaB activation attenuates tubulointerstitial nephritis induced by gentamicin.

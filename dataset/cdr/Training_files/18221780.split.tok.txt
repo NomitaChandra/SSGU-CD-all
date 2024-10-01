@@ -1,0 +1,9 @@
+Sex differences in NMDA antagonist enhancement of morphine antihyperalgesia in a capsaicin model of persistent pain : comparisons to two models of acute pain .
+In acute pain models , N - methyl - D - aspartate ( NMDA ) antagonists enhance the antinociceptive effects of morphine to a greater extent in males than females .
+The purpose of this investigation was to extend these findings to a persistent pain model which could be distinguished from acute pain models on the basis of the nociceptive fibers activated , neurochemical substrates , and duration of the nociceptive stimulus .
+To this end , persistent hyperalgesia was induced by administration of capsaicin in the tail of gonadally intact F344 rats , following which the tail was immersed in a mildly noxious thermal stimulus , and tail - withdrawal latencies measured .
+For comparison , tests were conducted in two acute pain models , the hotplate and warm water tail - withdrawal procedures .
+In males , the non - competitive NMDA antagonist dextromethorphan enhanced the antihyperalgesic effect of low to moderate doses of morphine in a dose - and time - dependent manner .
+Across the doses and pretreatment times examined , enhancement was not observed in females .
+Enhancement of morphine antinociception by dextromethorphan was seen in both males and females in the acute pain models , with the magnitude of this effect being greater in males .
+These findings demonstrate a sexually - dimorphic interaction between NMDA antagonists and morphine in a persistent pain model that can be distinguished from those observed in acute pain models .

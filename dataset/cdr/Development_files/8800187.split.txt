@@ -1,0 +1,15 @@
+Effect of calcium chloride and 4-aminopyridine therapy on desipramine toxicity in rats.
+BACKGROUND: Hypotension is a major contributor to mortality in tricyclic antidepressant overdose.
+Recent data suggest that tricyclic antidepressants inhibit calcium influx in some tissues.
+This study addressed the potential role of calcium channel blockade in tricyclic antidepressant-induced hypotension.
+METHODS: Two interventions were studied that have been shown previously to improve blood pressure with calcium channel blocker overdose.
+CaCl2 and 4-aminopyridine.
+Anesthetized rats received the tricyclic antidepressant desipramine IP to produce hypotension, QRS prolongation, and bradycardia.
+Fifteen min later, animals received CaCl2, NaHCO3, or saline.
+In a second experiment, rats received tricyclic antidepressant desipramine IP followed in 15 min by 4-aminopyridine or saline.
+RESULTS: NaHCO3 briefly (5 min) reversed hypotension and QRS prolongation.
+CaCl2 and 4-aminopyridine failed to improve blood pressure.
+The incidence of ventricular arrhythmias (p = 0.004) and seizures (p = 0.03) in the CaCl2 group was higher than the other groups.
+CONCLUSION: The administration of CaCl2 or 4-aminopyridine did not reverse tricyclic antidepressant-induced hypotension in rats.
+CaCl2 therapy may possibly worsen both cardiovascular and central nervous system toxicity.
+These findings do not support a role for calcium channel inhibition in the pathogenesis of tricyclic antidepressant-induced hypotension.

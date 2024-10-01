@@ -1,0 +1,12 @@
+Spironolactone-induced renal insufficiency and hyperkalemia in patients with heart failure.
+BACKGROUND: A previous randomized controlled trial evaluating the use of spironolactone in heart failure patients reported a low risk of hyperkalemia (2%) and renal insufficiency (0%).
+Because treatments for heart failure have changed since the benefits of spironolactone were reported, the prevalence of these complications may differ in current clinical practice.
+We therefore sought to determine the prevalence and clinical associations of hyperkalemia and renal insufficiency in heart failure patients treated with spironolactone.
+METHODS: We performed a case control study of heart failure patients treated with spironolactone in our clinical practice.
+Cases were patients who developed hyperkalemia (K(+) >5.0 mEq/L) or renal insufficiency (Cr >or=2.5 mg/dL), and they were compared to 2 randomly selected controls per case.
+Clinical characteristics, medications, and serum chemistries at baseline and follow-up time periods were compared.
+RESULTS: Sixty-seven of 926 patients (7.2%) required discontinuation of spironolactone due to hyperkalemia (n = 33) or renal failure (n = 34).
+Patients who developed hyperkalemia were older and more likely to have diabetes, had higher baseline serum potassium levels and lower baseline potassium supplement doses, and were more likely to be treated with beta-blockers than controls (n = 134).
+Patients who developed renal insufficiency had lower baseline body weight and higher baseline serum creatinine, required higher doses of loop diuretics, and were more likely to be treated with thiazide diuretics than controls.
+CONCLUSIONS: Spironolactone-induced hyperkalemia and renal insufficiency are more common in our clinical experience than reported previously.
+This difference is explained by patient comorbidities and more frequent use of beta-blockers.

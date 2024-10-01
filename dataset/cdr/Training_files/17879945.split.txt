@@ -1,0 +1,16 @@
+Estrogen prevents cholesteryl ester accumulation in macrophages induced by the HIV protease inhibitor ritonavir.
+Individuals with HIV can now live long lives with drug therapy that often includes protease inhibitors such as ritonavir.
+Many patients, however, develop negative long-term side effects such as premature atherosclerosis.
+We have previously demonstrated that ritonavir treatment increases atherosclerotic lesion formation in male mice to a greater extent than in female mice.
+Furthermore, peripheral blood monocytes isolated from ritonavir-treated females had less cholesteryl ester accumulation.
+In the present study, we have investigated the molecular mechanisms by which female hormones influence cholesterol metabolism in macrophages in response to the HIV protease inhibitor ritonavir.
+We have utilized the human monocyte cell line, THP-1 as a model to address this question.
+Briefly, cells were differentiated for 72 h with 100 nM PMA to obtain a macrophage-like phenotype in the presence or absence of 1 nM 17beta-estradiol (E2), 100 nM progesterone or vehicle (0.01% ethanol).
+Cells were then treated with 30 ng/ml ritonavir or vehicle in the presence of aggregated LDL for 24 h.
+Cell extracts were harvested, and lipid or total RNA was isolated.
+E2 decreased the accumulation of cholesteryl esters in macrophages following ritonavir treatment.
+Ritonavir increased the expression of the scavenger receptor, CD36 mRNA, responsible for the uptake of LDL.
+Additionally, ritonavir treatment selectively increased the relative levels of PPARgamma mRNA, a transcription factor responsible for the regulation of CD36 mRNA expression.
+Treatment with E2, however, failed to prevent these increases at the mRNA level.
+E2 did, however, significantly suppress CD36 protein levels as measured by fluorescent immunocytochemistry.
+This data suggests that E2 modifies the expression of CD36 at the level of protein expression in monocyte-derived macrophages resulting in reduced cholesteryl ester accumulation following ritonavir treatment.

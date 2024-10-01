@@ -1,0 +1,6 @@
+Involvement of the mu-opiate receptor in peripheral analgesia.
+The intradermal injection of mu (morphine, Tyr-D-Ala-Gly-NMe-Phe-Gly-ol and morphiceptin), kappa (trans-3,4-dichloro-N-methyl-N[2-(1-pyrrolidinyl) cyclohexyl]benzeneactemide) and delta ([D-Pen2.5]-enkephalin and [D-Ser2]-[Leu]enkephalin-Thr) selective opioid-agonists, by themselves, did not significantly affect the mechanical nociceptive threshold in the hindpaw of the rat.
+Intradermal injection of mu, but not delta or kappa opioid-agonists, however, produced dose-dependent inhibition of prostaglandin E2-induced hyperalgesia.
+The analgesic effect of the mu-agonist morphine was dose-dependently antagonized by naloxone and prevented by co-injection of pertussis toxin.
+Morphine did not, however, alter the hyperalgesia induced by 8-bromo cyclic adenosine monophosphate.
+We conclude that the analgesic action of opioids on the peripheral terminals of primary afferents is via a binding site with characteristics of the mu-opioid receptor and that this action is mediated by inhibition of the cyclic adenosine monophosphate second messenger system.

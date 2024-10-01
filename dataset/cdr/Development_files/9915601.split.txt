@@ -1,0 +1,7 @@
+Enhanced bradycardia induced by beta-adrenoceptor antagonists in rats pretreated with isoniazid.
+High doses of isoniazid increase hypotension induced by vasodilators and change the accompanying reflex tachycardia to bradycardia, an interaction attributed to decreased synthesis of brain gamma-aminobutyric acid (GABA).
+In the present study, the possible enhancement by isoniazid of bradycardia induced by beta-adrenoceptor antagonists was determined in rats anaesthetised with chloralose-urethane.
+Isoniazid significantly increased bradycardia after propranolol, pindolol, labetalol and atenolol, as well as after clonidine, but not after hexamethonium or carbachol.
+Enhancement was not observed in rats pretreated with methylatropine or previously vagotomised.
+These results are compatible with interference by isoniazid with GABAergic inhibition of cardiac parasympathetic tone.
+Such interference could be exerted centrally, possibly at the nucleus ambiguus, or peripherally at the sinus node.

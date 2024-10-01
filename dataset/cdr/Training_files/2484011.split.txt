@@ -1,0 +1,14 @@
+Mouse strain-dependent effect of amantadine on motility and brain biogenic amines.
+The effect of amantadine hydrochloride, injected i.p.
+in 6 increments of 100 mg/kg each over 30 hr, on mouse motility and whole brain content of selected biogenic amines and major metabolites was studied in 4 strains of mice.
+These were the albino Sprague-Dawley ICR and BALB/C, the black C57BL/6 and the brown CDF-I mouse strains.
+Amantadine treatment produced a biphasic effect on mouse motility.
+The initial dose of amantadine depressed locomotor activity in all mouse strains studied with the BALB/C mice being the most sensitive.
+Subsequent amantadine treatments produced enhancement of motility from corresponding control in all mouse strains with the BALB/C mice being the least sensitive.
+The locomotor activity was decreased from corresponding controls in all strains studied, except for the ICR mice, during an overnight drug-free period following the fourth amantadine treatment.
+Readministration of amantadine, after a drug-free overnight period, increased motility from respective saline control in all strains with exception of the BALB/C mice where suppression of motility occurred.
+Treatment with amantadine did not alter whole brain dopamine levels but decreased the amounts of 3,4-dihydroxyphenylacetic acid in the BALB/C mice compared to saline control.
+Conversely, brain normetanephrine concentration was increased from saline control by amantadine in the BALB/C mice.
+The results suggest a strain-dependent effect of amantadine on motility and indicate a differential response to the acute and multiple dose regimens used.
+The BALB/C mouse was the most sensitive strain and could serve as the strain of choice for evaluating the side effects of amantadine.
+The biochemical results of brain biogenic amines of BALB/C mouse strain suggest a probable decrease of catecholamine turnover rate and/or metabolism by monoamine oxidase and a resulting increase in O-methylation of norepinephrine which may account for a behavioral depression caused by amantadine in the BALB/C mice.

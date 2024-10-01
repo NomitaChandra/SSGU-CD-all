@@ -1,0 +1,12 @@
+Over expression of vascular endothelial growth factor and its receptor during the development of estrogen-induced rat pituitary tumors may mediate estrogen-initiated tumor angiogenesis.
+Estrogens, which have been associated with several types of human and animal cancers, can induce tumor angiogenesis in the pituitary of Fischer 344 rats.
+The mechanistic details of tumor angiogenesis induction, during estrogen carcinogenesis, are still unknown.
+To elucidate the role of estrogen in the regulation of tumor angiogenesis in the pituitary of female rats, the density of blood vessels was analysed using factor VIII related antigen (FVIIIRAg) immunohistochemistry and the expression of vascular endothelial growth factor/vascular permeability factor (VEGF/VPF) was examined by Western blot and immunohistochemical analysis.
+The expression of VEGF receptor (VEGFR-2/Flk-1/KDR) was also examined by immunohistochemistry.
+The results demonstrated that 17beta-estradiol (E2) induces neovascularization, as well as the growth and enlargement of blood vessels after 7 days of exposure.
+The high tumor angiogenic potential was associated with an elevated VEGF/VPF protein expression in the E2 exposed pituitary of ovariectomized (OVEX) rats.
+VEGF/VPF and FVIIIRAg immunohistochemistry and endothelial specific lectin (UEA1) binding studies, indicate that the elevation of VEGF protein expression initially occurred in both blood vessels and non-endothelial cells.
+After 15 days of E2 exposure, VEGF/VPF protein expression, in the non-endothelial cell population, sharply declined and was restricted to the blood vessels.
+The function of non-endothelial-derived VEGF is not clear.
+Furthermore, immunohistochemical studies demonstrated that VEGFR-2 (flk-1/KDR), expression was elevated significantly in the endothelial cells of microblood vessels after 7 days of E2 exposure.
+These findings suggest that over expression of VEGF and its receptor (VEGFR-2) may play an important role in the initial step of the regulation of estrogen induced tumor angiogenesis in the rat pituitary.

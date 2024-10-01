@@ -1,0 +1,11 @@
+Urinary bladder cancer in Wegener's granulomatosis: risks and relation to cyclophosphamide.
+OBJECTIVE: To assess and characterise the risk of bladder cancer, and its relation to cyclophosphamide, in patients with Wegener's granulomatosis.
+METHODS: In the population based, nationwide Swedish Inpatient Register a cohort of 1065 patients with Wegener's granulomatosis, 1969-95, was identified.
+Through linkage with the Swedish Cancer Register, all subjects in this cohort diagnosed with bladder cancer were identified.
+Nested within the cohort, a matched case-control study was performed to estimate the association between cyclophosphamide and bladder cancer using odds ratios (ORs) as relative risk.
+In the cohort the cumulative risk of bladder cancer after Wegener's granulomatosis, and the relative prevalence of a history of bladder cancer at the time of diagnosis of Wegener's granulomatosis, were also estimated.
+RESULTS: The median cumulative doses of cyclophosphamide among cases (n = 11) and controls (n = 25) were 113 g and 25 g, respectively.
+The risk of bladder cancer doubled for every 10 g increment in cyclophosphamide (OR = 2.0, 95% confidence interval (CI) 0.8 to 4.9).
+Treatment duration longer than 1 year was associated with an eightfold increased risk (OR = 7.7, 95% CI 0.9 to 69).
+The absolute risk for bladder cancer in the cohort reached 10% 16 years after diagnosis of Wegener's granulomatosis, and a history of bladder cancer was (non-significantly) twice as common as expected at the time of diagnosis of Wegener's granulomatosis.
+CONCLUSION: The results indicate a dose-response relationship between cyclophosphamide and the risk of bladder cancer, high cumulative risks in the entire cohort, and also the possibility of risk factors operating even before Wegener's granulomatosis.

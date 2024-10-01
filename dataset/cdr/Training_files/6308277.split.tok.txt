@@ -1,0 +1,8 @@
+Reduction in caffeine toxicity by acetaminophen .
+A patient who allegedly consumed 100 tablets of an over - the - counter analgesic containing sodium acetylsalicylate , caffeine , and acetaminophen displayed no significant CNS stimulation despite the presence of 175 micrograms of caffeine per mL of serum .
+Because salicylates have been reported to augment the stimulatory effects of caffeine on the CNS , attention was focused on the possibility that the presence of acetaminophen ( 52 micrograms / mL ) reduced the CNS toxicity of caffeine .
+Studies in DBA / 2J mice showed that : 1 ) pretreatment with acetaminophen ( 100 mg / kg ) increased the interval between the administration of caffeine ( 300 to 450 mg / kg IP ) and the onset of fatal convulsions by a factor of about two ; and 2 ) pretreatment with acetaminophen ( 75 mg / kg ) reduced the incidence of audiogenic seizures produced in the presence of caffeine ( 12 . 5 to 75 mg / kg IP ) .
+The frequency of sound - induced seizures after 12 . 5 or 25 mg / kg caffeine was reduced from 50 to 5 % by acetaminophen .
+In the absence of caffeine , acetaminophen ( up to 300 mg / kg ) did not modify the seizures induced by maximal electroshock and did not alter the convulsant dose of pentylenetetrezol in mice ( tests performed by the Anticonvulsant Screening Project of NINCDS ) .
+Acetaminophen ( up to 150 micrograms / mL ) did not retard the incorporation of radioactive adenosine into ATP in slices of rat cerebral cortex .
+Thus the mechanism by which acetaminophen antagonizes the actions of caffeine in the CNS remains unknown .

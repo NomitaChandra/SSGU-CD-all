@@ -1,0 +1,9 @@
+Influence of diet free of NAD - precursors on acetaminophen hepatotoxicity in mice .
+Recently , we demonstrated the hepatoprotective effects of nicotinic acid amide , a selective inhibitor of poly ( ADP - ribose ) polymerase ( PARP ; EC 2 . 4 . 2 . 30 ) on mice suffering from acetaminophen ( AAP ) - hepatitis , suggesting that the AAP - induced liver injury involves a step which depends on adenoribosylation .
+The present study investigates the effects of a diet free of precursors of NAD , the substrate on which PARP acts , in female NMRI mice with AAP hepatitis and evaluates the influence of simultaneous ethanol consumption in these animals .
+Liver injuries were quantified as serum activities of glutamate - oxaloacetate transaminase ( GOT ) and glutamate - pyruvate transaminase ( GPT ) .
+While AAP caused a 117 - fold elevation of serum transaminase activities in mice kept on a standard laboratory diet , which was significantly exacerbated by ethanol and inhibited by nicotinic acid amide ( NAA ) , adverse effects were noted in animals fed a diet free of precursors of NAD .
+In these animals , only minor increases of serum transaminase activities were measured in the presence of AAP , and unlike the exacerbation caused by ethanol in mice on a standard diet , the liver damage was inhibited by 50 % by ethanol .
+A further 64 % reduction of hepatitis was observed , when NAA was given to ethanol / AAP - mice .
+Our results provide evidence that the AAP - induced hepatitis and its exacerbation by ethanol can either be reduced by end - product inhibition of PARP by NAA or by dietary depletion of the enzyme 's substrate NAD .
+We see the main application of NAA as for the combinational use in pharmaceutical preparations of acetaminophen in order to avoid hepatic damage in patients treated with this widely used analgesic .

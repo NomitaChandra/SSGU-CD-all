@@ -1,0 +1,10 @@
+Phlorizin - induced glycosuria does not prevent gentamicin nephrotoxicity in rats .
+Because rats with streptozotocin - induced diabetes mellitus ( DM ) have a high solute diuresis ( glycosuria of 10 to 12 g / day ) , we have suggested that this may in part be responsible for their resistance to gentamicin - induced acute renal failure ( ARF ) .
+The protection from gentamicin nephrotoxicity was studied in non - diabetic rats with chronic solute diuresis induced by blockage of tubular glucose reabsorption with phlorizin ( P ) .
+DM rats with mild glycosuria ( similar in degree to that of the P treated animals ) were also studied .
+Unanesthetized adult female , Sprague - Dawley rats were divided in four groups and studied for 15 days .
+Group 1 ( P alone ) received P , 360 mg / day , for 15 days ; Group II ( P + gentamicin ) ; Group III ( gentamicin alone ) and Group IV ( mild DM + gentamicin ) .
+Nephrotoxic doses ( 40 mg / kg body wt / day ) of gentamicin were injected during the last nine days of study to the animals of groups II to IV .
+In Group I , P induced a moderate and stable glycosuria ( 3 . 9 + / - 0 . 1 g / day , SE ) , and no functional or morphologic evidence of renal dysfunction ( baseline CCr 2 . 1 + / - 0 . 1 ml / min , undetectable lysozymuria ) or damage ( tubular necrosis score [ maximum 4 ] , zero ) .
+In Group II , P did not prevent gentamicin - ARF ( maximal decrease in CCr at day 9 . 89 % , P less than 0 . 001 ; peak lysozymuria , 1863 + / - 321 micrograms / day ; and tubular necrosis score , 3 . 9 + / - 0 . 1 ) .
+These values were not different from those of Group III : maximal decrease in CCr 73 % ( P less than 0 . 001 ) ; lysozymuria , 2147 + / - 701 micrograms / day ; tubular necrosis score , 3 . 8 + / - 0 . 1 . ( ABSTRACT TRUNCATED AT 250 WORDS ) .

@@ -1,0 +1,19 @@
+Aspirin for the primary prevention of cardiovascular events: an update of the evidence for the U.S.
+Preventive Services Task Force.
+BACKGROUND: Coronary heart disease and cerebrovascular disease are leading causes of death in the United States.
+In 2002, the U.S.
+Preventive Services Task Force (USPSTF) strongly recommended that clinicians discuss aspirin with adults who are at increased risk for coronary heart disease.
+PURPOSE: To determine the benefits and harms of taking aspirin for the primary prevention of myocardial infarctions, strokes, and death.
+DATA SOURCES: MEDLINE and Cochrane Library (search dates, 1 January 2001 to 28 August 2008), recent systematic reviews, reference lists of retrieved articles, and suggestions from experts.
+STUDY SELECTION: English-language randomized, controlled trials (RCTs); case-control studies; meta-analyses; and systematic reviews of aspirin versus control for the primary prevention of cardiovascular disease (CVD) were selected to answer the following questions: Does aspirin decrease coronary heart events, strokes, death from coronary heart events or stroke, or all-cause mortality in adults without known CVD? Does aspirin increase gastrointestinal bleeding or hemorrhagic strokes? DATA EXTRACTION: All studies were reviewed, abstracted, and rated for quality by using predefined USPSTF criteria.
+DATA SYNTHESIS: New evidence from 1 good-quality RCT, 1 good-quality meta-analysis, and 2 fair-quality subanalyses of RCTs demonstrates that aspirin use reduces the number of CVD events in patients without known CVD.
+Men in these studies experienced fewer myocardial infarctions and women experienced fewer ischemic strokes.
+Aspirin does not seem to affect CVD mortality or all-cause mortality in either men or women.
+The use of aspirin for primary prevention increases the risk for major bleeding events, primarily gastrointestinal bleeding events, in both men and women.
+Men have an increased risk for hemorrhagic strokes with aspirin use.
+A new RCT and meta-analysis suggest that the risk for hemorrhagic strokes in women is not statistically significantly increased.
+LIMITATIONS: New evidence on aspirin for the primary prevention of CVD is limited.
+The dose of aspirin used in the RCTs varied, which prevented the estimation of the most appropriate dose for primary prevention.
+Several of the RCTs were conducted within populations of health professionals, which potentially limits generalizability.
+CONCLUSION: Aspirin reduces the risk for myocardial infarction in men and strokes in women.
+Aspirin use increases the risk for serious bleeding events.

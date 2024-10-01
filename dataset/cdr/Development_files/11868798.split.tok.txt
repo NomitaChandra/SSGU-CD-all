@@ -1,0 +1,10 @@
+Spironolactone : is it a novel drug for the prevention of amphotericin B - related hypokalemia in cancer patients ?
+OBJECTIVE : Nephrotoxicity is the major adverse effect of amphotericin B ( AmB ) , often limiting administration of full dosage .
+Selective distal tubular epithelial toxicity seems to be responsible for the profound potassium wasting that is a major clinical side effect of treatment with AmB .
+Potassium depletion also potentiates the tubular toxicity of AmB .
+This study was designed to assess the ability of spironolactone to reduce potassium requirements and to prevent hypokalemia in neutropenic patients on AmB treatment .
+METHODS : In this study 26 patients with various hematological disorders were randomized to receive either intravenous AmB alone or AmB and oral spironolactone 100 mg twice daily when developing a proven or suspected fungal infection .
+RESULTS : Patients receiving concomitant AmB and spironolactone had significantly higher plasma potassium levels than those receiving AmB alone ( P = 0 . 0027 ) .
+Those patients receiving AmB and spironolactone required significantly less potassium supplementation to maintain their plasma potassium within the normal range ( P = 0 . 022 ) .
+Moreover , urinary potassium losses were significantly less in patients receiving AmB and spironolactone than those receiving AmB alone ( P = 0 . 040 ) .
+CONCLUSION : This study showed that spironolactone can reduce potassium requirements and prevent hypokalemia by reducing urinary potassium loss in neutropenic patients on AmB treatment .

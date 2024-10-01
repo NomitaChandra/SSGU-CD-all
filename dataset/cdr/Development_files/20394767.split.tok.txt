@@ -1,0 +1,10 @@
+Fear - potentiated startle , but not light - enhanced startle , is enhanced by anxiogenic drugs .
+RATIONALE AND OBJECTIVES : The light - enhanced startle paradigm ( LES ) is suggested to model anxiety , because of the non - specific cue and the long - term effect .
+In contrast , the fear - potentiated startle ( FPS ) is suggested to model conditioned fear .
+However , the pharmacological profiles of these two paradigms are very similar .
+The present study investigated the effects of putative anxiogenic drugs on LES and FPS and aimed at determining the sensitivity of LES for anxiogenic drugs and to potentially showing a pharmacological differentiation between these two paradigms .
+METHODS : Male Wistar rats received each dose of the alpha ( 2 ) - adrenoceptor antagonist yohimbine ( 0 . 25 - 1 . 0mg / kg ) , the 5 - HT ( 2C ) receptor agonist m - chlorophenylpiperazine ( mCPP , 0 . 5 - 2 . 0mg / kg ) or the GABA ( A ) inverse receptor agonist pentylenetetrazole ( PTZ , 3 - 30mg / kg ) and were subsequently tested in either LES or FPS .
+RESULTS : None of the drugs enhanced LES , whereas mCPP increased percentage FPS and yohimbine increased absolute FPS values .
+Furthermore , yohimbine increased baseline startle amplitude in the LES , while mCPP suppressed baseline startle in both the LES and FPS and PTZ suppressed baseline startle in the FPS .
+CONCLUSIONS : In contrast to findings in the FPS paradigm , none of the drugs were able to exacerbate the LES response .
+Thus , a clear pharmacological differentiation was found between LES and FPS .

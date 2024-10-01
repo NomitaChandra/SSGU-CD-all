@@ -1,0 +1,13 @@
+Sub-chronic inhibition of nitric-oxide synthesis modifies haloperidol-induced catalepsy and the number of NADPH-diaphorase neurons in mice.
+RATIONALE: NG-nitro-L-arginine (L-NOARG), an inhibitor of nitric-oxide synthase (NOS), induces catalepsy in mice.
+This effect undergoes rapid tolerance, showing a significant decrease after 2 days of sub-chronic L-NOARG treatment.
+Nitric oxide (NO) has been shown to influence dopaminergic neurotransmission in the striatum.
+Neuroleptic drugs such as haloperidol, which block dopamine receptors, also cause catalepsy in rodents.
+OBJECTIVES: To investigate the effects of subchronic L-NOARG treatment in haloperidol-induced catalepsy and the number of NOS neurons in areas related to motor control.
+METHODS: Male albino Swiss mice were treated sub-chronically (twice a day for 4 days) with L-NOARG (40 mg/kg i.p.) or haloperidol (1 mg/kg i.p.).
+Catalepsy was evaluated at the beginning and the end of the treatments.
+Reduced nicotinamide adenine dinucleotide phosphate-diaphorase (NADPH-d) histochemistry was also employed to visualize NOS as an index of enzyme expression in mice brain regions related to motor control.
+RESULTS: L-NOARG sub-chronic administration produced tolerance of L-NOARG and of haloperidol-induced catalepsy.
+It also induced an increase in the number of NADPH-d-positive cells in the dorsal part of the caudate and accumbens nuclei compared with haloperidol and in the pedunculopontine tegmental nucleus compared with saline.
+In contrast, there was a decrease in NADPH-d neuron number in the substantia nigra, pars compacta in both haloperidol-treated and L-NOARG-treated animals.
+CONCLUSIONS: The results give further support to the hypothesis that NO plays a role in motor behavior control and suggest that it may take part in the synaptic changes produced by antipsychotic treatment.

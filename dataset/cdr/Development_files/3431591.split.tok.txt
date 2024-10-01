@@ -1,0 +1,13 @@
+Recent preclinical and clinical studies with the thymidylate synthase inhibitor N10 - propargyl - 5 , 8 - dideazafolic acid ( CB 3717 ) .
+CB 3717 , N10 - propargyl - 5 , 8 - dideazafolic acid , is a tight - binding inhibitor of thymidylate synthase ( TS ) whose cytotoxicity is mediated solely through the inhibition of this enzyme .
+Recent preclinical studies have focused on the intracellular formation of CB 3717 polyglutamates .
+Following a 12 - hour exposure of L1210 cells to 50 microM [ 3H ] CB 3717 , 30 % of the extractable radioactivity could be accounted for as CB 3717 tetra - and pentaglutamate , as determined by high - pressure liquid chromatography ( HPLC ) analyses .
+As inhibitors of isolated L1210 TS , CB 3717 di - , tri - , tetra - and pentaglutamate are 26 - , 87 - , 119 - and 114 - fold more potent than CB 3717 , respectively , and their formation may , therefore , be an important determinant of CB 3717 cytotoxicity .
+In early clinical studies with CB 3717 , activity has been seen in breast cancer , ovarian cancer , hepatoma , and mesothelioma .
+Toxicities included hepatotoxicity , malaise , and dose - limiting nephrotoxicity .
+This latter effect is thought to be due to drug precipitation within the renal tubule as a result of the poor solubility of CB 3717 under acidic conditions .
+In an attempt to overcome this problem , a clinical trial of CB 3717 administered with alkaline diuresis is under way .
+Preliminary results at 400 and 500 mg / m2 suggest that a reduction in nephrotoxicity may have been achieved with only 1 instance of renal toxicity in 10 patients .
+Hepatotoxicity and malaise are again the most frequent side effects .
+Evidence of antitumor activity has been seen in 3 patients .
+Pharmacokinetic investigations have shown that alkaline diuresis does not alter CB 3717 plasma levels or urinary excretion and that satisfactory urinary alkalinization can be readily achieved .

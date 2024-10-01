@@ -1,0 +1,12 @@
+Higher optical density of an antigen assay predicts thrombosis in patients with heparin - induced thrombocytopenia .
+OBJECTIVES : To correlate optical density and percent inhibition of a two - step heparin - induced thrombocytopenia ( HIT ) antigen assay with thrombosis ; the assay utilizes reaction inhibition characteristics of a high heparin concentration .
+PATIENTS AND METHODS : Patients with more than 50 % decrease in platelet count or thrombocytopenia ( < 150 x 10 ( 9 ) / L ) after exposure to heparin , who had a positive two - step antigen assay [ optical density ( OD ) > 0 . 4 and > 50 inhibition with high concentration of heparin ] were included in the study .
+RESULTS : Forty of 94 HIT patients had thrombosis at diagnosis ; 54 / 94 had isolated - HIT without thrombosis .
+Eight of the isolated - HIT patients developed thrombosis within the next 30 d ; thus , a total of 48 patients had thrombosis at day 30 .
+At diagnosis there was no significant difference in OD between HIT patients with thrombosis and those with isolated - HIT .
+However , OD was significantly higher in all patients with thrombosis ( n = 48 , 1 . 34 + / - 0 . 89 ) , including isolated - HIT patients who later developed thrombosis within 30 d ( n = 8 , 1 . 84 + / - 0 . 64 ) as compared to isolated - HIT patients who did not develop thrombosis ( 0 . 96 + / - 0 . 75 ; P = 0 . 011 and P = 0 . 008 ) .
+The Receiver Operative Characteristic Curve showed that OD > 1 . 27 in the isolated - HIT group had a significantly higher chance of developing thrombosis by day 30 .
+None of these groups showed significant difference in percent inhibition .
+Multivariate analysis showed a 2 . 8 - fold increased risk of thrombosis in females .
+Similarly , thrombotic risk increased with age and OD values .
+CONCLUSION : Higher OD is associated with significant risk of subsequent thrombosis in patients with isolated - HIT ; percent inhibition , however , was not predictive .

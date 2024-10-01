@@ -1,0 +1,20 @@
+Tremor side effects of salbutamol, quantified by a laser pointer technique.
+OBJECTIVE: To study tremor side effects of salbutamol an easily applicable, quick and low-priced method is needed.
+A new method using a commercially available, pen-shaped laser pointer was developed.
+Aim of the study was to determine sensitivity, reproducibility, reference values and the agreement with a questionnaire.
+METHODS: Tremor was measured using a laser pointer technique.
+To determine sensitivity we assessed tremor in 44 patients with obstructive lung disease after administration of cumulative doses of salbutamol.
+Subjects were asked to aim at the centre of a target, subdivided in concentric circles, from 5 m distance.
+The circle in which the participant succeeded to aim was recorded in millimetres radius.
+In another series of measurements, reproducibility and reference values of the tremor was assessed in 65 healthy subjects in three sessions, at 9 a.m., 4 p.m.
+and 9 a.m., respectively, 1 week later.
+Postural tremor was measured with the arm horizontally outstretched rest tremor with the arm supported by an armrest and finally tremor was measured after holding a 2-kg weight until exhaustion.
+Inter-observer variability was measured in a series of 10 healthy subjects.
+Tremor was measured simultaneously by two independent observers.
+RESULTS: Salbutamol significantly increased tremor severity in patients in a dose-dependent way.
+Within healthy adults no age-dependency could be found (b = 0.262 mm/year; P = 0.72).
+There was no agreement between the questionnaire and tremor severity (r = 0.093; P = 0.53).
+Postural tremor showed no significant difference between the first and third session (P = 0.07).
+Support of the arm decreased tremor severity, exhaustion increased tremor severity significantly.
+A good agreement was found between two independent observers (interclass correlation coefficient 0.72).
+DISCUSSION: Quantifying tremor by using an inexpensive laser pointer is, with the exception of children (<12 years) a sensitive and reproducible method.

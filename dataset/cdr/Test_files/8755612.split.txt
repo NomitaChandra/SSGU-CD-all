@@ -1,0 +1,10 @@
+Genetic separation of tumor growth and hemorrhagic phenotypes in an estrogen-induced tumor.
+Chronic administration of estrogen to the Fischer 344 (F344) rat induces growth of large, hemorrhagic pituitary tumors.
+Ten weeks of diethylstilbestrol (DES) treatment caused female F344 rat pituitaries to grow to an average of 109.2 +/- 6.3 mg (mean +/- SE) versus 11.3 +/- 1.4 mg for untreated rats, and to become highly hemorrhagic.
+The same DES treatment produced no significant growth (8.9 +/- 0.5 mg for treated females versus 8.7 +/- 1.1 for untreated females) or morphological changes in Brown Norway (BN) rat pituitaries.
+An F1 hybrid of F344 and BN exhibited significant pituitary growth after 10 weeks of DES treatment with an average mass of 26.3 +/- 0.7 mg compared with 8.6 +/- 0.9 mg for untreated rats.
+Surprisingly, the F1 hybrid tumors were not hemorrhagic and had hemoglobin content and outward appearance identical to that of BN.
+Expression of both growth and morphological changes is due to multiple genes.
+However, while DES-induced pituitary growth exhibited quantitative, additive inheritance, the hemorrhagic phenotype exhibited recessive, epistatic inheritance.
+Only 5 of the 160 F2 pituitaries exhibited the hemorrhagic phenotype; 36 of the 160 F2 pituitaries were in the F344 range of mass, but 31 of these were not hemorrhagic, indicating that the hemorrhagic phenotype is not merely a consequence of extensive growth.
+The hemorrhagic F2 pituitaries were all among the most massive, indicating that some of the genes regulate both phenotypes.

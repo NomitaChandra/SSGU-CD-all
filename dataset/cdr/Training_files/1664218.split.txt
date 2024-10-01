@@ -1,0 +1,9 @@
+Phase II study of the amsacrine analogue CI-921 (NSC 343499) in non-small cell lung cancer.
+CI-921 (NSC 343499; 9-[[2-methoxy-4-[(methylsulphonyl)amino]phenyl]amino] -N,5-dimethyl- 4-acridinecarboxamide) is a topoisomerase II poison with high experimental antitumour activity.
+It was administered by 15 min infusion to 16 evaluable patients with non-small cell lung cancer (NSCLC) (7 with no prior treatment, 9 patients in relapse following surgery/radiotherapy) at a dose (648 mg/m2 divided over 3 days, repeated every 3 weeks) determined by phase I trial.
+Patients had a median performance status of 1 (WHO), and median age of 61 years.
+The histology comprised squamous carcinoma (11), adenocarcinoma (1), mixed histology (2), bronchio-alveolar carcinoma (1) and large cell undifferentiated carcinoma (1).
+Neutropenia grade greater than or equal to 3 was seen in 15 patients, infections with recovery in 3, and grand mal seizures in 1 patient.
+Grade less than or equal to 2 nausea and vomiting occurred in 66% courses and phlebitis in the infusion arm in 37%.
+1 patient with squamous cell carcinoma achieved a partial response lasting 5 months.
+Further testing in this and other tumour types using multiple daily schedules is warranted.

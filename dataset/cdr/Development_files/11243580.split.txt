@@ -1,0 +1,8 @@
+The role of nitrergic system in lidocaine-induced convulsion in the mouse.
+The effects of N-nitro-L-arginine-methyl ester (L-NAME) a nitric oxide (NO) synthase inhibitor and L-arginine, a NO precursor, were investigated on lidocaine-induced convulsions.
+In the first experiment, four groups of mice received physiological saline (0.9%), L-arginine (300 mg/kg, i.p.), L-NAME (100 mg/kg, i.p.) and diazepam (2 mg/kg), respectively.
+Thirty minutes after these injections, all mice received lidocaine (50 mg/kg, i.p.).
+In the second experiment, four groups of mice received similar treatment in the first experiment, and 30 min after these injections, all mice received a higher dose of lidocaine (80 mg/kg).
+L-NAME (100 mg/kg, i.p.) and diazepam (2 mg/kg) significantly decreased the incidence of lidocaine (50 mg/kg)-induced convulsions.
+In contrast, the L-arginine treatment increased the incidence of lidocaine (80 mg/kg, i.p.)-induced convulsions significantly.
+These results may suggest that NO is a proconvulsant mediator in lidocaine-induced convulsions.

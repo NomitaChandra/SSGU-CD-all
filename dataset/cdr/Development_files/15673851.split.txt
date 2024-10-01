@@ -1,0 +1,11 @@
+The activation of spinal N-methyl-D-aspartate receptors may contribute to degeneration of spinal motor neurons induced by neuraxial morphine after a noninjurious interval of spinal cord ischemia.
+We investigated the relationship between the degeneration of spinal motor neurons and activation of N-methyl-d-aspartate (NMDA) receptors after neuraxial morphine following a noninjurious interval of aortic occlusion in rats.
+Spinal cord ischemia was induced by aortic occlusion for 6 min with a balloon catheter.
+In a microdialysis study, 10 muL of saline (group C; n = 8) or 30 mug of morphine (group M; n = 8) was injected intrathecally (IT) 0.5 h after reflow, and 30 mug of morphine (group SM; n = 8) or 10 muL of saline (group SC; n = 8) was injected IT 0.5 h after sham operation.
+Microdialysis samples were collected preischemia, before IT injection, and at 2, 4, 8, 24, and 48 h of reperfusion (after IT injection).
+Second, we investigated the effect of IT MK-801 (30 mug) on the histopathologic changes in the spinal cord after morphine-induced spastic paraparesis.
+After IT morphine, the cerebrospinal fluid (CSF) glutamate concentration was increased in group M relative to both baseline and group C (P < 0.05).
+This increase persisted for 8 hrs.
+IT MK-801 significantly reduced the number of dark-stained alpha-motoneurons after morphine-induced spastic paraparesis compared with the saline group.
+These data indicate that IT morphine induces spastic paraparesis with a concomitant increase in CSF glutamate, which is involved in NMDA receptor activation.
+We suggest that opioids may be neurotoxic in the setting of spinal cord ischemia via NMDA receptor activation.

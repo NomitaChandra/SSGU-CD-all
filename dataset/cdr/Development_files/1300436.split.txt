@@ -1,0 +1,9 @@
+Potential deleterious effect of furosemide in radiocontrast nephropathy.
+The purpose of the study was to determine the efficacy of furosemide in addition to intravenous fluids in the prevention of radiocontrast nephropathy.
+18 patients, referred to a radiocontrast study, considered at risk because of preexisting renal insufficiency, were enrolled in a prospective, randomized, controlled trial, performed at the secondary care center of a 1,100-bed private university hospital.
+In addition to fluids, the treatment group received furosemide (mean dose 110 mg) intravenously 30 min prior to the injection of contrast material.
+The control group received fluids (mean 3 liters).
+Radiological studies were mostly angiographies performed with both ionic and non-ionic contrast material, at an average dose of 245 ml.
+Renal function significantly deteriorated in the group pretreated with furosemide (p < 0.005 by ANOVA), with a rise in serum creatinine from 145 +/- 13 to 182 +/- 16 mumol/l at 24 h, while no change occurred in the control group (from 141 +/- 6 to 142 +/- 7 mumol/l).
+Renal failure was associated with weight loss in the furosemide-treated group.
+Furosemide may be deleterious in the prevention of radiocontrast nephropathy.

@@ -24,6 +24,7 @@ pwd = '/'.join(os.path.realpath(__file__).split('/')[:-1])
 
 genia_splitter = os.path.join("./common", "geniass")
 genia_tagger = GENIATagger(os.path.join("./common", "genia-tagger-py", "geniatagger-3.0.2", "geniatagger"))
+# genia_tagger = os.path.abspath(os.path.join("./common", "genia-tagger-py", "geniatagger-3.0.2", "geniatagger"))
 
 TextStruct = recordtype('TextStruct', 'pmid txt')
 EntStruct = recordtype('EntStruct', 'pmid name off1 off2 type kb_id sent_no word_id bio')

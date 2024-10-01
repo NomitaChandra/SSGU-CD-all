@@ -1,0 +1,11 @@
+Seizures induced by the cocaine metabolite benzoylecgonine in rats.
+The half-life (t1/2) of cocaine is relatively short, but some of the consequences of its use, such as seizures and strokes, can occur hours after exposure.
+This led us to hypothesize that a metabolite of cocaine may be responsible for some of those delayed sequelae.
+We evaluated the potential of the major metabolite of cocaine, benzoylecgonine (BE), to cause seizures.
+Two separate equimolar doses (0.2 and 0.4 mumol) of either cocaine or BE were injected ventricularly in unanesthetized juvenile rats.
+Treated rats were then evaluated for incidence, latency, and seizure pattern or for locomotor activity in animals without seizures.
+BE-Induced seizures occurred more frequently and had significantly longer latencies than those induced by equimolar amounts of cocaine.
+Whereas cocaine-induced seizures were best characterized as brief, generalized, and tonic and resulted in death, those induced by BE were prolonged, often multiple and mixed in type, and rarely resulted in death.
+Electrical recordings from the hippocampus showed a rhythmic progression in EEG frequency and voltage with clinical seizure expression.
+BE-Injected rats that did not have seizures had significantly more locomotor activity than cocaine-injected animals without seizures.
+The finding that cocaine- and BE-induced seizures differ in several respects suggests more than one mechanism for cocaine-induced seizures and emphasizes the importance of a cocaine metabolite, BE.

@@ -1,0 +1,10 @@
+Prevention of seizures and reorganization of hippocampal functions by transplantation of bone marrow cells in the acute phase of experimental epilepsy .
+In this study , we investigated the therapeutic potential of bone marrow mononuclear cells ( BMCs ) in a model of epilepsy induced by pilocarpine in rats .
+BMCs obtained from green fluorescent protein ( GFP ) transgenic mice or rats were transplanted intravenously after induction of status epilepticus ( SE ) .
+Spontaneous recurrent seizures ( SRS ) were monitored using Racine 's seizure severity scale .
+All of the rats in the saline - treated epileptic control group developed SRS , whereas none of the BMC - treated epileptic animals had seizures in the short term ( 15 days after transplantation ) , regardless of the BMC source .
+Over the long - term chronic phase ( 120 days after transplantation ) , only 25 % of BMC - treated epileptic animals had seizures , but with a lower frequency and duration compared to the epileptic control group .
+The density of hippocampal neurons in the brains of animals treated with BMCs was markedly preserved .
+At hippocampal Schaeffer collateral - CA1 synapses , long - term potentiation was preserved in BMC - transplanted rats compared to epileptic controls .
+The donor - derived GFP ( + ) cells were rarely found in the brains of transplanted epileptic rats .
+In conclusion , treatment with BMCs can prevent the development of chronic seizures , reduce neuronal loss , and influence the reorganization of the hippocampal neuronal network .

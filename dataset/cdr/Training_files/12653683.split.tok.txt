@@ -1,0 +1,13 @@
+Epithelial sodium channel ( ENaC ) subunit mRNA and protein expression in rats with puromycin aminonucleoside - induced nephrotic syndrome .
+In experimental nephrotic syndrome , urinary sodium excretion is decreased during the early phase of the disease .
+The molecular mechanism ( s ) leading to salt retention has not been completely elucidated .
+The rate - limiting constituent of collecting duct sodium transport is the epithelial sodium channel ( ENaC ) .
+We examined the abundance of ENaC subunit mRNAs and proteins in puromycin aminonucleoside ( PAN ) - induced nephrotic syndrome .
+The time courses of urinary sodium excretion , plasma aldosterone concentration and proteinuria were studied in male Sprague - Dawley rats treated with a single dose of either PAN or vehicle .
+The relative amounts of alphaENaC , betaENaC and gammaENaC mRNAs were determined in kidneys from these rats by real - time quantitative TaqMan PCR , and the amounts of proteins by Western blot .
+The kinetics of urinary sodium excretion and the appearance of proteinuria were comparable with those reported previously .
+Sodium retention occurred on days 2 , 3 and 6 after PAN injection .
+A significant up - regulation of alphaENaC and betaENaC mRNA abundance on days 1 and 2 preceded sodium retention on days 2 and 3 .
+Conversely , down - regulation of alphaENaC , betaENaC and gammaENaC mRNA expression on day 3 occurred in the presence of high aldosterone concentrations , and was followed by a return of sodium excretion to control values .
+The amounts of alphaENaC , betaENaC and gammaENaC proteins were not increased during PAN - induced sodium retention .
+In conclusion , ENaC mRNA expression , especially alphaENaC , is increased in the very early phase of the experimental model of PAN - induced nephrotic syndrome in rats , but appears to escape from the regulation by aldosterone after day 3 .

@@ -1,0 +1,9 @@
+Nociceptive effects induced by intrathecal administration of prostaglandin D2, E2, or F2 alpha to conscious mice.
+The effects of intrathecal administration of prostaglandins on pain responses in conscious mice were evaluated by using hot plate and acetic acid writhing tests.
+Prostaglandin D2 (0.5-3 ng/mouse) had a hyperalgesic action on the response to a hot plate during a 3-60 min period after injection.
+Prostaglandin E2 showed a hyperalgesic effect at doses of 1 pg to 10 ng/mouse, but the effect lasted shorter (3-30 min) than that of prostaglandin D2.
+Similar results were obtained by acetic acid writhing tests.
+The hyperalgesic effect of prostaglandin D2 was blocked by simultaneous injection of a substance P antagonist (greater than or equal to 100 ng) but not by AH6809, a prostanoid EP1-receptor antagonist.
+Conversely, prostaglandin E2-induced hyperalgesia was blocked by AH6809 (greater than or equal to 500 ng) but not by the substance P antagonist.
+Prostaglandin F2 alpha had little effect on pain responses.
+These results demonstrate that both prostaglandin D2 and prostaglandin E2 exert hyperalgesia in the spinal cord, but in different ways.

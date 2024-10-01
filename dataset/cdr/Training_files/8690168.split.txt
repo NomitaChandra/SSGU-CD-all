@@ -1,0 +1,10 @@
+Reduction of heparan sulphate-associated anionic sites in the glomerular basement membrane of rats with streptozotocin-induced diabetic nephropathy.
+Heparan sulphate-associated anionic sites in the glomerular basement membrane were studied in rats 8 months after induction of diabetes by streptozotocin and in age- adn sex-matched control rats, employing the cationic dye cuprolinic blue.
+Morphometric analysis at the ultrastructural level was performed using a computerized image processor.
+The heparan sulphate specificity of the cuprolinic blue staining was demonstrated by glycosaminoglycan-degrading enzymes, showing that pretreatment of the sections with heparitinase abolished all staining, whereas chondroitinase ABC had no effect.
+The majority of anionic sites (74% in diabetic and 81% in control rats) were found within the lamina rara externa of the glomerular basement membrane.
+A minority of anionic sites were scattered throughout the lamina densa and lamina rara interna, and were significantly smaller than those in the lamina rara externa of the glomerular basement membrane (p<0.001 and p<0.01 for diabetic and control rats, respectively).
+Diabetic rats progressively developed albuminuria reaching 40.3 (32.2-62.0) mg/24 h after 8 months in contrast to the control animals (0.8 (0.2-0.9) mg/24 h, p<0.002).
+At the same time, the number of heparan sulphate anionic sites and the total anionic site surface (number of anionic sites x mean anionic site surface) in the lamina rara externa of the glomerular basement membrane was reduced by 19% (p<0.021) and by 26% (p<0.02), respectively.
+Number and total anionic site surface in the remaining part of the glomerular basement membrane (lamina densa and lamina rara interna) were not significantly changed.
+We conclude that in streptozotocin-diabetic rats with an increased urinary albumin excretion, a reduced heparan sulphate charge barrier/density is found at the lamina rara externa of the glomerular basement membrane.

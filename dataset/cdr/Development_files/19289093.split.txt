@@ -1,0 +1,7 @@
+Identification of a simple and sensitive microplate method for the detection of oversulfated chondroitin sulfate in heparin products.
+Heparin is a commonly implemented anticoagulant used to treat critically ill patients.
+Recently, a number of commercial lots of heparin products were found to be contaminated with an oversulfated chondroitin sulfate (OSCS) derivative that could elicit a hypotensive response in pigs following a single high-dose infusion.
+Using both contaminated heparin products and the synthetically produced derivative, we showed that the OSCS produces dose-dependent hypotension in pigs.
+The no observed effect level (NOEL) for this contaminant appears to be approximately 1mg/kg, corresponding to a contamination level of approximately 3%.
+We also demonstrated that OSCS can be identified in heparin products using a simple, inexpensive, commercially available heparin enzyme immunoassay (EIA) kit that has a limit of detection of approximately 0.1%, well below the NOEL.
+This kit may provide a useful method to test heparin products for contamination with oversulfated GAG derivatives.

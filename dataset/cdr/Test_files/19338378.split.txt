@@ -1,0 +1,13 @@
+Reducing harm associated with anticoagulation: practical considerations of argatroban therapy in heparin-induced thrombocytopenia.
+Argatroban is a hepatically metabolized, direct thrombin inhibitor used for prophylaxis or treatment of thrombosis in heparin-induced thrombocytopenia (HIT) and for patients with or at risk of HIT undergoing percutaneous coronary intervention (PCI).
+The objective of this review is to summarize practical considerations of argatroban therapy in HIT.
+The US FDA-recommended argatroban dose in HIT is 2 microg/kg/min (reduced in patients with hepatic impairment and in paediatric patients), adjusted to achieve activated partial thromboplastin times (aPTTs) 1.5-3 times baseline (not >100 seconds).
+Contemporary experiences indicate that reduced doses are also needed in patients with conditions associated with hepatic hypoperfusion, e.g.
+heart failure, yet are unnecessary for renal dysfunction, adult age, sex, race/ethnicity or obesity.
+Argatroban 0.5-1.2 microg/kg/min typically supports therapeutic aPTTs.
+The FDA-recommended dose during PCI is 25 microg/kg/min (350 microg/kg initial bolus), adjusted to achieve activated clotting times (ACTs) of 300-450 sec.
+For PCI, argatroban has not been investigated in hepatically impaired patients; dose adjustment is unnecessary for adult age, sex, race/ethnicity or obesity, and lesser doses may be adequate with concurrent glycoprotein IIb/IIIa inhibition.
+Argatroban prolongs the International Normalized Ratio, and published approaches for monitoring the argatroban-to-warfarin transition should be followed.
+Major bleeding with argatroban is 0-10% in the non-interventional setting and 0-5.8% periprocedurally.
+Argatroban has no specific antidote, and if excessive anticoagulation occurs, argatroban infusion should be stopped or reduced.
+Improved familiarity of healthcare professionals with argatroban therapy in HIT, including in special populations and during PCI, may facilitate reduction of harm associated with HIT (e.g. fewer thromboses) or its treatment (e.g. fewer argatroban medication errors).

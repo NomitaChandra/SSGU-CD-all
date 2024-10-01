@@ -1,0 +1,11 @@
+Metabotropic glutamate 7 receptor subtype modulates motor symptoms in rodent models of Parkinson 's disease .
+Metabotropic glutamate ( mGlu ) receptors modulate synaptic transmission in the central nervous system and represent promising therapeutic targets for symptomatic treatment of Parkinson 's disease ( PD ) .
+Among the eight mGlu receptor subtypes , mGlu7 receptor is prominently expressed in the basal ganglia , but its role in restoring motor function in animal models of PD is not known .
+The effects of N , N ' - dibenzhydrylethane - 1 , 2 - diamine dihydrochloride ( AMN082 ) , the first selective allosteric activator of mGlu7 receptors , were thus tested in different rodent models of PD .
+Here , we show that oral ( 5 mg / kg ) or intrastriatal administration ( 0 . 1 and 0 . 5 nmol ) of AMN082 reverses haloperidol - induced catalepsy in rats .
+AMN082 ( 2 . 5 and 5 mg / kg ) reduces apomorphine - induced rotations in unilateral 6 - hydroxydopamine ( 6 - OHDA ) - lesioned rats .
+In a more complex task commonly used to evaluate major akinetic symptoms of PD patients , 5 mg / kg AMN082 reverses the increased reaction time to respond to a cue of bilateral 6 - OHDA - lesioned rats .
+In addition , AMN082 reduces the duration of haloperidol - induced catalepsy in a mGlu7 receptor - dependent manner in wild - type but not mGlu7 receptor knockout mice .
+Higher doses of AMN082 ( 10 and 20 mg / kg p . o . ) have no effect on the same models of PD .
+Overall these findings suggest that mGlu7 receptor activation can reverse motor dysfunction associated with reduced dopamine activity .
+Selective ligands of mGlu7 receptor subtypes may thus be considered as promising compounds for the development of antiparkinsonian therapeutic strategies .

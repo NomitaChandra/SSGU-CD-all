@@ -1,0 +1,13 @@
+Combined antiretroviral therapy causes cardiomyopathy and elevates plasma lactate in transgenic AIDS mice .
+Highly active antiretroviral therapy ( HAART ) is implicated in cardiomyopathy ( CM ) and in elevated plasma lactate ( LA ) in AIDS through mechanisms of mitochondrial dysfunction .
+To determine mitochondrial events from HAART in vivo , 8 - week - old hemizygous transgenic AIDS mice ( NL4 - 3Delta gag / pol ; TG ) and wild - type FVB / n littermates were treated with the HAART combination of zidovudine , lamivudine , and indinavir or vehicle control for 10 days or 35 days .
+At termination of the experiments , mice underwent echocardiography , quantitation of abundance of molecular markers of CM ( ventricular mRNA encoding atrial natriuretic factor [ ANF ] and sarcoplasmic calcium ATPase [ SERCA2 ] ) , and determination of plasma LA .
+Myocardial histologic features were analyzed semiquantitatively and results were confirmed by transmission electron microscopy .
+After 35 days in the TG + HAART cohort , left ventricular mass increased 160 % by echocardiography .
+Molecularly , ANF mRNA increased 250 % and SERCA2 mRNA decreased 57 % .
+Biochemically , LA was elevated ( 8 . 5 + / - 2 . 0 mM ) .
+Pathologically , granular cytoplasmic changes were found in cardiac myocytes , indicating enlarged , damaged mitochondria .
+Findings were confirmed ultrastructurally .
+No changes were found in other cohorts .
+After 10 days , only ANF was elevated , and only in the TG + HAART cohort .
+Results show that cumulative HAART caused mitochondrial CM with elevated LA in AIDS transgenic mice .

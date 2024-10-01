@@ -1,0 +1,6 @@
+Nicotine-induced nystagmus correlates with midpontine activation.
+The pathomechanism of nicotine-induced nystagmus (NIN) is unknown.
+The aim of this study was to delineate brain structures that are involved in NIN generation.
+Eight healthy volunteers inhaled nicotine in darkness during a functional magnetic resonance imaging (fMRI) experiment; eye movements were registered using video-oculography.
+NIN correlated with blood oxygen level-dependent (BOLD) activity levels in a midpontine site in the posterior basis pontis.
+NIN-induced midpontine activation may correspond to activation of the dorsomedial pontine nuclei and the nucleus reticularis tegmenti pontis, structures known to participate in the generation of multidirectional saccades and smooth pursuit eye movements.

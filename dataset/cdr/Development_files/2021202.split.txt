@@ -1,0 +1,9 @@
+Renal function and hemodynamics during prolonged isoflurane-induced hypotension in humans.
+The effect of isoflurane-induced hypotension on glomerular function and renal blood flow was investigated in 20 human subjects.
+Glomerular filtration rate (GFR) and effective renal plasma flow (ERPF) were measured by inulin and para-aminohippurate (PAH) clearance, respectively.
+Anesthesia was maintained with fentanyl, nitrous oxide, oxygen, and isoflurane.
+Hypotension was induced for 236.9 +/- 15.1 min by increasing the isoflurane inspired concentration to maintain a mean arterial pressure of 59.8 +/- 0.4 mmHg.
+GFR and ERPF decreased with the induction of anesthesia but not significantly more during hypotension.
+Postoperatively, ERPF returned to preoperative values, whereas GFR was higher than preoperative values.
+Renal vascular resistance increased during anesthesia but decreased when hypotension was induced, allowing the maintenance of renal blood flow.
+We conclude that renal compensatory mechanisms are preserved during isoflurane-induced hypotension and that renal function and hemodynamics quickly return to normal when normotension is resumed.

@@ -1,0 +1,15 @@
+Antipsychotic - like profile of thioperamide , a selective H3 - receptor antagonist in mice .
+Experimental and clinical evidence points to a role of central histaminergic system in the pathogenesis of schizophrenia .
+The present study was designed to study the effect of histamine H ( 3 ) - receptor ligands on neuroleptic - induced catalepsy , apomorphine - induced climbing behavior and amphetamine - induced locomotor activities in mice .
+Catalepsy was induced by haloperidol ( 2 mg / kg p . o . ) , while apomorphine ( 1 . 5 mg / kg s . c . ) and amphetamine ( 2 mg / kg s . c . ) were used for studying climbing behavior and locomotor activities , respectively .
+( R ) - alpha - methylhistamine ( RAMH ) ( 5 microg i . c . v . ) and thioperamide ( THP ) ( 15 mg / kg i . p . ) , per se did not cause catalepsy .
+Administration of THP ( 3 . 75 , 7 . 5 and 15 mg / kg i . p . ) 1 h prior to haloperidol resulted in a dose - dependent increase in the catalepsy times ( P < 0 . 05 ) .
+However , pretreatment with RAMH significantly reversed such an effect of THP ( 15 mg / kg i . p . ) .
+RAMH per se showed significant reduction in locomotor time , distance traveled and average speed but THP ( 15 mg / kg i . p . ) per se had no effect on these parameters .
+On amphetamine - induced hyperactivity , THP ( 3 . 75 and 7 . 5 mg / kg i . p . ) reduced locomotor time , distance traveled and average speed ( P < 0 . 05 ) .
+Pretreatment with RAMH ( 5 microg i . c . v . ) could partially reverse such effects of THP ( 3 . 75 mg / kg i . p . ) .
+Climbing behavior induced by apomorphine was reduced in animals treated with THP .
+Such an effect was , however , reversed in presence of RAMH .
+THP exhibited an antipsychotic - like profile by potentiating haloperidol - induced catalepsy , reducing amphetamine - induced hyperactivity and reducing apomorphine - induced climbing in mice .
+Such effects of THP were reversed by RAMH indicating the involvement of histamine H ( 3 ) - receptors .
+Findings suggest a potential for H ( 3 ) - receptor antagonists in improving the refractory cases of schizophrenia .

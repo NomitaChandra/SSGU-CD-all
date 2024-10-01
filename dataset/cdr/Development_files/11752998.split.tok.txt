@@ -1,0 +1,9 @@
+Preliminary efficacy assessment of intrathecal injection of an American formulation of adenosine in humans .
+BACKGROUND : Preclinical studies of intrathecal adenosine suggest it may be effective in the treatment of acute and chronic pain in humans , and preliminary studies in volunteers and patients with a Swedish formulation of adenosine suggests it may be effective in hypersensitivity states but not with acute noxious stimulation .
+The purpose of this study was to screen for efficacy of a different formulation of adenosine marketed in the US , using both acute noxious stimulation and capsaicin - evoked mechanical hypersensitivity .
+METHODS : Following Food and Drug Administration and institutional review board approval and written informed consent , 65 volunteers were studied in two trials : an open - label , dose - escalating trial with intrathecal adenosine doses of 0 . 25 - 2 . 0 mg and a double - blind , placebo - controlled trial of adenosine , 2 mg .
+Cerebrospinal fluid was obtained for pharmacokinetic analysis , and pain ratings in response to acute heat stimuli and areas of mechanical hyperalgesia and allodynia after intradermal capsaicin injection were determined .
+RESULTS : Adenosine produced no effect on pain report to acute noxious thermal or chemical stimulation but reduced mechanical hyperalgesia and allodynia from intradermal capsaicin injection for at least 24 h .
+In contrast , residence time of adenosine in cerebrospinal fluid was short ( < 4 h ) .
+CONCLUSIONS : These results show selective inhibition by intrathecal adenosine of hypersensitivity , presumed to reflect central sensitization in humans after peripheral capsaicin injection .
+The long - lasting effect is consistent with that observed in preliminary reports of patients with chronic neuropathic pain and is not due to prolonged residence of adenosine in cerebrospinal fluid .

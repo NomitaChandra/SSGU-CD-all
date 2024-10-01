@@ -1,0 +1,11 @@
+Repeated trimipramine induces dopamine D2/D3 and alpha1-adrenergic up-regulation.
+Trimipramine (TRI), which shows a clinical antidepressant activity, is chemically related to imipramine but does not inhibit the reuptake of noradrenaline and 5-hydroxytryptamine, nor does it induce beta-adrenergic down-regulation.
+The mechanism of its antidepressant activity is still unknown.
+The aim of the present study was to find out whether TRI given repeatedly was able to induce adaptive changes in the dopaminergic and alpha1-adrenergic systems, demonstrated by us previously for various antidepressants.
+TRI was given to male Wistar rats and male Albino Swiss mice perorally twice daily for 14 days.
+In the acute experiment TRI (given i.p.) does not antagonize the reserpine hypothermia in mice and does not potentiate the 5-hydroxytryptophan head twitches in rats.
+TRI given repeatedly to rats increases the locomotor hyperactivity induced by d-amphetamine, quinpirole and (+)-7-hydroxy-dipropyloaminotetralin (dopamine D2 and D3 effects).
+The stereotypies induced by d-amphetamine or apomorphine are not potentiated by TRI.
+It increases the behaviour stimulation evoked by phenylephrine (given intraventricularly) in rats, evaluated in the open field test as well as the aggressiveness evoked by clonidine in mice, both these effects being mediated by an alpha1-adrenergic receptor.
+It may be concluded that, like other tricyclic antidepressants studied previously, TRI given repeatedly increases the responsiveness of brain dopamine D2 and D3 (locomotor activity but not stereotypy) as well as alpha1-adrenergic receptors to their agonists.
+A question arises whether the reuptake inhibition is of any importance to the adaptive changes induced by repeated antidepressants, suggested to be responsible for the antidepressant activity.

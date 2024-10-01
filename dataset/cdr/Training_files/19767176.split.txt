@@ -1,0 +1,12 @@
+Pyrrolidine dithiocarbamate protects the piriform cortex in the pilocarpine status epilepticus model.
+Pyrrolidine dithiocarbamate (PDTC) has a dual mechanism of action as an antioxidant and an inhibitor of the transcription factor kappa-beta.
+Both, production of reactive oxygen species as well as activation of NF-kappaB have been implicated in severe neuronal damage in different sub-regions of the hippocampus as well as in the surrounding cortices.
+The effect of PDTC on status epilepticus-associated cell loss in the hippocampus and piriform cortex was evaluated in the rat fractionated pilocarpine model.
+Treatment with 150 mg/kg PDTC before and following status epilepticus significantly increased the mortality rate to 100%.
+Administration of 50 mg/kg PDTC (low-dose) did not exert major effects on the development of a status epilepticus or the mortality rate.
+In vehicle-treated rats, status epilepticus caused pronounced neuronal damage in the piriform cortex comprising both pyramidal cells and interneurons.
+Low-dose PDTC treatment almost completely protected from lesions in the piriform cortex.
+A significant decrease in neuronal density of the hippocampal hilar formation was identified in vehicle- and PDTC-treated rats following status epilepticus.
+In conclusion, the NF-kappaB inhibitor and antioxidant PDTC protected the piriform cortex, whereas it did not affect hilar neuronal loss.
+These data might indicate that the generation of reactive oxygen species and activation of NF-kappaB plays a more central role in seizure-associated neuronal damage in the temporal cortex as compared to the hippocampal hilus.
+However, future investigations are necessary to exactly analyze the biochemical mechanisms by which PDTC exerted its beneficial effects in the piriform cortex.

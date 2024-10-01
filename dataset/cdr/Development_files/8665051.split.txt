@@ -1,0 +1,14 @@
+Effects of acute steroid administration on ventilatory and peripheral muscles in rats.
+Occasional case reports have shown that acute myopathy may occur in patients treated with massive doses of corticosteroids.
+The mechanism of this myopathy is poorly understood.
+Therefore, 60 male rats were randomly assigned to receive daily injection of saline (C), methylprednisolone (M), or triamcinolone (T) 80 mg/kg/d for 5 d.
+Nutritional intake, measured daily in 15 animals, showed a significant reduction of food intake in the steroid-treated groups (-50 and -79% in M and T, respectively).
+This was associated with a similar loss in body weight.
+In the 45 remaining animals, diaphragm contractility and histopathologic features of several muscles were studied.
+Weights of respiratory and peripheral muscles were similarly decreased after steroid treatment.
+Maximal twitches of the diaphragm were lower in the C group (653 +/- 174 g/cm(2)) than in the M group (837 +/- 171 g/cm(2); p < 0.05) and the T group (765 +/- 145 g/cm(2), NS).
+Half-relaxation time was prolonged in both steroid groups, and time to peak tension was longer with M, whereas tetanic tensions were similar.
+Steroid treatment also induced a leftward shift of the force-frequency curve at 25 and 50 Hz when compared with saline treatment (p < 0.05).
+ATPase staining of the diaphragm, scalenus medius, and gastrocnemius showed type IIb fiber atrophy in the steroid groups and also diaphragmatic type IIa atrophy with T, whereas histologic examinations revealed a normal muscular pattern with absence of necrosis.
+Finally, a pair-fed (PF) study, performed in 18 rats (C, T, and PF), showed that muscle atrophy was considerably less pronounced in PF animals than in T-treated animals.
+We conclude that (1) short-term treatment with massive doses of steroids induced severe respiratory and limb muscle wasting; (2) both types of steroids induced predominantly type IIb atrophy, resulting in the expected alterations in diaphragm contractile properties; (3) neither steroid caused muscle necrosis; (4) type IIb atrophy was not caused by acute nutritional deprivation alone.

@@ -1,0 +1,5 @@
+Nifedipine induced bradycardia in a patient with autonomic neuropathy.
+An 80 year old diabetic male with evidence of peripheral and autonomic neuropathy was admitted with chest pain.
+He was found to have atrial flutter at a ventricular rate of 70/min which slowed down to 30-40/min when nifedipine (60 mg) in 3 divided doses, during which he was paced at a rate of 70/min.
+This is inconsistent with the well-established finding that nifedipine induces tachycardia in normally innervated hearts.
+However, in hearts deprived of compensatory sympathetic drive, it may lead to bradycardia.

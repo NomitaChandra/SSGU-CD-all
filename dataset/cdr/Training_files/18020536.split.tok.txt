@@ -1,0 +1,19 @@
+Associations between use of benzodiazepines or related drugs and health , physical abilities and cognitive function : a non - randomised clinical study in the elderly .
+OBJECTIVE : To describe associations between the use of benzodiazepines or related drugs ( BZDs / RDs ) and health , functional abilities and cognitive function in the elderly .
+METHODS : A non - randomised clinical study of patients aged > or = 65 years admitted to acute hospital wards during 1 month .
+164 patients ( mean age + / - standard deviation [ SD ] 81 . 6 + / - 6 . 8 years ) were admitted .
+Of these , nearly half ( n = 78 ) had used BZDs / RDs before admission , and the remainder ( n = 86 ) were non - users .
+Cognitive ability was assessed by the Mini - Mental State Examination ( MMSE ) .
+Patients scoring > or = 20 MMSE sum points were interviewed ( n = 79 ) and questioned regarding symptoms and functional abilities during the week prior to admission .
+Data on use of BZDs / RDs before admission , current medications and discharge diagnoses were collected from medical records .
+Health , physical abilities and cognitive function were compared between BZD / RD users and non - users , and adjustments were made for confounding variables .
+The residual serum concentrations of oxazepam , temazepam and zopiclone were analysed .
+RESULTS : The mean + / - SD duration of BZD / RD use was 7 + / - 7 years ( range 1 - 31 ) .
+Two or three BZDs / RDs were concomitantly taken by 26 % of users ( n = 20 ) .
+Long - term use of these drugs was associated with female sex and use of a higher number of drugs with effects on the CNS , which tended to be related to diagnosed dementia .
+After adjustment for these variables as confounders , use of BZDs / RDs was not associated with cognitive function as measured by the MMSE .
+However , use of BZDs / RDs was associated with dizziness , inability to sleep after awaking at night and tiredness in the mornings during the week prior to admission and with stronger depressive symptoms measured at the beginning of the hospital stay .
+Use of BZDs / RDs tended to be associated with a reduced ability to walk and shorter night - time sleep during the week prior to admission .
+A higher residual serum concentration of temazepam correlated with a lower MMSE sum score after adjustment for confounding variables .
+CONCLUSIONS : Long - term use and concomitant use of more than one BZD / RD were common in elderly patients hospitalised because of acute illnesses .
+Long - term use was associated with daytime and night - time symptoms indicative of poorer health and potentially caused by the adverse effects of these drugs .

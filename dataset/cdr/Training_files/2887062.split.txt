@@ -1,0 +1,11 @@
+Immunohistochemical, electron microscopic and morphometric studies of estrogen-induced rat prolactinomas after bromocriptine treatment.
+To clarify the effects of bromocriptine on prolactinoma cells in vivo, immunohistochemical, ultrastructural and morphometrical analyses were applied to estrogen-induced rat prolactinoma cells 1 h and 6 h after injection of bromocriptine (3 mg/kg of body weight).
+One h after treatment, serum prolactin levels decreased markedly.
+Electron microscopy disclosed many secretory granules, slightly distorted rough endoplasmic reticulum, and partially dilated Golgi cisternae in the prolactinoma cells.
+Morphometric analysis revealed that the volume density of secretory granules increased, while the volume density of cytoplasmic microtubules decreased.
+These findings suggest that lowered serum prolactin levels in the early phase of bromocriptine treatment may result from an impaired secretion of prolactin due to decreasing numbers of cytoplasmic microtubules.
+At 6 h after injection, serum prolactin levels were still considerably lower than in controls.
+The prolactinoma cells at this time were well granulated, with vesiculated rough endoplasmic reticulum and markedly dilated Golgi cisternae.
+Electron microscopical immunohistochemistry revealed positive reaction products noted on the secretory granules, Golgi cisternae, and endoplasmic reticulum of the untreated rat prolactinoma cells.
+However, only secretory granules showed the positive reaction products for prolactin 6 h after bromocriptine treatment of the adenoma cells.
+An increase in the volume density of secretory granules and a decrease in the volume densities of rough endoplasmic reticulum and microtubules was determined by morphometric analysis, suggesting that bromocriptine inhibits protein synthesis as well as bringing about a disturbance of the prolactin secretion.

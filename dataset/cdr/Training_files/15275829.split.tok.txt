@@ -1,0 +1,10 @@
+The alpha3 and beta4 nicotinic acetylcholine receptor subunits are necessary for nicotine - induced seizures and hypolocomotion in mice .
+Binding of nicotine to nicotinic acetylcholine receptors ( nAChRs ) elicits a series of dose - dependent behaviors that go from altered exploration , sedation , and tremors , to seizures and death .
+nAChRs are pentameric ion channels usually composed of alpha and beta subunits .
+A gene cluster comprises the alpha3 , alpha5 and beta4 subunits , which coassemble to form functional receptors .
+We examined the role of the beta4 subunits in nicotine - induced seizures and hypolocomotion in beta4 homozygous null ( beta4 - / - ) and alpha3 heterozygous ( + / - ) mice .
+beta4 - / - mice were less sensitive to the effects of nicotine both at low doses , measured as decreased exploration in an open field , and at high doses , measured as sensitivity to nicotine - induced seizures .
+Using in situ hybridization probes for the alpha3 and alpha5 subunits , we showed that alpha5 mRNA levels are unchanged , whereas alpha3 mRNA levels are selectively decreased in the mitral cell layer of the olfactory bulb , and the inferior and the superior colliculus of beta4 - / - brains .
+alpha3 + / - mice were partially resistant to nicotine - induced seizures when compared to wild - type littermates .
+mRNA levels for the alpha5 and the beta4 subunits were unchanged in alpha3 + / - brains .
+Together , these results suggest that the beta4 and the alpha3 subunits are mediators of nicotine - induced seizures and hypolocomotion .

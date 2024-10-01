@@ -1,0 +1,12 @@
+Dexmedetomidine, acting through central alpha-2 adrenoceptors, prevents opiate-induced muscle rigidity in the rat.
+The highly-selective alpha-2 adrenergic agonist dexmedetomidine (D-MED) is capable of inducing muscle flaccidity and anesthesia in rats and dogs.
+Intense generalized muscle rigidity is an undesirable side effect of potent opiate agonists.
+Although the neurochemistry of opiate-induced rigidity has yet to be fully elucidated, recent work suggests a role for a central adrenergic mechanism.
+In the present study, the authors determined if treatment with D-MED prevents the muscle rigidity caused by high-dose alfentanil anesthesia in the rat.
+Animals (n = 42) were treated intraperitoneally with one of the following six regimens: 1) L-MED (the inactive L-isomer of medetomidine), 30 micrograms/kg; 2) D-MED, 10 micrograms/kg; 3) D-MED, 30 micrograms/kg; 4) D-MED [30 micrograms/kg] and the central-acting alpha-2 antagonist, idazoxan [10 mg/kg]; 5) D-MED [30 micrograms/kg] and the peripheral-acting alpha-2 antagonist DG-5128 [10 mg/kg], or; 6) saline.
+Baseline electromyographic activity was recorded from the gastrocnemius muscle before and after drug treatment.
+Each rat was then injected with alfentanil (ALF, 0.5 mg/kg sc).
+ALF injection resulted in a marked increase in hindlimb EMG activity in the L-MED treatment group which was indistinguishable from that seen in animals treated with saline.
+In contrast, D-MED prevented alfentanil-induced muscle rigidity in a dose-dependent fashion.
+The small EMG values obtained in the high-dose D-MED group were comparable with those recorded in earlier studies from control animals not given any opiate.
+The high-dose D-MED animals were flaccid, akinetic, and lacked a startle response during the entire experimental period.(ABSTRACT TRUNCATED AT 250 WORDS).

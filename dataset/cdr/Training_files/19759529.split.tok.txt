@@ -1,0 +1,11 @@
+The glycine transporter - 1 inhibitor SSR103800 displays a selective and specific antipsychotic - like profile in normal and transgenic mice .
+Schizophrenia has been initially associated with dysfunction in dopamine neurotransmission .
+However , the observation that antagonists of the glutamate N - methyl - D - aspartate ( NMDA ) receptor produce schizophrenic - like symptoms in humans has led to the idea of a dysfunctioning of the glutamatergic system via its NMDA receptor .
+As a result , there is a growing interest in the development of pharmacological agents with potential antipsychotic properties that enhance the activity of the glutamatergic system via a modulation of the NMDA receptor .
+Among them are glycine transporter - 1 ( GlyT1 ) inhibitors such as SSR103800 , which indirectly enhance NMDA receptor function by increasing the glycine ( a co - agonist for the NMDA receptor ) levels in the synapse .
+This study aimed at investigating the potential antipsychotic - like properties of SSR103800 , with a particular focus on models of hyperactivity , involving either drug challenge ( ie , amphetamine and MK - 801 ) or transgenic mice ( ie , NMDA Nr1 ( neo - / - ) and DAT ( - / - ) ) .
+Results showed that SSR103800 ( 10 - 30 mg / kg p . o . ) blocked hyperactivity induced by the non - competitive NMDA receptor antagonist , MK - 801 and partially reversed spontaneous hyperactivity of NMDA Nr1 ( neo - / - ) mice .
+In contrast , SSR103800 failed to affect hyperactivity induced by amphetamine or naturally observed in dopamine transporter ( DAT ( - / - ) ) knockout mice ( 10 - 30 mg / kg p . o . ) .
+Importantly , both classical ( haloperidol ) and atypical ( olanzapine , clozapine and aripiprazole ) antipsychotics were effective in all these models of hyperactivity .
+However , unlike these latter , SSR103800 did not produce catalepsy ( retention on the bar test ) up to 30 mg / kg p . o .
+Together these findings show that the GlyT1 inhibitor , SSR103800 , produces antipsychotic - like effects , which differ from those observed with compounds primarily targeting the dopaminergic system , and has a reduced side - effect potential as compared with these latter drugs .

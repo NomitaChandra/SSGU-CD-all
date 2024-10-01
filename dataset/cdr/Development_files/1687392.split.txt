@@ -1,0 +1,12 @@
+Blockade of both D-1 and D-2 dopamine receptors may induce catalepsy in mice.
+1. The catalepsy induced by dopamine antagonists has been tested and the possible dopamine subtypes involved in catalepsy was determined.
+2.
+Dopamine antagonist fluphenazine, D-1 antagonist SCH 23390 or D-2 antagonist sulpiride induced catalepsy.
+The effect of fluphenazine and sulpiride was dose-dependent.
+Combination of SCH 23390 with sulpiride did not induce catalepsy potentiation.
+3.
+D-1 agonist SKF 38393 or D-2 agonist quinpirole decreased the catalepsy induced by fluphenazine, SCH 23390 or sulpiride.
+4.
+Combination of SKF 38393 with quinpirole did not cause potentiated inhibitory effect on catalepsy induced by dopamine antagonists.
+5.
+The data may indicate that although D-2 receptor blockade is involved in catalepsy, the D-1 receptor may plan a role.

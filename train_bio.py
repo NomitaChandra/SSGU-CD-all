@@ -24,7 +24,7 @@ def main():
     parser.add_argument("--dev_file", default="Dev.BioC.JSON", type=str)
     parser.add_argument("--test_file", default="Test.BioC.JSON", type=str)
     parser.add_argument("--save_path", default="out", type=str)
-    parser.add_argument("--load_path", default="", type=str)
+    parser.add_argument("--load_path", default="./results", type=str)
     parser.add_argument("--config_name", default="", type=str,
                         help="Pretrained config name or path if not the same as model_name")
     parser.add_argument("--tokenizer_name", default="", type=str,
@@ -77,7 +77,7 @@ def main():
         args.train_file = 'train_filter.data'
         args.dev_file = 'dev_filter.data'
         args.test_file = 'test_filter.data'
-        args.model_name_or_path = '/data/pretrained/scibert_scivocab_cased'
+        args.model_name_or_path = '/Users/kavithakamarthy/Downloads/SSGU-CD/dataset/cdr/data/pretrained/scibert_scivocab_cased' 
         args.train_batch_size = 12
         args.test_batch_size = 24
         args.learning_rate = 2e-5
@@ -137,7 +137,7 @@ def main():
     config.transformer_type = args.transformer_type
     set_seed(args)
     model = Model(args, config, model, num_labels=1)
-    model.to(0)
+    model.to('cpu')
 
     if args.load_path == "":  # Training
         train_file = os.path.join(args.data_dir, args.train_file)

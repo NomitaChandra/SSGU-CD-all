@@ -1,0 +1,14 @@
+Epileptic seizures following cortical application of fibrin sealants containing tranexamic acid in rats.
+BACKGROUND: Fibrin sealants (FS) derived from human plasma are frequently used in neurosurgery.
+In order to increase clot stability, FS typically contain aprotinin, a natural fibrinolysis inhibitor.
+Recently, synthetic fibrinolysis inhibitors such as tranexamic acid (tAMCA) have been considered as substitutes for aprotinin.
+However, tAMCA has been shown to cause epileptic seizures.
+We wanted to study whether tAMCA retains its convulsive action if incorporated into a FS.
+METHOD: FS containing aprotinin or different concentrations of tAMCA (0.5-47.5 mg/ml) were applied to the pial surface of the cortex of anaesthetized rats.
+The response of the animals was evaluated using electroencephalography and by monitoring the clinical behaviour during and after recovery from anaesthesia.
+FINDINGS: FS containing tAMCA caused paroxysmal brain activity which was associated with distinct convulsive behaviours.
+The degree of these seizures increased with increasing concentration of tAMCA.
+Thus, FS containing 47.5 mg/ml tAMCA evoked generalized seizures in all tested rats (n=6) while the lowest concentration of tAMCA (0.5 mg/ml) only evoked brief episodes of jerk-correlated convulsive potentials in 1 of 6 rats.
+In contrast, FS containing aprotinin did not evoke any paroxysmal activity.
+INTERPRETATION: Tranexamic acid retains its convulsive action within FS.
+Thus, use of FS containing tAMCA for surgery within or close to the CNS may pose a substantial risk to the patient.

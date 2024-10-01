@@ -1,0 +1,14 @@
+Kidney function and morphology after short-term combination therapy with cyclosporine A, tacrolimus and sirolimus in the rat.
+BACKGROUND: Sirolimus (SRL) may supplement calcineurin inhibitors in clinical organ transplantation.
+These are nephrotoxic, but SRL seems to act differently displaying only minor nephrotoxic effects, although this question is still open.
+In a number of treatment protocols where SRL was combined with a calcineurin inhibitor indications of a synergistic nephrotoxic effect were described.
+The aim of this study was to examine further the renal function, including morphological analysis of the kidneys of male Sprague-Dawley rats treated with either cyclosporine A (CsA), tacrolimus (FK506) or SRL as monotherapies or in different combinations.
+METHODS: For a period of 2 weeks, CsA 15 mg/kg/day (given orally), FK506 3.0 mg/kg/day (given orally) or SRL 0.4 mg/kg/day (given intraperitoneally) was administered once a day as these doses have earlier been found to achieve a significant immunosuppressive effect in Sprague-Dawley rats.
+In the 'conscious catheterized rat' model, the glomerular filtration rate (GFR) was measured as the clearance of Cr(EDTA).
+The morphological analysis of the kidneys included a semi-quantitative scoring system analysing the degree of striped fibrosis, subcapsular fibrosis and the number of basophilic tubules, plus an additional stereological analysis of the total grade of fibrosis in the cortex stained with Sirius Red.
+RESULTS: CsA, FK506 and SRL all significantly decreased the GFR.
+A further deterioration was seen when CsA was combined with either FK506 or SRL, whereas the GFR remained unchanged in the group treated with FK506 plus SRL when compared with treatment with any of the single substances.
+The morphological changes presented a similar pattern.
+The semi-quantitative scoring was significantly worst in the group treated with CsA plus SRL (P<0.001 compared with controls) and the analysis of the total grade of fibrosis also showed the highest proportion in the same group and was significantly different from controls (P<0.02).
+The FK506 plus SRL combination showed only a marginally higher degree of fibrosis as compared with controls (P=0.05).
+CONCLUSION: This rat study demonstrated a synergistic nephrotoxic effect of CsA plus SRL, whereas FK506 plus SRL was better tolerated.

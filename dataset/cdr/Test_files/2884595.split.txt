@@ -1,0 +1,5 @@
+Treatment of lethal pertussis vaccine reaction with histamine H1 antagonists.
+We studied mortality after pertussis immunization in the mouse.
+Without treatment, 73 of 92 animals (80%) died after injection of bovine serum albumin (BSA) on day +7 of pertussis immunization.
+After pretreatment with 3 mg of cyproheptadine, 2 mg mianserin, or 2 mg chlorpheniramine, only 5 of 105 animals (5%) died after receiving BSA on day +7 (p less than 0.001).
+Blockade of histamine H1 receptors may reduce mortality in pertussis immunization-induced encephalopathy in mice.

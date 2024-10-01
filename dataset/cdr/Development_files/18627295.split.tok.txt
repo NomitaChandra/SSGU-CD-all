@@ -1,0 +1,9 @@
+Doxorubicin cardiomyopathy - induced inflammation and apoptosis are attenuated by gene deletion of the kinin B1 receptor .
+Clinical use of the anthracycline doxorubicin ( DOX ) is limited by its cardiotoxic effects , which are attributed to the induction of apoptosis .
+To elucidate the possible role of the kinin B1 receptor ( B1R ) during the development of DOX cardiomyopathy , we studied B1R knockout mice ( B1R ( - / - ) ) by investigating cardiac inflammation and apoptosis after induction of DOX - induced cardiomyopathy .
+DOX control mice showed cardiac dysfunction measured by pressure - volume loops in vivo .
+This was associated with a reduced activation state of AKT , as well as an increased bax / bcl2 ratio in Western blots , indicating cardiac apoptosis .
+Furthermore , mRNA levels of the proinflammatory cytokine interleukin 6 were increased in the cardiac tissue .
+In DOX B1R ( - / - ) mice , cardiac dysfunction was improved compared to DOX control mice , which was associated with normalization of the bax / bcl - 2 ratio and interleukin 6 , as well as AKT activation state .
+These findings suggest that B1R is detrimental in DOX cardiomyopathy in that it mediates the inflammatory response and apoptosis .
+These insights might have useful implications for future studies utilizing B1R antagonists for treatment of human DOX cardiomyopathy .

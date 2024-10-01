@@ -1,0 +1,9 @@
+Neurocognitive and neuroradiologic central nervous system late effects in children treated on Pediatric Oncology Group ( POG ) P9605 ( standard risk ) and P9201 ( lesser risk ) acute lymphoblastic leukemia protocols ( ACCL0131 ) : a methotrexate consequence ? A report from the Children 's Oncology Group .
+Concerns about long - term methotrexate ( MTX ) neurotoxicity in the 1990s led to modifications in intrathecal ( IT ) therapy , leucovorin rescue , and frequency of systemic MTX administration in children with acute lymphoblastic leukemia .
+In this study , neurocognitive outcomes and neuroradiologic evidence of leukoencephalopathy were compared in children treated with intense central nervous system ( CNS ) - directed therapy ( P9605 ) versus those receiving fewer CNS - directed treatment days during intensive consolidation ( P9201 ) .
+A total of 66 children from 16 Pediatric Oncology Group institutions with " standard - risk " acute lymphoblastic leukemia , 1 . 00 to 9 . 99 years at diagnosis , without evidence of CNS leukemia at diagnosis were enrolled on ACCL0131 : 28 from P9201 and 38 from P9605 .
+Magnetic resonance imaging scans and standard neuropsychological tests were performed > 2 . 6 years after the end of treatment .
+Significantly more P9605 patients developed leukoencephalopathy compared with P9201 patients ( 68 % , 95 % confidence interval 49 % - 83 % vs . 22 % , 95 % confidence interval 5 % - 44 % ; P = 0 . 001 ) identified as late as 7 . 7 years after the end of treatment .
+Overall , 40 % of patients scored < 85 on either Verbal or Performance IQ .
+Children on both studies had significant attention problems , but P9605 children scored below average on more neurocognitive measures than those treated on P9201 ( 82 % , 14 / 17 measures vs . 24 % , 4 / 17 measures ) .
+This supports ongoing concerns about intensive MTX exposure as a major contributor to CNS late effects .

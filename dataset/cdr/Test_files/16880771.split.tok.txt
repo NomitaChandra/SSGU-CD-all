@@ -1,0 +1,13 @@
+Tonic dopaminergic stimulation impairs associative learning in healthy subjects .
+Endogenous dopamine plays a central role in salience coding during associative learning .
+Administration of the dopamine precursor levodopa enhances learning in healthy subjects and stroke patients .
+Because levodopa increases both phasic and tonic dopaminergic neurotransmission , the critical mechanism mediating the enhancement of learning is unresolved .
+We here probed how selective tonic dopaminergic stimulation affects associative learning .
+Forty healthy subjects were trained in a novel vocabulary of 45 concrete nouns over the course of 5 consecutive training days in a prospective , randomized , double - blind , placebo - controlled design .
+Subjects received the tonically stimulating dopamine - receptor agonist pergolide ( 0 . 1 mg ) vs placebo 120 min before training on each training day .
+The dopamine agonist significantly impaired novel word learning compared to placebo .
+This learning decrement persisted up to the last follow - up 4 weeks post - training .
+Subjects treated with pergolide also showed restricted emotional responses compared to the PLACEBO group .
+The extent of ' flattened ' affect with pergolide was related to the degree of learning inhibition .
+These findings suggest that tonic occupation of dopamine receptors impairs learning by competition with phasic dopamine signals .
+Thus , phasic signaling seems to be the critical mechanism by which dopamine enhances associative learning in healthy subjects and stroke patients .

@@ -1,0 +1,11 @@
+Effects of the hippocampal deep brain stimulation on cortical epileptic discharges in penicillin - induced epilepsy model in rats.
+AIM: Experimental and clinical studies have revealed that hippocampal DBS can control epileptic activity, but the mechanism of action is obscure and optimal stimulation parameters are not clearly defined.
+The aim was to evaluate the effects of high frequency hippocampal stimulation on cortical epileptic activity in penicillin-induced epilepsy model.
+MATERIAL AND METHODS: Twenty-five Sprague-Dawley rats were implanted DBS electrodes.
+In group-1 (n=10) hippocampal DBS was off and in the group-2 (n=10) hippocampal DBS was on (185 Hz, 0.5V, 1V, 2V, and 5V for 60 sec) following penicillin G injection intracortically.
+In the control group hippocampal DBS was on following 8  l saline injection intracortically.
+EEG recordings were obtained before and 15 minutes following penicillin-G injection, and at 10th minutes following each stimulus for analysis in terms of frequency, amplitude, and power spectrum.
+RESULTS: High frequency hippocampal DBS suppressed the acute penicillin-induced cortical epileptic activity independent from stimulus intensity.
+In the control group, hippocampal stimulation alone lead only to diffuse slowing of cerebral bioelectrical activity at 5V stimulation.
+CONCLUSION: Our results revealed that continuous high frequency stimulation of the hippocampus suppressed acute cortical epileptic activity effectively without causing secondary epileptic discharges.
+These results are important in terms of defining the optimal parameters of hippocampal DBS in patients with epilepsy.

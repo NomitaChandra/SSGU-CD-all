@@ -1,0 +1,9 @@
+Phase II study of carboplatin and liposomal doxorubicin in patients with recurrent squamous cell carcinoma of the cervix.
+BACKGROUND: The activity of the combination of carboplatin and liposomal doxorubicin was tested in a Phase II study of patients with recurrent cervical carcinoma.
+METHODS: The combination of carboplatin (area under the concentration curve [AUC], 5) and liposomal doxorubicin (Doxil; starting dose, 40 mg/m(2)) was administered intravenously every 28 days to 37 patients with recurrent squamous cell cervical carcinoma to determine antitumor activity and toxicity profile.
+RESULTS: Twenty-nine patients were assessable for response, and 35 patients were assessable for toxicity.
+The overall response rate was 38%, the median time to response was 10 weeks, the median duration of response was 26 weeks, and the median survival was 37 weeks.
+The main toxic effect was myelosuppression, with Grade 3 and 4 neutropenia in 16 patients, anemia in 12 patients, thrombocytopenia in 11 patients, and neutropenic fever in 3 patients.
+Four patients had five infusion-related reactions during the infusion of liposomal doxorubicin, leading to treatment discontinuation in three patients.
+Grade > or = 2 nonhematologic toxicity included nausea in 17 patients, emesis in 14 patients, fatigue in 9 patients, mucositis and/or stomatitis in 8 patients, constipation in 6 patients, weight loss in 5 patients, hand-foot syndrome in 2 patients, and skin reactions in 3 patients.
+CONCLUSIONS: The combination of carboplatin and liposomal doxorubicin has modest activity in patients with recurrent cervical carcinoma.

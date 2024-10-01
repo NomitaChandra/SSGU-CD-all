@@ -1,0 +1,8 @@
+Age and renal clearance of cimetidine.
+In 35 patients (ages 20 to 86 yr) receiving cimetidine therapeutically two serum samples and all urine formed in the interim were collected for analysis of cimetidine by high-pressure liquid chromatography and for creatinine.
+Cimetidine clearance decreased with age.
+The extrapolated 6-hr serum concentration of cimetidine per unit dose, after intravenous cimetidine, increased with age of the patients.
+The ratio of cimetidine clearance to creatinine clearance (Rc) averaged 4.8 +/- 2.0, indicating net tubular secretion for cimetidine.
+Rc seemed to be independent of age and decreased with increasing serum concentration of cimetidine, suggesting that secretion of cimetidine is a saturable process.
+There was only one case of dementia possibly due to cimetidine (with a drug level of 1.9 microgram/ml 6 hr after a dose) in a group of 13 patients without liver or kidney disease who had cimetidine levels above 1.25 microgram/ml.
+Thus, high cimetidine levels alone do not always induce dementia.

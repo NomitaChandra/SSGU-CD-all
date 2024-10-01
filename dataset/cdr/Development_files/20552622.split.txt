@@ -1,0 +1,12 @@
+Swallowing-induced atrial tachyarrhythmia triggered by salbutamol: case report and review of the literature.
+CASE: A 49-year-old patient experienced chest discomfort while swallowing.
+On electrocardiogram, episodes of atrial tachyarrhythmia were recorded immediately after swallowing; 24-hour Holter monitoring recorded several events.
+The arrhythmia resolved after therapy with atenolol, but recurred a year later.
+The patient noticed that before these episodes he had been using an inhalator of salbutamol.
+After stopping the beta-agonist, and after a week with the atenolol, the arrhythmia disappeared.
+DISCUSSION: Swallowing-induced atrial tachyarrhythmia (SIAT) is a rare phenomenon.
+Fewer than 50 cases of SIAT have been described in the literature.
+This article summarizes all the cases published, creating a comprehensive review of the current knowledge and approach to SIAT.
+It discusses demographics, clinical characteristics and types of arrhythmia, postulated mechanisms of SIAT, and different treatment possibilities such as medications, surgery, and radiofrequency catheter ablation (RFCA).
+CONCLUSION: Salbutamol is presented here as a possible trigger for SIAT.
+Although it is difficult to define causality in a case report, it is logical to think that a beta-agonist like salbutamol (known to induce tachycardia) may be the trigger of adrenergic reflexes originating in the esophagus while swallowing and that a beta-blocker such as atenolol (that blocks the adrenergic activity) may relieve it.

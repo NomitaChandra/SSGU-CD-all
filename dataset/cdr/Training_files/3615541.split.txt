@@ -1,0 +1,6 @@
+Regional localization of the antagonism of amphetamine-induced hyperactivity by intracerebral calcitonin injections.
+Calcitonin receptors are found in the brain, and intracerebral infusions of calcitonin can produce behavioral effects.
+Among these behavioral effects are decreases in food intake and decreases in amphetamine-induced locomotor activity.
+In previous experiments we found that decreases in food intake were induced by local administration of calcitonin into several hypothalamic sites and into the nucleus accumbens.
+In the present experiment calcitonin decreased locomotor activity when locally injected into the same sites where it decreases food intake.
+The areas where calcitonin is most effective in decreasing locomotor activity are located in the hypothalamus and nucleus accumbens, suggesting that these areas are the major sites of action of calcitonin in inhibiting amphetamine-induced locomotor activity.

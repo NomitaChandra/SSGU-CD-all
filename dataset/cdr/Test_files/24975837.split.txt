@@ -1,0 +1,9 @@
+Kinin B2 receptor deletion and blockage ameliorates cisplatin-induced acute renal injury.
+Cisplatin treatment has been adopted in some chemotherapies; however, this drug can induce acute kidney injury due its ability to negatively affect renal function, augment serum levels of creatinine and urea, increase the acute tubular necrosis score and up-regulate cytokines (e.g., IL-1b and TNF-a).
+The kinin B2 receptor has been associated with the inflammation process, as well as the regulation of cytokine expression, and its deletion resulted in an improvement in the diabetic nephropathy status.
+To examine the role of the kinin B2 receptor in cisplatin-induced acute kidney injury, kinin B2 receptor knockout mice were challenged with cisplatin.
+Additionally, WT mice were treated with a B2 receptor antagonist after cisplatin administration.
+B2 receptor-deficient mice were less sensitive to this drug than the WT mice, as shown by reduced weight loss, better preservation of kidney function, down regulation of inflammatory cytokines and less acute tubular necrosis.
+Moreover, treatment with the kinin B2 receptor antagonist effectively reduced the levels of serum creatinine and blood urea after cisplatin administration.
+Thus, our data suggest that the kinin B2 receptor is involved in cisplatin-induced acute kidney injury by mediating the necrotic process and the expression of inflammatory cytokines, thus resulting in declined renal function.
+These results highlight the kinin B2 receptor antagonist treatment in amelioration of nephrotoxicity induced by cisplatin therapy.

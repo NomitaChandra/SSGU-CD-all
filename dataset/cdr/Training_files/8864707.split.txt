@@ -1,0 +1,12 @@
+Magnetic resonance volumetry of the cerebellum in epileptic patients after phenytoin overdosages.
+The aim of this study was to evaluate the relationship between phenytoin medication and cerebellar atrophy in patients who had experienced clinical intoxication.
+Five females and 6 males, 21-59 years of age, were examined with a 1.5-T whole-body system using a circular polarized head coil.
+Conventional spin echo images were acquired in the sagittal and transverse orientation.
+In addition, we performed a high-resolution 3D gradient echo, T1-weighted sequences at a 1-mm slice thickness.
+The images were subsequently processed to obtain volumetric data for the cerebellum.
+Cerebellar volume for the patient group ranged between 67.66 and 131.08 ml (mean 108.9 ml).
+In addition 3D gradient echo data sets from 10 healthy male and 10 healthy female age-matched volunteers were used to compare cerebellar volumes.
+Using linear regression we found that no correlation exists between seizure duration, elevation of phenytoin serum levels and cerebellar volume.
+However, multiple regression for the daily dosage, duration of phenytoin treatment and cerebellar volume revealed a correlation of these parameters.
+We conclude that phenytoin overdosage does not necessarily result in cerebellar atrophy and it is unlikely that phenytoin medication was the only cause of cerebellar atrophy in the remaining patients.
+Quantitative morphometric studies of the cerebellum provide valuable insights into the pathogenesis of cerebellar disorders.

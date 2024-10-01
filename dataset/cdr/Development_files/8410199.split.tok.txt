@@ -1,0 +1,10 @@
+Loss of glutamate decarboxylase mRNA - containing neurons in the rat dentate gyrus following pilocarpine - induced seizures .
+In situ hybridization methods were used to determine if glutamic acid decarboxylase ( GAD ) mRNA - containing neurons within the hilus of the dentate gyrus are vulnerable to seizure - induced damage in a model of chronic seizures .
+Sprague - Dawley rats were injected intraperitoneally with pilocarpine , and the hippocampal formation was studied histologically at 1 , 2 , 4 , and 8 week intervals after pilocarpine - induced seizures .
+In situ hybridization histochemistry , using a digoxigenin - labeled GAD cRNA probe , demonstrated a substantial decrease in the number of GAD mRNA - containing neurons in the hilus of the dentate gyrus in the pilocarpine - treated rats as compared to controls at all time intervals .
+Additional neuronanatomical studies , including cresyl violet staining , neuronal degeneration methods , and histochemical localization of glial fibrillary acidic protein , suggested that the decrease in the number of GAD mRNA - containing neurons was related to neuronal loss rather than to a decrease in GAD mRNA levels .
+The loss of GAD mRNA - containing neurons in the hilus contrasted with the relative preservation of labeled putative basket cells along the inner margin of the granule cell layer .
+Quantitative analyses of labeled neurons in three regions of the dentate gyrus in the 1 and 2 week groups showed statistically significant decreases in the mean number of GAD mRNA - containing neurons in the hilus of both groups of experimental animals .
+No significant differences were found in the molecular layer or the granule cell layer , which included labeled neurons along the lower margin of the granule cell layer .
+The results indicate that , in this model , a subpopulation of GAD mRNA - containing neurons within the dentate gyrus is selectively vulnerable to seizure - induced damage .
+Such differential vulnerability appears to be another indication of the heterogeneity of GABA neurons .

@@ -1,0 +1,11 @@
+Effect of fucoidan treatment on collagenase-induced intracerebral hemorrhage in rats.
+Inflammatory cells are postulated to mediate some of the brain damage following ischemic stroke.
+Intracerebral hemorrhage is associated with more inflammation than ischemic stroke.
+We tested the sulfated polysaccharide fucoidan, which has been reported to reduce inflammatory brain damage, in a rat model of intracerebral hemorrhage induced by injection of bacterial collagenase into the caudate nucleus.
+Rats were treated with seven day intravenous infusion of fucoidan (30 micrograms h-1) or vehicle.
+The hematoma was assessed in vivo by magnetic resonance imaging.
+Motor behavior, passive avoidance, and skilled forelimb function were tested repeatedly for six weeks.
+Fucoidan-treated rats exhibited evidence of impaired blood clotting and hemodilution, had larger hematomas, and tended to have less inflammation in the vicinity of the hematoma after three days.
+They showed significantly more rapid improvement of motor function in the first week following hemorrhage and better memory retention in the passive avoidance test.
+Acute white matter edema and eventual neuronal loss in the striatum adjacent to the hematoma did not differ between the two groups.
+Investigation of more specific anti-inflammatory agents and hemodiluting agents are warranted in intracerebral hemorrhage.

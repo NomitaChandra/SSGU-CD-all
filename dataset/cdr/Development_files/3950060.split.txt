@@ -1,0 +1,12 @@
+Factors associated with nephrotoxicity and clinical outcome in patients receiving amikacin.
+Data from 60 patients treated with amikacin were analyzed for factors associated with nephrotoxicity.
+In 42 of these patients, data were examined for factors associated with clinical outcome.
+Variables evaluated included patient weight, age, sex, serum creatinine level, creatinine clearance, duration of therapy, total dose, mean daily dose, organism minimum inhibitory concentration (MIC), mean peak levels, mean trough levels, mean area under the serum concentration-time curve (AUC), total AUC, mean AUC greater than MIC, total AUC greater than MIC, mean Schumacher's intensity factor (IF), total IF, In (mean maximum concentration [Cmax]/MIC).
+Model-dependent pharmacokinetic parameters were calculated by computer based on a one-compartment model.
+When the parameters were examined individually, duration of therapy and total AUC correlated significantly (P less than .05) with nephrotoxicity.
+In contrast, a stepwise discriminant function analysis identified only duration of therapy (P less than .001) as an important factor.
+Based on this model and on Bayes' theorem, the predictive accuracy of identifying "nephrotoxic" patients increased from 0.17 to 0.39.
+When examined individually, mean IF, MIC, total dose, mean daily dose, and ln (mean Cmax/MIC) correlated significantly (P less than .05) with cure.
+In contrast, a simultaneous multivariable analysis identified IF, MIC, and total dose according to one model and ln (mean Cmax/MIC) according to a second statistical model of parameters selected to have the greatest prospective value.
+Based on Bayes' theorem and the first model, the predictive accuracy of identifying patients not cured increased from 0.19 to 0.83.
+For the second model, the predictive accuracy increased from 0.19 to 0.50.(ABSTRACT TRUNCATED AT 250 WORDS).

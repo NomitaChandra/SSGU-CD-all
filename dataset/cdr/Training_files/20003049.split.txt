@@ -1,0 +1,9 @@
+Prolonged elevation of plasma argatroban in a cardiac transplant patient with a suspected history of heparin-induced thrombocytopenia with thrombosis.
+BACKGROUND: Direct thrombin inhibitors (DTIs) provide an alternative method of anticoagulation for patients with a history of heparin-induced thrombocytopenia (HIT) or HIT with thrombosis (HITT) undergoing cardiopulmonary bypass (CPB).
+In the following report, a 65-year-old critically ill patient with a suspected history of HITT was administered argatroban for anticoagulation on bypass during heart transplantation.
+The patient required massive transfusion support (55 units of red blood cells, 42 units of fresh-frozen plasma, 40 units of cryoprecipitate, 40 units of platelets, and three doses of recombinant Factor VIIa) for severe intraoperative and postoperative bleeding.
+STUDY DESIGN AND METHODS: Plasma samples from before and after CPB were analyzed postoperatively for argatroban concentration using a modified ecarin clotting time (ECT) assay.
+RESULTS: Unexpectedly high concentrations of argatroban were measured in these samples (range, 0-32 microg/mL), and a prolonged plasma argatroban half life (t(1/2)) of 514 minutes was observed (published elimination t(1/2) is 39-51 minutes [< or = 181 minutes with hepatic impairment]).
+CONCLUSIONS: Correlation of plasma argatroban concentration versus the patient's coagulation variables and clinical course suggest that prolonged elevated levels of plasma argatroban may have contributed to the patient's extended coagulopathy.
+Because DTIs do not have reversal agents, surgical teams and transfusion services should remain aware of the possibility of massive transfusion events during anticoagulation with these agents.
+This is the first report to measure plasma argatroban concentration in the context of CPB and extended coagulopathy.

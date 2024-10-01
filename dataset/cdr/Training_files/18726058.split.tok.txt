@@ -1,0 +1,17 @@
+Adverse effects of topical papaverine on auditory nerve function .
+BACKGROUND : Papaverine hydrochloride is a direct - acting vasodilator used to manage vasospasm during various neurosurgical operations .
+Transient cranial nerve dysfunction has been described in a few cases with topical papaverine .
+This study supports previous reports and provides neurophysiological evidence of an adverse effect on the auditory nerve .
+METHODS : We conducted a retrospective review of 70 consecutive microvascular decompression operations and studied those patients who received topical papaverine for vasospasm .
+Topical papaverine was used as a direct therapeutic action to manage vasospasm in a total of 11 patients .
+The timing of papaverine application and ongoing operative events was reviewed relative to changes in neurophysiological recordings .
+Brainstem auditory evoked potentials ( BAEPs ) were routinely used to monitor cochlear nerve function during these operations .
+FINDINGS : A temporal relationship was found between topical papaverine and BAEP changes leading to complete waveform loss .
+The average temporal delay between papaverine and the onset of an adverse BAEP change was 5 min .
+In 10 of 11 patients , BAEP waves II / III - V completely disappeared within 2 to 25 min after papaverine .
+Eight of these 10 patients had complete loss of BAEP waveforms within 10 min .
+One patient showed no recovery of later waves and a delayed profound sensorineural hearing loss .
+The average recovery time of BAEP waveforms to pre - papaverine baseline values was 39 min .
+CONCLUSIONS : Topical papaverine for the treatment of vasospasm was associated with the onset of a transient disturbance in neurophysiological function of the ascending auditory brainstem pathway .
+The complete disappearance of BAEP waveforms with a consistent temporal delay suggests a possible adverse effect on the proximal eighth nerve .
+Recommendations to avoid potential cranial nerve deficits from papaverine are provided .

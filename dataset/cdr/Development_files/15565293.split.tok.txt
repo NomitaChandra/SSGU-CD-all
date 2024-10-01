@@ -1,0 +1,16 @@
+Optical coherence tomography can measure axonal loss in patients with ethambutol - induced optic neuropathy .
+PURPOSE : To map and identify the pattern , in vivo , of axonal degeneration in ethambutol - induced optic neuropathy using optical coherence tomography ( OCT ) .
+Ethambutol is an antimycobacterial agent often used to treat tuberculosis .
+A serious complication of ethambutol is an optic neuropathy that impairs visual acuity , contrast sensitivity , and color vision .
+However , early on , when the toxic optic neuropathy is mild and partly reversible , the funduscopic findings are often subtle and easy to miss .
+METHODS : Three subjects with a history of ethambutol ( EMB ) - induced optic neuropathy of short - , intermediate - , and long - term visual deficits were administered a full neuro - ophthalmologic examination including visual acuity , color vision , contrast sensitivity , and fundus examination .
+In addition , OCT ( OCT 3000 , Humphrey - Zeiss , Dublin , CA ) was performed on both eyes of each subject using the retinal nerve fiber layer ( RNFL ) analysis protocol .
+OCT interpolates data from 100 points around the optic nerve to effectively map out the RNFL .
+RESULTS : The results were compared to the calculated average RNFL of normal eyes accumulated from four prior studies using OCT , n = 661 .
+In all subjects with history of EMB - induced optic neuropathy , there was a mean loss of 72 % nerve fiber layer thickness in the temporal quadrant ( patient A , with eventual recovery of visual acuity and fields , 58 % loss ; patient B , with intermediate visual deficits , 68 % loss ; patient C , with chronic visual deficits , 90 % loss ) , with an average mean optic nerve thickness of 26 + / - 16 microm .
+There was a combined mean loss of 46 % of fibers from the superior , inferior , and nasal quadrants in the ( six ) eyes of all three subjects ( mean average thickness of 55 + / - 29 microm ) .
+In both sets ( four ) of eyes of the subjects with persistent visual deficits ( patients B and C ) , there was an average loss of 79 % of nerve fiber thickness in the temporal quadrant .
+CONCLUSIONS : The OCT results in these patients with EMB - induced optic neuropathy show considerable loss especially of the temporal fibers .
+This is consistent with prior histopathological studies that show predominant loss of parvo - cellular axons ( or small - caliber axons ) within the papillo - macular bundle in toxic or hereditary optic neuropathies .
+OCT can be a valuable tool in the quantitative analysis of optic neuropathies .
+Additionally , in terms of management of EMB - induced optic neuropathy , it is important to properly manage ethambutol dosing in patients with renal impairment and to achieve proper transition to a maintenance dose once an appropriate loading dose has been reached .

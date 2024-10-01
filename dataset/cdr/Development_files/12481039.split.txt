@@ -1,0 +1,9 @@
+Reduced sodium channel density, altered voltage dependence of inactivation, and increased susceptibility to seizures in mice lacking sodium channel beta 2-subunits.
+Sodium channel beta-subunits modulate channel gating, assembly, and cell surface expression in heterologous cell systems.
+We generated beta2(-/-) mice to investigate the role of beta2 in control of sodium channel density, localization, and function in neurons in vivo.
+Measurements of [(3)H]saxitoxin (STX) binding showed a significant reduction in the level of plasma membrane sodium channels in beta2(-/-) neurons.
+The loss of beta2 resulted in negative shifts in the voltage dependence of inactivation as well as significant decreases in sodium current density in acutely dissociated hippocampal neurons.
+The integral of the compound action potential in optic nerve was significantly reduced, and the threshold for action potential generation was increased, indicating a reduction in the level of functional plasma membrane sodium channels.
+In contrast, the conduction velocity, the number and size of axons in the optic nerve, and the specific localization of Na(v)1.6 channels in the nodes of Ranvier were unchanged.
+beta2(-/-) mice displayed increased susceptibility to seizures, as indicated by reduced latency and threshold for pilocarpine-induced seizures, but seemed normal in other neurological tests.
+Our observations show that beta2-subunits play an important role in the regulation of sodium channel density and function in neurons in vivo and are required for normal action potential generation and control of excitability.

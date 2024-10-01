@@ -1,0 +1,12 @@
+Effects of NIK - 247 on cholinesterase and scopolamine - induced amnesia .
+The effects of NIK - 247 on cholinesterase , scopolamine - induced amnesia and spontaneous movement were examined and compared with those of the well - known cholinesterase inhibitors tacrine and E - 2020 .
+NIK - 247 , tacrine and E - 2020 all strongly inhibited acetylcholinesterase ( AChE ) in human red blood cells ( IC50s = 1 . 0 x 10 ( - 6 ) , 2 . 9 x 10 ( - 7 ) and 3 . 7 x 10 ( - 8 ) M , respectively ) .
+In addition , NIK - 247 and tacrine , but not E - 2020 , strongly inhibited butyrylcholinestrase ( BuChE ) in human serum .
+All three drugs produced mixed inhibition of AChE activity .
+Moreover , the inhibitory effect of NIK - 247 on AChE was reversible .
+All compounds at 0 . 1 - 1 mg / kg p . o .
+significantly improved the amnesia induced by scopolamine ( 0 . 5 mg / kg s . c . ) in rats performing a passive avoidance task .
+The three compounds at 1 and 3 mg / kg p . o .
+did not significantly decrease spontaneous movement by rats .
+These findings suggest that NIK - 247 at a low dose ( 0 . 1 - 1 mg / kg p . o . ) improves scopolamine - induced amnesia but does not affect spontaneous movement .
+The findings suggest that NIK - 247 may be a useful drug for the treatment of Alzheimer 's disease .

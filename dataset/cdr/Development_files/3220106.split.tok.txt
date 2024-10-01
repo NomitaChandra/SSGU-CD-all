@@ -1,0 +1,9 @@
+Receptor mechanisms of nicotine - induced locomotor hyperactivity in chronic nicotine - treated rats .
+Rats were pretreated with saline or nicotine ( 1 . 5 mg / kg per day ) by subcutaneously implanting each animal with an Alzet osmotic mini - pump which continuously released saline or nicotine for 1 , 5 and 14 days .
+At the end of each pretreatment period , animals were used for ( i ) determining their locomotor response to acutely injected nicotine ( 0 . 2 mg / kg , s . c . ) and ( ii ) measuring the density of L - [ 3H ] nicotine and [ 3H ] spiperone binding sites in the striatum .
+We observed no changes in nicotine - induced locomotor response , striatal L - [ 3H ] nicotine and [ 3H ] spiperone binding in the animals pretreated with nicotine for 1 day .
+In rats which were pretreated with nicotine for 5 days , there was a significant increase in the nicotine - stimulated locomotor response which was associated with an increase in the number of L - [ 3H ] nicotine binding sites and also with an elevated dopamine ( DA ) level in the striatum .
+The number of striatal [ 3H ] spiperone binding sites was not affected .
+In animals pretreated with nicotine for 14 days , the nicotine - induced locomotor response remained to be potentiated .
+However , this response was correlated with an elevated number of striatal [ 3H ] spiperone binding sites , whereas the number of striatal L - [ 3H ] nicotine binding sites and the striatal DA level were normal .
+These results suggest that chronic nicotine - treated rats develop locomotor hyperactivity in response to nicotine initially due to increases of both the density of nicotinic receptors and DA concentration , followed by inducing DA receptor supersensitivity in the striatum .

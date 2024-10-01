@@ -1,0 +1,13 @@
+A prospective study on the dose dependency of cardiotoxicity induced by mitomycin C.
+Since 1975 mitomycin C (MMC) has been suggested to be cardiotoxic, especially when combined with or given following doxorubicin.
+Data on dose dependency or incidence concerning this side effect were not known.
+We have initiated a prospective study to obtain some more data on these subjects.
+Forty-four MMC-treated patients were studied, 37 of them could be evaluated.
+All patients were studied by repeated physical examinations, chest X-rays, electro- and echocardiography and radionuclide left ventricular ejection fraction (EF) determinations.
+The results were evaluated per cumulative dose level.
+One of the patients developed cardiac failure after 30 mg m-2 MMC and only 150 mg m-2 doxorubicin.
+The cardiac failure was predicted by a drop in EF determined during a cold pressor test.
+None of the other patients developed clinical cardiotoxicity, nor did the studied parameters change.
+The literature on this subject was also reviewed.
+Based on the combined data from the present study and the literature, we suggest that MMC-related cardiotoxicity is dose dependent, occurring at cumulative dose levels of 30 mg m-2 or more, mainly in patients also (previously or simultaneously) treated with doxorubicin.
+The incidence is likely to be less than 10% even for this risk group.

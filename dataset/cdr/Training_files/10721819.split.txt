@@ -1,0 +1,11 @@
+Effects of long-term pretreatment with isoproterenol on bromocriptine-induced tachycardia in conscious rats.
+It has been shown that bromocriptine-induced tachycardia, which persisted after adrenalectomy, is (i) mediated by central dopamine D2 receptor activation and (ii) reduced by 5-day isoproterenol pretreatment, supporting therefore the hypothesis that this effect is dependent on sympathetic outflow to the heart.
+This study was conducted to examine whether prolonged pretreatment with isoproterenol could abolish bromocriptine-induced tachycardia in conscious rats.
+Isoproterenol pretreatment for 15 days caused cardiac hypertrophy without affecting baseline blood pressure and heart rate.
+In control rats, intravenous bromocriptine (150 microg/kg) induced significant hypotension and tachycardia.
+Bromocriptine-induced hypotension was unaffected by isoproterenol pretreatment, while tachycardia was reversed to significant bradycardia, an effect that was partly reduced by i.v.
+domperidone (0.5 mg/kg).
+Neither cardiac vagal nor sympathetic tone was altered by isoproterenol pretreatment.
+In isolated perfused heart preparations from isoproterenol-pretreated rats, the isoproterenol-induced maximal increase in left ventricular systolic pressure was significantly reduced, compared with saline-pretreated rats (the EC50 of the isoproterenol-induced increase in left ventricular systolic pressure was enhanced approximately 22-fold).
+These results show that 15-day isoproterenol pretreatment not only abolished but reversed bromocriptine-induced tachycardia to bradycardia, an effect that is mainly related to further cardiac beta-adrenoceptor desensitization rather than to impairment of autonomic regulation of the heart.
+They suggest that, in normal conscious rats, the central tachycardia of bromocriptine appears to predominate and to mask the bradycardia of this agonist at peripheral dopamine D2 receptors.

@@ -1,0 +1,10 @@
+Oxidative damage precedes nitrative damage in adriamycin - induced cardiac mitochondrial injury .
+The purpose of the present study was to determine if elevated reactive oxygen ( ROS ) / nitrogen species ( RNS ) reported to be present in adriamycin ( ADR ) - induced cardiotoxicity actually resulted in cardiomyocyte oxidative / nitrative damage , and to quantitatively determine the time course and subcellular localization of these postulated damage products using an in vivo approach .
+B6C3 mice were treated with a single dose of 20 mg / kg ADR .
+Ultrastructural damage and levels of 4 - hydroxy - 2 - nonenal ( 4HNE ) - protein adducts and 3 - nitrotyrosine ( 3NT ) were analyzed .
+Quantitative ultrastructural damage using computerized image techniques showed cardiomyocyte injury as early as 3 hours , with mitochondria being the most extensively and progressively injured subcellular organelle .
+Analysis of 4HNE protein adducts by immunogold electron microscopy showed appearance of 4HNE protein adducts in mitochondria as early as 3 hours , with a peak at 6 hours and subsequent decline at 24 hours .
+3NT levels were significantly increased in all subcellular compartments at 6 hours and subsequently declined at 24 hours .
+Our data showed ADR induced 4HNE - protein adducts in mitochondria at the same time point as when mitochondrial injury initially appeared .
+These results document for the first time in vivo that mitochondrial oxidative damage precedes nitrative damage .
+The progressive nature of mitochondrial injury suggests that mitochondria , not other subcellular organelles , are the major site of intracellular injury .

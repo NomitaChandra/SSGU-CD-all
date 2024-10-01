@@ -1,0 +1,10 @@
+Optimising stroke prevention in non-valvular atrial fibrillation.
+Atrial fibrillation is associated with substantial morbidity and mortality.
+Pooled data from trials comparing antithrombotic treatment with placebo have shown that warfarin reduces the risk of stroke by 62%, and that aspirin alone reduces the risk by 22%.
+Overall, in high-risk patients, warfarin is superior to aspirin in preventing strokes, with a relative risk reduction of 36%.
+Ximelagatran, an oral direct thrombin inhibitor, was found to be as efficient as vitamin K antagonist drugs in the prevention of embolic events, but has been recently withdrawn because of abnormal liver function tests.
+The ACTIVE-W (Atrial Fibrillation Clopidogrel Trial with Irbesartan for Prevention of Vascular Events) study has demonstrated that warfarin is superior to platelet therapy (clopidogrel plus aspirin) in the prevention af embolic events.
+Idraparinux, a Factor Xa inhibitor, is being evaluated in patients with atrial fibrillation.
+Angiotensin-converting enzyme inhibitors and angiotensin II receptor-blocking drugs hold promise in atrial fibrillation through cardiac remodelling.
+Preliminary studies suggest that statins could interfere with the risk of recurrence after electrical cardioversion.
+Finally, percutaneous methods for the exclusion of left atrial appendage are under investigation in high-risk patients.

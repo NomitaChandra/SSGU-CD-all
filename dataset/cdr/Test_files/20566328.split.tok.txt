@@ -1,0 +1,9 @@
+Mitochondrial impairment contributes to cocaine - induced cardiac dysfunction : Prevention by the targeted antioxidant MitoQ .
+The goal of this study was to assess mitochondrial function and ROS production in an experimental model of cocaine - induced cardiac dysfunction .
+We hypothesized that cocaine abuse may lead to altered mitochondrial function that in turn may cause left ventricular dysfunction .
+Seven days of cocaine administration to rats led to an increased oxygen consumption detected in cardiac fibers , specifically through complex I and complex III .
+ROS levels were increased , specifically in interfibrillar mitochondria .
+In parallel there was a decrease in ATP synthesis , whereas no difference was observed in subsarcolemmal mitochondria .
+This uncoupling effect on oxidative phosphorylation was not detectable after short - term exposure to cocaine , suggesting that these mitochondrial abnormalities were a late rather than a primary event in the pathological response to cocaine .
+MitoQ , a mitochondrial - targeted antioxidant , was shown to completely prevent these mitochondrial abnormalities as well as cardiac dysfunction characterized here by a diastolic dysfunction studied with a conductance catheter to obtain pressure - volume data .
+Taken together , these results extend previous studies and demonstrate that cocaine - induced cardiac dysfunction may be due to a mitochondrial defect .

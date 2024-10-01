@@ -1,0 +1,14 @@
+Force overflow and levodopa-induced dyskinesias in Parkinson's disease.
+We assessed force coordination of the hand in Parkinson's disease and its relationship to motor complications of levodopa therapy, particularly to levodopa-induced dyskinesias (LID).
+We studied two groups of Parkinson's disease patients with (Parkinson's disease + LID, n = 23) and without levodopa-induced dyskinesias (Parkinson's disease - LID, n = 10), and age-matched healthy controls.
+The motor score of the Unified Parkinson's Disease Rating Scale, a dyskinesia score and force in a grip-lift paradigm were assessed ON and OFF levodopa.
+A pathological increase of forces was seen in ON-state in Parkinson's disease + LID only.
+In Parkinson's disease + LID, the force involved in pressing down the object before lifting was significantly increased by levodopa (by 61%, P < 0.05).
+An overshooting of peak grip force by 51% (P < 0.05) and of static grip force by 45% (P < 0.01) was observed in the ON- compared with the OFF-drug condition.
+In contrast, no excessive force was found in Parkinson's disease - LID.
+Peak grip force in ON-state was 140% (P < 0.05) higher in Parkinson's disease + LID than in Parkinson's disease - LID, while static grip force was increased by 138% (P < 0.01) between groups.
+Severity of peak-dose dyskinesias was strongly correlated with grip force in ON-state (r = 0.79 with peak force, P < 0.01).
+No correlation was observed between forces and the motor score as well as with the daily dose of dopaminergic medication.
+Force excess was only observed in patients with LID and motor fluctuations.
+A close relationship was seen between the overshooting of forces and dyskinesias in the ON-drug condition.
+We postulate that both LID and grip force excess share common pathophysiological mechanisms related to motor fluctuations.

@@ -1,0 +1,10 @@
+Sedation depth during spinal anesthesia and the development of postoperative delirium in elderly patients undergoing hip fracture repair.
+OBJECTIVE: To determine whether limiting intraoperative sedation depth during spinal anesthesia for hip fracture repair in elderly patients can decrease the prevalence of postoperative delirium.
+PATIENTS AND METHODS: We performed a double-blind, randomized controlled trial at an academic medical center of elderly patients (>or=65 years) without preoperative delirium or severe dementia who underwent hip fracture repair under spinal anesthesia with propofol sedation.
+Sedation depth was titrated using processed electroencephalography with the bispectral index (BIS), and patients were randomized to receive either deep (BIS, approximately 50) or light (BIS, >or=80) sedation.
+Postoperative delirium was assessed as defined by Diagnostic and Statistical Manual of Mental Disorders (Third Edition Revised) criteria using the Confusion Assessment Method beginning at any time from the second day after surgery.
+RESULTS: From April 2, 2005, through October 30, 2008, a total of 114 patients were randomized.
+The prevalence of postoperative delirium was significantly lower in the light sedation group (11/57 [19%] vs 23/57 [40%] in the deep sedation group; P=.02), indicating that 1 incident of delirium will be prevented for every 4.7 patients treated with light sedation.
+The mean +/- SD number of days of delirium during hospitalization was lower in the light sedation group than in the deep sedation group (0.5+/-1.5 days vs 1.4+/-4.0 days; P=.01).
+CONCLUSION: The use of light propofol sedation decreased the prevalence of postoperative delirium by 50% compared with deep sedation.
+Limiting depth of sedation during spinal anesthesia is a simple, safe, and cost-effective intervention for preventing postoperative delirium in elderly patients that could be widely and readily adopted.

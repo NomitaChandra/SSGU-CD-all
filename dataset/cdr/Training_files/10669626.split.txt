@@ -1,0 +1,17 @@
+Warfarin-induced artery calcification is accelerated by growth and vitamin D.
+The present studies demonstrate that growth and vitamin D treatment enhance the extent of artery calcification in rats given sufficient doses of Warfarin to inhibit gamma-carboxylation of matrix Gla protein, a calcification inhibitor known to be expressed by smooth muscle cells and macrophages in the artery wall.
+The first series of experiments examined the influence of age and growth status on artery calcification in Warfarin-treated rats.
+Treatment for 2 weeks with Warfarin caused massive focal calcification of the artery media in 20-day-old rats and less extensive focal calcification in 42-day-old rats.
+In contrast, no artery calcification could be detected in 10-month-old adult rats even after 4 weeks of Warfarin treatment.
+To directly examine the importance of growth to Warfarin-induced artery calcification in animals of the same age, 20-day-old rats were fed for 2 weeks either an ad libitum diet or a 6-g/d restricted diet that maintains weight but prevents growth.
+Concurrent treatment of both dietary groups with Warfarin produced massive focal calcification of the artery media in the ad libitum-fed rats but no detectable artery calcification in the restricted-diet, growth-inhibited group.
+Although the explanation for the association between artery calcification and growth status cannot be determined from the present study, there was a relationship between higher serum phosphate and susceptibility to artery calcification, with 30% higher levels of serum phosphate in young, ad libitum-fed rats compared with either of the groups that was resistant to Warfarin-induced artery calcification, ie, the 10-month-old rats and the restricted-diet, growth-inhibited young rats.
+This observation suggests that increased susceptibility to Warfarin-induced artery calcification could be related to higher serum phosphate levels.
+The second set of experiments examined the possible synergy between vitamin D and Warfarin in artery calcification.
+High doses of vitamin D are known to cause calcification of the artery media in as little as 3 to 4 days.
+High doses of the vitamin K antagonist Warfarin are also known to cause calcification of the artery media, but at treatment times of 2 weeks or longer yet not at 1 week.
+In the current study, we investigated the synergy between these 2 treatments and found that concurrent Warfarin administration dramatically increased the extent of calcification in the media of vitamin D-treated rats at 3 and 4 days.
+There was a close parallel between the effect of vitamin D dose on artery calcification and the effect of vitamin D dose on the elevation of serum calcium, which suggests that vitamin D may induce artery calcification through its effect on serum calcium.
+Because Warfarin treatment had no effect on the elevation in serum calcium produced by vitamin D, the synergy between Warfarin and vitamin D is probably best explained by the hypothesis that Warfarin inhibits the activity of matrix Gla protein as a calcification inhibitor.
+High levels of matrix Gla protein are found at sites of artery calcification in rats treated with vitamin D plus Warfarin, and chemical analysis showed that the protein that accumulated was indeed not gamma-carboxylated.
+These observations indicate that although the gamma-carboxyglutamate residues of matrix Gla protein are apparently required for its function as a calcification inhibitor, they are not required for its accumulation at calcification sites.

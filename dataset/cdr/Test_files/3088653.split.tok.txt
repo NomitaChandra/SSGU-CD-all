@@ -1,0 +1,9 @@
+Reversal of scopolamine - induced amnesia of passive avoidance by pre - and post - training naloxone .
+In a series of five experiments , the modulating role of naloxone on a scopolamine - induced retention deficit in a passive avoidance paradigm was investigated in mice .
+Scopolamine , but not methyl scopolamine ( 1 and 3 mg / kg ) , induced an amnesia as measured by latency and duration parameters .
+Naloxone ( 0 . 3 , 1 , 3 , and 10 mg / kg ) injected prior to training attenuated the retention deficit with a peak of activity at 3 mg / kg .
+The effect of naloxone could be antagonized with morphine ( 1 , 3 , and 10 mg / kg ) , demonstrating the opioid specificity of the naloxone effect .
+Post - training administration of naloxone ( 3 mg / kg ) as a single or as a split dose also attenuated the scopolamine - induced amnesia .
+Control experiments indicated that neither an increase in pain sensitivity ( pre - training naloxone ) nor an induced aversive state ( post - training naloxone ) appear to be responsible for the influence of naloxone on the scopolamine - induced retention deficit .
+These results extend previous findings implicating a cholinergic - opioid interaction in memory processes .
+A possible mechanism for this interaction involving the septo - hippocampal cholinergic pathway is discussed .

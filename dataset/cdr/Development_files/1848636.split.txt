@@ -1,0 +1,13 @@
+Debrisoquine phenotype and the pharmacokinetics and beta-2 receptor pharmacodynamics of metoprolol and its enantiomers.
+The metabolism of the cardioselective beta-blocker metoprolol is under genetic control of the debrisoquine/sparteine type.
+The two metabolic phenotypes, extensive (EM) and poor metabolizers (PM), show different stereoselective metabolism, resulting in apparently higher beta-1 adrenoceptor antagonistic potency of racemic metoprolol in EMs.
+We investigated if the latter also applies to the beta-2 adrenoceptor antagonism by metoprolol.
+The drug effect studied was the antagonism by metoprolol of terbutaline-induced hypokalemia.
+By using pharmacokinetic pharmacodynamic modeling the pharmacodynamics of racemic metoprolol and the active S-isomer, were quantitated in EMs and PMs in terms of IC50 values, representing metoprolol plasma concentrations resulting in half-maximum receptor occupancy.
+Six EMs received 0.5 mg of terbutaline s.c.
+on two different occasions: 1) 1 hr after administration of a placebo and 2) 1 hr after 150 mg of metoprolol p.o.
+Five PMs were studied according to the same protocol, except for a higher terbutaline dose (0.75 mg) on day 2.
+Blood samples for the analysis of plasma potassium, terbutaline, metoprolol (racemic, R- and S-isomer), and alpha-hydroxymetoprolol concentrations were taken at regular time intervals, during 8 hr after metoprolol.
+In PMs, metoprolol increased the terbutaline area under the plasma concentration vs. time curve (+67%).
+Higher metoprolol/alpha-hydroxymetoprolol ratios in PMs were predictive for higher R-/S-isomer ratios of unchanged drug.
+There was a difference in metoprolol potency with higher racemic metoprolol IC50 values in PMs (72 +/- 7 ng.ml-1) than EMs (42 +/- 8 ng.ml-1, P less than .001).(ABSTRACT TRUNCATED AT 250 WORDS).

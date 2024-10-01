@@ -1,0 +1,16 @@
+Comparison of developmental toxicity of selective and non-selective cyclooxygenase-2 inhibitors in CRL:(WI)WUBR Wistar rats--DFU and piroxicam study.
+BACKGROUND: Cyclooxygenase (COX) inhibitors are one of the most often ingested drugs during pregnancy.
+Unlike general toxicity data, their prenatal toxic effects were not extensively studied before.
+The aim of the experiment was to evaluate the developmental toxicity of the non-selective (piroxicam) and selective (DFU; 5,5-dimethyl-3-(3-fluorophenyl)-4-(4-methylsulphonyl) phenyl-2(5H)-furanon) COX-2 inhibitors.
+METHODS: Drugs were separately, orally once daily dosed to pregnant rats from day 8 to 21 (GD1=plug day).
+Doses were set at 0.3, 3.0 and 30.0mg/kg for piroxicam and 0.2, 2.0 and 20.0mg/kg for DFU.
+Fetuses were delivered on GD 21 and routinely examined.
+Comprehensive clinical and developmental measurements were done.
+The pooled statistical analysis for ventricular septal (VSD) and midline (MD) defects was performed for rat fetuses exposed to piroxicam, selective and non-selective COX-2 inhibitor based on present and historic data.
+RESULTS: Maternal toxicity, intrauterine growth retardation, and increase of external and skeletal variations were found in rats treated with the highest dose of piroxicam.
+Decrease of fetal length was the only signs of the DFU developmental toxicity observed in pups exposed to the highest compound dose.
+Lack of teratogenicity was found in piroxicam and DFU-exposed groups.
+Prenatal exposure to non-selective COX inhibitors increases the risk of VSD and MD when compared to historic control but not with selective COX-2 inhibitors.
+CONCLUSION: Both selective and non-selective COX-2 inhibitors were toxic for rats fetuses when administered in the highest dose.
+Unlike DFU, piroxicam was also highly toxic to the dams.
+Prenatal exposure to selective COX-2 inhibitors does not increase the risk of ventricular septal and midline defects in rat when compared to non-selective drugs and historic control.

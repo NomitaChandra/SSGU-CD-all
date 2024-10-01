@@ -1,0 +1,8 @@
+A novel compound , maltolyl p - coumarate , attenuates cognitive deficits and shows neuroprotective effects in vitro and in vivo dementia models .
+To develop a novel and effective drug that could enhance cognitive function and neuroprotection , we newly synthesized maltolyl p - coumarate by the esterification of maltol and p - coumaric acid .
+In the present study , we investigated whether maltolyl p - coumarate could improve cognitive decline in scopolamine - injected rats and in amyloid beta peptide ( 1 - 42 ) - infused rats .
+Maltolyl p - coumarate was found to attenuate cognitive deficits in both rat models using passive avoidance test and to reduce apoptotic cell death observed in the hippocampus of the amyloid beta peptide ( 1 - 42 ) - infused rats .
+We also examined the neuroprotective effects of maltolyl p - coumarate in vitro using SH - SY5Y cells .
+Cells were pretreated with maltolyl p - coumarate , before exposed to amyloid beta peptide ( 1 - 42 ) , glutamate or H2O2 .
+We found that maltolyl p - coumarate significantly decreased apoptotic cell death and reduced reactive oxygen species , cytochrome c release , and caspase 3 activation .
+Taking these in vitro and in vivo results together , our study suggests that maltolyl p - coumarate is a potentially effective candidate against Alzheimer 's disease that is characterized by wide spread neuronal death and progressive decline of cognitive function .

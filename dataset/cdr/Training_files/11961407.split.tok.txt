@@ -1,0 +1,14 @@
+GLEPP1 receptor tyrosine phosphatase ( Ptpro ) in rat PAN nephrosis .
+A marker of acute podocyte injury .
+Glomerular epithelial protein 1 ( GLEPP1 ) is a podocyte receptor membrane protein tyrosine phosphatase located on the apical cell membrane of visceral glomerular epithelial cell and foot processes .
+This receptor plays a role in regulating the structure and function of podocyte foot process .
+To better understand the utility of GLEPP1 as a marker of glomerular injury , the amount and distribution of GLEPP1 protein and mRNA were examined by immunohistochemistry , Western blot and RNase protection assay in a model of podocyte injury in the rat .
+Puromycin aminonucleoside nephrosis was induced by single intraperitoneal injection of puromycin aminonucleoside ( PAN , 20 mg / 100g BW ) .
+Tissues were analyzed at 0 , 5 , 7 , 11 , 21 , 45 , 80 and 126 days after PAN injection so as to include both the acute phase of proteinuria associated with foot process effacement ( days 5 - 11 ) and the chronic phase of proteinuria associated with glomerulosclerosis ( days 45 - 126 ) .
+At day 5 , GLEPP1 protein and mRNA were reduced from the normal range ( 265 . 2 + / - 79 . 6 x 10 ( 6 ) moles / glomerulus and 100 % ) to 15 % of normal ( 41 . 8 + / - 4 . 8 x 10 ( 6 ) moles / glomerulus , p < 0 . 005 ) .
+This occurred in association with an increase in urinary protein content from 1 . 8 + / - 1 to 99 . 0 + / - 61 mg / day ( p < 0 . 001 ) .
+In contrast , podocalyxin did not change significantly at this time .
+By day 11 , GLEPP1 protein and mRNA had begun to return towards baseline .
+By day 45 - 126 , at a time when glomerular scarring was present , GLEPP1 was absent from glomerulosclerotic areas although the total glomerular content of GLEPP1 was not different from normal .
+We conclude that GLEPP1 expression , unlike podocalyxin , reflects podocyte injury induced by PAN .
+GLEPP1 expression may be a useful marker of podocyte injury .

@@ -1,0 +1,16 @@
+Intravenous administration of prochlorperazine by 15 - minute infusion versus 2 - minute bolus does not affect the incidence of akathisia : a prospective , randomized , controlled trial .
+STUDY OBJECTIVE : We sought to compare the rate of akathisia after administration of intravenous prochlorperazine as a 2 - minute bolus or 15 - minute infusion .
+METHODS : We conducted a prospective , randomized , double - blind study in the emergency department of a central - city teaching hospital .
+Patients aged 18 years or older treated with prochlorperazine for headache , nausea , or vomiting were eligible for inclusion .
+Study participants were randomized to receive 10 mg of prochlorperazine administered intravenously by means of 2 - minute push ( bolus group ) or 10 mg diluted in 50 mL of normal saline solution administered by means of intravenous infusion during a 15 - minute period ( infusion group ) .
+The main outcome was the number of study participants experiencing akathisia within 60 minutes of administration .
+Akathisia was defined as either a spontaneous report of restlessness or agitation or a change of 2 or more in the patient - reported akathisia rating scale and a change of at least 1 in the investigator - observed akathisia rating scale .
+The intensity of headache and nausea was measured with a 100 - mm visual analog scale .
+RESULTS : One hundred patients were enrolled .
+One study participant was excluded after protocol violation .
+Seventy - three percent ( 73 / 99 ) of the study participants were treated for headache and 70 % ( 70 / 99 ) for nausea .
+In the bolus group , 26 . 0 % ( 13 / 50 ) had akathisia compared with 32 . 7 % ( 16 / 49 ) in the infusion group ( Delta = - 6 . 7 % ; 95 % confidence interval [ CI ] - 24 . 6 % to 11 . 2 % ) .
+The difference between the bolus and infusion groups in the percentage of participants who saw a 50 % reduction in their headache intensity within 30 minutes was 11 . 8 % ( 95 % CI - 9 . 6 % to 33 . 3 % ) .
+The difference in the percentage of patients with a 50 % reduction in their nausea was 12 . 6 % ( 95 % CI - 4 . 6 % to 29 . 8 % ) .
+CONCLUSION : A 50 % reduction in the incidence of akathisia when prochlorperazine was administered by means of 15 - minute intravenous infusion versus a 2 - minute intravenous push was not detected .
+The efficacy of prochlorperazine in the treatment of headache and nausea likewise did not appear to be affected by the rate of administration , although no formal statistical comparisons were made .

@@ -1,0 +1,12 @@
+Neural correlates of S - ketamine induced psychosis during overt continuous verbal fluency .
+The glutamatergic N - methyl - D - aspartate ( NMDA ) receptor has been implicated in the pathophysiology of schizophrenia .
+Administered to healthy volunteers , a subanesthetic dose of the non - competitive NMDA receptor antagonist ketamine leads to psychopathological symptoms similar to those observed in schizophrenia .
+In patients with schizophrenia , ketamine exacerbates the core symptoms of illness , supporting the hypothesis of a glutamatergic dysfunction .
+In a counterbalanced , placebo - controlled , double - blind study design , healthy subjects were administered a continuous subanesthetic S - ketamine infusion while differences in BOLD responses measured with fMRI were detected .
+During the scanning period , subjects performed continuous overt verbal fluency tasks ( phonological , lexical and semantic ) .
+Ketamine - induced psychopathological symptoms were assessed with the Positive and Negative Syndrome Scale ( PANSS ) .
+Ketamine elicited psychosis like psychopathology .
+Post - hoc t - tests revealed significant differences between placebo and ketamine for the amounts of words generated during lexical and semantic verbal fluency , while the phonological domain remained unaffected .
+Ketamine led to enhanced cortical activations in supramarginal and frontal brain regions for phonological and lexical verbal fluency , but not for semantic verbal fluency .
+Ketamine induces activation changes in healthy subjects similar to those observed in patients with schizophrenia , particularly in frontal and temporal brain regions .
+Our results provide further support for the hypothesis of an NMDA receptor dysfunction in the pathophysiology of schizophrenia .

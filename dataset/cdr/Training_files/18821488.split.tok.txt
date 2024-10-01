@@ -1,0 +1,12 @@
+Toxicity in rhesus monkeys following administration of the 8 - aminoquinoline 8 - [ ( 4 - amino - l - methylbutyl ) amino ] - 5 - ( l - hexyloxy ) - 6 - methoxy - 4 - methylquinoline ( WR242511 ) .
+INTRODUCTION : Many substances that form methemoglobin ( MHb ) effectively counter cyanide ( CN ) toxicity .
+Although MHb formers are generally applied as treatments for CN poisoning , it has been proposed that a stable , long - acting MHb former could serve as a CN pretreatment .
+Using this rationale , the 8 - aminoquinoline WR242511 , a potent long - lasting MHb former in rodents and beagle dogs , was studied in the rhesus monkey for advanced development as a potential CN pretreatment .
+METHODS : In this study , WR242511 was administered intravenously ( IV ) in 2 female and 4 male rhesus monkeys in doses of 3 . 5 and / or 7 . 0 mg / kg ; a single male also received WR242511 orally ( PO ) at 7 . 0 mg / kg .
+Health status and MHb levels were monitored following exposure .
+RESULTS : The selected doses of WR242511 , which produced significant methemoglobinemia in beagle dogs in earlier studies conducted elsewhere , produced very little MHb ( mean < 2 . 0 % ) in the rhesus monkey .
+Furthermore , transient hemoglobinuria was noted approximately 60 minutes postinjection of WR242511 ( 3 . 5 or 7 . 0 mg / kg ) , and 2 lethalities occurred ( one IV and one PO ) following the 7 . 0 mg / kg dose .
+Myoglobinuria was also observed following the 7 . 0 mg / kg dose .
+Histopathology analyses in the 2 animals that died revealed liver and kidney toxicity , with greater severity in the orally - treated animal .
+CONCLUSIONS : These data demonstrate direct and / or indirect drug - induced toxicity .
+It is concluded that WR242511 should not be pursued as a pretreatment for CN poisoning unless the anti - CN characteristics of this compound can be successfully dissociated from those producing undesirable toxicity .

@@ -1,0 +1,10 @@
+Dopamine D2 receptor signaling controls neuronal cell death induced by muscarinic and glutamatergic drugs.
+Dopamine (DA), through D1/D2 receptor-mediated signaling, plays a major role in the control of epileptic seizures arising in the limbic system.
+Excitotoxicity leading to neuronal cell death in the affected areas is a major consequence of seizures at the cellular level.
+In this respect, little is known about the role of DA receptors in the occurrence of epilepsy-induced neuronal cell death.
+Here we analyze the occurrence of seizures and neurotoxicity in D2R -/- mice treated with the cholinergic agonist pilocarpine.
+We compared these results with those previously obtained with kainic acid (KA), a potent glutamate agonist.
+Importantly, D2R -/- mice develop seizures at doses of both drugs that are not epileptogenic for WT littermates and show greater neurotoxicity.
+However, pilocarpine-induced seizures result in a more widespread neuronal death in both WT and D2R -/- brains in comparison to KA.
+Thus, the absence of D2R lowers the threshold for seizures induced by both glutamate and acetylcholine.
+Moreover, the dopaminergic control of epilepsy-induced neurodegeneration seems to be mediated by distinct interactions of D2R signaling with these two neurotransmitters.

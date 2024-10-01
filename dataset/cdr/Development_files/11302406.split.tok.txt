@@ -1,0 +1,8 @@
+Fluconazole - induced torsade de pointes .
+OBJECTIVE : To present a case of fluconazole - associated torsade de pointes ( TDP ) and discuss fluconazole 's role in causing TDP .
+CASE SUMMARY : A 68 - year - old white woman with Candida glabrata isolated from a presacral abscess developed TDP eight days after commencing oral fluconazole The patient had no other risk factors for TDP , including coronary artery disease , cardiomyopathy , congestive heart failure , and electrolyte abnormalities There was a temporal association between the initiation of fluconazole and TDP .
+The TDP resolved when fluconazole was discontinued ; however , the patient continued to have premature ventricular contractions and nonsustained ventricular tachycardia ( NSVT ) until six days after drug cessation DISCUSSION : Use of the Naranjo probability scale indicates a probable relationship between the use of fluconazole and the development of TDP .
+The possible mechanism is depression of rapidly activating delayed rectifier potassium currents .
+In our patient , there was no other etiology identified that could explain QT prolongation or TDP The complete disappearance of NSVT and premature ventricular contractions followed by normalization of QT interval after the drug was stopped strongly suggests fluconazole as the etiology .
+CONCLUSIONS : Clinicians should be aware that fluconazole , even at low doses , may cause prolongation of the QT interval , leading to TDP .
+Serial electrocardiographic monitoring may be considered when fluconazole is administered in patients who are at risk for ventricular arrhythmias .

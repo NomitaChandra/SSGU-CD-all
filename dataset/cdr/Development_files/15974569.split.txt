@@ -1,0 +1,3 @@
+Two prodrugs of potent and selective GluR5 kainate receptor antagonists actives in three animal models of pain.
+Amino acids 5 and 7, two potent and selective competitive GluR5 KA receptor antagonists, exhibited high GluR5 receptor affinity over other glutamate receptors.
+Their ester prodrugs 6 and 8 were orally active in three models of pain: reversal of formalin-induced paw licking, carrageenan-induced thermal hyperalgesia, and capsaicin-induced mechanical hyperalgesia.

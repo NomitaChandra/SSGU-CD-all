@@ -1,0 +1,11 @@
+Effect of increasing intraperitoneal infusion rates on bupropion hydrochloride - induced seizures in mice .
+BACKGROUND : It is not known if there is a relationship between input rate and incidence of bupropion - induced seizures .
+This is important , since different controlled release formulations of bupropion release the active drug at different rates .
+METHODS : We investigated the effect of varying the intraperitoneal infusion rates of bupropion HCl 120 mg / kg , a known convulsive dose 50 ( CD50 ) , on the incidence and severity of bupropion - induced convulsions in the Swiss albino mice .
+A total of 69 mice , approximately 7 weeks of age , and weighing 21 . 0 to 29 . 1 g were randomly assigned to bupropion HCl 120 mg / kg treatment by intraperitoneal ( IP ) administration in 7 groups ( 9 to 10 animals per group ) .
+Bupropion HCl was infused through a surgically implanted IP dosing catheter with infusions in each group of 0 min , 15 min , 30 min , 60 min , 90 min , 120 min , and 240 min .
+The number , time of onset , duration and the intensity of the convulsions or absence of convulsions were recorded .
+RESULTS : The results showed that IP administration of bupropion HCl 120 mg / kg by bolus injection induced convulsions in 6 out of 10 mice ( 60 % of convulsing mice ) in group 1 .
+Logistic regression analysis revealed that infusion time was significant ( p = 0 . 0004 ; odds ratio = 0 . 974 ) and increasing the IP infusion time of bupropion HCl 120 mg / kg was associated with a 91 % reduced odds of convulsions at infusion times of 15 to 90 min compared to bolus injection .
+Further increase in infusion time resulted in further reduction in the odds of convulsions to 99 . 8 % reduction at 240 min .
+CONCLUSION : In conclusion , the demonstration of an inverse relationship between infusion time of a fixed and convulsive dose of bupropion and the risk of convulsions in a prospective study is novel .

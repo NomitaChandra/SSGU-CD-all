@@ -1,0 +1,14 @@
+MK - 801 augments pilocarpine - induced electrographic seizure but protects against brain damage in rats .
+1 . The authors examined the anticonvulsant effects of MK - 801 on the pilocarpine - induced seizure model .
+Intraperitoneal injection of pilocarpine ( 400 mg / kg ) induced tonic and clonic seizure .
+Scopolamine ( 10 mg / kg ) and pentobarbital ( 5 mg / kg ) prevented development of pilocarpine - induced behavioral seizure but MK - 801 ( 0 . 5 mg / kg ) did not .
+2 .
+An electrical seizure measured with hippocampal EEG appeared in the pilocarpine - treated group .
+Scopolamine and pentobarbital blocked the pilocarpine - induced electrographic seizure , MK - 801 treatment augmented the electrographic seizure induced by pilocarpine .
+3 .
+Brain damage was assessed by examining the hippocampus microscopically .
+Pilocarpine produced neuronal death in the hippocampus , which showed pyknotic changes .
+Pentobarbital , scopolamine and MK - 801 protected the brain damage by pilocarpine , though in the MK - 801 - treated group , the pyramidal cells of hippocampus appeared darker than normal .
+In all treatments , granule cells of the dentate gyrus were not affected .
+4 .
+These results indicate that status epilepticus induced by pilocarpine is initiated by cholinergic overstimulation and propagated by glutamatergic transmission , the elevation of which may cause brain damage through an excitatory NMDA receptor - mediated mechanism .

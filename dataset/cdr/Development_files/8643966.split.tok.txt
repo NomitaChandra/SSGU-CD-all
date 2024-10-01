@@ -1,0 +1,15 @@
+Chemotherapy of advanced inoperable non - small cell lung cancer with paclitaxel : a phase II trial .
+Paclitaxel ( Taxol ; Bristol - Myers Squibb Company , Princeton , NJ ) has demonstrated significant antineoplastic activity against different tumor types , notably ovarian and breast carcinoma .
+Two phase II trials of 24 - hour paclitaxel infusions in chemotherapy - naive patients with stage IIIB or IV non - small cell lung cancer ( NSCLC ) reported response rates of 21 % and 24 % .
+Leukopenia was dose limiting : as many as 62 . 5 % of patients experienced grade 4 leukopenia .
+We investigated the efficacy and toxicity of a 3 - hour paclitaxel infusion in a phase II trial in patients with inoperable stage IIIB or IV NSCLC .
+The 58 patients treated ( 41 men and 17 women ) had a median age of 59 years ( age range , 25 to 75 ) and a performance status of 0 through 2 .
+Most patients ( 72 . 4 % ) had stage IV NSCLC .
+Paclitaxel 225 mg / m2 was infused over 3 hours every 3 weeks with standard prophylactic premedication .
+Of 50 patients evaluable for response , 12 ( 24 % ) had partial remission , 26 ( 52 % ) had no change , and 12 had disease progression ( 24 % ) .
+Hematologic toxicities were mild : only one patient ( 2 % ) developed grade 3 or 4 neutropenia , while 29 % had grade 1 or 2 .
+Grade 1 or 2 polyneuropathy affected 56 % of patients while only one ( 2 % ) experienced severe polyneuropathy .
+Similarly , grade 1 or 2 myalgia / arthralgia was observed in 63 . 2 % of patients , but only 14 . 3 % experienced grade 3 or 4 .
+Nausea and vomiting were infrequent , with 14 % of patients experiencing grade 1 or 2 and only 2 % experiencing grade 3 or 4 .
+Paclitaxel is thus an active single agent in this patient population , with a 3 - hour infusion proving comparably effective to a 24 - hour infusion and superior in terms of the incidence of hematologic and nonhematologic toxicity .
+Further phase II studies with paclitaxel combined with other drugs active against NSCLC are indicated , and phase III studies comparing paclitaxel with standard chemotherapy remain to be completed .

@@ -1,0 +1,10 @@
+Bradykinin receptors antagonists and nitric oxide synthase inhibitors in vincristine and streptozotocin induced hyperalgesia in chemotherapy and diabetic neuropathy rat model.
+PURPOSE: The influence of an irreversible inhibitor of constitutive NO synthase (L-NOArg; 1.0 mg/kg ip), a relatively selective inhibitor of inducible NO synthase (L-NIL; 1.0 mg/kg ip) and a relatively specific inhibitor of neuronal NO synthase (7-NI; 0.1 mg/kg ip), on antihyperalgesic action of selective antagonists of B2 and B1 receptors: D-Arg-[Hyp3,Thi5,D-Tic7,Oic8] bradykinin (HOE 140; 70 nmol/kg ip) or des Arg10 HOE 140 (70 nmol/kg ip) respectively, in model of diabetic (streptozotocin-induced) and toxic (vincristine-induced) neuropathy was investigated.
+METHODS: The changes in pain thresholds were determined using mechanical stimuli--the modification of the classic paw withdrawal test described by Randall-Selitto.
+RESULTS: The results of this paper confirm that inhibition of bradykinin receptors and inducible NO synthase but not neuronal NO synthase activity reduces diabetic hyperalgesia.
+Pretreatment with L-NOArg and L-NIL but not 7-NI, significantly increases antihyperalgesic activity both HOE 140 and des Arg10 HOE 140.
+It was also shown that both products of inducible NO synthase and neuronal NO synthase activation as well as bradykinin are involved in hyperalgesia produced by vincristine.
+Moreover, L-NOArg and 7-NI but not L-NIL intensify antihyperalgesic activity of HOE 140 or des-Arg10HOE 140 in toxic neuropathy.
+CONCLUSIONS: Results of these studies suggest that B1 and B2 receptors are engaged in transmission of nociceptive stimuli in both diabetic and toxic neuropathy.
+In streptozotocin-induced hyperalgesia, inducible NO synthase participates in pronociceptive activity of bradykinin, whereas in vincristine-induced hyperalgesia bradykinin seemed to activate neuronal NO synthase pathway.
+Therefore, concomitant administration of small doses of bradykinin receptor antagonists and NO synthase inhibitors can be effective in alleviation of neuropathic pain, even in hospital care.

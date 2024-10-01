@@ -1,0 +1,16 @@
+Association of nitric oxide production and apoptosis in a model of experimental nephropathy .
+BACKGROUND : In recent studies increased amounts of nitric oxide ( NO ) and apoptosis have been implicated in various pathological conditions in the kidney .
+We have studied the role of NO and its association with apoptosis in an experimental model of nephrotic syndrome induced by a single injection of adriamycin ( ADR ) .
+METHODS : The alteration in the NO pathway was assessed by measuring nitrite levels in serum / urine and by evaluating the changes in vascular reactivity of the isolated perfused rat kidney ( IPRK ) system .
+Rats were stratified into control groups and ADR - induced nephropathy groups .
+These two groups were then divided into : group 1 , animals receiving saline ; and group 2 , animals receiving aminoguanidine ( AG ) which is a specific inhibitor of inducible - NO synthase .
+On day 21 , rats were sacrificed after obtaining material for biochemical analysis .
+RESULTS : Histopathological examination of the kidneys of rats treated with ADR revealed focal areas of mesangial proliferation and mild tubulointerstitial inflammation .
+They also had significantly higher levels of proteinuria compared with control and treatment groups ( P < 0 . 05 ) .
+Urine nitrite levels were significantly increased in the ADR - nephropathy group ( P < 0 . 05 ) .
+In the IPRK phenylephrine and acetylcholine related responses were significantly impaired in the ADR - nephropathy group .
+Apoptosis was not detected in controls .
+However , in the ADR - nephropathy group , numerous apoptotic cells were identified in the tubulointerstitial areas .
+Double staining revealed numerous interstitial apoptotic cells to stain for ED1 , a marker for monocytes / macrophages .
+Treatment with AG prevented the impairment of renal vascular bed responses and reduced both urine nitrite levels and apoptosis to control levels .
+CONCLUSION : We suggest that interactions between NO and apoptosis are important in the pathogenesis of the ADR - induced nephrosis .

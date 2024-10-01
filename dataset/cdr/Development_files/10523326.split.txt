@@ -1,0 +1,11 @@
+Nitric oxide synthase expression in the course of lead-induced hypertension.
+We recently showed elevated reactive oxygen species (ROS), reduced urinary excretion of NO metabolites (NOx), and increased NO sequestration as nitrotyrosine in various tissues in rats with lead-induced hypertension.
+This study was designed to discern whether the reduction in urinary NOx in lead-induced hypertension is, in part, due to depressed NO synthase (NOS) expression.
+Male Sprague-Dawley rats were randomly assigned to a lead-treated group (given lead acetate, 100 ppm, in drinking water and regular rat chow), a group given lead and vitamin E-fortified chow, or a normal control group given either regular food and water or vitamin E-fortified food for 12 weeks.
+Tail blood pressure, urinary NOx excretion, plasma malondialdehyde (MDA), and endothelial and inducible NOS (eNOS and iNOS) isotypes in the aorta and kidney were measured.
+The lead-treated group exhibited a rise in blood pressure and plasma MDA concentration, a fall in urinary NOx excretion, and a paradoxical rise in vascular and renal tissue eNOS and iNOS expression.
+Vitamin E supplementation ameliorated hypertension, lowered plasma MDA concentration, and raised urinary NOx excretion while significantly lowering vascular, but not renal, tissue eNOS and iNOS expression.
+Vitamin E supplementation had no effect on either blood pressure, plasma MDA, or NOS expression in the control group.
+The study also revealed significant inhibition of NOS enzymatic activity by lead in cell-free preparations.
+In conclusion, lead-induced hypertension in this model was associated with a compensatory upregulation of renal and vascular eNOS and iNOS expression.
+This is, in part, due to ROS-mediated NO inactivation, lead-associated inhibition of NOS activity, and perhaps stimulatory actions of increased shear stress associated with hypertension.

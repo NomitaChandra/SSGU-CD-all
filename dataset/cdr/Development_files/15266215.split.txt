@@ -1,0 +1,10 @@
+Effects of the cyclooxygenase-2 specific inhibitor valdecoxib versus nonsteroidal antiinflammatory agents and placebo on cardiovascular thrombotic events in patients with arthritis.
+There have been concerns that the risk of cardiovascular thrombotic events may be higher with cyclooxygenase (COX)-2-specific inhibitors than nonselective nonsteroidal antiinflammatory drugs (NSAIDs).
+We evaluated cardiovascular event data for valdecoxib, a new COX-2-specific inhibitor in approximately 8000 patients with osteoarthritis and rheumatoid arthritis treated with this agent in randomized clinical trials.
+The incidence of cardiovascular thrombotic events (cardiac, cerebrovascular and peripheral vascular, or arterial thrombotic) was determined by analyzing pooled valdecoxib (10-80 mg daily), nonselective NSAID (diclofenac 75 mg bid, ibuprofen 800 mg tid, or naproxen 500 mg bid) and placebo data from 10 randomized osteoarthritis and rheumatoid arthritis trials that were 6-52 weeks in duration.
+The incidence rates of events were determined in all patients (n = 7934) and in users of low-dose (< or =325 mg daily) aspirin (n = 1051) and nonusers of aspirin (n = 6883).
+Crude and exposure-adjusted incidences of thrombotic events were similar for valdecoxib, NSAIDs, and placebo.
+The risk of serious thrombotic events was also similar for each valdecoxib dose.
+Thrombotic risk was consistently higher for users of aspirin users than nonusers of aspirin (placebo, 1.4% vs. 0%; valdecoxib, 1.7% vs. 0.2%; NSAIDs, 1.9% vs. 0.5%).
+The rates of events in users of aspirin were similar for all 3 treatment groups and across valdecoxib doses.
+Short- and intermediate-term treatment with therapeutic (10 or 20 mg daily) and supratherapeutic (40 or 80 mg daily) valdecoxib doses was not associated with an increased incidence of thrombotic events relative to nonselective NSAIDs or placebo in osteoarthritis and rheumatoid arthritis patients in controlled clinical trials.

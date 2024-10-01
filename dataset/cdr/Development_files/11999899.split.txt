@@ -1,0 +1,13 @@
+Behavioral effects of MK-801 on reserpine-treated mice.
+The effects of dizocilpine (MK-801), a noncompetitive N-methyl-D-aspartate (NMDA) receptor antagonist, were studied on dopamine-related behaviors induced by reserpine treatments.
+This study focuses on behavioral syndromes that may used as models for Parkinson's disease, or tardive dyskinesia, and its response after glutamatergic blockage.
+Reserpine (1 mg/kg), administered once every other day for 4 days, produced increases in orofacial dyskinesia, tongue protrusion and vacuous chewing in mice, which are signs indicative of tardive dyskinesia.
+Reserpine also produced tremor and catalepsy, which are signs suggestive of Parkinson's disease.
+MK-801 (0.1 mg/kg), administered 30 min before the observation test, prevented the vacuous chewing movements, tongue protrusions and catalepsy induced by reserpine.
+However, MK-801 injection produced a significant increase of tremor in reserpine-treated mice.
+Reserpine (1 mg/kg), administered 90 min before the test and followed by apomophine injection (0.1 mg/kg) 5 min before the test, did not produce oral dyskinesia in mice.
+On the other hand, reserpine induced increases in tremor and catalepsy compared to control mice.
+MK-801 (0.1 mg/kg) administration attenuated the catalepsy and tremor induced by reserpine.
+Pretreatment with reserpine (1 mg/kg) 24 h before the observation test produced increases in vacuous chewing movements and tongue protrusion, as well as increases in tremor and catalepsy, whereas MK-801 (0.1 mg/kg) injection 90 min before the test reversed the effects of reserpine.
+These results show that reserpine produces different and abnormal movements, which are related to dose and schedule employed and can be considered as parkinsonian-like and tardive dsykinesia signs.
+The glutamatergic blockage produced by NMDA can restore these signs, such as vacuous chewing movements, tongue protrusions, catalepsy and tremor according to the employed model.

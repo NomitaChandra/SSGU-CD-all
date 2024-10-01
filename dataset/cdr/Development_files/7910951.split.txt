@@ -1,0 +1,11 @@
+Prolonged paralysis due to nondepolarizing neuromuscular blocking agents and corticosteroids.
+The long-term use of nondepolarizing neuromuscular blocking agents (ND-NMBA) has recently been implicated as a cause of prolonged muscle weakness, although the site of the lesion and the predisposing factors have been unclear.
+We report 3 patients (age 37-52 years) with acute respiratory insufficiency who developed prolonged weakness following the discontinuation of ND-NMBAs.
+Two patients also received intravenous corticosteroids.
+Renal function was normal but hepatic function was impaired in all patients, and all had acidosis.
+Electrophysiologic studies revealed low amplitude compound motor action potentials, normal sensory studies, and fibrillations.
+Repetitive stimulation at 2 Hz showed a decremental response in 2 patients.
+The serum vecuronium level measured in 1 patient 14 days after the drug had been discontinued was 172 ng/mL.
+A muscle biopsy in this patient showed loss of thick, myosin filaments.
+The weakness in these patients is due to pathology at both the neuromuscular junction (most likely due to ND-NMBA) and muscle (most likely due to corticosteroids).
+Hepatic dysfunction and acidosis are contributing risk factors.

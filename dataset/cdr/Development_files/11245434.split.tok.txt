@@ -1,0 +1,12 @@
+Erythropoietin restores the anemia - induced reduction in cyclophosphamide cytotoxicity in rat tumors .
+The aim of this study was to examine the impact of anemia prevention by recombinant human erythropoietin ( rHuEPO ) treatment on the cytotoxicity of cyclophosphamide in solid experimental tumors .
+Anemia was induced using a single dose of carboplatin ( 50 mg / kg i . v . ) resulting in a long - lasting reduction ( 30 % ) of the hemoglobin concentration .
+In a second group , the development of anemia was prevented by rHuEPO ( 1000 IU / kg ) administered s . c .
+three times / week starting 7 days before carboplatin application .
+Four days after carboplatin treatment , tumors ( DS - sarcoma of the rat ) were implanted s . c .
+onto the hind food dorsum .
+Neither carboplatin nor rHuEPO treatment influenced tumor growth rate per se .
+When tumors were treated with a single dose of cyclophosphamide ( 60 mg / kg i . p . ) 5 days after implantation , a growth delay with a subsequent regrowth of the tumors was observed .
+In the anemia group , the growth delay was significantly shorter compared with nonanemic controls ( 13 . 3 days versus 8 . 6 days ) .
+In the group where anemia was prevented by rHuEPO treatment , growth delay was comparable with that of nonanemic controls ( 13 . 3 days ) .
+These results suggest that chemotherapy - induced anemia reduces cytotoxicity of cyclophosphamide in tumors , whereas correction of anemia by rHuEPO treatment ( epoetin alpha ) increases the sensitivity , probably as a result of an improved oxygen supply to tumor tissue .

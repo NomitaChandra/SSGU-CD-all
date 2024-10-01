@@ -1,0 +1,8 @@
+KF17837: a novel selective adenosine A2A receptor antagonist with anticataleptic activity.
+KF17837 is a novel selective adenosine A2A receptor antagonist.
+Oral administration of KF17837 (2.5, 10.0 and 30.0 mg/kg) significantly ameliorated the cataleptic responses induced by intracerebroventricular administration of an adenosine A2A receptor agonist, CGS 21680 (10 micrograms), in a dose-dependent manner.
+KF17837 also reduced the catalepsy induced by haloperidol (1 mg/kg i.p.) and by reserpine (5 mg/kg i.p.).
+These anticataleptic effects were exhibited dose dependently at doses from 0.625 and 2.5 mg/kg p.o., respectively.
+Moreover, KF17837 (0.625 mg/kg p.o.) potentiated the anticataleptic effects of a subthreshold dose of L-3,4-dihydroxyphenylalanine (L-DOPA; 25 mg/kg i.p.) plus benserazide (6.25 mg/kg i.p.).
+These results suggested that KF17837 is a centrally active adenosine A2A receptor antagonist and that the dopaminergic function of the nigrostriatal pathway is potentiated by adenosine A2A receptor antagonists.
+Furthermore, KF17837 may be a useful drug in the treatment of parkinsonism.

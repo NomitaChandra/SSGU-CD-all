@@ -1,0 +1,9 @@
+The effects of quinine and 4 - aminopyridine on conditioned place preference and changes in motor activity induced by morphine in rats .
+1 . The effects of two unselective potassium ( K ( + ) - ) channel blockers , quinine ( 12 . 5 , 25 and 50 mg / kg ) and 4 - aminopyridine ( 1 and 2 mg / kg ) , on conditioned place preference and biphasic changes in motor activity induced by morphine ( 10 mg / kg ) were tested in Wistar rats .
+Quinine is known to block voltage - , calcium - and ATP - sensitive K ( + ) - channels while 4 - aminopyridine is known to block voltage - sensitive K ( + ) - channels .
+2 .
+In the counterbalanced method , quinine attenuated morphine - induced place preference , whereas 4 - aminopyridine was ineffective .
+In the motor activity test measured with an Animex - activity meter neither of the K ( + ) - channel blockers affected morphine - induced hypoactivity , but both K ( + ) - channel blockers prevented morphine - induced secondary hyperactivity .
+3 .
+These results suggest the involvement of quinine - sensitive but not 4 - aminopyridine - sensitive K ( + ) - channels in morphine reward .
+It is also suggested that the blockade of K ( + ) - channels sensitive to these blockers is not sufficient to prevent morphine - induced hypoactivity whereas morphine - induced hyperactivity seems to be connected to both quinine - and 4 - aminopyridine - sensitive K ( + ) - channels .

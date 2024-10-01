@@ -1,0 +1,14 @@
+Cancer incidence and metolachlor use in the Agricultural Health Study: An update.
+UNASSIGNED: Metolachlor, a widely used herbicide, is classified as a Group C carcinogen by the U.S.
+Environmental Protection Agency based on increased liver neoplasms in female rats.
+Epidemiologic studies of the health effects of metolachlor have been limited.
+The Agricultural Health Study (AHS) is a prospective cohort study including licensed private and commercial pesticide applicators in Iowa and North Carolina enrolled 1993-1997.
+We evaluated cancer incidence through 2010/2011 (NC/IA) for 49,616 applicators, 53% of whom reported ever using metolachlor.
+We used Poisson regression to evaluate relations between two metrics of metolachlor use (lifetime days, intensity-weighted lifetime days) and cancer incidence.
+We saw no association between metolachlor use and incidence of all cancers combined (n = 5,701 with a 5-year lag) or most site-specific cancers.
+For liver cancer, in analyses restricted to exposed workers, elevations observed at higher categories of use were not statistically significant.
+However, trends for both lifetime and intensity-weighted lifetime days of metolachor use were positive and statistically significant with an unexposed reference group.
+A similar pattern was observed for follicular cell lymphoma, but no other lymphoma subtypes.
+An earlier suggestion of increased lung cancer risk at high levels of metolachlor use in this cohort was not confirmed in this update.
+This suggestion of an association between metolachlor and liver cancer among pesticide applicators is a novel finding and echoes observation of increased liver neoplasms in some animal studies.
+However, our findings for both liver cancer and follicular cell lymphoma warrant follow-up to better differentiate effects of metolachlor use from other factors.

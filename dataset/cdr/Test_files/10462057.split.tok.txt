@@ -1,0 +1,12 @@
+Induction of apoptosis by remoxipride metabolites in HL60 and CD34 + / CD19 - human bone marrow progenitor cells : potential relevance to remoxipride - induced aplastic anemia .
+The antipsychotic agent , remoxipride [ ( S ) - ( - ) - 3 - bromo - N - [ ( 1 - ethyl - 2 - pyrrolidinyl ) methyl ] - 2 , 6 - dimethoxybenz amide ] has been associated with acquired aplastic anemia .
+We have examined the ability of remoxipride , three pyrrolidine ring metabolites and five aromatic ring metabolites of the parent compound to induce apoptosis in HL60 cells and human bone marrow progenitor ( HBMP ) cells .
+Cells were treated for 0 - 24 h with each compound ( 0 - 200 microM ) .
+Apoptosis was assessed by fluorescence microscopy in Hoechst 33342 - and propidium iodide stained cell samples .
+Results were confirmed by determination of internucleosomal DNA fragmentation using gel electrophoresis for HL60 cell samples and terminal deoxynucleotidyl transferase assay in HBMP cells .
+The catechol and hydroquinone metabolites , NCQ436 and NCQ344 , induced apoptosis in HL60 and HBMP cells in a time - and concentration dependent manner , while the phenols , NCR181 , FLA873 , and FLA797 , and the derivatives formed by oxidation of the pyrrolidine ring , FLA838 , NCM001 , and NCL118 , had no effect .
+No necrosis was observed in cells treated with NCQ436 but NCQ344 had a biphasic effect in both cell types , inducing apoptosis at lower concentrations and necrosis at higher concentrations .
+These data show that the catechol and hydroquinone metabolites of remoxipride have direct toxic effects in HL60 and HBMP cells , leading to apoptosis , while the phenol metabolites were inactive .
+Similarly , benzene - derived catechol and hydroquinone , but not phenol , induce apoptosis in HBMP cells [ Moran et al . , Mol .
+Pharmacol . , 50 ( 1996 ) 610 - 615 ] .
+We propose that remoxipride and benzene may induce aplastic anemia via production of similar reactive metabolites and that the ability of NCQ436 and NCQ344 to induce apoptosis in HBMP cells may contribute to the mechanism underlying acquired aplastic anemia that has been associated with remoxipride .

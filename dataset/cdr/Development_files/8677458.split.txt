@@ -1,0 +1,6 @@
+Continuous subcutaneous administration of mesna to prevent ifosfamide-induced hemorrhagic cystitis.
+Hemorrhagic cystitis is a major potential toxicity of ifosfamide that can be prevented by administering mesna along with the cytotoxic agent.
+Mesna is generally administered by the intravenous route, although experience with oral delivery of the drug has increased.
+The continuous subcutaneous administration of mesna has the advantage of not requiring intravenous access.
+In addition, subcutaneous delivery of the neutralizing agent will not be associated with the risk of inadequate urinary mesna concentrations, such as in a patient taking oral mesna who experiences severe ifosfamide-induced emesis and is unable to absorb the drug.
+Limited clinical experience with continuous subcutaneous mesna administration suggests it is a safe, practical, and economic method of drug delivery that permits ifosfamide to be administered successfully in the outpatient setting.

@@ -1,0 +1,13 @@
+Effects of dehydroepiandrosterone in amphetamine - induced schizophrenia models in mice .
+OBJECTIVE : To examine the effects of dehydroepiandrosterone ( DHEA ) on animal models of schizophrenia .
+METHODS : Seventy Swiss albino female mice ( 25 - 35 g ) were divided into 4 groups : amphetamine - free ( control ) , amphetamine , 50 , and 100 mg / kg DHEA .
+The DHEA was administered intraperitoneally ( ip ) for 5 days .
+Amphetamine ( 3 mg / kg ip ) induced hyper locomotion , apomorphine ( 1 . 5 mg / kg subcutaneously [ sc ] ) induced climbing , and haloperidol ( 1 . 5 mg / kg sc ) induced catalepsy tests were used as animal models of schizophrenia .
+The study was conducted at the Animal Experiment Laboratories , Department of Pharmacology , Medical School , Eskisehir Osmangazi University , Eskisehir , Turkey between March and May 2012 .
+Statistical analysis was carried out using Kruskal - Wallis test for hyper locomotion , and one - way ANOVA for climbing and catalepsy tests .
+RESULTS : In the amphetamine - induced locomotion test , there were significant increases in all movements compared with the amphetamine - free group .
+Both DHEA 50 mg / kg ( p < 0 . 05 ) , and 100 mg / kg ( p < 0 . 01 ) significantly decreased all movements compared with the amphetamine - induced locomotion group .
+There was a significant difference between groups in the haloperidol - induced catalepsy test ( p < 0 . 05 ) .
+There was no significant difference between groups in terms of total climbing time in the apomorphine - induced climbing test ( p > 0 . 05 ) .
+CONCLUSION : We observed that DHEA reduced locomotor activity and increased catalepsy at both doses , while it had no effect on climbing behavior .
+We suggest that DHEA displays typical neuroleptic - like effects , and may be used in the treatment of schizophrenia .

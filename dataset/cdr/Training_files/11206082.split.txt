@@ -1,0 +1,7 @@
+Two mouse lines selected for differential sensitivities to beta-carboline-induced seizures are also differentially sensitive to various pharmacological effects of other GABA(A) receptor ligands.
+Two mouse lines were selectively bred according to their sensitivity (BS line) or resistance (BR line) to seizures induced by a single i.p.
+injection of methyl beta-carboline-3-carboxylate (beta-CCM), an inverse agonist of the GABA(A) receptor benzodiazepine site.
+Our aim was to characterize both lines' sensitivities to various physiological effects of other ligands of the GABA(A) receptor.
+We measured diazepam-induced anxiolysis with the elevated plus-maze test, diazepam-induced sedation by recording the vigilance states, and picrotoxin- and pentylenetetrazol-induced seizures after i.p.
+injections.
+Results presented here show that the differential sensitivities of BS and BR lines to beta-CCM can be extended to diazepam, picrotoxin, and pentylenetetrazol, suggesting a genetic selection of a general sensitivity and resistance to several ligands of the GABA(A) receptor.

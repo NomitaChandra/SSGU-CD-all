@@ -1,0 +1,13 @@
+Phase 2 trial of liposomal doxorubicin (40 mg/m(2)) in platinum/paclitaxel-refractory ovarian and fallopian tube cancers and primary carcinoma of the peritoneum.
+BACKGROUND: Several studies have demonstrated liposomal doxorubicin (Doxil) to be an active antineoplastic agent in platinum-resistant ovarian cancer, with dose limiting toxicity of the standard dosing regimen (50 mg/m(2) q 4 weeks) being severe erythrodysesthesia ("hand-foot syndrome") and stomatitis.
+We wished to develop a more tolerable liposomal doxorubicin treatment regimen and document its level of activity in a well-defined patient population with platinum/paclitaxel-refractory disease.
+METHODS AND MATERIALS: Patients with ovarian or fallopian tube cancers or primary peritoneal carcinoma with platinum/paclitaxel-refractory disease (stable or progressive disease following treatment with these agents or previous objective response <3 months in duration) were treated with liposomal doxorubicin at a dose of 40 mg/m(2) q 4 weeks.
+RESULTS: A total of 49 patients (median age: 60; range 41-81) entered this phase 2 trial.
+The median number of prior regimens was 2 (range: 1-6).
+Six (12%) and 4 (8%) patients experienced grade 2 hand-foot syndrome and stomatitis, respectively (no episodes of grade 3).
+One patient developed grade 3 diarrhea requiring hospitalization for hydration.
+Six (12%) individuals required dose reductions.
+The median number of courses of liposomal doxorubicin administered on this protocol was 2 (range: 1-12).
+Four of 44 patients (9%) evaluable for response exhibited objective and subjective evidence of an antineoplastic effect of therapy.
+CONCLUSION: This modified liposomal doxorubicin regimen results in less toxicity (stomatitis, hand-foot syndrome) than the standard FDA-approved dose schedule.
+Definite, although limited, antineoplastic activity is observed in patients with well-defined platinum- and paclitaxel-refractory ovarian cancer.

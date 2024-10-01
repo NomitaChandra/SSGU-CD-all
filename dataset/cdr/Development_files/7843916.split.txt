@@ -1,0 +1,15 @@
+Dexamethasone-induced ocular hypertension in perfusion-cultured human eyes.
+PURPOSE: Glucocorticoid administration can lead to the development of ocular hypertension and corticosteroid glaucoma in a subset of the population through a decrease in the aqueous humor outflow facility.
+The purpose of this study was to determine whether glucocorticoid treatment can directly affect the outflow facility of isolated, perfusion-cultured human eyes.
+METHODS: The anterior segments of human donor eyes from regional eye banks were placed in a constant flow, variable pressure perfusion culture system.
+Paired eyes were perfused in serum-free media with or without 10(-7) M dexamethasone for 12 days.
+Intraocular pressure was monitored daily.
+After incubation, the eyes were morphologically characterized by light microscopy, transmission and scanning electron microscopy, and scanning laser confocal microscopy.
+RESULTS: A significant increase in intraocular pressure developed in 13 of the 44 pairs of eyes perfused with dexamethasone with an average pressure rise of 17.5 +/- 3.8 mm Hg after 12 days of dexamethasone exposure.
+The contralateral control eyes, which did not receive dexamethasone, maintained a stable intraocular pressure during the same period.
+The outflow pathway of the untreated eyes appeared morphologically normal.
+In contrast, the dexamethasone-treated hypertensive eyes had thickened trabecular beams, decreased intertrabecular spaces, thickened juxtacanalicular tissue, activated trabecular meshwork cells, and increased amounts of amorphogranular extracellular material, especially in the juxtacanalicular tissue and beneath the endothelial lining of the canal of Schlemm.
+The dexamethasone-treated nonresponder eyes appeared to be morphologically similar to the untreated eyes, although several subtle dexamethasone-induced morphologic changes were evident.
+CONCLUSION: Dexamethasone treatment of isolated, perfusion-cultured human eyes led to the generation of ocular hypertension in approximately 30% of the dexamethasone-treated eyes.
+Steroid treatment resulted in morphologic changes in the trabecular meshwork similar to those reported for corticosteroid glaucoma and open angle glaucoma.
+This system may provide an acute model in which to study the pathogenic mechanisms involved in steroid glaucoma and primary open angle glaucoma.

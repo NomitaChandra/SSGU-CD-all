@@ -1,0 +1,12 @@
+Transient neurologic symptoms after spinal anesthesia: a lower incidence with prilocaine and bupivacaine than with lidocaine.
+BACKGROUND: Recent evidence suggests that transient neurologic symptoms (TNSs) frequently follow lidocaine spinal anesthesia but are infrequent with bupivacaine.
+However, identification of a short-acting local anesthetic to substitute for lidocaine for brief surgical procedures remains an important goal.
+Prilocaine is an amide local anesthetic with a duration of action similar to that of lidocaine.
+Accordingly, the present, prospective double-blind study compares prilocaine with lidocaine and bupivacaine with respect to duration of action and relative risk of TNSs.
+METHODS: Ninety patients classified as American Society of Anesthesiologists physical status I or II who were scheduled for short gynecologic procedures under spinal anesthesia were randomly allocated to receive 2.5 ml 2% lidocaine in 7.5% glucose, 2% prilocaine in 7.5% glucose, or 0.5% bupivacaine in 7.5% glucose.
+All solutions were provided in blinded vials by the hospital pharmacy.
+Details of spinal puncture, extension and regression of spinal block, and the times to reach discharge criteria were noted.
+In the evening of postoperative day 1, patients were evaluated for TNSs by a physician unaware of the drug administered and the details of the anesthetic procedure.
+RESULTS: Nine of 30 patients receiving lidocaine experienced TNSs, 1 of 30 patients receiving prilocaine (P = 0.03) had them, and none of 30 patients receiving bupivacaine had TNSs.
+Times to ambulate and to void were similar after lidocaine and prilocaine (150 vs. 165 min and 238 vs. 253 min, respectively) but prolonged after bupivacaine (200 and 299 min, respectively; P < 0.05).
+CONCLUSIONS: Prilocaine may be preferable to lidocaine for short surgical procedures because it has a similar duration of action but a lower incidence of TNSs.

@@ -1,0 +1,7 @@
+Protective effect of edaravone against streptomycin-induced vestibulotoxicity in the guinea pig.
+This study investigated alleviation of streptomycin-induced vestibulotoxicity by edaravone in guinea pigs.
+Edaravone, a free radical scavenger, has potent free radical quenching action and is used in clinical practice to treat cerebral infarction.
+Streptomycin was administered to the inner ear by osmotic pump for 24 h, and edaravone (n=8) or saline (n=6) was intraperitoneally injected once a day for 7 days.
+We observed horizontal vestibulo-ocular reflex as a marker of postoperative vestibular function.
+Animals injected with saline showed statistically smaller gains than those injected with edaravone.
+These results suggest that edaravone suppresses streptomycin-induced vestibulotoxicity.

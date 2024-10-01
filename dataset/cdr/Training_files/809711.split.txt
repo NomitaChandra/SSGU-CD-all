@@ -1,0 +1,8 @@
+Reversal by phenylephrine of the beneficial effects of intravenous nitroglycerin in patients with acute myocardial infarction.
+Nitroglycerin has been shown to reduce ST-segment elevation during acute myocardial infarction, an effect potentiated in the dog by agents that reverse nitroglycerin-induced hypotension.
+Our study was designed to determine the effects of combined nitroglycerin and phenylephrine therapy.
+Ten patients with acute transmural myocardial infarctions received intravenous nitroglycerin, sufficient to reduce mean arterial pressure from 107 +/- 6 to 85 +/- 6 mm Hg (P less than 0.001), for 60 minutes.
+Left ventricular filling pressure decreased from 19 +/- 2 to 11 +/- 2 mm Hg (P less than 0.001).
+SigmaST, the sum of ST-segment elevations in 16 precordial leads, decreased (P less than 0.02) with intravenous nitroglycerin.
+Subsequent addition of phenylephrine infusion, sufficient to re-elevate mean arterial pressure to 106 +/- 4 mm Hg (P less than 0.001) for 30 minutes, increased left ventricular filling pressure to 17 +/- 2 mm Hg (P less than 0.05) and also significantly increased sigmaST (P less than 0.05).
+Our results suggest that addition of phenylephrine to nitroglycerin is not beneficial in the treatment of patients with acute myocardial infarction.

@@ -1,0 +1,14 @@
+Mechanisms of FK 506-induced hypertension in the rat.
+-Tacrolimus (FK 506) is a powerful, widely used immunosuppressant.
+The clinical utility of FK 506 is complicated by substantial hypertension and nephrotoxicity.
+To clarify the mechanisms of FK 506-induced hypertension, we studied the chronic effects of FK 506 on the synthesis of endothelin-1 (ET-1), the expression of mRNA of ET-1 and endothelin-converting enzyme-1 (ECE-1), the endothelial nitric oxide synthase (eNOS) activity, and the expression of mRNA of eNOS and C-type natriuretic peptide (CNP) in rat blood vessels.
+In addition, the effect of the specific endothelin type A receptor antagonist FR 139317 on FK 506-induced hypertension in rats was studied.
+FK 506, 5 mg.
+kg-1.
+d-1 given for 4 weeks, elevated blood pressure from 102+/-13 to 152+/-15 mm Hg and increased the synthesis of ET-1 and the levels of ET-1 mRNA in the mesenteric artery (240% and 230%, respectively).
+Little change was observed in the expression of ECE-1 mRNA and CNP mRNA.
+FK 506 decreased eNOS activity and the levels of eNOS mRNA in the aorta (48% and 55%, respectively).
+The administration of FR 139317 (10 mg.
+kg-1.
+d-1) prevented FK 506-induced hypertension in rats.
+These results indicate that FK 506 may increase blood pressure not only by increasing ET-1 production but also by decreasing NO synthesis in the vasculature.

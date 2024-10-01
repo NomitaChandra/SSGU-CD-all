@@ -1,0 +1,9 @@
+Chronic carbamazepine treatment in the rat : efficacy , toxicity , and effect on plasma and tissue folate concentrations .
+Folate depletion has often been a problem in chronic antiepileptic drug ( AED ) therapy .
+Carbamazepine ( CBZ ) , a commonly used AED , has been implicated in some clinical studies .
+A rat model was developed to examine the effects of chronic CBZ treatment on folate concentrations in the rat .
+In the course of developing this model , a common vehicle , propylene glycol , by itself in high doses , was found to exhibit protective properties against induced seizures and inhibited weight gain .
+Seizures induced by hexafluorodiethyl ether ( HFDE ) were also found to be a more sensitive measure of protection by CBZ than seizures induced by maximal electroshock ( MES ) .
+Oral administration of CBZ as an aqueous suspension every 8 h at a dose of 250 mg / kg was continuously protective against HFDE - induced seizures and was minimally toxic as measured by weight gain over 8 weeks of treatment .
+The CBZ levels measured in plasma and brain of these animals , however , were below those normally considered protective .
+This treatment with CBZ had no apparent adverse effect on folate concentrations in the rat , and , indeed , the folate concentration increased in liver after 6 weeks of treatment and in plasma at 8 weeks of treatment .

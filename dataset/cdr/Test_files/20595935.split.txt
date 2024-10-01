@@ -1,0 +1,18 @@
+Verapamil stimulation test in hyperprolactinemia: loss of prolactin response in anatomic or functional stalk effect.
+AIM: Verapamil stimulation test was previously investigated as a tool for differential diagnosis of hyperprolactinemia, but with conflicting results.
+Macroprolactinemia was never considered in those previous studies.
+Here, we aimed to re-investigate the diagnostic value of verapamil in a population who were all screened for macroprolactinemia.
+Prolactin responses to verapamil in 65 female patients (age: 29.9 +/- 8.1 years) with hyperprolactinemia were tested in a descriptive, matched case-control study.
+METHODS: Verapamil 80 mg, p.o.
+was administered, and then PRL levels were measured at 8th and 16th hours, by immunometric chemiluminescence.
+Verapamil responsiveness was determined by peak percent change in basal prolactin levels (PRL).
+RESULTS: Verapamil significantly increased PRL levels in healthy controls (N.
+8, PRL: 183%), macroprolactinoma (N.
+8, PRL: 7%), microprolactinoma (N.
+19, PRL: 21%), macroprolactinemia (N.
+23, PRL: 126%), but not in pseudoprolactinoma (N.
+8, PRL: 0.8%), and risperidone-induced hyperprolactinemia (N.
+7, PRL: 3%).
+ROC curve analysis revealed that unresponsiveness to verapamil defined as PRL <7%, discriminated anatomical or functional stalk effect (sensitivity: 74%, specificity: 73%, AUC: 0.855+/-0.04, P <0.001, CI: 0.768-0.942) associated with pseudoprolactinoma or risperidone-induced hyperprolactinemia, respectively.
+CONCLUSION: Verapamil responsiveness is not a reliable finding for the differential diagnosis of hyperprolactinemia.
+However, verapamil unresponsiveness discriminates stalk effect (i.e., anatomically or functionally inhibited dopaminergic tonus) from other causes of hyperprolactinemia with varying degrees of responsiveness.

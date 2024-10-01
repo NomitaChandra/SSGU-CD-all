@@ -1,0 +1,8 @@
+Investigation of mitochondrial involvement in the experimental model of epilepsy induced by pilocarpine .
+Mitochondrial abnormalities have been associated with several aspects of epileptogenesis , such as energy generation , control of cell death , neurotransmitter synthesis , and free radical ( FR ) production .
+Increased production of FRs may cause mtDNA damage leading to decreased activities of oxidative phosphorylation complexes containing mtDNA - encoded subunits .
+In this study , we investigated whether increased generation of FR during status epilepticus would be sufficient to provoke abnormalities in mtDNA and in the expression and activity of cytochrome c oxidase ( CCO ) , complex IV of the respiratory chain , in the chronic phase of the pilocarpine model of temporal lobe epilepsy .
+DNA analysis revealed low amounts of a 4 . 8 kb mtDNA deletion but with no differences in frequency or quantity in the control and experimental groups .
+We did not find abnormalities in the expression and distribution of an mtDNA - encoded subunit of CCO ( CCO - I ) or a relative decrease in CCO - I when compared with nuclear - encoded subunits ( CCO - IV and SDH - fp ) .
+No abnormality in CCO activity was observed through histochemistry .
+Although evidences of mitochondrial abnormalities were found in previously published studies , our results do not suggest that the FRs , generated during the acute phase , determined important abnormalities in mtDNA , in expression of CCO - I , and in CCO activity .

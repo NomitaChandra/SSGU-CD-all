@@ -1,0 +1,6 @@
+Levodopa-induced dyskinesias in patients with Parkinson's disease: filling the bench-to-bedside gap.
+Levodopa is the most effective drug for the treatment of Parkinson's disease.
+However, the long-term use of this dopamine precursor is complicated by highly disabling fluctuations and dyskinesias.
+Although preclinical and clinical findings suggest pulsatile stimulation of striatal postsynaptic receptors as a key mechanism underlying levodopa-induced dyskinesias, their pathogenesis is still unclear.
+In recent years, evidence from animal models of Parkinson's disease has provided important information to understand the effect of specific receptor and post-receptor molecular mechanisms underlying the development of dyskinetic movements.
+Recent preclinical and clinical data from promising lines of research focus on the differential role of presynaptic versus postsynaptic mechanisms, dopamine receptor subtypes, ionotropic and metabotropic glutamate receptors, and non-dopaminergic neurotransmitter systems in the pathophysiology of levodopa-induced dyskinesias.

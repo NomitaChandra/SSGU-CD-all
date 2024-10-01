@@ -1,0 +1,8 @@
+Metabolic involvement in adriamycin cardiotoxicity .
+The cardiotoxic effects of adriamycin were studied in mammalian myocardial cells in culture as a model system .
+Adriamycin inhibited cell growth and the rhythmic contractions characteristic of myocardial cells in culture .
+A possible involvement of energy metabolism was suggested previously , and in this study the adenylate energy charge and phosphorylcreatine mole fraction were determined in the adriamycin - treated cells .
+The adenylate energy charge was found to be significantly decreased , while the phophorylcreatine mole fraction was unchanged .
+Such disparity suggests an inhibition of creatine phosphokinase .
+The addition of 1 mM adenosine to the myocardial cell cultures markedly increases the ATP concentration through a pathway reportedly leading to a compartmentalized ATP pool .
+In the adriamycin - treated cells , the addition of adenosine increased the adenylate charge and , concomitant with this inrcease , the cells ' functional integrity , in terms of percentage of beating cells and rate of contractions , was maintained .

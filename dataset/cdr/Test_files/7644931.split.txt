@@ -1,0 +1,7 @@
+Paclitaxel 3-hour infusion given alone and combined with carboplatin: preliminary results of dose-escalation trials.
+Paclitaxel (Taxol; Bristol-Myers Squibb Company, Princeton, NJ) by 3-hour infusion was combined with carboplatin in a phase I/II study directed to patients with non-small cell lung cancer.
+Carboplatin was given at a fixed target area under the concentration-time curve of 6.0 by the Calvert formula, whereas paclitaxel was escalated in patient cohorts from 150 mg/m2 (dose level I) to 175, 200, 225, and 250 mg/m2.
+The 225 mg/m2 level was expanded for the phase II study since the highest level achieved (250 mg/m2) required modification because of nonhematologic toxicities (arthralgia and sensory neuropathy).
+Therapeutic effects were noted at all dose levels, with objective responses in 17 (two complete and 15 partial regressions) of 41 previously untreated patients.
+Toxicities were compared with a cohort of patients in a phase I trial of paclitaxel alone at identical dose levels.
+Carboplatin did not appear to add to the hematologic toxicities observed, and the paclitaxel/carboplatin combination could be dosed every 3 weeks.

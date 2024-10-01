@@ -1,0 +1,8 @@
+Neuroleptic malignant syndrome with risperidone.
+Neuroleptic malignant syndrome is thought to be a result of dopamine D2 receptor blockade in the striatum of the basal ganglia.
+Risperidone, a benzisoxazole derivative antipsychotic, has high serotonin 5-HT2 receptor blockade and dose-related D2 receptor blockade.
+The high ratio is believed to impart the low frequency of extrapyramidal symptoms with risperidone at low dosages.
+With this low frequency of extrapyramidal symptoms, it was thought the frequency of neuroleptic malignant syndrome might also be lowered.
+A 73-year-old woman developed neuroleptic malignant syndrome after monotherapy with risperidone.
+The syndrome reversed after discontinuing risperidone and starting treatment with dantrolene and bromocriptine.
+It appears that the protection from extrapyramidal side effects observed with risperidone does not ensure protection from neuroleptic malignant syndrome.

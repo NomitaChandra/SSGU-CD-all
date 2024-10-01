@@ -1,0 +1,14 @@
+L - arginine transport in humans with cortisol - induced hypertension .
+A deficient L - arginine - nitric oxide system is implicated in cortisol - induced hypertension .
+We investigate whether abnormalities in L - arginine uptake contribute to this deficiency .
+Eight healthy men were recruited .
+Hydrocortisone acetate ( 50 mg ) was given orally every 6 hours for 24 hours after a 5 - day fixed - salt diet ( 150 mmol / d ) .
+Crossover studies were performed 2 weeks apart .
+Thirty milliliters of blood was obtained for isolation of peripheral blood mononuclear cells after each treatment period .
+L - arginine uptake was assessed in mononuclear cells incubated with L - arginine ( 1 to 300 micromol / L ) , incorporating 100 nmol / L [ 3H ] - l - arginine for a period of 5 minutes at 37 degrees C .
+Forearm [ 3H ] - L - arginine extraction was calculated after infusion of [ 3H ] - L - arginine into the brachial artery at a rate of 100 nCi / min for 80 minutes .
+Deep forearm venous samples were collected for determination of L - arginine extraction .
+Plasma cortisol concentrations were significantly raised during the active phase ( 323 + / - 43 to 1082 + / - 245 mmol / L , P < 0 . 05 ) .
+Systolic blood pressure was elevated by an average of 7 mm Hg .
+Neither L - arginine transport into mononuclear cells ( placebo vs active , 26 . 3 + / - 3 . 6 vs 29 . 0 + / - 2 . 1 pmol / 10 000 cells per 5 minutes , respectively , at an l - arginine concentration of 300 micromol / L ) nor L - arginine extraction in the forearm ( at 80 minutes , placebo vs active , 1 868 904 + / - 434 962 vs 2 013 910 + / - 770 619 disintegrations per minute ) was affected by cortisol treatment ; ie , that L - arginine uptake is not affected by short - term cortisol treatment .
+We conclude that cortisol - induced increases in blood pressure are not associated with abnormalities in the l - arginine transport system .

@@ -1,0 +1,14 @@
+Effect of coniine on the developing chick embryo .
+Coniine , an alkaloid from Conium maculatum ( poison hemlock ) , has been shown to be teratogenic in livestock .
+The major teratogenic outcome is arthrogryposis , presumably due to nicotinic receptor blockade .
+However , coniine has failed to produce arthrogryposis in rats or mice and is only weakly teratogenic in rabbits .
+The purpose of this study was to evaluate and compare the effects of coniine and nicotine in the developing chick .
+Concentrations of coniine and nicotine sulfate were 0 . 015 % , 0 . 03 % , 0 . 075 % , 0 . 15 % , 0 . 75 % , 1 . 5 % , 3 % , and 6 % and 1 % , 5 % , and 10 % , respectively .
+Both compounds caused deformations and lethality in a dose - dependent manner .
+All concentrations of nicotine sulfate caused some lethality but a no effect level for coniine lethality was 0 . 75 % .
+The deformations caused by both coniine and nicotine sulfate were excessive flexion or extension of one or more toes .
+No histopathological alterations or differences in bone formation were seen in the limbs or toes of any chicks from any group ; however , extensive cranial hemorrhage occurred in all nicotine sulfate - treated chicks .
+There was a statistically significant ( P < or = 0 . 01 ) decrease in movement in coniine and nicotine sulfate treated chicks as determined by ultrasound .
+Control chicks were in motion an average of 33 . 67 % of the time , while coniine - treated chicks were only moving 8 . 95 % of a 5 - min interval , and no movement was observed for nicotine sulfate treated chicks .
+In summary , the chick embryo provides a reliable and simple experimental animal model of coniine - induced arthrogryposis .
+Data from this model support a mechanism involving nicotinic receptor blockade with subsequent decreased fetal movement .

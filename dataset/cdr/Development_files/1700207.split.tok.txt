@@ -1,0 +1,12 @@
+Antiarrhythmic effects of optical isomers of cibenzoline on canine ventricular arrhythmias .
+Antiarrhythmic effects of ( + ) - cibenzoline and ( - ) - cibenzoline were examined using two canine ventricular arrhythmia models .
+Digitalis arrhythmia , which is suppressed by Na channel blockers , was induced by intermittent intravenous ( i . v . ) injection of ouabain in pentobarbital - anesthetized dogs .
+Adrenaline arrhythmia , which is suppressed by Ca channel blockers , was induced by adrenaline infusion in halothane - anesthetized dogs .
+Ten and 5 mg / kg i . v .
+( + ) - cibenzoline suppressed digitalis - and adrenaline - induced arrhythmias , respectively .
+The minimum effective plasma concentrations of ( + ) - cibenzoline for digitalis - and adrenaline - induced arrhythmias were 1 . 4 + / - 0 . 4 and 2 . 0 + / - 0 . 6 micrograms / ml , respectively ( mean + / - SD , n = 6 ) .
+A lower dose of 1 mg / kg i . v .
+of ( - ) - cibenzoline suppressed the digitalis - induced arrhythmia , whereas 5 mg / kg i . v .
+was needed to suppress adrenaline - induced arrhythmias .
+The minimum effective plasma concentrations of ( - ) - cibenzoline for digitalis - and adrenaline - induced arrhythmia were 0 . 06 + / - 0 . 04 and 0 . 7 + / - 0 . 1 micrograms / ml , respectively ( mean + / - SD , n = 6 ) .
+The stronger antiarrhythmic effect of ( - ) - cibenzoline indicates that ( - ) - isomer may have an effect nearly 5 - 20 times stronger in suppressing Na channels , but effects of both drugs on Ca channels may be almost equipotent .

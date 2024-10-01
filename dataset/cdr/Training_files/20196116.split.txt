@@ -1,0 +1,18 @@
+Antituberculosis therapy-induced acute liver failure: magnitude, profile, prognosis, and predictors of outcome.
+Antituberculosis therapy (ATT)-associated acute liver failure (ATT-ALF) is the commonest drug-induced ALF in South Asia.
+Prospective studies on ATT-ALF are lacking.
+The current study prospectively evaluated the magnitude, clinical course, outcome, and prognostic factors in ATT-ALF.
+From January 1986 to January 2009, 1223 consecutive ALF patients were evaluated: ATT alone was the cause in 70 (5.7%) patients.
+Another 15 (1.2%) had ATT and simultaneous hepatitis virus infection.
+In 44 (62.8%) patients, ATT was prescribed empirically without definitive evidence of tuberculosis.
+ATT-ALF patients were younger (32.87 [+/-15.8] years), and 49 (70%) of them were women.
+Most had hyperacute presentation; the median icterus encephalopathy interval was 4.5 (0-30) days.
+The median duration of ATT before ALF was 30 (7-350) days.
+At presentation, advanced encephalopathy and cerebral edema were present in 51 (76%) and 29 (41.4%) patients, respectively.
+Gastrointestinal bleed, seizures, infection, and acute renal failure were documented in seven (10%), five (7.1%), 26 (37.1%), and seven (10%) patients, respectively.
+Compared with hepatitis E virus (HEV) and non-A non-E-induced ALF, ATT-ALF patients had nearly similar presentations except for older age and less elevation of liver enzymes.
+The mortality rate among patients with ATT-ALF was high (67.1%, n = 47), and only 23 (32.9%) patients recovered with medical treatment.
+In multivariate analysis, three factors independently predicted mortality: serum bilirubin (>or=10.8 mg/dL), prothrombin time (PT) prolongation (>or=26 seconds), and grade III/IV encephalopathy at presentation.
+CONCLUSION: ATT-ALF constituted 5.7% of ALF at our center and had a high mortality rate.
+Because the mortality rate is so high, determining which factors are predictors is less important.
+A high proportion of patients had consumed ATT empirically, which could have been prevented.

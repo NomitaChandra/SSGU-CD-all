@@ -1,0 +1,8 @@
+Attenuation of nephrotoxicity by a novel lipid nanosphere (NS-718) incorporating amphotericin B.
+NS-718, a lipid nanosphere incorporating amphotericin B, is effective against pathogenic fungi and has low toxicity.
+We compared the toxicity of NS-718 with that of Fungizone (amphotericin B-sodium deoxycholate; D-AmB) in vitro using renal cell cultures and in vivo by biochemical analysis, histopathological study of the kidney and pharmacokinetic study of amphotericin B following intravenous infusion of the formulation in rats.
+Incubation with NS-718 resulted in significantly less damage of cultured human renal proximal tubular epithelial cells compared with D-AmB.
+Serum blood urea and creatinine concentrations increased significantly in rats given an iv infusion of D-AmB 3 mg/kg but not in those given the same dose of NS-718.
+Histopathological examination of the kidney showed tubular necrosis in D-AmB-treated rats but no change in NS-718-treated rats.
+Amphotericin B concentrations in the kidney in NS-718-treated rats were higher than those in D-AmB-treated rats.
+Our in vitro and in vivo results suggest that incorporation of amphotericin B into lipid nanospheres of NS-718 attenuates the nephrotoxicity of amphotericin B.

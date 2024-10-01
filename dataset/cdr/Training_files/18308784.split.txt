@@ -1,0 +1,11 @@
+Ginsenoside Rg1 restores the impairment of learning induced by chronic morphine administration in rats.
+Rg1, as a ginsenoside extracted from Panax ginseng, could ameliorate spatial learning impairment.
+Previous studies have demonstrated that Rg1 might be a useful agent for the prevention and treatment of the adverse effects of morphine.
+The aim of this study was to investigate the effect of Rg1 on learning impairment by chronic morphine administration and the mechanism responsible for this effect.
+Male rats were subcutaneously injected with morphine (10 mg/kg) twice a day at 12 hour intervals for 10 days, and Rg1 (30 mg/kg) was intraperitoneally injected 2 hours after the second injection of morphine once a day for 10 days.
+Spatial learning capacity was assessed in the Morris water maze.
+The results showed that rats treated with Morphine/Rg1 decreased escape latency and increased the time spent in platform quadrant and entering frequency.
+By implantation of electrodes and electrophysiological recording in vivo, the results showed that Rg1 restored the long-term potentiation (LTP) impaired by morphine in both freely moving and anaesthetised rats.
+The electrophysiological recording in vitro showed that Rg1 restored the LTP in slices from the rats treated with morphine, but not changed LTP in the slices from normal saline- or morphine/Rg1-treated rats; this restoration could be inhibited by N-methyl-D-aspartate (NMDA) receptor antagonist MK801.
+We conclude that Rg1 may significantly improve the spatial learning capacity impaired by chonic morphine administration and restore the morphine-inhibited LTP.
+This effect is NMDA receptor dependent.

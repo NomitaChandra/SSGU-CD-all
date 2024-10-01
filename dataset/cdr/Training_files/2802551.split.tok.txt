@@ -1,0 +1,8 @@
+Sodium status influences chronic amphotericin B nephrotoxicity in rats .
+The nephrotoxic potential of amphotericin B ( 5 mg / kg per day intraperitoneally for 3 weeks ) has been investigated in salt - depleted , normal - salt , and salt - loaded rats .
+In salt - depleted rats , amphotericin B decreased creatinine clearance linearly with time , with an 85 % reduction by week 3 .
+In contrast , in normal - salt rats creatinine clearance was decreased but to a lesser extent at week 2 and 3 , and in salt - loaded rats creatinine clearance did not change for 2 weeks and was decreased by 43 % at week 3 .
+All rats in the sodium - depleted group had histopathological evidence of patchy tubular cytoplasmic degeneration in tubules that was not observed in any normal - salt or salt - loaded rat .
+Concentrations of amphotericin B in plasma were not significantly different among the three groups at any time during the study .
+However , at the end of 3 weeks , amphotericin B levels in the kidneys and liver were significantly higher in salt - depleted and normal - salt rats than those in salt - loaded rats , with plasma / kidney ratios of 21 , 14 , and 8 in salt - depleted , normal - salt , and salt - loaded rats , respectively .
+In conclusion , reductions in creatinine clearance and renal amphotericin B accumulation after chronic amphotericin B administration were enhanced by salt depletion and attenuated by sodium loading in rats .

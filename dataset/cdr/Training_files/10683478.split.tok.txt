@@ -1,0 +1,12 @@
+Test conditions influence the response to a drug challenge in rodents .
+These studies were conducted to examine the differential response to a drug challenge under varied experimental test conditions routinely employed to study drug - induced behavioral and neurophysiological responses in rodents .
+Apomorphine , a nonselective dopamine agonist , was selected due to its biphasic behavioral effects , its ability to induce hypothermia , and to produce distinct changes to dopamine turnover in the rodent brain .
+From such experiments there is evidence that characterization and detection of apomorphine - induced activity in rodents critically depends upon the test conditions employed .
+In rats , detection of apomorphine - induced hyperactivity was facilitated by a period of acclimatization to the test conditions .
+Moreover , test conditions can impact upon other physiological responses to apomorphine such as drug - induced hypothermia .
+In mice , apomorphine produced qualitatively different responses under novel conditions when compared to those behaviors elicited in the home test cage .
+Drug - induced gross activity counts were increased in the novel exploratory box only , while measures of stereotypic behavior were similar in both .
+By contrast , apomorphine - induced locomotion was more prominent in the novel exploratory box .
+Dopamine turnover ratios ( DOPAC : DA and HVA : DA ) were found to be lower in those animals exposed to the exploratory box when compared to their home cage counterparts .
+However , apomorphine - induced reductions in striatal dopamine turnover were detected in both novel and home cage environments .
+The implications of these findings are discussed with particular emphasis upon conducting psychopharmacological challenge tests in rodents .

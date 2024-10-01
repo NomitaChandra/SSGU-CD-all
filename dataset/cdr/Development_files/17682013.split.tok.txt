@@ -1,0 +1,13 @@
+Delayed leukoencephalopathy with stroke - like presentation in chemotherapy recipients .
+BACKGROUND : A transient leukoencephalopathy mimicking cerebrovascular accident has been described as a complication of chemotherapy , most commonly in recipients of intrathecal methotrexate for childhood leukaemia .
+Recently published neuroimaging data suggest a common pathophysiology associated with a variety of chemotherapy agents and modes of administration .
+METHODS : We reviewed the medical literature for single reports and case series of patients presenting with stroke - like episodes while receiving systemic or intrathecal chemotherapy .
+We only included studies providing detailed neuroimaging data .
+Patients with cerebrovascular accidents were excluded .
+RESULTS : We identified 27 reports of toxic leukoencephalopathy in patients treated with methotrexate ( intrathecal , systemic ) , 5 - fluorouracil and its derivative carmofur , and capecitabine .
+Diffusion weighted imaging ( DWI ) of all patients revealed well demarcated hyperintense lesions within the subcortical white matter of the cerebral hemispheres and the corpus callosum , corresponding to areas of decreased proton diffusion on apparent diffusion coefficient ( ADC ) maps ( available in 21 / 27 patients ) .
+Lesions exceeded the confines of adjacent vascular territories .
+Complete resolution of symptoms within 1 - 4 days was accompanied by normalisation of ADC abnormalities .
+However , fluid attenuated inversion recovery ( FLAIR ) sequences frequently revealed persistent white matter abnormalities .
+CONCLUSIONS : Several pathophysiological models of delayed leukoencephalopathy after exposure to intrathecal or systemic chemotherapy have been proposed .
+DWI findings in this cohort are indicative of cytotoxic oedema within cerebral white matter and lend support to an at least partially reversible metabolic derangement as the basis for this syndrome .

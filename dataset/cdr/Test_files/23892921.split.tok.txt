@@ -1,0 +1,16 @@
+" Real - world " data on the efficacy and safety of lenalidomide and dexamethasone in patients with relapsed / refractory multiple myeloma who were treated according to the standard clinical practice : a study of the Greek Myeloma Study Group .
+Lenalidomide and dexamethasone ( RD ) is a standard of care for relapsed / refractory multiple myeloma ( RRMM ) , but there is limited published data on its efficacy and safety in the " real world " ( RW ) , according to the International Society of Pharmacoeconomics and Outcomes Research definition .
+We studied 212 RRMM patients who received RD in RW .
+Objective response ( > PR ( partial response ) ) rate was 77 . 4 % ( complete response ( CR ) , 20 . 2 % ) .
+Median time to first and best response was 2 and 5 months , respectively .
+Median time to CR when RD was given as 2nd or > 2 ( nd ) - line treatment at 4 and 11 months , respectively .
+Quality of response was independent of previous lines of therapies or previous exposure to thalidomide or bortezomib .
+Median duration of response was 34 . 4 months , and it was higher in patients who received RD until progression ( not reached versus 19 months , p < 0 . 001 ) .
+Improvement of humoral immunity occurred in 60 % of responders ( p < 0 . 001 ) and in the majority of patients who achieved stable disease .
+Adverse events were reported in 68 . 9 % of patients ( myelosuppression in 49 . 4 % ) and 12 . 7 % of patients needed hospitalization .
+Peripheral neuropathy was observed only in 2 . 5 % of patients and deep vein thrombosis in 5 . 7 % .
+Dose reductions were needed in 31 % of patients and permanent discontinuation in 38 . 9 % .
+Median time to treatment discontinuation was 16 . 8 months .
+Performance status ( PS ) and initial lenalidomide dose predicted for treatment discontinuation .
+Extra - medullary relapses occurred in 3 . 8 % of patients .
+Our study confirms that RD is effective and safe in RRMM in the RW ; it produces durable responses especially in patients who continue on treatment till progression and improves humoral immunity even in patients with stable disease .

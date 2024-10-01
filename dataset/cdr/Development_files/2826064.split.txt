@@ -1,0 +1,8 @@
+Beta-2-adrenoceptor-mediated hypokalemia and its abolishment by oxprenolol.
+The time course and concentration-effect relationship of terbutaline-induced hypokalemia was studied, using computer-aided pharmacokinetic-dynamic modeling.
+Subsequently we investigated the efficacy of oxprenolol in antagonizing such hypokalemia, together with the pharmacokinetic interaction between both drugs.
+Six healthy subjects were given a 0.5 mg subcutaneous dose of terbutaline on two occasions: 1 hour after oral administration of a placebo and 1 hour after 80 mg oxprenolol orally.
+In the 7-hour period after terbutaline administration, plasma samples were taken for determination of plasma potassium levels and drug concentrations.
+The sigmoid Emax model offered a good description of the relation between terbutaline concentrations and potassium effects.
+Oxprenolol caused decreases of 65% and 56% of terbutaline volume of distribution and clearance, respectively, and an increase of 130% of its AUC.
+In spite of higher terbutaline concentrations after oxprenolol pretreatment, the hypokalemia was almost completely antagonized by the beta 2-blocking action.

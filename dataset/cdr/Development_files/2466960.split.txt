@@ -1,0 +1,11 @@
+Continuous ambulatory ECG monitoring during fluorouracil therapy: a prospective study.
+Although there have been anecdotal reports of cardiac toxicity associated with fluorouracil (5-FU) therapy, this phenomenon has not been studied in a systematic fashion.
+We prospectively performed continuous ambulatory ECG monitoring on 25 patients undergoing 5-FU infusion for treatment of solid tumors in order to assess the incidence of ischemic ST changes.
+Patients were monitored for 23 +/- 4 hours before 5-FU infusion, and 98 +/- 9 hours during 5-FU infusion.
+Anginal episodes were rare: only one patient had angina (during 5-FU infusion).
+However, asymptomatic ST changes (greater than or equal to 1 mm ST deviation) were common: six of 25 patients (24%) had ST changes before 5-FU infusion v 17 (68%) during 5-FU infusion (P less than .002).
+The incidence of ischemic episodes per patient per hour was 0.05 +/- 0.02 prior to 5-FU infusion v 0.13 +/- 0.03 during 5-FU infusion (P less than .001); the duration of ECG changes was 0.6 +/- 0.3 minutes per patient per hour before 5-FU v 1.9 +/- 0.5 minutes per patient per hour during 5-FU (P less than .01).
+ECG changes were more common among patients with known coronary artery disease.
+There were two cases of sudden death, both of which occurred at the end of the chemotherapy course.
+We conclude that 5-FU infusion is associated with a significant increase in silent ST segment deviation suggestive of ischemia, particularly among patients with coronary artery disease.
+The mechanism and clinical significance of these ECG changes remain to be determined.

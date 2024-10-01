@@ -1,0 +1,10 @@
+Graft - versus - host disease prophylaxis with everolimus and tacrolimus is associated with a high incidence of sinusoidal obstruction syndrome and microangiopathy : results of the EVTAC trial .
+A calcineurin inhibitor combined with methotrexate is the standard prophylaxis for graft - versus - host disease ( GVHD ) after allogeneic hematopoietic stem cell transplantation ( HSCT ) .
+Everolimus , a derivative of sirolimus , seems to mediate antileukemia effects .
+We report on a combination of everolimus and tacrolimus in 24 patients ( median age , 62 years ) with either myelodysplastic syndrome ( MDS ; n = 17 ) or acute myeloid leukemia ( AML ; n = 7 ) undergoing intensive conditioning followed by HSCT from related ( n = 4 ) or unrelated ( n = 20 ) donors .
+All patients engrafted , and only 1 patient experienced grade IV mucositis .
+Nine patients ( 37 % ) developed acute grade II - IV GVHD , and 11 of 17 evaluable patients ( 64 % ) developed chronic extensive GVHD .
+Transplantation - associated microangiopathy ( TMA ) occurred in 7 patients ( 29 % ) , with 2 cases of acute renal failure .
+The study was terminated prematurely because an additional 6 patients ( 25 % ) developed sinusoidal obstruction syndrome ( SOS ) , which was fatal in 2 cases .
+With a median follow - up of 26 months , the 2 - year overall survival rate was 47 % .
+Although this new combination appears to be effective as a prophylactic regimen for acute GVHD , the incidence of TMA and SOS is considerably higher than seen with other regimens .

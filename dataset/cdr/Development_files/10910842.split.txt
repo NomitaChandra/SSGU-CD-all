@@ -1,0 +1,16 @@
+Prednisolone-induced muscle dysfunction is caused more by atrophy than by altered acetylcholine receptor expression.
+Large doses of glucocorticoids can alter muscle physiology and susceptibility to neuromuscular blocking drugs by mechanisms not clearly understood.
+We investigated the effects of moderate and large doses of prednisolone on muscle function and pharmacology, and their relationship to changes in muscle size and acetylcholine receptor (AChR) expression.
+With institutional approval, 35 Sprague-Dawley rats were randomly allocated to receive daily subcutaneous doses of 10 mg/kg prednisolone (P10 group), 100 mg/kg prednisolone (P100 group), or an equal volume of saline (S group) for 7 days.
+A fourth group of rats was pair fed (food restricted) with the P100 rats for 7 days (FR group).
+On Day 8, the nerve-evoked peak twitch tensions, tetanic tensions, and fatigability, and the dose-response curves of d-tubocurarine in the tibialis cranialis muscle were measured in vivo and related to muscle mass or expression of AChRs.
+Rate of body weight gain was depressed in the P100, FR, and P10 groups compared with the S group.
+Tibialis muscle mass was smaller in the P100 group than in the P10 or S groups.
+The evoked peak twitch and tetanic tensions were less in the P100 group than in the P10 or S groups, however, tension per milligram of muscle mass was greater in the P100 group than in the S group.
+The 50% effective dose of d-tubocurarine (microg/kg) in the tibialis muscle was smaller in the P10 (33.6 +/- 5.4) than in the S (61.9 +/- 5.0) or the P100 (71.3 +/- 9.6) groups.
+AChR expression was less in the P10 group than in the S group.
+The evoked tensions correlated with muscle mass (r(2) = 0.32, P < 0.001), however, not with expression of AChR.
+The 50% effective dose of d-tubocurarine did not correlate with muscle mass or AChR expression.
+Our results suggest that the neuromuscular dysfunction after prednisolone is dose-dependent, and derives primarily from muscle atrophy and derives less so from changes in AChR expression.
+IMPLICATIONS: The mechanisms by which chronic glucocorticoid therapy alters neuromuscular physiology and pharmacology are unclear.
+We suggest that the observed effects are dose-dependent and derive primarily from muscle atrophy and derive less from changes in acetylcholine receptor expression.

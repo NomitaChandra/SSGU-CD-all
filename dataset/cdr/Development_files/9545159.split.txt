@@ -1,0 +1,7 @@
+Prolongation of the QT interval related to cisapride-diltiazem interaction.
+Cisapride, a cytochrome P450 3A4 (CYP3A4) substrate, is widely prescribed for the treatment of gastrointestinal motility disorders.
+Prolongation of QT interval, torsades de pointes, and sudden cardiac death have been reported after concomitant administration with erythromycin or azole antifungal agents, but not with other CYP3A4 inhibitors.
+A possible drug interaction occurred in a 45-year-old woman who was taking cisapride for gastroesophageal reflux disorder and diltiazem, an agent that has inhibitory effect on CYP3A4, for hypertension.
+The patient was in near syncope and had QT-interval prolongation.
+After discontinuing cisapride, the QT interval returned to normal and symptoms did not recur.
+We suggest that caution be taken when cisapride is prescribed with any potent inhibitor of CYP3A4, including diltiazem.

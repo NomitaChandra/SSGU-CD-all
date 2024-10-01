@@ -1,0 +1,10 @@
+Dexmedetomidine and cardiac protection for non - cardiac surgery : a meta - analysis of randomised controlled trials .
+We conducted a systematic review of the effects of dexmedetomidine on cardiac outcomes following non - cardiac surgery .
+We included prospective , randomised peri - operative studies of dexmedetomidine that reported mortality , cardiac morbidity or adverse drug events .
+A PubMed Central and EMBASE search was conducted up to July 2007 .
+The reference lists of identified papers were examined for further trials .
+Of 425 studies identified , 20 were included in the meta - analysis ( 840 patients ) .
+Dexmedetomidine was associated with a trend towards improved cardiac outcomes ; all - cause mortality ( OR 0 . 27 , 95 % CI 0 . 01 - 7 . 13 , p = 0 . 44 ) , non - fatal myocardial infarction ( OR 0 . 26 , 95 % CI 0 . 04 - 1 . 60 , p = 0 . 14 ) , and myocardial ischaemia ( OR 0 . 65 , 95 % CI 0 . 26 - 1 . 63 , p = 0 . 36 ) .
+Peri - operative hypotension ( 26 % , OR 3 . 80 , 95 % CI 1 . 91 - 7 . 54 , p = 0 . 0001 ) and bradycardia ( 17 % , OR 5 . 45 , 95 % CI 2 . 98 - 9 . 95 , p < 0 . 00001 ) were significantly increased .
+An anticholinergic did not reduce the incidence of bradycardia ( p = 0 . 43 ) .
+A randomised placebo - controlled trial of dexmedetomidine is warranted .

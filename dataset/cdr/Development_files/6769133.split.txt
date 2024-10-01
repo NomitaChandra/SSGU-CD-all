@@ -1,0 +1,6 @@
+Cardiotoxic and possible leukemogenic effects of adriamycin in nonhuman primates.
+10 monkeys (macaques) received adriamycin by monthly intravenous injections at 12 mg/m2 (1 mg/kg).
+8 of the 10 monkeys developed congestive heart failure at an average cumulative adriamycin dose (310 mg/m2) well below that considered the safe upper limit (550 mg/m2) in man.
+Histologically, the myocardial lesions resembled those found in human anthracycline-induced cardiomyopathy.
+1 of the 10 monkeys developed acute myeloblastic leukemia after receiving 324 mg/m2 of adriamycin; the 10th monkey is alive and well 26 months after the last dose of drug.
+Our results suggest that adriamycin is a more potent cardiotoxin in monkeys than in man, and that leukemia may be a consequence of prolonged treatment with this drug.

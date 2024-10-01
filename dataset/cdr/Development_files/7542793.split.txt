@@ -1,0 +1,7 @@
+Nephrotoxicity of cyclosporin A and FK506: inhibition of calcineurin phosphatase.
+Cyclosporin A (CsA; 50 mg/kg) and Fujimycine (FK506; 5 mg/kg), but not the related macrolide immunosuppressant rapamycin (5 mg/kg), caused a reduction of glomerular filtration rate, degenerative changes of proximal tubular epithelium, and hypertrophy of the juxtaglomerular apparatus in male Wistar rats when given for 10 days.
+The molecular mechanisms of CsA and FK506 toxicity were investigated.
+Cyclophilin A and FK506-binding protein, the main intracytoplasmic receptors for CsA and FK506, respectively, were each detected in renal tissue extract.
+In the kidney, high levels of immunoreactive and enzymatically active calcineurin were found which were inhibited by the immunosuppressants CsA and FK506, but not by rapamycin.
+Finally, specific immunophilin-drug-calcineurin complexes formed only in the presence of CsA and FK506, but not rapamycin.
+These results suggest that the nephrotoxic effects of CsA and FK506 is likely mediated through binding to renal immunophilin and inhibiting calcineurin phosphatase.

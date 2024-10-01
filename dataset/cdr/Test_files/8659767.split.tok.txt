@@ -1,0 +1,14 @@
+Epinephrine dysrhythmogenicity is not enhanced by subtoxic bupivacaine in dogs .
+Since bupivacaine and epinephrine may both precipitate dysrhythmias , circulating bupivacaine during regional anesthesia could potentiate dysrhythmogenic effects of epinephrine .
+We therefore examined whether bupivacaine alters the dysrhythmogenicity of subsequent administration of epinephrine in conscious , healthy dogs and in anesthetized dogs with myocardial infarction .
+Forty - one conscious dogs received 10 micrograms . kg - 1 . min - 1 epinephrine .
+Seventeen animals responded with ventricular tachycardia ( VT ) within 3 min .
+After 3 h , these responders randomly received 1 or 2 mg / kg bupivacaine or saline over 5 min , followed by 10 micrograms . kg - 1 . min - 1 epinephrine .
+In the bupivacaine groups , epinephrine caused fewer prodysrhythmic effects than without bupivacaine .
+VT appeared in fewer dogs and at a later time , and there were more sinoatrial beats and less ectopies .
+Epinephrine shortened QT less after bupivacaine than in control animals .
+One day after experimental myocardial infarction , six additional halothane - anesthetized dogs received 4 micrograms . kg - 1 . min - 1 epinephrine until VT appeared .
+After 45 min , 1 mg / kg bupivacaine was injected over 5 min , again followed by 4 micrograms . kg - 1 . min - 1 epinephrine .
+In these dogs , the prodysrhythmic response to epinephrine was also mitigated by preceding bupivacaine .
+Bupivacaine antagonizes epinephrine dysrhythmogenicity in conscious dogs susceptible to VT and in anesthetized dogs with spontaneous postinfarct dysrhythmias .
+There is no evidence that systemic subtoxic bupivacaine administration enhances the dysrhythmogenicity of subsequent epinephrine .

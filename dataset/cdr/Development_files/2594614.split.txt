@@ -1,0 +1,9 @@
+Protective effect of a specific platelet-activating factor antagonist, BN 52021, on bupivacaine-induced cardiovascular impairments in rats.
+Administration of the local anaesthetic bupivacaine (1.5 or 2 mg/kg, i.v.) to rats elicited a marked decrease of mean arterial blood pressure (MBP) and heart rate (HR) leading to death (in 67% or 90% of animals respectively).
+Intravenous injection of the specific platelet-activating factor (PAF) antagonist BN 52021 (10 mg/kg), 30 min before bupivacaine administration (2 mg/kg i.v.) suppressed both the decrease of MBP and HR.
+In contrast, doses of 1 mg/kg BN 52021 given 30 min before or 10 mg/kg administered 5 min before i.v.
+injection of bupivacaine were ineffective.
+When BN 52021 (20 mg/kg i.v.) was injected immediately after bupivacaine (2 mg/kg), a partial reversion of the decrease of MBP and HR was observed, whereas the dose of 10 mg/kg was ineffective.
+A partial recovery of bupivacaine-induced ECG alterations was observed after pretreatment of the rats with BN 52021.
+Since the administration of BN 52021, at all doses studied, did not alter MBP and HR at the doses used, the bulk of these results clearly demonstrate a protective action of BN 52021, a specific antagonist of PAF, against bupivacaine-induced cardiovascular toxicity.
+Thus, consistent with its direct effect on heart, PAF appears to be implicated in bupivacaine-induced cardiovascular alterations.

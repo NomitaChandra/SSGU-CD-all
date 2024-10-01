@@ -1,0 +1,9 @@
+The hematologic effects of cefonicid and cefazedone in the dog: a potential model of cephalosporin hematotoxicity in man.
+Cephalosporin antibiotics cause a variety of hematologic disturbances in man, the pathogeneses and hematopathology of which remain poorly characterized.
+There is a need for a well-defined animal model in which these blood dyscrasias can be studied.
+In four subacute toxicity studies, the intravenous administration of cefonicid or cefazedone to beagle dogs caused a dose-dependent incidence of anemia, neutropenia, and thrombocytopenia after 1-3 months of treatment.
+A nonregenerative anemia was the most compromising of the cytopenias and occurred in approximately 50% of dogs receiving 400-500 mg/kg cefonicid or 540-840 mg/kg cefazedone.
+All three cytopenias were completely reversible following cessation of treatment; the time required for recovery of the erythron (approximately 1 month) was considerably longer than that of the granulocytes and platelets (hours to a few days).
+Upon rechallenge with either cephalosporin, the hematologic syndrome was reproduced in most dogs tested; cefonicid (but not cefazedone)-treated dogs showed a substantially reduced induction period (15 +/- 5 days) compared to that of the first exposure to the drug (61 +/- 24 days).
+This observation, along with the rapid rate of decline in red cell mass parameters of affected dogs, suggests that a hemolytic component complicated the red cell production problem and that multiple toxicologic mechanisms contributed to the cytopenia.
+We conclude that the administration of high doses of cefonicid or cefazedone to dogs can induce hematotoxicity similar to the cephalosporin-induced blood dyscrasias described in man and thus provides a useful model for studying the mechanisms of these disorders.

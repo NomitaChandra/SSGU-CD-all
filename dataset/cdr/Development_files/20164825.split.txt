@@ -1,0 +1,11 @@
+Metformin prevents experimental gentamicin-induced nephropathy by a mitochondria-dependent pathway.
+The antidiabetic drug metformin can diminish apoptosis induced by oxidative stress in endothelial cells and prevent vascular dysfunction even in nondiabetic patients.
+Here we tested whether it has a beneficial effect in a rat model of gentamicin toxicity.
+Mitochondrial analysis, respiration intensity, levels of reactive oxygen species, permeability transition, and cytochrome c release were assessed 3 and 6 days after gentamicin administration.
+Metformin treatment fully blocked gentamicin-mediated acute renal failure.
+This was accompanied by a lower activity of N-acetyl-beta-D-glucosaminidase, together with a decrease of lipid peroxidation and increase of antioxidant systems.
+Metformin also protected the kidney from histological damage 6 days after gentamicin administration.
+These in vivo markers of kidney dysfunction and their correction by metformin were complemented by in vitro studies of mitochondrial function.
+We found that gentamicin treatment depleted respiratory components (cytochrome c, NADH), probably due to the opening of mitochondrial transition pores.
+These injuries, partly mediated by a rise in reactive oxygen species from the electron transfer chain, were significantly decreased by metformin.
+Thus, our study suggests that pleiotropic effects of metformin can lessen gentamicin nephrotoxicity and improve mitochondrial homeostasis.

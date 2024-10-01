@@ -1,0 +1,9 @@
+Neuroprotective action of MPEP , a selective mGluR5 antagonist , in methamphetamine - induced dopaminergic neurotoxicity is associated with a decrease in dopamine outflow and inhibition of hyperthermia in rats .
+The aim of this study was to examine the role of metabotropic glutamate receptor 5 ( mGluR5 ) in the toxic action of methamphetamine on dopaminergic neurones in rats .
+Methamphetamine ( 10 mg / kg sc ) , administered five times , reduced the levels of dopamine and its metabolites in striatal tissue when measured 72 h after the last injection .
+A selective antagonist of mGluR5 , 2 - methyl - 6 - ( phenylethynyl ) pyridine ( MPEP ; 5 mg / kg ip ) , when administered five times immediately before each methamphetamine injection reversed the above - mentioned methamphetamine effects .
+A single MPEP ( 5 mg / kg ip ) injection reduced the basal extracellular dopamine level in the striatum , as well as dopamine release stimulated either by methamphetamine ( 10 mg / kg sc ) or by intrastriatally administered veratridine ( 100 microM ) .
+Moreover , it transiently diminished the methamphetamine ( 10 mg / kg sc ) - induced hyperthermia and reduced basal body temperature .
+MPEP administered into the striatum at high concentrations ( 500 microM ) increased extracellular dopamine levels , while lower concentrations ( 50 - 100 microM ) were devoid of any effect .
+The results of this study suggest that the blockade of mGluR5 by MPEP may protect dopaminergic neurones against methamphetamine - induced toxicity .
+Neuroprotection rendered by MPEP may be associated with the reduction of the methamphetamine - induced dopamine efflux in the striatum due to the blockade of extrastriatal mGluR5 , and with a decrease in hyperthermia .

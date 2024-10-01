@@ -1,0 +1,7 @@
+Recurrent excitation in the dentate gyrus of a murine model of temporal lobe epilepsy.
+Similar to rats, systemic pilocarpine injection causes status epilepticus (SE) and the eventual development of spontaneous seizures and mossy fiber sprouting in C57BL/6 and CD1 mice, but the physiological correlates of these events have not been identified in mice.
+Population responses in granule cells of the dentate gyrus were examined in transverse slices of the ventral hippocampus from pilocarpine-treated and untreated mice.
+In Mg(2+)-free bathing medium containing bicuculline, conditions designed to increase excitability in the slices, electrical stimulation of the hilus resulted in a single population spike in granule cells from control mice and pilocarpine-treated mice that did not experience SE.
+In SE survivors, similar stimulation resulted in a population spike followed, at a variable latency, by negative DC shifts and repetitive afterdischarges of 3-60 s duration, which were blocked by ionotropic glutamate receptor antagonists.
+Focal glutamate photostimulation of the granule cell layer at sites distant from the recording pipette resulted in population responses of 1-30 s duration in slices from SE survivors but not other groups.
+These data support the hypothesis that SE-induced mossy fiber sprouting and synaptic reorganization are relevant characteristics of seizure development in these murine strains, resembling rat models of human temporal lobe epilepsy.

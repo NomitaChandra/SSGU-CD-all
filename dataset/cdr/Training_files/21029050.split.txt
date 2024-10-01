@@ -1,0 +1,13 @@
+Butyrylcholinesterase gene mutations in patients with prolonged apnea after succinylcholine for electroconvulsive therapy.
+BACKGROUND: patients undergoing electroconvulsive therapy (ECT) often receive succinylcholine as part of the anesthetic procedure.
+The duration of action may be prolonged in patients with genetic variants of the butyrylcholinesterase enzyme (BChE), the most common being the K- and the A-variants.
+The aim of the study was to assess the clinical significance of genetic variants in butyrylcholinesterase gene (BCHE) in patients with a suspected prolonged duration of action of succinylcholine after ECT.
+METHODS: a total of 13 patients were referred to the Danish Cholinesterase Research Unit after ECT during 38 months.
+We determined the BChE activity and the BCHE genotype using molecular genetic methods, the duration of apnea, time to sufficient spontaneous ventilation and whether neuromuscular monitoring was used.
+The duration of apnea was compared with published data on normal subjects.
+RESULTS: in 11 patients, mutations were found in the BCHE gene, the K-variant being the most frequent.
+The duration of apnea was 5-15 min compared with 3-5.3 min from the literature.
+Severe distress was noted in the recovery phase in two patients.
+Neuromuscular monitoring was used in two patients.
+CONCLUSION: eleven of 13 patients with a prolonged duration of action of succinylcholine had mutations in BCHE, indicating that this is the possible reason for a prolonged period of apnea.
+We recommend objective neuromuscular monitoring during the first ECT.

@@ -1,0 +1,12 @@
+Prenatal exposure to fluoxetine induces fetal pulmonary hypertension in the rat.
+RATIONALE: Fluoxetine is a selective serotonin reuptake inhibitor antidepressant widely used by pregnant women.
+Epidemiological data suggest that fluoxetine exposure prenatally increases the prevalence of persistent pulmonary hypertension syndrome of the newborn.
+The mechanism responsible for this effect is unclear and paradoxical, considering the current evidence of a pulmonary hypertension protective fluoxetine effect in adult rodents.
+OBJECTIVES: To evaluate the fluoxetine effect on fetal rat pulmonary vascular smooth muscle mechanical properties and cell proliferation rate.
+METHODS: Pregnant rats were treated with fluoxetine (10 mg/kg) from Day 11 through Day 21 of gestation.
+MEASUREMENTS AND MAIN RESULTS: Fetuses were delivered by cesarean section.
+As compared with controls, fluoxetine exposure resulted in fetal pulmonary hypertension as evidenced by an increase in the weight ratio of the right ventricle to the left ventricle plus septum (P = 0.02) and by an increase in pulmonary arterial medial thickness (P < 0.01).
+Postnatal mortality was increased among experimental animals, and arterial oxygen saturation was 96 +/- 1% in 1-day-old control animals and significantly lower (P < 0.01) in fluoxetine-exposed pups (79 +/- 2%).
+In vitro, fluoxetine induced pulmonary arterial muscle contraction in fetal, but not adult, animals (P < 0.01) and reduced serotonin-induced contraction at both ages (P < 0.01).
+After in utero exposure to a low fluoxetine concentration the pulmonary arterial smooth muscle cell proliferation rate was significantly increased in fetal, but not adult, cells (P < 0.01).
+CONCLUSIONS: In contrast to the adult, fluoxetine exposure in utero induces pulmonary hypertension in the fetal rat as a result of a developmentally regulated increase in pulmonary vascular smooth muscle proliferation.

@@ -1,0 +1,11 @@
+Amiodarone and the risk of bradyarrhythmia requiring permanent pacemaker in elderly patients with atrial fibrillation and prior myocardial infarction.
+OBJECTIVES: The aim of this study was to determine whether the use of amiodarone in patients with atrial fibrillation (AF) increases the risk of bradyarrhythmia requiring a permanent pacemaker.
+BACKGROUND: Reports of severe bradyarrhythmia during amiodarone therapy are infrequent and limited to studies assessing the therapy's use in the management of patients with ventricular arrhythmias.
+METHODS: A study cohort of 8,770 patients age > or =65 years with a new diagnosis of AF was identified from a provincewide database of Quebec residents with a myocardial infarction (MI) between 1991 and 1999.
+Using a nested case-control design, 477 cases of bradyarrhythmia requiring a permanent pacemaker were matched (1:4) to 1,908 controls.
+Multivariable logistic regression was used to estimate the odds ratio (OR) of pacemaker insertion associated with amiodarone use, controlling for baseline risk factors and exposure to sotalol, Class I antiarrhythmic agents, beta-blockers, calcium channel blockers, and digoxin.
+RESULTS: amiodarone use was associated with an increased risk of pacemaker insertion (OR: 2.14, 95% confidence interval [CI]: 1.30 to 3.54).
+This effect was modified by gender, with a greater risk in women versus men (OR: 3.86, 95% CI: 1.70 to 8.75 vs. OR: 1.52, 95% CI: 0.80 to 2.89).
+Digoxin was the only other medication associated with an increased risk of pacemaker insertion (OR: 1.78, 95% CI: 1.37 to 2.31).
+CONCLUSIONS: This study suggests that the use of amiodarone in elderly patients with AF and a previous MI increases the risk of bradyarrhythmia requiring a permanent pacemaker.
+The finding of an augmented risk of pacemaker insertion in elderly women receiving amiodarone requires further investigation.

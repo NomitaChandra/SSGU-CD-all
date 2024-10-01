@@ -1,0 +1,12 @@
+Reduction of pain during induction with target - controlled propofol and remifentanil .
+BACKGROUND : Pain on injection of propofol is unpleasant .
+We hypothesized that propofol infusion pain might be prevented by infusing remifentanil before starting the propofol infusion in a clinical setting where target - controlled infusions ( TCI ) of both drugs were used .
+A prospective , randomized , double - blind , placebo - controlled trial was performed to determine the effect - site concentration ( Ce ) of remifentanil to prevent the pain without producing complications .
+METHODS : A total of 128 patients undergoing general surgery were randomly allocated to receive normal saline ( control ) or remifentanil to a target Ce of 2 ng ml ( - 1 ) ( R2 ) , 4 ng ml ( - 1 ) ( R4 ) , or 6 ng ml ( - 1 ) ( R6 ) administered via TCI .
+After the target Ce was achieved , the infusion of propofol was started .
+Remifentanil - related complications were assessed during the remifentanil infusion , and pain caused by propofol was evaluated using a four - point scale during the propofol infusion .
+RESULTS : The incidence of pain was significantly lower in Groups R4 and R6 than in the control and R2 groups ( 12 / 32 and 6 / 31 vs 26 / 31 and 25 / 32 , respectively , P < 0 . 001 ) .
+Pain was less severe in Groups R4 and R6 than in the control and R2 groups ( P < 0 . 001 ) .
+However , both incidence and severity of pain were not different between Groups R4 and R6 .
+No significant complications were observed during the study .
+CONCLUSIONS : During induction of anaesthesia with TCI of propofol and remifentanil , a significant reduction in propofol infusion pain was achieved without significant complications by prior administration of remifentanil at a target Ce of 4 ng ml ( - 1 ) .

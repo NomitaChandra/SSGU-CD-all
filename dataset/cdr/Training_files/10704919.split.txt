@@ -1,0 +1,16 @@
+Hemolysis of human erythrocytes induced by tamoxifen is related to disruption of membrane structure.
+Tamoxifen (TAM), the antiestrogenic drug most widely prescribed in the chemotherapy of breast cancer, induces changes in normal discoid shape of erythrocytes and hemolytic anemia.
+This work evaluates the effects of TAM on isolated human erythrocytes, attempting to identify the underlying mechanisms on TAM-induced hemolytic anemia and the involvement of biomembranes in its cytostatic action mechanisms.
+TAM induces hemolysis of erythrocytes as a function of concentration.
+The extension of hemolysis is variable with erythrocyte samples, but 12.5 microM TAM induces total hemolysis of all tested suspensions.
+Despite inducing extensive erythrocyte lysis, TAM does not shift the osmotic fragility curves of erythrocytes.
+The hemolytic effect of TAM is prevented by low concentrations of alpha-tocopherol (alpha-T) and alpha-tocopherol acetate (alpha-TAc) (inactivated functional hydroxyl) indicating that TAM-induced hemolysis is not related to oxidative membrane damage.
+This was further evidenced by absence of oxygen consumption and hemoglobin oxidation both determined in parallel with TAM-induced hemolysis.
+Furthermore, it was observed that TAM inhibits the peroxidation of human erythrocytes induced by AAPH, thus ruling out TAM-induced cell oxidative stress.
+Hemolysis caused by TAM was not preceded by the leakage of K(+) from the cells, also excluding a colloid-osmotic type mechanism of hemolysis, according to the effects on osmotic fragility curves.
+However, TAM induces release of peripheral proteins of membrane-cytoskeleton and cytosol proteins essentially bound to band 3.
+Either alpha-T or alpha-TAc increases membrane packing and prevents TAM partition into model membranes.
+These effects suggest that the protection from hemolysis by tocopherols is related to a decreased TAM incorporation in condensed membranes and the structural damage of the erythrocyte membrane is consequently avoided.
+Therefore, TAM-induced hemolysis results from a structural perturbation of red cell membrane, leading to changes in the framework of the erythrocyte membrane and its cytoskeleton caused by its high partition in the membrane.
+These defects explain the abnormal erythrocyte shape and decreased mechanical stability promoted by TAM, resulting in hemolytic anemia.
+Additionally, since membrane leakage is a final stage of cytotoxicity, the disruption of the structural characteristics of biomembranes by TAM may contribute to the multiple mechanisms of its anticancer action.

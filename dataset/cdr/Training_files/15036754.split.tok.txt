@@ -1,0 +1,11 @@
+Organophosphate - induced convulsions and prevention of neuropathological damages .
+Such organophosphorus ( OP ) compounds as diisopropylfluorophosphate ( DFP ) , sarin and soman are potent inhibitors of acetylcholinesterases ( AChEs ) and butyrylcholinesterases ( BChEs ) .
+The acute toxicity of OPs is the result of their irreversible binding with AChEs in the central nervous system ( CNS ) , which elevates acetylcholine ( ACh ) levels .
+The protective action of subcutaneously ( SC ) administered antidotes or their combinations in DFP ( 2 . 0 mg / kg BW ) intoxication was studied in 9 - 10 - weeks - old Han - Wistar male rats .
+The rats received AChE reactivator pralidoxime - 2 - chloride ( 2PAM ) ( 30 . 0 mg / kg BW ) , anticonvulsant diazepam ( 2 . 0 mg / kg BW ) , A ( 1 ) - adenosine receptor agonist N ( 6 ) - cyclopentyl adenosine ( CPA ) ( 2 . 0 mg / kg BW ) , NMDA - receptor antagonist dizocilpine maleate ( + - MK801 hydrogen maleate ) ( 2 . 0 mg / kg BW ) or their combinations with cholinolytic drug atropine sulfate ( 50 . 0 mg / kg BW ) immediately or 30 min after the single SC injection of DFP .
+The control rats received atropine sulfate , but also saline and olive oil instead of other antidotes and DFP , respectively .
+All rats were terminated either 24 h or 3 weeks after the DFP injection .
+The rats treated with DFP - atropine showed severe typical OP - induced toxicity signs .
+When CPA , diazepam or 2PAM was given immediately after DFP - atropine , these treatments prevented , delayed or shortened the occurrence of serious signs of poisoning .
+Atropine - MK801 did not offer any additional protection against DFP toxicity .
+In conclusion , CPA , diazepam and 2PAM in combination with atropine prevented the occurrence of serious signs of poisoning and thus reduced the toxicity of DFP in rat .

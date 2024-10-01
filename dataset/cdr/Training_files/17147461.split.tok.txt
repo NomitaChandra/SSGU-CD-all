@@ -1,0 +1,12 @@
+Sirolimus - associated proteinuria and renal dysfunction .
+Sirolimus is a novel immunosuppressant with potent antiproliferative actions through its ability to inhibit the raptor - containing mammalian target of rapamycin protein kinase .
+Sirolimus represents a major therapeutic advance in the prevention of acute renal allograft rejection and chronic allograft nephropathy .
+Its role in the therapy of glomerulonephritis , autoimmunity , cystic renal diseases and renal cancer is under investigation .
+Because sirolimus does not share the vasomotor renal adverse effects exhibited by calcineurin inhibitors , it has been designated a ' non - nephrotoxic drug ' .
+However , clinical reports suggest that , under some circumstances , sirolimus is associated with proteinuria and acute renal dysfunction .
+A common risk factor appears to be presence of pre - existing chronic renal damage .
+The mechanisms of sirolimus - associated proteinuria are multifactorial and may be due to an increase in glomerular capillary pressure following calcineurin inhibitor withdrawal .
+It has also been suggested that sirolimus directly causes increased glomerular permeability / injury , but evidence for this mechanism is currently inconclusive .
+The acute renal dysfunction associated with sirolimus ( such as in delayed graft function ) may be due to suppression of compensatory renal cell proliferation and survival / repair processes .
+Although these adverse effects occur in some patients , their occurrence could be minimised by knowledge of the molecular effects of sirolimus on the kidney , the use of sirolimus in appropriate patient populations , close monitoring of proteinuria and renal function , use of angiotensin - converting enzyme inhibitors or angiotensin II receptor blockers if proteinuria occurs and withdrawal if needed .
+Further long - term analysis of renal allograft studies using sirolimus as de novo immunosuppression along with clinical and laboratory studies will refine these issues in the future .

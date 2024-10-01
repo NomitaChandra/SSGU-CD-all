@@ -1,0 +1,11 @@
+Susceptibility to seizures produced by pilocarpine in rats after microinjection of isoniazid or gamma-vinyl-GABA into the substantia nigra.
+Pilocarpine, given intraperitoneally to rats, reproduces the neuropathological sequelae of temporal lobe epilepsy and provides a relevant animal model for studying mechanisms of buildup of convulsive activity and pathways operative in the generalization and propagation of seizures within the forebrain.
+In the present study, the effects of manipulating the activity of the gamma-aminobutyric acid (GABA)-mediated synaptic inhibition within the substantia nigra on seizures produced by pilocarpine in rats, were investigated.
+In animals pretreated with microinjections of isoniazid, 150 micrograms, an inhibitor of activity of the GABA-synthesizing enzyme, L-glutamic acid decarboxylase, into the substantia nigra pars reticulata (SNR), bilaterally, non-convulsant doses of pilocarpine, 100 and 200 mg/kg, resulted in severe motor limbic seizures and status epilepticus.
+Electroencephalographic and behavioral monitoring revealed a profound reduction of the threshold for pilocarpine-induced convulsions.
+Morphological analysis of frontal forebrain sections with light microscopy revealed seizure-related damage to the hippocampal formation, thalamus, amygdala, olfactory cortex, substantia nigra and neocortex, which is typically observed with pilocarpine in doses exceeding 350 mg/kg.
+Bilateral intrastriatal injections of isoniazid did not augment seizures produced by pilocarpine, 200 mg/kg.
+Application of an irreversible inhibitor of GABA transaminase, gamma-vinyl-GABA (D,L-4-amino-hex-5-enoic acid), 5 micrograms, into the SNR, bilaterally, suppressed the appearance of electrographic and behavioral seizures produced by pilocarpine, 380 mg/kg.
+This treatment was also sufficient to protect animals from the occurrence of brain damage.
+Microinjections of gamma-vinyl-GABA, 5 micrograms, into the dorsal striatum, bilaterally, failed to prevent the development of convulsions produced by pilocarpine, 380 mg/kg.
+The results demonstrate that the threshold for pilocarpine-induced seizures in rats is subjected to the regulation of the GABA-mediated synaptic inhibition within the substantia nigra.

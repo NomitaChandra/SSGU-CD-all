@@ -1,0 +1,11 @@
+Antidepressant - induced mania in bipolar patients : identification of risk factors .
+BACKGROUND : Concerns about possible risks of switching to mania associated with antidepressants continue to interfere with the establishment of an optimal treatment paradigm for bipolar depression .
+METHOD : The response of 44 patients meeting DSM - IV criteria for bipolar disorder to naturalistic treatment was assessed for at least 6 weeks using the Montgomery - Asberg Depression Rating Scale and the Bech - Rafaelson Mania Rating Scale .
+Patients who experienced a manic or hypomanic switch were compared with those who did not on several variables including age , sex , diagnosis ( DSM - IV bipolar I vs . bipolar II ) , number of previous manic episodes , type of antidepressant therapy used ( electroconvulsive therapy vs . antidepressant drugs and , more particularly , selective serotonin reuptake inhibitors [ SSRIs ] ) , use and type of mood stabilizers ( lithium vs . anticonvulsants ) , and temperament of the patient , assessed during a normothymic period using the hyperthymia component of the Semi - structured Affective Temperament Interview .
+RESULTS : Switches to hypomania or mania occurred in 27 % of all patients ( N = 12 ) ( and in 24 % of the subgroup of patients treated with SSRIs [ 8 / 33 ] ) ; 16 % ( N = 7 ) experienced manic episodes , and 11 % ( N = 5 ) experienced hypomanic episodes .
+Sex , age , diagnosis ( bipolar I vs . bipolar II ) , and additional treatment did not affect the risk of switching .
+The incidence of mood switches seemed not to differ between patients receiving an anticonvulsant and those receiving no mood stabilizer .
+In contrast , mood switches were less frequent in patients receiving lithium ( 15 % , 4 / 26 ) than in patients not treated with lithium ( 44 % , 8 / 18 ; p = . 04 ) .
+The number of previous manic episodes did not affect the probability of switching , whereas a high score on the hyperthymia component of the Semistructured Affective Temperament Interview was associated with a greater risk of switching ( p = . 008 ) .
+CONCLUSION : The frequency of mood switching associated with acute antidepressant therapy may be reduced by lithium treatment .
+Particular attention should be paid to patients with a hyperthymic temperament , who have a greater risk of mood switches .

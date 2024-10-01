@@ -1,0 +1,5 @@
+Naloxazone pretreatment modifies cardiorespiratory, temperature, and behavioral effects of morphine.
+Behavioral and cardiorespiratory responses to a lethal dose of morphine were evaluated in rats pretreated with saline or naloxazone, an antagonist of high-affinity mu 1 opioid receptors.
+Pretreatment with naloxazone significantly blocked morphine analgesia, catalepsy and hypothermia at a dose which completely eliminated high-affinity binding in brain membranes.
+Moreover, naloxazone significantly attenuated the morphine-induced hypotension and respiratory depression, whereas morphine-induced bradycardia was less affected.
+Results indicate that subpopulations of mu receptors may mediate selective behavioral and cardiorespiratory responses to morphine.

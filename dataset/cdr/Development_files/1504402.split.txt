@@ -1,0 +1,9 @@
+Hypersensitivity immune reaction as a mechanism for dilevalol-associated hepatitis.
+OBJECTIVE: To assess lymphocyte reactivity to dilevalol and to serum containing putative ex vivo dilevalol antigens or metabolites in a case of dilevalol-induced liver injury.
+PATIENT: A 58-year-old woman with a clinical diagnosis of dilevalol-induced liver injury.
+METHODS: Peripheral blood mononuclear cells collected from the patient were cultured in the presence of a solution of dilevalol and also with sera collected from a volunteer before and after dilevalol intake.
+A similar protocol was performed with lymphocytes from a healthy subject.
+RESULTS: No lymphocyte proliferation was observed either in the patient or in the healthy volunteer in the presence of dilevalol solutions.
+A significant proliferative response to serum collected after dilevalol intake was observed in the case of the patient compared with the proliferative response to the serum collected before the drug intake.
+No reactivity was found when lymphocytes from the healthy subject were tested under similar conditions.
+CONCLUSIONS: The methodology used allowed the detection of lymphocyte sensitization to sera containing ex vivo-prepared dilevalol antigens, suggesting the involvement of an immunologic mechanism in dilevalol-induced liver injury.

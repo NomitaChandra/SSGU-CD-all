@@ -1,0 +1,10 @@
+Increased frequency of venous thromboembolism with the combination of docetaxel and thalidomide in patients with metastatic androgen - independent prostate cancer .
+STUDY OBJECTIVE : To evaluate the frequency of venous thromboembolism ( VTE ) in patients with advanced androgen - independent prostate cancer who were treated with docetaxel alone or in combination with thalidomide .
+DESIGN : Retrospective analysis of a randomized phase II trial .
+SETTING : National Institutes of Health clinical research center .
+PATIENTS : Seventy men , aged 50 - 80 years , with advanced androgen - independent prostate cancer .
+INTERVENTION : Each patient received either intravenous docetaxel 30 mg / m2 / week for 3 consecutive weeks , followed by 1 week off , or the combination of continuous oral thalidomide 200 mg every evening plus the same docetaxel regimen .
+This 4 - week cycle was repeated until there was evidence of excessive toxicity or disease progression .
+MEASUREMENTS AND MAIN RESULTS : None of 23 patients who received docetaxel alone developed VTE , whereas 9 of 47 patients ( 19 % ) who received docetaxel plus thalidomide developed VTE ( p = 0 . 025 ) .
+CONCLUSION : The addition of thalidomide to docetaxel in the treatment of prostate cancer significantly increases the frequency of VTE .
+Clinicians should be aware of this potential complication when adding thalidomide to chemotherapeutic regimens .

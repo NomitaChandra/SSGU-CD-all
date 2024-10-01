@@ -1,0 +1,8 @@
+Transient contralateral rotation following unilateral substantia nigra lesion reflects susceptibility of the nigrostriatal system to exhaustion by amphetamine.
+Following unilateral 6-OHDA induced SN lesion, a transient period of contralateral rotation has been reported to precede the predominant ipsilateral circling.
+In order to clarify the nature of this initial contralateral rotation we examined the effect of the duration of recovery period after the lesion, on amphetamine-induced rotational behavior.
+Three days post lesion, most rats circled predominantly contralaterally to the lesion.
+Such contralateral rotation may result from either degeneration-induced breakdown of the DA pool, or lesion-induced increase of DA turnover in the spared neurons.
+A substantial degree of contralateral preference was still evident when amphetamine was administered for the first time 24 days after lesioning, indicating involvement of spared cells in the contralateral rotation.
+However, regardless of the duration of recovery (and irrespective of either lesion volume, amphetamine dose, or post-lesion motor exercise), amphetamine-induced rotation tended to become gradually more ipsilateral as the observation session progressed, and all rats circled ipsilaterally to the lesion in response to further amphetamine injections.
+These findings suggest that amphetamine has an irreversible effect on the post-lesion DA pool contributing to contralateral rotation.

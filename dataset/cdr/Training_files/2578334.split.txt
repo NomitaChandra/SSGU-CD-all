@@ -1,0 +1,8 @@
+5-azacytidine potentiates initiation induced by carcinogens in rat liver.
+To test the validity of the hypothesis that hypomethylation of DNA plays an important role in the initiation of carcinogenic process, 5-azacytidine (5-AzC) (10 mg/kg), an inhibitor of DNA methylation, was given to rats during the phase of repair synthesis induced by the three carcinogens, benzo[a]-pyrene (200 mg/kg), N-methyl-N-nitrosourea (60 mg/kg) and 1,2-dimethylhydrazine (1,2-DMH) (100 mg/kg).
+The initiated hepatocytes in the liver were assayed as the gamma-glutamyltransferase (gamma-GT) positive foci formed following a 2-week selection regimen consisting of dietary 0.02% 2-acetylaminofluorene coupled with a necrogenic dose of CCl4.
+The results obtained indicate that with all three carcinogens, administration of 5-AzC during repair synthesis increased the incidence of initiated hepatocytes, for example 10-20 foci/cm2 in 5-AzC and carcinogen-treated rats compared with 3-5 foci/cm2 in rats treated with carcinogen only.
+Administration of [3H]-5-azadeoxycytidine during the repair synthesis induced by 1,2-DMH further showed that 0.019 mol % of cytosine residues in DNA were substituted by the analogue, indicating that incorporation of 5-AzC occurs during repair synthesis.
+In the absence of the carcinogen, 5-AzC given after a two thirds partial hepatectomy, when its incorporation should be maximum, failed to induce any gamma-GT positive foci.
+The results suggest that hypomethylation of DNA per se may not be sufficient for initiation.
+Perhaps two events might be necessary for initiation, the first caused by the carcinogen and a second involving hypomethylation of DNA.

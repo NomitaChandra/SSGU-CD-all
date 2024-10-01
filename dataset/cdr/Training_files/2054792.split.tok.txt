@@ -1,0 +1,8 @@
+Effect of adriamycin combined with whole body hyperthermia on tumor and normal tissues .
+Thermal enhancement of Adriamycin - mediated antitumor activity and normal tissue toxicities by whole body hyperthermia were compared using a F344 rat model .
+Antitumor activity was studied using a tumor growth delay assay .
+Acute normal tissue toxicities ( i . e . , leukopenia and thrombocytopenia ) and late normal tissue toxicities ( i . e . , myocardial and kidney injury ) were evaluated by functional / physiological assays and by morphological techniques .
+Whole body hyperthermia ( 120 min at 41 . 5 degrees C ) enhanced both Adriamycin - mediated antitumor activity and toxic side effects .
+The thermal enhancement ratio calculated for antitumor activity was 1 . 6 .
+Thermal enhancement ratios estimated for " acute " hematological changes were 1 . 3 , whereas those estimated for " late " damage ( based on morphological cardiac and renal lesions ) varied between 2 . 4 and 4 . 3 .
+Thus , while whole body hyperthermia enhances Adriamycin - mediated antitumor effect , normal tissue toxicity is also increased , and the potential therapeutic gain of the combined modality treatment is eroded .

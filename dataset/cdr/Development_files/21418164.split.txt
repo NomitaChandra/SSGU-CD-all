@@ -1,0 +1,10 @@
+CCNU (lomustine) toxicity in dogs: a retrospective study (2002-07).
+OBJECTIVE: To describe the incidence of haematological, renal, hepatic and gastrointestinal toxicities in tumour-bearing dogs receiving 1-(2-chloroethyl)-3-cyclohexyl-1-nitrosourea (CCNU).
+DESIGN: The medical records of 206 dogs that were treated with CCNU at the Melbourne Veterinary Specialist Centre between February 2002 and December 2007 were retrospectively evaluated.
+RESULTS: Of the 206 dogs treated with CCNU, 185 met the inclusion criteria for at least one class of toxicity.
+CCNU was used most commonly in the treatment of lymphoma, mast cell tumour, brain tumour, histiocytic tumours and epitheliotropic lymphoma.
+Throughout treatment, 56.9% of dogs experienced neutropenia, 34.2% experienced anaemia and 14.2% experienced thrombocytopenia.
+Gastrointestinal toxicosis was detected in 37.8% of dogs, the most common sign of which was vomiting (24.3%).
+Potential renal toxicity and elevated alanine transaminase (ALT) concentration were reported in 12.2% and 48.8% of dogs, respectively.
+The incidence of hepatic failure was 1.2%.
+CONCLUSIONS: CCNU-associated toxicity in dogs is common, but is usually not life threatening.

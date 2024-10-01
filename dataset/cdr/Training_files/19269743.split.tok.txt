@@ -1,0 +1,13 @@
+Explicit episodic memory for sensory - discriminative components of capsaicin - induced pain : immediate and delayed ratings .
+Pain memory is thought to affect future pain sensitivity and thus contribute to clinical pain conditions .
+Systematic investigations of the human capacity to remember sensory features of experimental pain are sparse .
+In order to address long - term pain memory , nine healthy male volunteers received intradermal injections of three doses of capsaicin ( 0 . 05 , 1 and 20 microg , separated by 15 min breaks ) , each given three times in a balanced design across three sessions at one week intervals .
+Pain rating was performed using a computerized visual analogue scale ( 0 - 100 ) digitized at 1 / s , either immediately online or one hour or one day after injection .
+Subjects also recalled their pains one week later .
+Capsaicin injection reliably induced a dose - dependent flare ( p < 0 . 001 ) without any difference within or across sessions .
+The strong burning pain decayed exponentially within a few minutes .
+Subjects were able to reliably discriminate pain magnitude and duration across capsaicin doses ( both p < 0 . 001 ) , regardless of whether first - time ratings were requested immediately , after one hour or after one day .
+Pain recall after one week was similarly precise ( magnitude : p < 0 . 01 , duration : p < 0 . 05 ) .
+Correlation with rating recall after one week was best when first - time ratings were requested as late as one day after injection ( R ( 2 ) = 0 . 79 ) indicating that both rating retrievals utilized similar memory traces .
+These results indicate a reliable memory for magnitude and duration of experimentally induced pain .
+The data further suggest that the consolidation of this memory is an important interim stage , and may take up to one day .

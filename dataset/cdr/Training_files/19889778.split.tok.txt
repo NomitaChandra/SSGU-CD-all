@@ -1,0 +1,10 @@
+Differential impact of immune escape mutations G145R and P120T on the replication of lamivudine - resistant hepatitis B virus e antigen - positive and - negative strains .
+Immune escape variants of the hepatitis B virus ( HBV ) represent an emerging clinical challenge , because they can be associated with vaccine escape , HBV reactivation , and failure of diagnostic tests .
+Recent data suggest a preferential selection of immune escape mutants in distinct peripheral blood leukocyte compartments of infected individuals .
+We therefore systematically analyzed the functional impact of the most prevalent immune escape variants , the sG145R and sP120T mutants , on the viral replication efficacy and antiviral drug susceptibility of common treatment - associated mutants with resistance to lamivudine ( LAM ) and / or HBeAg negativity .
+Replication - competent HBV strains with sG145R or sP120T and LAM resistance ( rtM204I or rtL180M / rtM204V ) were generated on an HBeAg - positive and an HBeAg - negative background with precore ( PC ) and basal core promoter ( BCP ) mutants .
+The sG145R mutation strongly reduced HBsAg levels and was able to fully restore the impaired replication of LAM - resistant HBV mutants to the levels of wild - type HBV , and PC or BCP mutations further enhanced viral replication .
+Although the sP120T substitution also impaired HBsAg secretion , it did not enhance the replication of LAM - resistant clones .
+However , the concomitant occurrence of HBeAg negativity ( PC / BCP ) , sP120T , and LAM resistance resulted in the restoration of replication to levels of wild - type HBV .
+In all clones with combined immune escape and LAM resistance mutations , the nucleotide analogues adefovir and tenofovir remained effective in suppressing viral replication in vitro .
+These findings reveal the differential impact of immune escape variants on the replication and drug susceptibility of complex HBV mutants , supporting the need of close surveillance and treatment adjustment in response to the selection of distinct mutational patterns .

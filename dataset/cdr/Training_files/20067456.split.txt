@@ -1,0 +1,14 @@
+The effects of the adjunctive bupropion on male sexual dysfunction induced by a selective serotonin reuptake inhibitor: a double-blind placebo-controlled and randomized study.
+OBJECTIVE: To determine the safety and efficacy of adjunctive bupropion sustained-release (SR) on male sexual dysfunction (SD) induced by a selective serotonin reuptake inhibitor (SSRI), as SD is a common side-effect of SSRIs and the most effective treatments have yet to be determined.
+PATIENTS AND METHODS: The randomized sample consisted of 234 euthymic men who were receiving some type of SSRI.
+The men were randomly assigned to bupropion SR (150 mg twice daily, 117) or placebo (twice daily, 117) for 12 weeks.
+Efficacy was evaluated using the Clinical Global Impression-Sexual Function (CGI-SF; the primary outcome measure), the International Index of Erectile Function (IIEF), Arizona Sexual Experience Scale (ASEX), and Erectile Dysfunction Inventory of Treatment Satisfaction (EDITS) (secondary outcome measures).
+Participants were followed biweekly during study period.
+RESULTS: After 12 weeks of treatment, the mean (sd) scores for CGI-SF were significantly lower, i.e. better, in patients on bupropion SR, at 2.4 (1.2), than in the placebo group, at 3.9 (1.1) (P= 0.01).
+Men who received bupropion had a significant increase in the total IIEF score (54.4% vs 1.2%; P= 0.003), and in the five different domains of the IIEF.
+Total ASEX scores were significantly lower, i.e. better, among men who received bupropion than placebo, at 15.5 (4.3) vs 21.5 (4.7) (P= 0.002).
+The EDITS scores were 67.4 (10.2) for the bupropion and 36.3 (11.7) for the placebo group (P= 0.001).
+The ASEX score and CGI-SF score were correlated (P= 0.003).
+In linear regression analyses the CGI-SF score was not affected significantly by the duration of SD, type of SSRI used and age.
+CONCLUSIONS: Bupropion is an effective treatment for male SD induced by SSRIs.
+These results provide empirical support for conducting a further study of bupropion.

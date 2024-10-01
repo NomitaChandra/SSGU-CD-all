@@ -1,0 +1,9 @@
+A metoprolol-terbinafine combination induced bradycardia.
+To report a sinus bradycardia induced by metoprolol and terbinafine drug-drug interaction and its management.
+A 63 year-old Caucasian man on metoprolol 200 mg/day for stable coronary artery disease was prescribed a 90-day course of oral terbinafine 250 mg/day for onychomycosis.
+On the 49th day of terbinafine therapy, he was brought to the emergency room for a decrease of his global health status, confusion and falls.
+The electrocardiogram revealed a 37 beats/min sinus bradycardia.
+A score of 7 on the Naranjo adverse drug reaction probability scale indicates a probable relationship between the patient's sinus bradycardia and the drug interaction between metoprolol and terbinafine.
+The heart rate ameliorated first with a decrease in the dose of metoprolol.
+It was subsequently changed to bisoprolol and the heart rate remained normal.
+By inhibiting the cytochrome P450 2D6, terbinafine had decreased metoprolol's clearance, leading in metoprolol accumulation which has resulted in clinically significant sinus bradycardia.

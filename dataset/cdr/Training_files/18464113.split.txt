@@ -1,0 +1,16 @@
+Lamivudine for the prevention of hepatitis B virus reactivation in hepatitis-B surface antigen (HBSAG) seropositive cancer patients undergoing cytotoxic chemotherapy.
+Hepatitis B virus (HBV) is one of the major causes of chronic liver disease worldwide.
+Cancer patients who are chronic carriers of HBV have a higher hepatic complication rate while receiving cytotoxic chemotherapy (CT) and this has mainly been attributed to HBV reactivation.
+In this study, cancer patients who have solid and hematological malignancies with chronic HBV infection received the antiviral agent lamivudine prior and during CT compared with historical control group who did not receive lamivudine.
+The objectives were to assess the efficacy of lamivudine in reducing the incidence of HBV reactivation, and diminishing morbidity and mortality during CT.
+Two groups were compared in this study.
+The prophylactic lamivudin group consisted of 37 patients who received prophylactic lamivudine treatment.
+The historical controls consisted of 50 consecutive patients who underwent CT without prophylactic lamivudine.
+They were followed up during and for 8 weeks after CT.
+The outcomes were compared for both groups.
+Of our control group (n= 50), 21 patients (42%) were established hepatitis.
+Twelve (24%) of them were evaluated as severe hepatitis.
+In the prophylactic lamivudine group severe hepatitis were observed only in 1 patient (2.7%) of 37 patients (p < 0.006).
+Comparison of the mean ALT values revealed significantly higher mean alanine aminotransferase (ALT) values in the control group than the prophylactic lamivudine group; 154:64 (p < 0.32).
+Our study suggests that prophylactic lamivudine significantly decreases the incidence of HBV reactivation and overall morbidity in cancer patients during and after immunosuppressive therapy.
+Further studies are needed to determine the most appropriate nucleoside or nucleotide analogue for antiviral prophylaxis during CT and the optimal duration of administration after completion of CT.

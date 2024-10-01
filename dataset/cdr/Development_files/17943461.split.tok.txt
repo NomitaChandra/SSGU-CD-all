@@ -1,0 +1,10 @@
+Myocardial Fas ligand expression increases susceptibility to AZT - induced cardiomyopathy .
+BACKGROUND : Dilated cardiomyopathy ( DCM ) and myocarditis occur in many HIV - infected individuals , resulting in symptomatic heart failure in up to 5 % of patients .
+Highly active antiretroviral therapy ( HAART ) has significantly reduced morbidity and mortality of acquired immunodeficiency syndrome ( AIDS ) , but has resulted in an increase in cardiac and skeletal myopathies .
+METHODS AND RESULTS : In order to investigate whether the HAART component zidovudine ( 3 ' - azido - 2 ' , 3 ' - deoxythymidine ; AZT ) triggers the Fas - dependent cell - death pathway and cause cytoskeletal disruption in a murine model of DCM , 8 - week - old transgenic ( expressing Fas ligand in the myocardium : FasL Tg ) and non - transgenic ( NTg ) mice received water ad libitum containing different concentrations of AZT ( 0 , 0 . 07 , 0 . 2 , and 0 . 7 mg / ml ) .
+After 6 weeks , cardiac function was assessed by echocardiography and morphology was assessed by histopathologic and immunohistochemical methods .
+NTg and untreated FasL Tg mice showed little or no change in cardiac structure or function .
+In contrast , AZT - treated FasL Tg mice developed cardiac dilation and depressed cardiac function in a dose - dependent manner , with concomitant inflammatory infiltration of both ventricles .
+These changes were associated with an increased sarcolemmal expression of Fas and FasL , as well as increased activation of caspase 3 , translocation of calpain 1 to the sarcolemma and sarcomere , and increased numbers of cells undergoing apoptosis .
+These were associated with changes in dystrophin and cardiac troponin I localization , as well as loss of sarcolemmal integrity .
+CONCLUSIONS : The expression of Fas ligand in the myocardium , as identified in HIV - positive patients , might increase the susceptibility to HAART - induced cardiomyopathy due to activation of apoptotic pathways , resulting in cardiac dilation and dysfunction .

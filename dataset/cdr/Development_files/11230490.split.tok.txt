@@ -1,0 +1,10 @@
+Reduced cardiotoxicity and preserved antitumor efficacy of liposome - encapsulated doxorubicin and cyclophosphamide compared with conventional doxorubicin and cyclophosphamide in a randomized , multicenter trial of metastatic breast cancer .
+PURPOSE : To determine whether Myocet ( liposome - encapsulated doxorubicin ; The Liposome Company , Elan Corporation , Princeton , NJ ) in combination with cyclophosphamide significantly reduces doxorubicin cardiotoxicity while providing comparable antitumor efficacy in first - line treatment of metastatic breast cancer ( MBC ) .
+PATIENTS AND METHODS : Two hundred ninety - seven patients with MBC and no prior chemotherapy for metastatic disease were randomized to receive either 60 mg / m ( 2 ) of Myocet ( M ) or conventional doxorubicin ( A ) , in combination with 600 mg / m ( 2 ) of cyclophosphamide ( C ) , every 3 weeks until disease progression or unacceptable toxicity .
+Cardiotoxicity was defined by reductions in left - ventricular ejection fraction , assessed by serial multigated radionuclide angiography scans , or congestive heart failure ( CHF ) .
+Antitumor efficacy was assessed by objective tumor response rates ( World Health Organization criteria ) , time to progression , and survival .
+RESULTS : Six percent of MC patients versus 21 % ( including five cases of CHF ) of AC patients developed cardiotoxicity ( P = . 0002 ) .
+Median cumulative doxorubicin dose at onset was more than 2 , 220 mg / m ( 2 ) for MC versus 480 mg / m ( 2 ) for AC ( P = . 0001 , hazard ratio , 5 . 04 ) .
+MC patients also experienced less grade 4 neutropenia .
+Antitumor efficacy of MC versus AC was comparable : objective response rates , 43 % versus 43 % ; median time to progression , 5 . 1 % versus 5 . 5 months ; median time to treatment failure , 4 . 6 versus 4 . 4 months ; and median survival , 19 versus 16 months .
+CONCLUSION : Myocet improves the therapeutic index of doxorubicin by significantly reducing cardiotoxicity and grade 4 neutropenia and provides comparable antitumor efficacy , when used in combination with cyclophosphamide as first - line therapy for MBC .

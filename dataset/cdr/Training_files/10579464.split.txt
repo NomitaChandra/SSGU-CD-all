@@ -1,0 +1,10 @@
+A selective dopamine D4 receptor antagonist, NRA0160: a preclinical neuropharmacological profile.
+NRA0160, 5 - [2- ( 4- ( 3 - fluorobenzylidene) piperidin-1-yl) ethyl] - 4 -(4-fluorophenyl) thiazole-2-carboxamide, has a high affinity for human cloned dopamine D4.2, D4.4 and D4.7 receptors, with Ki values of 0.5, 0.9 and 2.7 nM, respectively.
+NRA0160 is over 20,000fold more potent at the dopamine D4.2 receptor compared with the human cloned dopamine D2L receptor.
+NRA0160 has negligible affinity for the human cloned dopamine D3 receptor (Ki=39 nM), rat serotonin (5-HT)2A receptors (Ki=180 nM) and rat alpha1 adrenoceptor (Ki=237 nM).
+NRA0160 and clozapine antagonized locomotor hyperactivity induced by methamphetamine (MAP) in mice.
+NRA0160 and clozapine antagonized MAP-induced stereotyped behavior in mice, although their effects did not exceed 50% inhibition, even at the highest dose given.
+NRA0160 and clozapine significantly induced catalepsy in rats, although their effects did not exceed 50% induction even at the highest dose given.
+NRA0160 and clozapine significantly reversed the disruption of prepulse inhibition (PPI) in rats produced by apomorphine.
+NRA0160 and clozapine significantly shortened the phencyclidine (PCP)-induced prolonged swimming latency in rats in a water maze task.
+These findings suggest that NRA0160 may have unique antipsychotic activities without the liability of motor side effects typical of classical antipsychotics.

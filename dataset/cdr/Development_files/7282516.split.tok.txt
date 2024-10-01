@@ -1,0 +1,7 @@
+Dose - effect and structure - function relationships in doxorubicin cardiomyopathy .
+The cardiomyopathy ( CM ) produced by the anticancer drug doxorubicin ( DXR ) ( Adriamycin ) provides a unique opportunity to analyze dose - effect and structure - function relationships during development of myocardial disease .
+We measured the degree of morphologic damage by ultrastructural examination of endomyocardial biopsy and the degree of performance abnormally by right heart catheterization in patients receiving DXR .
+Morphologic damage was variable but was proportional to the total cumulative DXR dose between 100 and 600 mg / m2 .
+Performance abnormalities correlated weakly with dose , exhibited a curvilinear relationship , and had a " threshold " for expression .
+Catheterization abnormalities correlated well with morphologic damage ( r = 0 . 57 to 0 . 78 ) in a subgroup of patients in whom exercise hemodynamics were measured , and this relationship also exhibited a curvilinear , threshold configuration .
+In DXR - CM myocardial damage is proportional to the degree of cytotoxic insult ( DXR dose ) while myocardial function is preserved until a critical dose or degree of damage is reached , after which myocardial performance deteriorates rapidly .

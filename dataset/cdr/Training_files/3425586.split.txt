@@ -1,0 +1,8 @@
+Dapsone-associated Heinz body hemolytic anemia in a Cambodian woman with hemoglobin E trait.
+A Cambodian woman with hemoglobin E trait (AE) and leprosy developed a Heinz body hemolytic anemia while taking a dose of dapsone (50 mg/day) not usually associated with clinical hemolysis.
+Her red blood cells (RBCs) had increased incubated Heinz body formation, decreased reduced glutathione (GSH), and decreased GSH stability.
+The pentose phosphate shunt activity of the dapsone-exposed AE RBCs was increased compared to normal RBCs.
+Although the AE RBCs from an individual not taking dapsone had increased incubated Heinz body formation, the GSH content and GSH stability were normal.
+The pentose phosphate shunt activity of the non-dapsone-exposed AE RBCs was decreased compared to normal RBCs.
+Thus, AE RBCs appear to have an increased sensitivity to oxidant stress both in vitro and in vivo, since dapsone does not cause hemolytic anemia at this dose in hematologically normal individuals.
+Given the influx of Southeast Asians into the United States, oxidant medications should be used with caution, especially if an infection is present, in individuals of ethnic backgrounds that have an increased prevalence of hemoglobin E.

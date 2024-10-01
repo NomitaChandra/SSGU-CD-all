@@ -1,0 +1,12 @@
+Interactive effects of variations in [ Na ] o and [ Ca ] o on rat atrial spontaneous frequency .
+The effects of varying the extracellular concentrations of Na and Ca ( [ Na ] o and [ Ca ] o ) on both , the spontaneous beating and the negative chronotropic action of verapamil , were studied in the isolated rat atria .
+Basal frequency ( BF ) evaluated by surface electrogram was 223 + / - 4 beats / min .
+in control Krebs - Ringer containing 137 mM Na and 1 . 35 mM Ca ( N ) .
+It decreased by 16 + / - 3 % by lowering [ Na ] o to 78 mM ( LNa ) , 23 + / - 2 % by lowering simultaneously [ Na ] o to 78 mM and [ Ca ] o to 0 . 675 mM ( LNa + LCa ) and 31 + / - 5 % by lowering [ Na ] o to 78 mM plus increasing [ Ca ] o to 3 . 6 mM ( LNa + HCa ) .
+At normal [ Na ] o , decrease ( 0 . 675 mM ) or increase ( 3 . 6 mM ) of [ Ca ] o did not modify BF ; a reduction of ten times ( 0 . 135 mM of normal [ Ca ] o was effective to reduce BF by 40 + / - 13 % .
+All negative chronotropic effects were BF - dependent .
+Dose - dependent bradycardia induced by verapamil was potentiated by LNa , LCa , and HCa .
+Independent but not additive effects of Na and Ca are shown by decreases in the values of [ verapamil ] o needed to reduce BF by 30 % ( IC30 ) with the following order of inhibitory potency : LNa > LCa > HCa > N , resulting LNa + HCa similar to LNa .
+The [ verapamil ] o that arrested atrial beating ( AC ) was also potentiated with the order LNa = LNa + LCa = LNa + HCa = LCa > HCa = N .
+The results indicate that rat atrial spontaneous beating is more dependent on [ Na ] o than on [ Ca ] o in a range of + / - 50 % of their normal concentration .
+Also the enhancement of verapamil effects on atrial beating was more pronounced at LNa than at LCa . ( ABSTRACT TRUNCATED AT 250 WORDS ) .

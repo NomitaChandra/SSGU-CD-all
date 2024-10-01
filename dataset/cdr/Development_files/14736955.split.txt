@@ -1,0 +1,15 @@
+Mitochondrial DNA and its respiratory chain products are defective in doxorubicin nephrosis.
+BACKGROUND: Doxorubicin induces a self-perpetuating nephropathy characterized by early glomerular and late-onset tubular lesions in rats.
+We investigated the potential role of mitochondrial injury in the onset of these lesions.
+METHODS: Rats were treated with intravenous doxorubicin (1 mg kg(-1) week(-1)) for 7 weeks and were sacrificed either 1 week ('short-term') or 30 weeks ('long-term') following the last dose.
+Additional rats received a single dose either 6 days or 2 h prior to euthanasia.
+All rats were killed at 48 weeks of age.
+Glomerular and tubular injury was monitored and correlated to the activity or expression of respiratory chain components.
+Finally, we quantified both nuclear and mitochondrial DNA (mtDNA) as well as superoxide production and the 4834 base pair 'common' mtDNA deletion.
+RESULTS: The 'long-term' group had significant glomerular and tubular lesions, depressed activities of mtDNA-encoded NADH dehydrogenase and cytochrome-c oxidase (COX) and increased citrate synthase activity.
+In addition, expression of the mtDNA-encoded COX subunit I was reduced and mtDNA levels were decreased.
+In 'short-term' rats, there were fewer tubular lesions, but similar numbers of glomerular lesions activity.
+Among all animals, glomerular and tubular injury were inversely correlated with mtDNA levels, mtDNA-encoded respiratory chain activities and with the expression of the mtDNA-encoded respiratory chain subunit COX-I.
+Injury was positively correlated with superoxide production and the activities of nucleus-encoded mitochondrial or cytoplasmic enzymes.
+Kidneys from the 'long-term' group showed more mtDNA deletions than in 'short-term' animals and these were not observed in the other groups.
+CONCLUSIONS: These results suggest an important role for quantitative and qualitative mtDNA alterations through the reduction of mtDNA-encoded respiratory chain function and induction of superoxide in doxorubicin-induced renal lesions.

@@ -1,0 +1,20 @@
+A Phase II trial of cisplatin plus WR - 2721 ( amifostine ) for metastatic breast carcinoma : an Eastern Cooperative Oncology Group Study ( E8188 ) .
+BACKGROUND : Cisplatin has minimal antitumor activity when used as second - or third - line treatment of metastatic breast carcinoma .
+Older reports suggest an objective response rate of 8 % when 60 - 120 mg / m2 of cisplatin is administered every 3 - 4 weeks .
+Although a dose - response effect has been observed with cisplatin , the dose - limiting toxicities associated with cisplatin ( e . g . , nephrotoxicity , ototoxicity , and neurotoxicity ) have limited its use as a treatment for breast carcinoma .
+WR - 2721 or amifostine initially was developed to protect military personnel in the event of nuclear war .
+Amifostine subsequently was shown to protect normal tissues from the toxic effects of alkylating agents and cisplatin without decreasing the antitumor effect of the chemotherapy .
+Early trials of cisplatin and amifostine also suggested that the incidence and severity of cisplatin - induced nephrotoxicity , ototoxicity , and neuropathy were reduced .
+METHODS : A Phase II study of the combination of cisplatin plus amifostine was conducted in patients with progressive metastatic breast carcinoma who had received one , but not more than one , chemotherapy regimen for metastatic disease .
+Patients received amifostine , 910 mg / m2 intravenously over 15 minutes .
+After completion of the amifostine infusion , cisplatin 120 mg / m2 was administered over 30 minutes .
+Intravenous hydration and mannitol was administered before and after cisplatin .
+Treatment was administered every 3 weeks until disease progression .
+RESULTS : Forty - four patients were enrolled in the study of which 7 ( 16 % ) were ineligible .
+A median of 2 cycles of therapy was administered to the 37 eligible patients .
+Six partial responses were observed for an overall response rate of 16 % .
+Most patients ( 57 % ) stopped treatment because of disease progression .
+Neurologic toxicity was reported in 52 % of patients .
+Seven different life - threatening toxicities were observed in patients while receiving treatment .
+CONCLUSIONS : The combination of cisplatin and amifostine in this study resulted in an overall response rate of 16 % .
+Neither a tumor - protective effect nor reduced toxicity to normal tissues was observed with the addition of amifostine to cisplatin in this trial .

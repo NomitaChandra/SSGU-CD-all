@@ -1,0 +1,12 @@
+Blockade of endothelial-mesenchymal transition by a Smad3 inhibitor delays the early development of streptozotocin-induced diabetic nephropathy.
+OBJECTIVE: A multicenter, controlled trial showed that early blockade of the renin-angiotensin system in patients with type 1 diabetes and normoalbuminuria did not retard the progression of nephropathy, suggesting that other mechanism(s) are involved in the pathogenesis of early diabetic nephropathy (diabetic nephropathy).
+We have previously demonstrated that endothelial-mesenchymal-transition (EndoMT) contributes to the early development of renal interstitial fibrosis independently of microalbuminuria in mice with streptozotocin (STZ)-induced diabetes.
+In the present study, we hypothesized that blocking EndoMT reduces the early development of diabetic nephropathy.
+RESEARCH DESIGN AND METHODS: EndoMT was induced in a mouse pancreatic microvascular endothelial cell line (MMEC) in the presence of advanced glycation end products (AGEs) and in the endothelial lineage-traceble mouse line Tie2-Cre;Loxp-EGFP by administration of AGEs, with nonglycated mouse albumin serving as a control.
+Phosphorylated Smad3 was detected by immunoprecipitation/Western blotting and confocal microscopy.
+Blocking studies using receptor for AGE siRNA and a specific inhibitor of Smad3 (SIS3) were performed in MMECs and in STZ-induced diabetic nephropathy in Tie2-Cre;Loxp-EGFP mice.
+RESULTS: Confocal microscopy and real-time PCR demonstrated that AGEs induced EndoMT in MMECs and in Tie2-Cre;Loxp-EGFP mice.
+Immunoprecipitation/Western blotting showed that Smad3 was activated by AGEs but was inhibited by SIS3 in MMECs and in STZ-induced diabetic nephropathy.
+Confocal microscopy and real-time PCR further demonstrated that SIS3 abrogated EndoMT, reduced renal fibrosis, and retarded progression of nephropathy.
+CONCLUSIONS: EndoMT is a novel pathway leading to early development of diabetic nephropathy.
+Blockade of EndoMT by SIS3 may provide a new strategy to retard the progression of diabetic nephropathy and other diabetes complications.

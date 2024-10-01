@@ -1,0 +1,12 @@
+Development of isoproterenol-induced cardiac hypertrophy.
+The development of cardiac hypertrophy was studied in adult female Wistar rats following daily subcutaneous injections of isoproterenol (ISO) (0.3 mg/kg body weight).
+A time course was established for the change in tissue mass, RNA and DNA content, as well as hydroxyproline content.
+Heart weight increased 44% after 8 days of treatment with a half time of 3.4 days.
+Ventricular RNA content was elevated 26% after 24 h of a single injection and reached a maximal level following 8 days of therapy.
+The half time for RNA accumulation was 2.0 days.
+The total content of hydroxyproline remained stable during the first 2 days of treatment but increased 46% after 4 days of therapy.
+Ventricular DNA content was unchanged during the early stage (1-4 days) of hypertrophic growth but increased to a new steady-state level 19% above the controls after 8 days of treatment.
+Intraventricular pressures and coronary flow measures were similar for control and experimental animals following 4 days of developed hypertrophy.
+However, dP/dt in the ISO-treated hearts was slightly but significantly (P less than 0.05) elevated.
+These data indicate that the adaptive response to ISO shows an early hypertrophic phase (1-4 days) characterized by a substantial increase in RNA content and cardiac mass in the absence of changes in DNA.
+However, prolonged stimulation (8-12 days) appears to represent a complex integration of both cellular hypertrophy and hyperplasia within the heart.

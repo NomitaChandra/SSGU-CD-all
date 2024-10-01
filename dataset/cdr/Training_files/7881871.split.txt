@@ -1,0 +1,10 @@
+Time course of lipid peroxidation in puromycin aminonucleoside-induced nephropathy.
+Reactive oxygen species have been implicated in the pathogenesis of acute puromycin aminonucleoside (PAN)-induced nephropathy, with antioxidants significantly reducing the proteinuria.
+The temporal relationship between lipid peroxidation in the kidney and proteinuria was examined in this study.
+Rats were treated with a single IV injection of puromycin aminonucleoside, (PAN, 7.5 mg/kg) and 24 hour urine samples were obtained prior to sacrifice on days 3,5,7,10,17,27,41 (N = 5-10 per group).
+The kidneys were removed, flushed with ice cold TRIS buffer.
+Kidney cortices from each animal were used to prepare homogenates.
+Tissue lipid peroxidation was measured in whole homogenates as well as in lipid extracts from homogenates as thiobarbituric acid reactive substances.
+Proteinuria was evident at day 5, peaked at day 7 and persisted to day 27.
+Lipid peroxidation in homogenates was maximal at day 3 and declined rapidly to control levels by day 17.
+This study supports the role of lipid peroxidation in mediating the proteinuric injury in PAN nephropathy.

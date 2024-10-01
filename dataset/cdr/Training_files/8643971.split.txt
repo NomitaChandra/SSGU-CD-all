@@ -1,0 +1,20 @@
+A phase I/II study of paclitaxel plus cisplatin as first-line therapy for head and neck cancers: preliminary results.
+Improved outcomes among patients with head and neck carcinomas require investigations of new drugs for induction therapy.
+Preliminary results of an Eastern Cooperative Oncology Group study of single-agent paclitaxel (Taxol; Bristol-Myers Squibb Company, Princeton, NJ) reported a 37% response rate in patients with head and neck cancer, and the paclitaxel/cisplatin combination has been used successfully and has significantly improved median response duration in ovarian cancer patients.
+We initiated a phase I/II trial to determine the response and toxicity of escalating paclitaxel doses combined with fixed-dose cisplatin with granulocyte colony-stimulating factor support in patients with untreated locally advanced inoperable head and neck carcinoma.
+To date, 23 men with a median age of 50 years and good performance status have entered the trial.
+Primary tumor sites were oropharynx, 10 patients; hypopharynx, four; larynx, two; oral cavity, three; unknown primary, two; and nasal cavity and parotid gland, one each.
+Of 20 patients evaluable for toxicity, four had stage III and 16 had stage IV disease.
+Treatment, given every 21 days for a maximum of three cycles, consisted of paclitaxel by 3-hour infusion followed the next day by a fixed dose of cisplatin (75 mg/m2).
+The dose levels incorporate escalating paclitaxel doses, and intrapatient escalations within a given dose level are permitted if toxicity permits.
+At the time of this writing, dose level 4 (260, 270, and 280 mg/m2) is being evaluated; three patients from this level are evaluable.
+With paclitaxel doses of 200 mg/m2 and higher, granulocyte colony-stimulating factor 5 micrograms/kg/d is given (days 4 through 12).
+Of 18 patients evaluable for response, seven (39%) achieved a complete response and six (33%) achieved a partial response.
+Three patients had no change and disease progressed in two.
+The overall response rate is 72%.
+Eleven responding patients had subsequent surgery/radiotherapy or radical radiotherapy.
+Two pathologic complete responses were observed in patients who had achieved clinical complete responses.
+Alopecia, paresthesias, and arthralgias/myalgias have occurred frequently, but with one exception (a grade 3 myalgia) they have been grade 1 or 2.
+No dose-limiting hematologic toxicity has been seen.
+Paclitaxel/cisplatin is an effective first-line regimen for locoregionally advanced head and neck cancer and continued study is warranted.
+Results thus far suggest no dose-response effect for paclitaxel doses above 200 mg/m2.

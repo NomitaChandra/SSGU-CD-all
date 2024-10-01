@@ -1,0 +1,7 @@
+Involvement of locus coeruleus and noradrenergic neurotransmission in fentanyl-induced muscular rigidity in the rat.
+Whereas muscular rigidity is a well-known side effect that is associated with high-dose fentanyl anesthesia, a paucity of information exists with regard to its underlying mechanism(s).
+We investigated in this study the possible engagement of locus coeruleus of the pons in this phenomenon, using male Sprague-Dawley rats anesthetized with ketamine.
+Under proper control of respiration, body temperature and end-tidal CO2, intravenous administration of fentanyl (50 or 100 micrograms/kg) consistently promoted an increase in electromyographic activity recorded from the gastrocnemius and abdominal rectus muscles.
+Such an induced muscular rigidity by the narcotic agent was significantly antagonized or even reduced by prior electrolytic lesions of the locus coeruleus or pretreatment with the alpha-adrenoceptor blocker, prazosin.
+Microinjection of fentanyl (2.5 micrograms/50 nl) directly into this pontine nucleus, on the other hand, elicited discernible electromyographic excitation.
+It is speculated that the induction of muscular rigidity by fentanyl may involve the coerulospinal noradrenergic fibers to the spinal motoneurons.

@@ -1,0 +1,8 @@
+Peripheral iron dextran induced degeneration of dopaminergic neurons in rat substantia nigra.
+Iron accumulation is considered to be involved in the pathogenesis of Parkinson's disease.
+To demonstrate the relationship between peripheral iron overload and dopaminergic neuron loss in rat substantia nigra (SN), in the present study we used fast cyclic voltammetry, tyrosine hydroxylase (TH) immunohistochemistry, Perls' iron staining, and high performance liquid chromatography-electrochemical detection to study the degeneration of dopaminergic neurons and increased iron content in the SN of iron dextran overloaded animals.
+The findings showed that peripheral iron dextran overload increased the iron staining positive cells and reduced the number of TH-immunoreactive neurons in the SN.
+As a result, dopamine release and content, as well as its metabolites contents were decreased in caudate putamen.
+Even more dramatic changes were found in chronic overload group.
+These results suggest that peripheral iron dextran can increase the iron level in the SN, where excessive iron causes the degeneration of dopaminergic neurons.
+The chronic iron overload may be more destructive to dopaminergic neurons than the acute iron overload.

@@ -1,0 +1,13 @@
+An integrated characterization of serological , pathological , and functional events in doxorubicin - induced cardiotoxicity .
+Many efficacious cancer treatments cause significant cardiac morbidity , yet biomarkers or functional indices of early damage , which would allow monitoring and intervention , are lacking .
+In this study , we have utilized a rat model of progressive doxorubicin ( DOX ) - induced cardiomyopathy , applying multiple approaches , including cardiac magnetic resonance imaging ( MRI ) , to provide the most comprehensive characterization to date of the timecourse of serological , pathological , and functional events underlying this toxicity .
+Hannover Wistar rats were dosed with 1 . 25 mg / kg DOX weekly for 8 weeks followed by a 4 week off - dosing " recovery " period .
+Electron microscopy of the myocardium revealed subcellular degeneration and marked mitochondrial changes after a single dose .
+Histopathological analysis revealed progressive cardiomyocyte degeneration , hypertrophy / cytomegaly , and extensive vacuolation after two doses .
+Extensive replacement fibrosis ( quantified by Sirius red staining ) developed during the off - dosing period .
+Functional indices assessed by cardiac MRI ( including left ventricular ejection fraction ( LVEF ) , cardiac output , and E / A ratio ) declined progressively , reaching statistical significance after two doses and culminating in " clinical " LV dysfunction by 12 weeks .
+Significant increases in peak myocardial contrast enhancement and serological cardiac troponin I ( cTnI ) emerged after eight doses , importantly preceding the LVEF decline to < 50 % .
+Troponin I levels positively correlated with delayed and peak gadolinium contrast enhancement , histopathological grading , and diastolic dysfunction .
+In summary , subcellular cardiomyocyte degeneration was the earliest marker , followed by progressive functional decline and histopathological manifestations .
+Myocardial contrast enhancement and elevations in cTnI occurred later .
+However , all indices predated " clinical " LV dysfunction and thus warrant further evaluation as predictive biomarkers .

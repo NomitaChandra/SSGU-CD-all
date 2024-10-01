@@ -1,0 +1,11 @@
+Resuscitation with lipid , epinephrine , or both in levobupivacaine - induced cardiac toxicity in newborn piglets .
+BACKGROUND : The optimal dosing regimens of lipid emulsion , epinephrine , or both are not yet determined in neonates in cases of local anaesthetic systemic toxicity ( LAST ) .
+METHODS : Newborn piglets received levobupivacaine until cardiovascular collapse occurred .
+Standard cardiopulmonary resuscitation was started and electrocardiogram ( ECG ) was monitored for ventricular tachycardia , fibrillation , or QRS prolongation .
+Piglets were then randomly allocated to four groups : control ( saline ) , Intralipid ( ) alone , epinephrine alone , or a combination of Intralipd plus epinephrine .
+Resuscitation continued for 30 min or until there was a return of spontaneous circulation ( ROSC ) accompanied by a mean arterial pressure at or superior to the baseline pressure and normal sinus rhythm for a period of 30 min .
+RESULTS : ROSC was achieved in only one of the control piglets compared with most of the treated piglets .
+Mortality was not significantly different between the three treatment groups , but was significantly lower in all the treatment groups compared with control .
+The number of ECG abnormalities was zero in the Intralipid only group , but 14 and 17 , respectively , in the epinephrine and epinephrine plus lipid groups ( P < 0 . 05 ) .
+CONCLUSIONS : Lipid emulsion with or without epinephrine , or epinephrine alone were equally effective in achieving a return to spontaneous circulation in this model of LAST .
+Epinephrine alone or in combination with lipid was associated with an increased number of ECG abnormalities compared with lipid emulsion alone .

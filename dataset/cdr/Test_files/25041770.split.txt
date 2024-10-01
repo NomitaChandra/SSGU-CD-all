@@ -1,0 +1,7 @@
+Rhabdomyolysis in association with simvastatin and dosage increment in clarithromycin.
+Clarithromycin is the most documented cytochrome P450 3A4 (CYP3A4) inhibitor to cause an adverse interaction with simvastatin.
+This particular case is of interest as rhabdomyolysis only occurred after an increase in the dose of clarithromycin.
+The patient developed raised cardiac biomarkers without any obvious cardiac issues, a phenomenon that has been linked to rhabdomyolysis previously.
+To date, there has been no reported effect of rhabdomyolysis on the structure and function of cardiac muscle.
+Clinicians need to be aware of prescribing concomitant medications that increase the risk of myopathy or inhibit the CYP3A4 enzyme.
+Our case suggests that troponin elevation could be associated with statin induced rhabdomyolysis, which may warrant further studies.

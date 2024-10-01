@@ -1,0 +1,8 @@
+Effects of aminophylline on the threshold for initiating ventricular fibrillation during respiratory failure .
+Cardiac arrhythmias have frequently been reported in association with respiratory failure .
+The possible additive role of pharmacologic agents in precipitating cardiac disturbances in patients with respiratory failure has only recently been emphasized .
+The effects of aminophylline on the ventricular fibrillation threshold during normal acid - base conditions and during respiratory failure were studied in anesthetized open chest dogs .
+The ventricular fibrillation threshold was measured by passing a gated train of 12 constant current pulses through the ventricular myocardium during the vulnerable period of the cardiac cycle .
+During the infusion of aminophylline , the ventricular fibrillation threshold was reduced by 30 to 40 percent of the control when pH and partial pressures of oxygen ( PO2 ) and carbon dioxide ( CO2 ) were kept within normal limits .
+When respiratory failure was produced by hypoventilation ( pH 7 . 05 to 7 . 25 ; PC02 70 to 100 mm Hg : P02 20 to 40 mm Hg ) , infusion of aminophylline resulted in an even greater decrease in ventricular fibrillation threshold to 60 percent of the control level .
+These experiments suggest that although many factors may contribute to the increased incidence of ventricular arrhythmias in respiratory failure , pharmacologic agents , particularly aminophylline , may play a significant role .

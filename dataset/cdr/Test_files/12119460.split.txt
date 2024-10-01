@@ -1,0 +1,17 @@
+High-dose 5-fluorouracil / folinic acid in combination with three-weekly mitomycin C in the treatment of advanced gastric cancer.
+A phase II study.
+BACKGROUND: The 24-hour continuous infusion of 5-fluorouracil (5-FU) and folinic acid (FA) as part of several new multidrug chemotherapy regimens in advanced gastric cancer (AGC) has shown to be effective, with low toxicity.
+In a previous phase II study with 3-weekly bolus 5-FU, FA and mitomycin C (MMC) we found a low toxicity rate and response rates comparable to those of regimens such as ELF, FAM or FAMTX, and a promising median overall survival.
+In order to improve this MMC-dependent schedule we initiated a phase II study with high-dose 5-FU/FA and 3-weekly bolus MMC.
+PATIENTS AND METHODS: From February, 1998 to September, 2000 we recruited 33 patients with AGC to receive weekly 24-hour 5-FU 2,600 mg/m(2) preceded by 2-hour FA 500 mg/m(2) for 6 weeks, followed by a 2-week rest period.
+Bolus MMC 10 mg/m(2) was added in 3-weekly intervals.
+Treatment given on an outpatient basis, using portable pump systems, was repeated on day 57.
+Patients' characteristics were: male/female ratio 20/13; median age 57 (27-75) years; median WHO status 1 (0-2).
+18 patients had a primary AGC, and 15 showed a relapsed AGC.
+Median follow-up was 11.8 months (range of those surviving: 2.7-11.8 months).
+RESULTS: 32 patients were evaluable for response - complete remission 9.1% (n = 3), partial remission 45.5% (n = 15), no change 27.3% (n = 9), progressive disease 15.1% (n = 5).
+Median overall survival time was 10.2 months [95% confidence interval (CI): 8.7-11.6], and median progression-free survival time was 7.6 months (95% CI: 4.4-10.9).
+The worst toxicities (%) observed were (CTC-NCI 1/2/3): leukopenia 45.5/18.2/6.1, thrombocytopenia 33.3/9.1/6.1, vomitus 24.2/9.1/0, diarrhea 36.4/6.1/3.0, stomatitis 18.2/9.1/0, hand-foot syndrome 12.1/0/0.
+Two patients developed hemolytic-uremic syndrome (HUS).
+CONCLUSIONS: High-dose 5-FU/FA/MMC is an effective and well-tolerated outpatient regimen for AGC (objective response rate 54.6%).
+It may serve as an alternative to cisplatin-containing regimens; however, it has to be considered that possibly HUS may occur.

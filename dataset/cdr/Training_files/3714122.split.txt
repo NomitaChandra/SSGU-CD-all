@@ -1,0 +1,7 @@
+The correlation between neurotoxic esterase inhibition and mipafox-induced neuropathic damage in rats.
+The correlation between neuropathic damage and inhibition of neurotoxic esterase or neuropathy target enzyme (NTE) was examined in rats acutely exposed to Mipafox (N, N'-diisopropylphosphorodiamidofluoridate), a neurotoxic organophosphate.
+Brain and spinal cord NTE activities were measured in Long-Evans male rats 1 hr post-exposure to various dosages of Mipafox (ip, 1-15 mg/kg).
+These data were correlated with histologically scored cervical cord damage in a separate group of similarly dosed rats sampled 14-21 days post-exposure.
+Those dosages (greater than or equal to 10 mg/kg) that inhibited mean NTE activity in the spinal cord greater than or equal to 73% and brain greater than or equal to 67% of control values produced severe (greater than or equal to 3) cervical cord pathology in 85% of the rats.
+In contrast, dosages of Mipafox (less than or equal to 5 mg/kg) which inhibited mean NTE activity in spinal cord less than or equal to 61% and brain less than or equal to 60% produced this degree of cord damage in only 9% of the animals.
+These data indicate that a critical percentage of NTE inhibition in brain and spinal cord sampled shortly after Mipafox exposure can predict neuropathic damage in rats several weeks later.

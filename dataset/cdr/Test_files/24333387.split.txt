@@ -1,0 +1,14 @@
+Glial activation and post-synaptic neurotoxicity: the key events in Streptozotocin (ICV) induced memory impairment in rats.
+In the present study the role of glial activation and post synaptic toxicity in ICV Streptozotocin (STZ) induced memory impaired rats was explored.
+In experiment set up 1: Memory deficit was found in Morris water maze test on 14-16 days after STZ (ICV; 3mg/Kg) administration.
+STZ causes increased expression of GFAP, CD11b and TNF-a indicating glial activation and neuroinflammation.
+STZ also significantly increased the level of ROS, nitrite, Ca(2+) and reduced the mitochondrial activity in synaptosomal preparation illustrating free radical generation and excitotoxicity.
+Increased expression and activity of Caspase-3 was also observed in STZ treated rat which specify apoptotic cell death in hippocampus and cortex.
+STZ treatment showed decrease expression of post synaptic markers CaMKIIa and PSD-95, while, expression of pre synaptic markers (synaptophysin and SNAP-25) remains unaltered indicating selective post synaptic neurotoxicity.
+Oral treatment with Memantine (10mg/kg) and Ibuprofen (50 mg/kg) daily for 13 days attenuated STZ induced glial activation, apoptotic cell death and post synaptic neurotoxicity in rat brain.
+Further, in experiment set up 2: where memory function was not affected i.e.
+7-9 days after STZ treatment.
+The level of GFAP, CD11b, TNF-a, ROS and nitrite levels were increased.
+On the other hand, apoptotic marker, synaptic markers, mitochondrial activity and Ca(2+) levels remained unaffected.
+Collective data indicates that neuroinflammatory process and oxidative stress occurs earlier to apoptosis and does not affect memory function.
+Present study clearly suggests that glial activation and post synaptic neurotoxicity are the key factors in STZ induced memory impairment and neuronal cell death.

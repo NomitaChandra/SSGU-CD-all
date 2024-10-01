@@ -1,0 +1,11 @@
+Conformationally restricted analogs of BD1008 and an antisense oligodeoxynucleotide targeting sigma1 receptors produce anti - cocaine effects in mice .
+Cocaine 's ability to interact with sigma receptors suggests that these proteins mediate some of its behavioral effects .
+Therefore , three novel sigma receptor ligands with antagonist activity were evaluated in Swiss Webster mice : BD1018 ( 3S - 1 - [ 2 - ( 3 , 4 - dichlorophenyl ) ethyl ] - 1 , 4 - diazabicyclo [ 4 . 3 . 0 ] nonane ) , BD1063 ( 1 - [ 2 - ( 3 , 4 - dichlorophenyl ) ethyl ] - 4 - methylpiperazine ) , and LR132 ( 1R , 2S - ( + ) - cis - N - [ 2 - ( 3 , 4 - dichlorophenyl ) ethyl ] - 2 - ( 1 - pyrrolidinyl ) cyclohexylamine ) .
+Competition binding assays demonstrated that all three compounds have high affinities for sigma1 receptors .
+The three compounds vary in their affinities for sigma2 receptors and exhibit negligible affinities for dopamine , opioid , GABA ( A ) and NMDA receptors .
+In behavioral studies , pre - treatment of mice with BD1018 , BD1063 , or LR132 significantly attenuated cocaine - induced convulsions and lethality .
+Moreover , post - treatment with LR132 prevented cocaine - induced lethality in a significant proportion of animals .
+In contrast to the protection provided by the putative antagonists , the well - characterized sigma receptor agonist di - o - tolylguanidine ( DTG ) and the novel sigma receptor agonist BD1031 ( 3R - 1 - [ 2 - ( 3 , 4 - dichlorophenyl ) ethyl ] - 1 , 4 - diazabicyclo [ 4 . 3 . 0 ] nonane ) each worsened the behavioral toxicity of cocaine .
+At doses where alone , they produced no significant effects on locomotion , BD1018 , BD1063 and LR132 significantly attenuated the locomotor stimulatory effects of cocaine .
+To further validate the hypothesis that the anti - cocaine effects of the novel ligands involved antagonism of sigma receptors , an antisense oligodeoxynucleotide against sigma1 receptors was also shown to significantly attenuate the convulsive and locomotor stimulatory effects of cocaine .
+Together , the data suggests that functional antagonism of sigma receptors is capable of attenuating a number of cocaine - induced behaviors .

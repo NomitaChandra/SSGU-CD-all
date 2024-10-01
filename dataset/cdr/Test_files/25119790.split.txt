@@ -1,0 +1,12 @@
+Curcumin prevents maleate-induced nephrotoxicity: relation to hemodynamic alterations, oxidative stress, mitochondrial oxygen consumption and activity of respiratory complex I.
+The potential protective effect of the dietary antioxidant curcumin (120 mg/Kg/day for 6 days) against the renal injury induced by maleate was evaluated.
+Tubular proteinuria and oxidative stress were induced by a single injection of maleate (400 mg/kg) in rats.
+Maleate-induced renal injury included increase in renal vascular resistance and in the urinary excretion of total protein, glucose, sodium, neutrophil gelatinase-associated lipocalin (NGAL) and N-acetyl b-D-glucosaminidase (NAG), upregulation of kidney injury molecule (KIM)-1, decrease in renal blood flow and claudin-2 expression besides of necrosis and apoptosis of tubular cells on 24 h.
+Oxidative stress was determined by measuring the oxidation of lipids and proteins and diminution in renal Nrf2 levels.
+Studies were also conducted in renal epithelial LLC-PK1 cells and in mitochondria isolated from kidneys of all the experimental groups.
+Maleate induced cell damage and reactive oxygen species (ROS) production in LLC-PK1 cells in culture.
+In addition, maleate treatment reduced oxygen consumption in ADP-stimulated mitochondria and diminished respiratory control index when using malate/glutamate as substrate.
+The activities of both complex I and aconitase were also diminished.
+All the above-described alterations were prevented by curcumin.
+It is concluded that curcumin is able to attenuate in vivo maleate-induced nephropathy and in vitro cell damage.
+The in vivo protection was associated to the prevention of oxidative stress and preservation of mitochondrial oxygen consumption and activity of respiratory complex I, and the in vitro protection was associated to the prevention of ROS production.

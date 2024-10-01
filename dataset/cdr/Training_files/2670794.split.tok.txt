@@ -1,0 +1,9 @@
+Effects of an inhibitor of angiotensin converting enzyme ( Captopril ) on pulmonary and renal insufficiency due to intravascular coagulation in the rat .
+Induction of intravascular coagulation and inhibition of fibrinolysis by injection of thrombin and tranexamic acid ( AMCA ) in the rat gives rise to pulmonary and renal insufficiency resembling that occurring after trauma or sepsis in man .
+Injection of Captopril ( 1 mg / kg ) , an inhibitor of angiotensin converting enzyme ( ACE ) , reduced both pulmonary and renal insufficiency in this rat model .
+The lung weights were lower and PaO2 was improved in rats given this enzyme - blocking agent .
+The contents of albumin in the lungs were not changed , indicating that Captopril did not influence the extravasation of protein .
+Renal damage as reflected by an increase in serum urea and in kidney weight was prevented by Captopril .
+The amount of fibrin in the kidneys was also considerably lower than in animals which received thrombin and AMCA alone .
+It is suggested that the effects of Captopril on the lungs may be attributable to a vasodilatory effect due to a reduction in the circulating level of Angiotension II and an increase in prostacyclin ( secondary to an increase in bradykinin ) .
+Captopril may , by the same mechanism , reduce the increase in glomerular filtration that is known to occur after an injection of thrombin , thereby diminishing the aggregation of fibrin monomers in the glomeruli , with the result that less fibrin will be deposited and thus less kidney damage will be produced .

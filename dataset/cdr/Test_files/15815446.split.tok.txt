@@ -1,0 +1,9 @@
+Focal cerebral ischemia in rats : effect of phenylephrine - induced hypertension during reperfusion .
+After 180 min of temporary middle cerebral artery occlusion in spontaneously hypertensive rats , the effect of phenylephrine - induced hypertension on ischemic brain injury and blood - brain barrier permeability was determined .
+Blood pressure was manipulated by one of the following schedules during 120 min of reperfusion : Control , normotensive reperfusion ; 90 / hypertension ( 90 / HTN ) , blood pressure was increased by 35 mm Hg during the initial 90 min of reperfusion only ; 15 / hypertension ( 15 / HTN ) , normotensive reperfusion for 30 min followed by 15 min of hypertension and 75 min of normotension .
+Part A , for eight rats in each group brain injury was evaluated by staining tissue using 2 , 3 , 5 - triphenyltetrazolium chloride and edema was evaluated by microgravimetry .
+Part B , for eight different rats in each group blood - brain barrier permeability was evaluated by measuring the amount and extent of extravasation of Evans Blue dye .
+Brain injury ( percentage of the ischemic hemisphere ) was less in the 15 / HTN group ( 16 + / - 6 , mean + / - SD ) versus the 90 / HTN group ( 30 + / - 6 ) , which was in turn less than the control group ( 42 + / - 5 ) .
+Specific gravity was greater in the 15 / HTN group ( 1 . 043 + / - 0 . 002 ) versus the 90 / HTN ( 1 . 036 + / - 0 . 003 ) and control ( 1 . 037 + / - 0 . 003 ) groups .
+Evans Blue ( mug g - 1 of brain tissue ) was greater in the 90 / HTN group ( 24 . 4 + / - 6 . 0 ) versus the control group ( 12 . 3 + / - 4 . 1 ) , which was in turn greater than the 15 / HTN group ( 7 . 3 + / - 3 . 2 ) .
+This study supports a hypothesis that during reperfusion , a short interval of hypertension decreases brain injury and edema ; and that sustained hypertension increases the risk of vasogenic edema .

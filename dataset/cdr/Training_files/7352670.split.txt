@@ -1,0 +1,9 @@
+Rebound hypertensive after sodium nitroprusside prevented by saralasin in rats.
+The role of the renin--angiotensin system in the maintenance of blood pressure during halothane anesthesia and sodium nitroprusside (SNP)-induced hypotension was evaluated.
+Control rats received halothane anesthesia (1 MAC) for one hour, followed by SNP infusion, 40 microgram/kg/min, for 30 min, followed by a 30-min recovery period.
+A second group of rats was treated identically and, in addition, received an infusion of saralasin (a competitive inhibitor of angiotensin II) throughout the experimental period.
+In each group, SNP infusion resulted in an initial decrease in blood pressure from 86 torr and 83 torr, respectively, to 48 torr.
+During the SNP infusion the control animals demonstrated a progressive increase in blood pressure to 61 torr, whereas the saralasin-treated animals showed no change.
+Following discontinuation of SNP, blood pressure in the control animals rebounded to 94 torr, as compared with 78 torr in the saralasin-treated rats.
+This study indicates that with stable halothane anesthesia, the partial recovery of blood pressure during SNP infusion and the post-SNP rebound of blood pressure can be completely blocked by saralasin.
+This demonstrates the participation of the renin--angiotensin system in antagonizing the combined hypotensive effects of halothane and SNP.

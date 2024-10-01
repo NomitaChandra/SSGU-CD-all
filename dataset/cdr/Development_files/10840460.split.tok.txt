@@ -1,0 +1,33 @@
+Cyclophosphamide - induced cystitis in freely - moving conscious rats : behavioral approach to a new model of visceral pain .
+PURPOSE : To develop a model of visceral pain in rats using a behavioral approach .
+Cyclophosphamide ( CP ) , an antitumoral agent known to produce toxic effects on the bladder wall through its main toxic metabolite acrolein , was used to induce cystitis .
+MATERIALS AND METHODS : CP was administered at doses of 50 , 100 and 200 mg . / kg .
+i . p .
+to male rats , and their behavior observed and scored .
+The effects of morphine ( 0 . 5 to 4 mg . / kg .
+i . v . ) on CP - induced behavioral modifications were tested administered alone and after naloxone ( 1 mg . / kg .
+s . c . ) .
+In addition , 90 minutes after CP injection , that is , at the time of administration of morphine , the bladder was removed in some rats for histological examination .
+Finally , to show that the bladder is essential for the CP - induced behavioral modifications , female rats also received CP at doses of 200 mg . / kg .
+i . p .
+and of 20 mg .
+by the intravesical route , and acrolein at doses of 0 . 5 mg .
+by the intravesical route and of 5 mg . / kg .
+i . v .
+RESULTS : CP dose - relatedly induced marked behavioral modifications in male rats : breathing rate decrease , closing of the eyes and occurrence of specific postures .
+Morphine dose - dependently reversed these behavioral disorders .
+A dose of 0 . 5 mg . / kg .
+produced a reduction of almost 50 % of the behavioral score induced by CP 200 mg . / kg .
+This effect was completely prevented by pretreatment with naloxone .
+At the time of administration of morphine , histological modifications of the bladder wall , such as chorionic and muscle layer edema , were observed .
+In female rats , CP 200 mg . / kg .
+i . p .
+produced the same marked behavioral modifications as those observed in male rats .
+Administered at the dose of 20 mg .
+intravesically , CP did not produce any behavioral effects , whereas acrolein at 0 . 5 mg .
+intravesically induced behavioral modifications identical to those under CP 200 mg . / kg .
+i . p . , with the same maximal levels .
+Conversely , acrolein 5 mg . / kg .
+i . v .
+did not produce any behavioral effects at all .
+CONCLUSIONS : Overall , these results indicate that this experimental model of CP - induced cystitis may be an interesting new behavioral model of inflammatory visceral pain , allowing a better understanding of these painful syndromes and thus a better therapeutic approach to them .

@@ -1,0 +1,9 @@
+Hydroxytyrosol ameliorates oxidative stress and mitochondrial dysfunction in doxorubicin-induced cardiotoxicity in rats with breast cancer.
+Oxidative stress is involved in several processes including cancer, aging and cardiovascular disease, and has been shown to potentiate the therapeutic effect of drugs such as doxorubicin.
+Doxorubicin causes significant cardiotoxicity characterized by marked increases in oxidative stress and mitochondrial dysfunction.
+Herein, we investigate whether doxorubicin-associated chronic cardiac toxicity can be ameliorated with the antioxidant hydroxytyrosol in rats with breast cancer.
+Thirty-six rats bearing breast tumors induced chemically were divided into 4 groups: control, hydroxytyrosol (0.5mg/kg, 5days/week), doxorubicin (1mg/kg/week), and doxorubicin plus hydroxytyrosol.
+Cardiac disturbances at the cellular and mitochondrial level, mitochondrial electron transport chain complexes I-IV and apoptosis-inducing factor, and oxidative stress markers have been analyzed.
+Hydroxytyrosol improved the cardiac disturbances enhanced by doxorubicin by significantly reducing the percentage of altered mitochondria and oxidative damage.
+These results suggest that hydroxytyrosol improve the mitochondrial electron transport chain.
+This study demonstrates that hydroxytyrosol protect rat heart damage provoked by doxorubicin decreasing oxidative damage and mitochondrial alterations.

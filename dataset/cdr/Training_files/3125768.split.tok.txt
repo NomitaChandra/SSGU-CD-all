@@ -1,0 +1,9 @@
+Intracranial pressure increases during alfentanil - induced rigidity .
+Intracranial pressure ( ICP ) was measured during alfentanil - induced rigidity in rats .
+Ten rats had arterial , central venous ( CVP ) , and subdural cannulae inserted under halothane anesthesia .
+The animals were mechanically ventilated to achieve normocarbia ( PCO2 = 42 + / - 1 mmHg , mean + / - SE ) .
+Following instrumentation , halothane was discontinued and alfentanil ( 125 mu / kg ) administered iv during emergence from halothane anesthesia .
+In the five rats that developed somatic rigidity , ICP and CVP increased significantly above baseline ( delta ICP 7 . 5 + / - 1 . 0 mmHg , delta CVP 5 . 9 + / - 1 . 3 mmHg ) .
+These variables returned to baseline when rigidity was abolished with metocurine .
+In five rats that did not become rigid , ICP and CVP did not change following alfentanil .
+These observations suggest that rigidity should be prevented when alfentanil , and , presumably , other opiates , are used in the anesthetic management of patients with ICP problems .

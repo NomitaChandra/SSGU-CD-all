@@ -1,0 +1,13 @@
+Neuropsychiatric behaviors in the MPTP marmoset model of Parkinson's disease.
+OBJECTIVES: Neuropsychiatric symptoms are increasingly recognised as a significant problem in patients with Parkinson's disease (PD).
+These symptoms may be due to 'sensitisation' following repeated levodopa treatment or a direct effect of dopamine on the disease state.
+The levodopa-treated MPTP-lesioned marmoset was used as a model of neuropsychiatric symptoms in PD patients.
+Here we compare the time course of levodopa-induced motor fluctuations and neuropsychiatric-like behaviors to determine the relationship between duration of treatment and onset of symptoms.
+METHODS: Marmosets were administered 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (2.0 mg/kg s.c.) for five days, resulting in stable parkinsonism.
+Levodopa (15 mg/kg and benserazide, 3.75 mg/kg) p.o.
+b.i.d, was administered for 30 days.
+Animals were evaluated for parkinsonian disability, dyskinesia and on-time (motor fluctuations) and neuropsychiatric-like behaviors on Day 0 (prior to levodopa) and on Days 1, 7, 13, 27 and 30 of treatment using post hoc DVD analysis by a trained rater, blind to the treatment day.
+RESULTS: The neuropsychiatric-like behavior rating scale demonstrated high interrater reliability between three trained raters of differing professional backgrounds.
+As anticipated, animals exhibited a progressive increase in levodopa-induced motor fluctuations, dyskinesia and wearing-off, that correlated with the duration of levodopa therapy.
+In contrast, levodopa-induced neuropsychiatric-like behaviors were present on Day 1 of levodopa treatment and their severity did not correlate with duration of treatment.
+CONCLUSIONS: The data suggest that neuropsychiatric disorders in PD are more likely an interaction between levodopa and the disease state than a consequence of sensitisation to repeated dopaminergic therapy.

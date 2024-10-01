@@ -1,0 +1,12 @@
+Activation of poly(ADP-ribose) polymerase contributes to development of doxorubicin-induced heart failure.
+Activation of the nuclear enzyme poly(ADP-ribose) polymerase (PARP) by oxidant-mediated DNA damage is an important pathway of cell dysfunction and tissue injury in conditions associated with oxidative stress.
+Increased oxidative stress is a major factor implicated in the cardiotoxicity of doxorubicin (DOX), a widely used antitumor anthracycline antibiotic.
+Thus, we hypothesized that the activation of PARP may contribute to the DOX-induced cardiotoxicity.
+Using a dual approach of PARP-1 suppression, by genetic deletion or pharmacological inhibition with the phenanthridinone PARP inhibitor PJ34, we now demonstrate the role of PARP in the development of cardiac dysfunction induced by DOX.
+PARP-1+/+ and PARP-1-/- mice received a single injection of DOX (25 mg/kg i.p).
+Five days after DOX administration, left ventricular performance was significantly depressed in PARP-1+/+ mice, but only to a smaller extent in PARP-1-/- ones.
+Similar experiments were conducted in BALB/c mice treated with PJ34 or vehicle.
+Treatment with a PJ34 significantly improved cardiac dysfunction and increased the survival of the animals.
+In addition PJ34 significantly reduced the DOX-induced increase in the serum lactate dehydrogenase and creatine kinase activities but not metalloproteinase activation in the heart.
+Thus, PARP activation contributes to the cardiotoxicity of DOX.
+PARP inhibitors may exert protective effects against the development of severe cardiac complications associated with the DOX treatment.

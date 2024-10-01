@@ -1,0 +1,4 @@
+REM sleep deprivation changes behavioral response to catecholaminergic and serotonergic receptor activation in rats .
+The effects of REM sleep deprivation ( REMD ) on apomorphine - induced aggressiveness and quipazine - induced head twitches in rats were determined .
+Forty - eight hr of REMD increased apomorphine - induced aggressiveness , and reduced ( immediately after completing of REMD ) or increased ( 96 hr after completing of REMD ) quipazine - induced head twitches .
+Results are discussed in terms of similarity to pharmacological effects of other antidepressive treatments .

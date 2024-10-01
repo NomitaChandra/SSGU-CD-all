@@ -1,0 +1,10 @@
+Characterization of estrogen-induced adenohypophyseal tumors in the Fischer 344 rat.
+Pituitary tumors were induced in F344 female rats by chronic treatment with diethylstilbestrol (DES, 8-10 mg) implanted subcutaneously in silastic capsules.
+Over a range of 1-150 days of DES treatment, pairs of control and DES-treated rats were sacrificed, and their pituitaries dissociated enzymatically into single-cell preparations.
+The cell populations were examined regarding total cell recovery correlated with gland weight, intracellular prolactin (PRL) content and subsequent release in primary culture, immunocytochemical PRL staining, density and/or size alterations via separation on Ficoll-Hypaque and by unit gravity sedimentation, and cell cycle analysis, after acriflavine DNA staining, by laser flow cytometry.
+Total cell yields from DES-treated pituitaries increased from 1.3 times control yields at 8 days of treatment to 58.9 times control values by day 150.
+Intracellular PRL content ranged from 1.9 to 9.4 times control levels, and PRL release in vitro was significantly and consistently higher than controls, after at least 8 days of DES exposure.
+Beyond 8 days of DES exposure, the immunochemically PRL-positive proportion of cells increased to over 50% of the total population.
+Increased density and/or size and PRL content were indicated for the majority of the PRL cell population in both types of separation protocols.
+All these effects of DES were more pronounced among previously ovariectomized animals.
+The data extend the findings of other investigators, further establishing the DES-induced tumor as a model for study of PRL cellular control mechanisms.

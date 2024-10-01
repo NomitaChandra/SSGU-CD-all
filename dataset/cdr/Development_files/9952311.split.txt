@@ -1,0 +1,10 @@
+Structural and functional impairment of mitochondria in adriamycin-induced cardiomyopathy in mice: suppression of cytochrome c oxidase II gene expression.
+The use of adriamycin (ADR) in cancer chemotherapy has been limited due to its cumulative cardiovascular toxicity.
+Earlier observations that ADR interacts with mitochondrial cytochrome c oxidase (COX) and suppresses its enzyme activity led us to investigate ADR's action on the cardiovascular functions and heart mitochondrial morphology in Balb-c mice i.p.
+treated with ADR for several weeks.
+At various times during treatment, the animals were assessed for cardiovascular functions by electrocardiography and for heart tissue damage by electron microscopy.
+In parallel, total RNA was extracted from samples of dissected heart and analyzed by Northern blot hybridization to determine the steady-state level of three RNA transcripts encoded by the COXII, COXIII, and COXIV genes.
+Similarly, samples obtained from the liver of the same animals were analyzed for comparative studies.
+Our results indicated that 1) treatment of mice with ADR caused cardiovascular arrhythmias characterized by bradycardia, extension of ventricular depolarization time (tQRS), and failure of QRS at high concentrations (10-14 mg/kg body weight cumulative dose); 2) the heart mitochondria underwent swelling, fusion, dissolution, and/or disruption of mitochondrial cristae after several weeks of treatment.
+Such abnormalities were not observed in the mitochondria of liver tissue; and 3) among the three genes of COX enzyme examined, only COXII gene expression was suppressed by ADR treatment, mainly after 8 weeks in both heart and liver.
+Knowing that heart mitochondria represent almost 40% of heart muscle by weight, we conclude that the deteriorating effects of ADR on cardiovascular function involve mitochondrial structural and functional impairment.

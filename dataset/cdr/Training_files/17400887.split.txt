@@ -1,0 +1,11 @@
+Neuroinflammation and behavioral abnormalities after neonatal terbutaline treatment in rats: implications for autism.
+Autism is a neurodevelopmental disorder presenting before 3 years of age with deficits in communication and social skills and repetitive behaviors.
+In addition to genetic influences, recent studies suggest that prenatal drug or chemical exposures are risk factors for autism.
+Terbutaline, a beta2-adrenoceptor agonist used to arrest preterm labor, has been associated with increased concordance for autism in dizygotic twins.
+We studied the effects of terbutaline on microglial activation in different brain regions and behavioral outcomes in developing rats.
+Newborn rats were given terbutaline (10 mg/kg) daily on postnatal days (PN) 2 to 5 or PN 11 to 14 and examined 24 h after the last dose and at PN 30.
+Immunohistochemical studies showed that administration of terbutaline on PN 2 to 5 produced a robust increase in microglial activation on PN 30 in the cerebral cortex, as well as in cerebellar and cerebrocortical white matter.
+None of these effects occurred in animals given terbutaline on PN 11 to 14.
+In behavioral tests, animals treated with terbutaline on PN 2 to 5 showed consistent patterns of hyper-reactivity to novelty and aversive stimuli when assessed in a novel open field, as well as in the acoustic startle response test.
+Our findings indicate that beta2-adrenoceptor overstimulation during an early critical period results in microglial activation associated with innate neuroinflammatory pathways and behavioral abnormalities, similar to those described in autism.
+This study provides a useful animal model for understanding the neuropathological processes underlying autism spectrum disorders.

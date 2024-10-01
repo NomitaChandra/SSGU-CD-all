@@ -1,0 +1,15 @@
+Valvular heart disease in patients with Parkinson's disease treated with pergolide.
+Course following treatment modifications.
+Valvular heart abnormalities have been reported in patients with Parkinson's disease (PD) treated with pergolide.
+However, the incidence and severity of these abnormalities vary from study to study and their course after drug withdrawal has not been systematically assessed.
+OBJECTIVES: To estimate the frequency and severity of valvular heart abnormality and its possible reversibility after drug withdrawal in a case-control study.
+METHODS: All PD patients in the Amiens area treated with pergolide were invited to attend a cardiologic assessment including transthoracic echocardiography.
+Thirty PD patients participated in the study.
+A second echocardiography was performed (median interval: 13 months) after pergolide withdrawal (n=10 patients).
+Controls were age- and sex-matched non-PD patients referred to the cardiology department.
+RESULTS: Compared to controls, aortic regurgitation (OR: 3.1; 95% IC: 1.1-8.8) and mitral regurgitation (OR: 10.7; 95% IC: 2.1-53) were more frequent in PD patients (tricuspid: NS).
+The number of affected valves (n=2.4+/-0.7) and the sum of regurgitation grades (n=2.8+/-1.09) were higher (p=0.008 and p=0.006, respectively) in the pergolide group.
+Severity of regurgitation was not correlated with pergolide cumulative dose.
+A restrictive pattern of valvular regurgitation, suggestive of the role of pergolide, was observed in 12/30 (40%) patients including two with heart failure.
+Pergolide was discontinued in 10 patients with valvular heart disease, resulting in a lower regurgitation grade (p=0.01) at the second transthoracic echocardiography and the two patients with heart failure returned to nearly normal clinical examination.
+This study supports the high frequency of restrictive valve regurgitation in PD patients treated with pergolide and reveals that a significant improvement is usual when the treatment is converted to non-ergot dopamine agonists.

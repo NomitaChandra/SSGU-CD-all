@@ -1,0 +1,13 @@
+High dose dexmedetomidine as the sole sedative for pediatric MRI.
+OBJECTIVE: This large-scale retrospective review evaluates the sedation profile of dexmedetomidine.
+AIM: To determine the hemodynamic responses, efficacy and adverse events associated with the use of high dose dexmedetomidine as the sole sedative for magnetic resonance imaging (MRI) studies.
+BACKGROUND: Dexmedetomidine has been used at our institution since 2005 to provide sedation for pediatric radiological imaging studies.
+Over time, an effective protocol utilizing high dose dexmedetomidine as the sole sedative agent has evolved.
+METHODS/MATERIALS: As part of the ongoing Quality Assurance process, data on all sedations are reviewed monthly and protocols modified as needed.
+Data were analyzed from all 747 consecutive patients who received dexmedetomidine for MRI sedation from April 2005 to April 2007.
+RESULTS: Since 2005, the 10-min loading dose of our dexmedetomidine protocol increased from 2 to 3 microg.kg(-1), and the infusion rate increased from 1 to 1.5 to 2 microg.kg(-1).h(-1).
+The current sedation protocol progressively increased the rate of successful sedation (able to complete the imaging study) when using dexmedetomidine alone from 91.8% to 97.6% (P = 0.009), reducing the requirement for adjuvant pentobarbital in the event of sedation failure with dexmedetomidine alone and decreased the mean recovery time by 10 min (P < 0.001).
+Although dexmedetomidine sedation was associated with a 16% incidence of bradycardia, all concomitant mean arterial blood pressures were within 20% of age-adjusted normal range and oxygen saturations were 95% or higher.
+CONCLUSION: Dexmedetomidine in high doses provides adequate sedation for pediatric MRI studies.
+While use of high dose dexmedetomidine is associated with decreases in heart rate and blood pressure outside the established 'awake' norms, this deviation is generally within 20% of norms, and is not associated with adverse sequelae.
+Dexmedetomidine is useful as the sole sedative for pediatric MRI.

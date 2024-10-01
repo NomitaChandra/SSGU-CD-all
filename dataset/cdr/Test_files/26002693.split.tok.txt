@@ -1,0 +1,9 @@
+1 , 3 - Butadiene , CML and the t ( 9 : 22 ) translocation : A reality check .
+UNASSIGNED : Epidemiological studies of 1 , 3 - butadiene have suggest that exposures to humans are associated with chronic myeloid leukemia ( CML ) .
+CML has a well - documented association with ionizing radiation , but reports of associations with chemical exposures have been questioned .
+Ionizing radiation is capable of inducing the requisite CML - associated t ( 9 : 22 ) translocation ( Philadelphia chromosome ) in appropriate cells in vitro but , thus far , chemicals have not shown this capacity .
+We have proposed that 1 , 3 - butadiene metabolites be so tested as a reality check on the epidemiological reports .
+In order to conduct reliable testing in this regard , it is essential that a positive control for induction be available .
+We have used ionizing radiation to develop such a control .
+Results described here demonstrate that this agent does in fact induce pathogenic t ( 9 : 22 ) translocations in a human myeloid cell line in vitro , but does so at low frequencies .
+Conditions that will be required for studies of 1 , 3 - butadiene are discussed .

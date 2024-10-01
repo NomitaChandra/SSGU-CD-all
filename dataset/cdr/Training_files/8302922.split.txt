@@ -1,0 +1,10 @@
+Epidural blood flow during prostaglandin E1 or trimethaphan induced hypotension.
+To evaluate the effect of prostaglandin E1 (PGE1) or trimethaphan (TMP) induced hypotension on epidural blood flow (EBF) during spinal surgery, EBF was measured using the heat clearance method in 30 patients who underwent postero-lateral interbody fusion under isoflurane anaesthesia.
+An initial dose of 0.1 microgram.kg-1.min-1 of PGE1 (15 patients), or 10 micrograms.kg-1.min-1 of TMP (15 patients) was administered intravenously after the dural opening and the dose was adjusted to maintain the mean arterial blood pressure (MAP) at about 60 mmHg.
+The hypotensive drug was discontinued at the completion of the operative procedure.
+After starting PGE1 or TMP, MAP and rate pressure product (RPP) decreased significantly compared with preinfusion values (P < 0.01), and the degree of hypotension due to PGE1 remained constant until 60 min after its discontinuation.
+Heart rate (HR) did not change in either group.
+EBFF did not change during PGE1 infusion whereas in the TMP group, EBF decreased significantly at 30 and 60 min after the start of TMP (preinfusion: 45.9 +/- 13.9 ml/100g/min.
+30 min: 32.3 +/- 9.9 ml/100 g/min (P < 0.05).
+60 min: 30 +/- 7.5 ml/100 g/min (P < 0.05)).
+These results suggest that PGE1 may be preferable to TMP for hypotensive anaesthesia in spinal surgery because TMP decreased EBF.

@@ -1,0 +1,10 @@
+GABA involvement in naloxone induced reversal of respiratory paralysis produced by thiopental.
+No agent is yet available to reverse respiratory paralysis produced by CNS depressants, such as general anesthetics.
+In this study naloxone reversed respiratory paralysis induced by thiopental in rats.
+25 mg/kg, i.v.
+thiopental produced anesthesia without altering respiratory rate, increased GABA, decreased glutamate, and had no effect on aspartate or glycine levels compared to controls in rat cortex and brain stem.
+Pretreatment of rats with thiosemicarbazide for 30 minutes abolished the anesthetic action as well as the respiratory depressant action of thiopental.
+50 mg/kg, i.v.
+thiopental produced respiratory arrest with further increase in GABA and decrease in glutamate again in cortex and brain stem without affecting any of the amino acids studied in four regions of rat brain.
+Naloxone (2.5 mg/kg, i.v.) reversed respiratory paralysis, glutamate and GABA levels to control values in brain stem and cortex with no changes in caudate or cerebellum.
+These data suggest naloxone reverses respiratory paralysis produced by thiopental and involves GABA in its action.

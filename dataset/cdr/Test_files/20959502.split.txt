@@ -1,0 +1,17 @@
+Cerebrospinal fluid penetration of high-dose daptomycin in suspected Staphylococcus aureus meningitis.
+OBJECTIVE: To report a case of methicillin-sensitive Staphylococcus aureus (MSSA) bacteremia with suspected MSSA meningitis treated with high-dose daptomycin assessed with concurrent serum and cerebrospinal fluid (CSF) concentrations.
+CASE SUMMARY: A 54-year-old male presented to the emergency department with generalized weakness and presumed health-care-associated pneumonia shown on chest radiograph.
+Treatment was empirically initiated with vancomycin, levofloxacin, and piperacillin/tazobactam.
+Blood cultures revealed S. aureus susceptible to oxacillin.
+Empiric antibiotic treatment was narrowed to nafcillin on day 4.
+On day 8, the patient developed acute renal failure (serum creatinine 1.9 mg/dL, increased from 1.2 mg/dL the previous day and 0.8 mg/dL on admission).
+The patient's Glasgow Coma Score was 3, with normal findings shown on computed tomography scan of the head 72 hours following an episode of cardiac arrest on day 10.
+The patient experienced relapsing MSSA bacteremia on day 9, increasing the suspicion for a central nervous system (CNS) infection.
+Nafcillin was discontinued and daptomycin 9 mg/kg daily was initiated for suspected meningitis and was continued until the patient's death on day 16.
+Daptomycin serum and CSF trough concentrations were 11.21 ug/mL and 0.52 ug/mL, respectively, prior to the third dose.
+Lumbar puncture results were inconclusive and no further blood cultures were positive for MSSA.
+Creatine kinase levels were normal prior to daptomycin therapy and were not reassessed.
+DISCUSSION: Daptomycin was initiated in our patient secondary to possible nafcillin-induced acute interstitial nephritis and relapsing bacteremia.
+At a dose of 9 mg/kg, resultant penetration of 5% was higher than in previous reports, more consistent with inflamed meninges.
+CONCLUSIONS: High-dose daptomycin may be an alternative option for MSSA bacteremia with or without a CNS source in patients who have failed or cannot tolerate standard therapy.
+Further clinical evaluation in patients with confirmed meningitis is warranted.

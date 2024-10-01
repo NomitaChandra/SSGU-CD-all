@@ -1,0 +1,12 @@
+Carvedilol protects against doxorubicin - induced mitochondrial cardiomyopathy .
+Several cytopathic mechanisms have been suggested to mediate the dose - limiting cumulative and irreversible cardiomyopathy caused by doxorubicin .
+Recent evidence indicates that oxidative stress and mitochondrial dysfunction are key factors in the pathogenic process .
+The objective of this investigation was to test the hypothesis that carvedilol , a nonselective beta - adrenergic receptor antagonist with potent antioxidant properties , protects against the cardiac and hepatic mitochondrial bioenergetic dysfunction associated with subchronic doxorubicin toxicity .
+Heart and liver mitochondria were isolated from rats treated for 7 weeks with doxorubicin ( 2 mg / kg sc / week ) , carvedilol ( 1 mg / kg ip / week ) , or the combination of the two drugs .
+Heart mitochondria isolated from doxorubicin - treated rats exhibited depressed rates for state 3 respiration ( 336 + / - 26 versus 425 + / - 53 natom O / min / mg protein ) and a lower respiratory control ratio ( RCR ) ( 4 . 3 + / - 0 . 6 versus 5 . 8 + / - 0 . 4 ) compared with cardiac mitochondria isolated from saline - treated rats .
+Mitochondrial calcium - loading capacity and the activity of NADH - dehydrogenase were also suppressed in cardiac mitochondria from doxorubicin - treated rats .
+Doxorubicin treatment also caused a decrease in RCR for liver mitochondria ( 3 . 9 + / - 0 . 9 versus 5 . 6 + / - 0 . 7 for control rats ) and inhibition of hepatic cytochrome oxidase activity .
+Coadministration of carvedilol decreased the extent of cellular vacuolization in cardiac myocytes and prevented the inhibitory effect of doxorubicin on mitochondrial respiration in both heart and liver .
+Carvedilol also prevented the decrease in mitochondrial Ca ( 2 + ) loading capacity and the inhibition of the respiratory complexes of heart mitochondria caused by doxorubicin .
+Carvedilol by itself did not affect any of the parameters measured for heart or liver mitochondria .
+It is concluded that this protection by carvedilol against both the structural and functional cardiac tissue damage may afford significant clinical advantage in minimizing the dose - limiting mitochondrial dysfunction and cardiomyopathy that accompanies long - term doxorubicin therapy in cancer patients .

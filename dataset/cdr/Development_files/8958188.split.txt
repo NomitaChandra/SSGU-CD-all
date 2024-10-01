@@ -1,0 +1,11 @@
+A phase I clinical study of the antipurine antifolate lometrexol (DDATHF) given with oral folic acid.
+Lometrexol is an antifolate which inhibits glycinamide ribonucleotide formyltransferase (GARFT), an enzyme essential for de novo purine synthesis.
+Extensive experimental and limited clinical data have shown that lometrexol has activity against tumours which are refractory to other drugs, notably methotrexate.
+However, the initial clinical development of lometrexol was curtailed because of severe and cumulative antiproliferative toxicities.
+Preclinical murine studies demonstrated that the toxicity of lometrexol can be prevented by low dose folic acid administration, i.e. for 7 days prior to and 7 days following a single bolus dose.
+This observation prompted a Phase I clinical study of lometrexol given with folic acid supplementation which has confirmed that the toxicity of lometrexol can be markedly reduced by folic acid supplementation.
+Thrombocytopenia and mucositis were the major toxicities.
+There was no clear relationship between clinical toxicity and the extent of plasma folate elevation.
+Associated studies demonstrated that lometrexol plasma pharmacokinetics were not altered by folic acid administration indicating that supplementation is unlikely to reduce toxicity by enhancing lometrexol plasma clearance.
+The work described in this report has identified for the first time a clinically acceptable schedule for the administration of a GARFT inhibitor.
+This information will facilitate the future evaluation of this class of compounds in cancer therapy.

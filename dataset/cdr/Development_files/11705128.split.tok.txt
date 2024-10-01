@@ -1,0 +1,15 @@
+Management strategies for ribavirin - induced hemolytic anemia in the treatment of hepatitis C : clinical and economic implications .
+OBJECTIVES : Recently published studies have demonstrated increased efficacy and cost - effectiveness of combination therapy with interferon and alpha - 2b / ribavirin compared with interferon - alpha monotherapy in the treatment of chronic hepatitis C ( CHC ) .
+Combination therapy is associated with a clinically important adverse effect : ribavirin - induced hemolytic anemia ( RIHA ) .
+The objective of this study was to evaluate the direct health - care costs and management of RIHA during treatment of CHC in a clinical trial setting .
+METHODS : A systematic literature review was conducted to synthesize information on the incidence and management of RIHA .
+Decision - analytic techniques were used to estimate the cost of treating RIHA .
+Uncertainty was evaluated using sensitivity analyses .
+RESULTS : RIHA , defined as a reduction in hemoglobin to less than 100 g / L , occurs in approximately 7 % to 9 % of patients treated with combination therapy .
+The standard of care for management of RIHA is reduction or discontinuation of the ribavirin dosage .
+We estimated the direct cost of treating clinically significant RIHA to be 170 per patient receiving combination therapy per 48 - week treatment course ( range 68 - 692 ) .
+The results of the one - way sensitivity analyses ranged from 57 to 317 .
+In comparison , the cost of 48 weeks of combination therapy is 16 , 459 .
+CONCLUSIONS : The direct cost of treating clinically significant RIHA is 1 % ( 170 / 16 , 459 ) of drug treatment costs .
+Questions remain about the optimal dose of ribavirin and the incidence of RIHA in a real - world population .
+Despite these uncertainties , this initial evaluation of the direct cost of treating RIHA provides an estimate of the cost and management implications of this clinically important adverse effect .

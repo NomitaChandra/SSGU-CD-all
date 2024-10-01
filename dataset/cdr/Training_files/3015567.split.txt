@@ -1,0 +1,7 @@
+Inhibition of immunoreactive corticotropin-releasing factor secretion into the hypophysial-portal circulation by delayed glucocorticoid feedback.
+Nitroprusside-induced hypotension evokes ACTH secretion which is primarily mediated by enhanced secretion of immunoreactive corticotropin-releasing factor (irCRF) into the hypophysial-portal circulation.
+Portal plasma concentrations of neither arginine vasopressin nor oxytocin are significantly altered in this paradigm.
+Application of a delayed feedback signal, in the form of a 2-h systemic corticosterone infusion in urethane-anesthetized rats with pharmacological blockade of glucocorticoid synthesis, is without effect on the resting secretion of arginine vasopressin and oxytocin at any corticosterone feedback dose tested.
+Resting irCRF levels are suppressed only at the highest corticosterone infusion rate, which resulted in systemic corticosterone levels of 40 micrograms/dl.
+Suppression of irCRF secretion in response to nitroprusside-induced hypotension is observed and occurs at a plasma corticosterone level between 8-12 micrograms/dl.
+These studies provide further evidence for a strong central component of the delayed feedback process which is mediated by modulation of irCRF release.

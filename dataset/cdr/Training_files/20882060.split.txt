@@ -1,0 +1,9 @@
+Effects of pallidal neurotensin on haloperidol-induced parkinsonian catalepsy: behavioral and electrophysiological studies.
+OBJECTIVE: The globus pallidus plays a critical role in movement regulation.
+Previous studies have indicated that the globus pallidus receives neurotensinergic innervation from the striatum, and systemic administration of a neurotensin analog could produce antiparkinsonian effects.
+The present study aimed to investigate the effects of pallidal neurotensin on haloperidol-induced parkinsonian symptoms.
+METHODS: Behavioral experiments and electrophysiological recordings were performed in the present study.
+RESULTS: Bilateral infusions of neurotensin into the globus pallidus reversed haloperidol-induced parkinsonian catalepsy in rats.
+Electrophysiological recordings showed that microinjection of neurotensin induced excitation of pallidal neurons in the presence of systemic haloperidol administration.
+The neurotensin type-1 receptor antagonist SR48692 blocked both the behavioral and the electrophysiological effects induced by neurotensin.
+CONCLUSION: Activation of pallidal neurotensin receptors may be involved in neurotensin-induced antiparkinsonian effects.

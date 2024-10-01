@@ -1,0 +1,11 @@
+Chronic lesion of rostral ventrolateral medulla in spontaneously hypertensive rats.
+We studied the effects of chronic selective neuronal lesion of rostral ventrolateral medulla on mean arterial pressure, heart rate, and neurogenic tone in conscious, unrestrained spontaneously hypertensive rats.
+The lesions were placed via bilateral microinjections of 30 nmol/200 nl N-methyl-D-aspartic acid.
+The restimulation of this area with N-methyl-D-aspartic acid 15 days postlesion failed to produce a pressor response.
+One day postlesion, the resting mean arterial pressure was significantly decreased in lesioned rats when compared with sham rats (100 +/- 7 versus 173 +/- 4 mm Hg, p less than 0.05).
+Fifteen days later, the lesioned group still showed values significantly lower than the sham group (150 +/- 6 versus 167 +/- 5 mm Hg, p less than 0.05).
+No significant heart rate differences were observed between the sham and lesioned groups.
+The ganglionic blocker trimethaphan (5 mg/kg i.v.) caused similar reductions in mean arterial pressure in both lesioned and sham groups.
+The trimethaphan-induced hypotension was accompanied by a significant bradycardia in lesioned rats (-32 +/- 13 beats per minute) but a tachycardia in sham rats (+33 +/- 12 beats per minute) 1 day postlesion.
+Therefore, rostral ventrolateral medulla neurons appear to play a significant role in maintaining hypertension in conscious spontaneously hypertensive rats.
+Spinal or suprabulbar structures could be responsible for the gradual recovery of the hypertension in the lesioned rats.

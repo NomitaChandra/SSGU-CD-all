@@ -1,0 +1,9 @@
+Protective efficacy of neuroactive steroids against cocaine kindled - seizures in mice .
+Neuroactive steroids demonstrate pharmacological actions that have relevance for a host of neurological and psychiatric disorders .
+They offer protection against seizures in a range of models and seem to inhibit certain stages of drug dependence in preclinical assessments .
+The present study was designed to evaluate two endogenous and one synthetic neuroactive steroid that positively modulate the gamma - aminobutyric acid ( GABA ( A ) ) receptor against the increase in sensitivity to the convulsant effects of cocaine engendered by repeated cocaine administration ( seizure kindling ) .
+Allopregnanolone ( 3alpha - hydroxy - 5alpha - pregnan - 20 - one ) , pregnanolone ( 3alpha - hydroxy - 5beta - pregnan - 20 - one ) and ganaxolone ( a synthetic derivative of allopregnanolone 3alpha - hydroxy - 3beta - methyl - 5alpha - pregnan - 20 - one ) were tested for their ability to suppress the expression ( anticonvulsant effect ) and development ( antiepileptogenic effect ) of cocaine - kindled seizures in male , Swiss - Webster mice .
+Kindled seizures were induced by daily administration of 60 mg / kg cocaine for 5 days .
+All of these positive GABA ( A ) modulators suppressed the expression of kindled seizures , whereas only allopregnanolone and ganaxolone inhibited the development of kindling .
+Allopregnanolone and pregnanolone , but not ganaxolone , also reduced cumulative lethality associated with kindling .
+These findings demonstrate that some neuroactive steroids attenuate convulsant and sensitizing properties of cocaine and add to a growing literature on their potential use in the modulation of effects of drugs of abuse .

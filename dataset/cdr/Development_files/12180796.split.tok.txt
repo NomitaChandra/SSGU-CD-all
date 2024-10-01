@@ -1,0 +1,6 @@
+Immunohistochemical study on inducible type of nitric oxide ( iNOS ) , basic fibroblast growth factor ( bFGF ) and tumor growth factor - beta1 ( TGF - beta1 ) in arteritis induced in rats by fenoldopam and theophylline , vasodilators .
+Arteritis induced in rats by vasodilators , fenoldopam and theophylline , was examined immunohistochemically for expressions of inducible type of nitric oxide synthase ( iNOS ) , basic fibroblast growth factor ( bFGF ) and tumor growth factor - beta1 ( TGF - beta1 ) .
+Rats were administered fenoldopam for 24 hours by intravenous infusion with or without following repeated daily oral administrations of theophylline .
+Irrespective of theophylline administration , iNOS antigens were remarkably abundant in ED - 1 - positive cells on day 5 and 8 post - fenoldopam - infusion ( DPI ) ; bFGF antigens were remarkably abundant in ED - 1 - positive cells on 1 and 3 DPI ; TGF - beta1 antigens were observed in ED - 1 - positive cells on and after 5 DPI .
+These results suggest that the peak expression of iNOS antigen was followed by that of bFGF antigen , and bFGF may have a suppressive effect on iNOS expression in these rat arteritis models .
+On the other hand , TGF - beta1 was not considered to have a suppressive effect on iNOS expression in these models .

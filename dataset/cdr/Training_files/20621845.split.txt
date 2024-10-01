@@ -1,0 +1,10 @@
+Elevation of ADAM10, ADAM17, MMP-2 and MMP-9 expression with media degeneration features CaCl2-induced thoracic aortic aneurysm in a rat model.
+PURPOSE: This study was designed to establish a rat model of thoracic aortic aneurysm (TAA) by calcium chloride (CaCl(2))-induced arterial injury and to explore the potential role of a disintegrin and metalloproteinase (ADAM), matrix metalloproteinases (MMPs) and their endogenous inhibitors (TIMPs) in TAA formation.
+METHODS: Thoracic aorta of male Sprague-Dawley rats was exposed to 0.5M CaCl(2) or normal saline (NaCl).
+After 12weeks, animals were euthanized, and CaCl(2)-treated, CaCl(2)-untreated (n=12) and NaCl-treated aortic segments (n=12) were collected for histological and molecular assessments.
+MMP-TIMP and ADAM mRNAs were semi-quantitatively analyzed and protein expressions were determined by immunohistochemistry.
+RESULTS: Despite similar external diameters among CaCl(2)-treated, non-CaCl(2)-treated and NaCl-treated segments, aneurymal alteration (n=6, 50%), media degeneration with regional disruption, fragmentation of elastic fiber, and increased collagen deposition (n=12, 100%) were demonstrated in CaCl(2)-treated segments.
+MMP-2, MMP-9, ADAM-10 and ADAM-17 mRNA levels were increased in CaCl(2)-treated segments (all p<0.01), with trends of elevation in CaCl(2)-untreated segments, as compared with NaCl-treated segments.
+Immunohistochemistry displayed significantly increased expressions of MMP-2, MMP-9, ADAM-10 and ADAM-17 (all p<0.01) in intima and media for CaCl(2)-treated segments.
+TIMP mRNA and tissue levels did not differ obviously among the three aortic segments.
+CONCLUSION: This study establishes a TAA model by periarterial CaCl(2) exposure in rats, and demonstrates a significant elevation of expression of MMP-2, MMP-9, ADAM10 and ADAM17 in the pathogenesis of vascular remodeling.

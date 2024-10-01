@@ -1,0 +1,10 @@
+Prenatal protein deprivation alters dopamine-mediated behaviors and dopaminergic and glutamatergic receptor binding.
+Epidemiological evidence indicates that prenatal nutritional deprivation may increase the risk of schizophrenia.
+The goal of these studies was to use an animal model to examine the effects of prenatal protein deprivation on behaviors and receptor binding with relevance to schizophrenia.
+We report that prenatally protein deprived (PD) female rats showed an increased stereotypic response to apomorphine and an increased locomotor response to amphetamine in adulthood.
+These differences were not observed during puberty.
+No changes in haloperidol-induced catalepsy or MK-801-induced locomotion were seen following PD.
+In addition, PD female rats showed increased (3)H-MK-801 binding in the striatum and hippocampus, but not in the cortex.
+PD female rats also showed increased (3)H-haloperidol binding and decreased dopamine transporter binding in striatum.
+No statistically significant changes in behavior or receptor binding were found in PD males with the exception of increased (3)H-MK-801 binding in cortex.
+This animal model may be useful to explore the mechanisms by which prenatal nutritional deficiency enhances risk for schizophrenia in humans and may also have implications for developmental processes leading to differential sensitivity to drugs of abuse.

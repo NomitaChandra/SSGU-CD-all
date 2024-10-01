@@ -1,0 +1,9 @@
+Cerebral blood flow and metabolism during isoflurane-induced hypotension in patients subjected to surgery for cerebral aneurysms.
+Cerebral blood flow and cerebral metabolic rate for oxygen were measured during isoflurane-induced hypotension in 10 patients subjected to craniotomy for clipping of a cerebral aneurysm.
+Flow and metabolism were measured 5-13 days after the subarachnoid haemorrhage by a modification of the classical Kety-Schmidt technique using xenon-133 i.v.
+Anaesthesia was maintained with an inspired isoflurane concentration of 0.75% (plus 67% nitrous oxide in oxygen), during which CBF and CMRO2 were 34.3 +/- 2.1 ml/100 g min-1 and 2.32 +/- 0.16 ml/100 g min-1 at PaCO2 4.1 +/- 0.1 kPa (mean +/- SEM).
+Controlled hypotension to an average MAP of 50-55 mm Hg was induced by increasing the dose of isoflurane, and maintained at an inspired concentration of 2.2 +/- 0.2%.
+This resulted in a significant decrease in CMRO2 (to 1.73 +/- 0.16 ml/100 g min-1), while CBF was unchanged.
+After the clipping of the aneurysm the isoflurane concentration was reduced to 0.75%.
+There was a significant increase in CBF, although CMRO2 was unchanged, compared with pre-hypotensive values.
+These changes might offer protection to brain tissue during periods of induced hypotension.

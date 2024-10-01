@@ -1,0 +1,15 @@
+Epidemic of liver disease caused by hydrochlorofluorocarbons used as ozone-sparing substitutes of chlorofluorocarbons.
+BACKGROUND: Hydrochlorofluorocarbons (HCFCs) are used increasingly in industry as substitutes for ozone-depleting chlorofluorocarbons (CFCs).
+Limited studies in animals indicate potential hepatotoxicity of some of these compounds.
+We investigated an epidemic of liver disease in nine industrial workers who had had repeated accidental exposure to a mixture of 1,1-dichloro-2,2,2-trifluoroethane (HCFC 123) and 1-chloro-1,2,2,2-tetrafluoroethane (HCFC 124).
+All nine exposed workers were affected to various degrees.
+Both compounds are metabolised in the same way as 1-bromo-1-chloro-2,2,2-trifluoroethane (halothane) to form reactive trifluoroacetyl halide intermediates, which have been implicated in the hepatotoxicity of halothane.
+We aimed to test whether HCFCs 123 and 124 can result in serious liver disease.
+METHODS: For one severely affected worker liver biopsy and immunohistochemical stainings for the presence of trifluoroacetyl protein adducts were done.
+The serum of six affected workers and five controls was tested for autoantibodies that react with human liver cytochrome-P450 2E1 (P450 2E1) and P58 protein disulphide isomerase isoform (P58).
+FINDINGS: The liver biopsy sample showed hepatocellular necrosis which was prominent in perivenular zone three and extended focally from portal tracts to portal tracts and centrilobular areas (bridging necrosis).
+Trifluoroacetyl-adducted proteins were detected in surviving hepatocytes.
+Autoantibodies against P450 2E1 or P58, previously associated with halothane hepatitis, were detected in the serum of five affected workers.
+INTERPRETATION: Repeated exposure of human beings to HCFCs 123 and 124 can result in serious liver injury in a large proportion of the exposed population.
+Although the exact mechanism of hepatotoxicity of these agents is not known, the results suggest that trifluoroacetyl-altered liver proteins are involved.
+In view of the potentially widespread use of these compounds, there is an urgent need to develop safer alternatives.

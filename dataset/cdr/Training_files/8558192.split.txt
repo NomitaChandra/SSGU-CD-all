@@ -1,0 +1,17 @@
+Phase II trial of vinorelbine in metastatic squamous cell esophageal carcinoma.
+European Organization for Research and Treatment of Cancer Gastrointestinal Treat Cancer Cooperative Group.
+PURPOSE: To evaluate the response rate and toxic effects of vinorelbine (VNB) administered as a single agent in metastatic squamous cell esophageal carcinoma.
+PATIENTS AND METHODS: Forty-six eligible patients with measurable lesions were included and were stratified according to previous chemotherapy.
+Thirty patients without prior chemotherapy and 16 pretreated with cisplatin-based chemotherapy were assessable for toxicity and response.
+VNB was administered weekly as a 25-mg/m2 short intravenous (i.v.) infusion.
+RESULTS: Six of 30 patients (20%) without prior chemotherapy achieved a partial response (PR) (95% confidence interval [CI], 8% to 39%).
+The median duration of response was 21 weeks (range, 17 to 28).
+One of 16 patients (6%) with prior chemotherapy had a complete response (CR) of 31 weeks' duration (95% CI, 0% to 30%).
+The overall response rate (World Health Organization [WHO] criteria) was 15% (CR, 2%; PR 13%; 95% CI, 6% to 29%).
+The median dose-intensity (DI) was 20 mg/m2/wk.
+VNB was well tolerated and zero instances of WHO grade 4 nonhematologic toxicity occurred.
+At least one episode of grade 3 or 4 granulocytopenia was seen in 59% of patients.
+A grade 2 or 3 infection occurred in 16% of patients, but no toxic deaths occurred.
+Other side effects were rare, and peripheral neurotoxicity has been minor (26% grade 1).
+CONCLUSION: These data indicate that VNB is an active agent in metastatic esophageal squamous cell carcinoma.
+Given its excellent tolerance profile and low toxicity, further evaluation of VNB in combination therapy is warranted.

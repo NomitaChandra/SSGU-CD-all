@@ -1,0 +1,13 @@
+Two-dimensional speckle tracking echocardiography combined with high-sensitive cardiac troponin T in early detection and prediction of cardiotoxicity during epirubicine-based chemotherapy.
+AIMS: To investigate whether alterations of myocardial strain and high-sensitive cardiac troponin T (cTnT) could predict future cardiac dysfunction in patients after epirubicin exposure.
+METHODS: Seventy-five patients with non-Hodgkin lymphoma treated with epirubicin were studied.
+Blood collection and echocardiography were performed at baseline, 1 day after the third cycle, and 1 day after completion of chemotherapy.
+Patients were studied using echocardiography during follow-up.
+Global longitudinal (GLS), circumferential (GCS), and radial strain (GRS) were calculated using speckle tracking echocardiography.
+Left ventricular ejection fraction was analysed by real-time 3D echocardiography.
+Cardiotoxicity was defined as a reduction of the LVEF of >5% to <55% with symptoms of heart failure or an asymptomatic reduction of the LVEF of >10% to <55%.
+RESULTS: Fourteen patients (18.67%) developed cardiotoxicity after treatment.
+GLS (-18.48 + 1.72% vs. -15.96 + 1.6%), GCS (-20.93 + 2.86% vs. -19.20 + 3.21%), and GRS (39.23 + 6.44% vs. 34.98 + 6.2%) were markedly reduced and cTnT was elevated from 0.0010 + 0.0020 to 0.0073 + 0.0038 ng/mL (P all < 0.01) at the completion of chemotherapy compared with baseline values.
+A >15.9% decrease in GLS [sensitivity, 86%; specificity, 75%; area under the curve (AUC) = 0.815; P = 0.001] and a >0.004 ng/mL elevation in cTnT (sensitivity, 79%; specificity, 64%; AUC = 0.757; P = 0.005) from baseline to the third cycle of chemotherapy predicted later cardiotoxicity.
+The decrease in GLS remained the only independent predictor of cardiotoxicity (P = 0.000).
+CONCLUSIONS: GLS combined with cTnT may provide a reliable and non-invasive method to predict cardiac dysfunction in patients receiving anthracycline-based chemotherapy.

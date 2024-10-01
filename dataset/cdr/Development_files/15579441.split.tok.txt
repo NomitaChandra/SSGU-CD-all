@@ -1,0 +1,9 @@
+Hypoxia in renal disease with proteinuria and / or glomerular hypertension .
+Despite the increasing need to identify and quantify tissue oxygenation at the cellular level , relatively few methods have been available .
+In this study , we developed a new hypoxia - responsive reporter vector using a hypoxia - responsive element of the 5 ' vascular endothelial growth factor untranslated region and generated a novel hypoxia - sensing transgenic rat .
+We then applied this animal model to the detection of tubulointerstitial hypoxia in the diseased kidney .
+With this model , we were able to identify diffuse cortical hypoxia in the puromycin aminonucleoside - induced nephrotic syndrome and focal and segmental hypoxia in the remnant kidney model .
+Expression of the hypoxia - responsive transgene increased throughout the observation period , reaching 2 . 2 - fold at 2 weeks in the puromycin aminonucleoside model and 2 . 6 - fold at 4 weeks in the remnant kidney model , whereas that of vascular endothelial growth factor showed a mild decrease , reflecting distinct behaviors of the two genes .
+The degree of hypoxia showed a positive correlation with microscopic tubulointerstitial injury in both models .
+Finally , we identified the localization of proliferating cell nuclear antigen - positive , ED - 1 - positive , and terminal dUTP nick - end labeled - positive cells in the hypoxic cortical area in the remnant kidney model .
+We propose here a possible pathological tie between chronic tubulointerstitial hypoxia and progressive glomerular diseases .

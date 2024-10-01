@@ -1,0 +1,9 @@
+Neutrophil superoxide and hydrogen peroxide production in patients with acute liver failure.
+Defects in superoxide and hydrogen peroxide production may be implicated in the high incidence of bacterial infections in patients with acute liver failure (ALF).
+In the present study, oxygen radical production in patients with ALF due to paracetamol overdose was compared with that of healthy volunteers.
+Neutrophils from 14 ALF patients were stimulated via the complement receptors using zymosan opsonized with ALF or control serum.
+Superoxide and hydrogen peroxide production by ALF neutrophils stimulated with zymosan opsonized with ALF serum was significantly reduced compared with the control subjects (P < 0.01).
+This defect persisted when zymosan opsonized by control serum was used (P < 0.05).
+Superoxide and hydrogen peroxide production in neutrophils stimulated with formyl-methionyl-leucyl-phenylalanine (fMLP) from a further 18 ALF patients was unaffected compared with control neutrophils.
+Serum C3 complement levels were significantly reduced in ALF patients compared with control subjects (P < 0.0005).
+These results demonstrate a neutrophil defect in ALF due to paracetamol overdose, that is complement dependent but independent of serum complement, possibly connected to the complement receptor.

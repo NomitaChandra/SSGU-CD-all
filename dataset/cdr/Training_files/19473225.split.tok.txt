@@ -1,0 +1,9 @@
+Long - term glutamate supplementation failed to protect against peripheral neurotoxicity of paclitaxel .
+Toxic peripheral neuropathy is still a significant limiting factor for chemotherapy with paclitaxel ( PAC ) , although glutamate and its closely related amino acid glutamine were claimed to ameliorate PAC neurotoxicity .
+This pilot trial aimed to evaluate the role of glutamate supplementation for preventing PAC - induced peripheral neuropathy in a randomized , placebo - controlled , double - blinded clinical and electro - diagnostic study .
+Forty - three ovarian cancer patients were available for analysis following six cycles of the same PAC - containing regimen : 23 had been supplemented by glutamate all along the treatment period , at a daily dose of three times 500 mg ( group G ) , and 20 had received a placebo ( group P ) .
+Patients were evaluated by neurological examinations , questionnaires and sensory - motor nerve conduction studies .
+There was no significant difference in the frequency of signs or symptoms between the two groups although neurotoxicity symptoms presented mostly with lower scores of severity in group G .
+However , this difference reached statistical significance only with regard to reported pain sensation ( P = 0 . 011 ) .
+Also the frequency of abnormal electro - diagnostic findings showed similarity between the two groups ( G : 7 / 23 = 30 . 4 % ; P : 6 / 20 = 30 % ) .
+This pilot study leads to the conclusion that glutamate supplementation at the chosen regimen fails to protect against peripheral neurotoxicity of PAC .

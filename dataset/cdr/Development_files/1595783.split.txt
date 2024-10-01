@@ -1,0 +1,7 @@
+Amiodarone pulmonary toxicity.
+Amiodarone is an effective antiarrhythmic agent whose utility is limited by many side-effects, the most problematic being pneumonitis.
+The pulmonary toxicity of amiodarone is thought to result from direct injury related to the intracellular accumulation of phospholipid and T cell-mediated hypersensitivity pneumonitis.
+The clinical and radiographic features of amiodarone-induced pulmonary toxicity are characteristic but nonspecific.
+The diagnosis depends on exclusion of other entities, such as heart failure, infection, and malignancy.
+While withdrawal of amiodarone leads to clinical improvement in majority of cases, this is not always possible or advisable.
+Dose reduction or concomitant steroid therapy may have a role in selected patients.

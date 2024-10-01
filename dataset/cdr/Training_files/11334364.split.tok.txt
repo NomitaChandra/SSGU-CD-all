@@ -1,0 +1,16 @@
+In vivo protection of dna damage associated apoptotic and necrotic cell deaths during acetaminophen - induced nephrotoxicity , amiodarone - induced lung toxicity and doxorubicin - induced cardiotoxicity by a novel IH636 grape seed proanthocyanidin extract .
+Grape seed extract , primarily a mixture of proanthocyanidins , has been shown to modulate a wide - range of biological , pharmacological and toxicological effects which are mainly cytoprotective .
+This study assessed the ability of IH636 grape seed proanthocyanidin extract ( GSPE ) to prevent acetaminophen ( AAP ) - induced nephrotoxicity , amiodarone ( AMI ) - induced lung toxicity , and doxorubicin ( DOX ) - induced cardiotoxicity in mice .
+Experimental design consisted of four groups : control ( vehicle alone ) , GSPE alone , drug alone and GSPE + drug .
+For the cytoprotection study , animals were orally gavaged 100 mg / Kg GSPE for 7 - 10 days followed by i . p .
+injections of organ specific three drugs ( AAP : 500 mg / Kg for 24 h ; AMI : 50 mg / Kg / day for four days ; DOX : 20 mg / Kg for 48 h ) .
+Parameters of study included analysis of serum chemistry ( ALT , BUN and CPK ) , and orderly fragmentation of genomic DNA ( both endonuclease - dependent and independent ) in addition to microscopic evaluation of damage and / or protection in corresponding PAS stained tissues .
+Results indicate that GSPE preexposure prior to AAP , AMI and DOX , provided near complete protection in terms of serum chemistry changes ( ALT , BUN and CPK ) , and significantly reduced DNA fragmentation .
+Histopathological examination of kidney , heart and lung sections revealed moderate to massive tissue damage with a variety of morphological aberrations by all the three drugs in the absence of GSPE preexposure than in its presence .
+GSPE + drug exposed tissues exhibited minor residual damage or near total recovery .
+Additionally , histopathological alterations mirrored both serum chemistry changes and the pattern of DNA fragmentation .
+Interestingly , all the drugs , such as , AAP , AMI and DOX induced apoptotic death in addition to necrosis in the respective organs which was very effectively blocked by GSPE .
+Since AAP , AMI and DOX undergo biotransformation and are known to produce damaging radicals in vivo , the protection by GSPE may be linked to both inhibition of metabolism and / or detoxification of cytotoxic radicals .
+In addition , its ' presumed contribution to DNA repair may be another important attribute , which played a role in the chemoprevention process .
+Additionally , this may have been the first report on AMI - induced apoptotic death in the lung tissue .
+Taken together , these events undoubtedly establish GSPE 's abundant bioavailability , and the power to defend multiple target organs from toxic assaults induced by structurally diverse and functionally different entities in vivo .

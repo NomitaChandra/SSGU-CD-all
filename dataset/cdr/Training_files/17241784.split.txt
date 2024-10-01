@@ -1,0 +1,9 @@
+Progressive myopathy with up-regulation of MHC-I associated with statin therapy.
+Statins can cause a necrotizing myopathy and hyperCKaemia which is reversible on cessation of the drug.
+What is less well known is a phenomenon whereby statins may induce a myopathy, which persists or may progress after stopping the drug.
+We investigated the muscle pathology in 8 such cases.
+All had myofibre necrosis but only 3 had an inflammatory infiltrate.
+In all cases there was diffuse or multifocal up-regulation of MHC-I expression even in non-necrotic fibres.
+Progressive improvement occurred in 7 cases after commencement of prednisolone and methotrexate, and in one case spontaneously.
+These observations suggest that statins may initiate an immune-mediated myopathy that persists after withdrawal of the drug and responds to immunosuppressive therapy.
+The mechanism of this myopathy is uncertain but may involve the induction by statins of an endoplasmic reticulum stress response with associated up-regulation of MHC-I expression and antigen presentation by muscle fibres.

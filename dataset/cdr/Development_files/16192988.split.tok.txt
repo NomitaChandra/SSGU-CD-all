@@ -1,0 +1,9 @@
+Methamphetamine causes alterations in the MAP kinase - related pathways in the brains of mice that display increased aggressiveness .
+Aggressive behaviors have been reported in patients who suffer from some psychiatric disorders , and are common in methamphetamine ( METH ) abusers .
+Herein , we report that multiple ( but not single ) injections of METH significantly increased aggressiveness in male CD - 1 mice .
+This increase in aggressiveness was not secondary to METH - induced hyperactivity .
+Analysis of protein expression using antibody microarrays and Western blotting revealed differential changes in MAP kinase - related pathways after multiple and single METH injections .
+There were statistically significant ( p < 0 . 05 ) decreases in MEK1 , Erk2p , GSK3alpha , 14 - 3 - 3e , and MEK7 in the striata of mice after multiple injections of METH .
+MEK1 was significantly decreased also after a single injection of METH , but to a much lesser degree than after multiple injections of METH .
+In the frontal cortex , there was a statistically significant decrease in GSK3alpha after multiple ( but not single ) injections of METH .
+These findings suggest that alterations in MAP kinase - related pathways in the prefronto - striatal circuitries might be involved in the manifestation of aggressive behaviors in mice .

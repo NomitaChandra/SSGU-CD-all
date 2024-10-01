@@ -1,0 +1,7 @@
+Assessment of cardiomyocyte DNA synthesis during hypertrophy in adult mice.
+The ability of cardiomyocytes to synthesize DNA in response to experimentally induced cardiac hypertrophy was assessed in adult mice.
+Isoproterenol delivered by osmotic minipump implantation in adult C3Heb/FeJ mice resulted in a 46% increase in heart weight and a 19.3% increase in cardiomyocyte area.
+No DNA synthesis, as assessed by autoradiographic analysis of isolated cardiomyocytes, was observed in control or hypertrophic hearts.
+A survey of 15 independent inbred strains of mice revealed that ventricular cardiomyocyte nuclear number ranged from 3 to 13% mononucleate, suggesting that cardiomyocyte terminal differentiation is influenced directly or indirectly by genetic background.
+To determine whether the capacity for reactive DNA synthesis was also subject to genetic regulation, cardiac hypertrophy was induced in the strains of mice comprising the extremes of the nuclear number survey.
+These data indicate that adult mouse atrial and ventricular cardiomyocytes do not synthesize DNA in response to isoproterenol-induced cardiac hypertrophy.

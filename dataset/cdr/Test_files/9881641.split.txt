@@ -1,0 +1,8 @@
+Glibenclamide-sensitive hypotension produced by helodermin assessed in the rat.
+The effects of helodermin, a basic 35-amino acid peptide isolated from the venom of a lizard salivary gland, on arterial blood pressure and heart rate were examined in the rat, focusing on the possibility that activation of ATP sensitive K+ (K(ATP)) channels is involved in the responses.
+The results were also compared with those of vasoactive intestinal polypeptide (VIP).
+Helodermin produced hypotension in a dose-dependent manner with approximately similar potency and duration to VIP.
+Hypotension induced by both peptides was significantly attenuated by glibenclamide, which abolished a levcromakalim-produced decrease in arterial blood pressure.
+Oxyhemoglobin did not affect helodermin-induced hypotension, whereas it shortened the duration of acetylcholine (ACh)-produced hypotension.
+These findings suggest that helodermin-produced hypotension is partly attributable to the activation of glibenclamide-sensitive K+ channels (K(ATP) channels), which presumably exist on arterial smooth muscle cells.
+EDRF (endothelium-derived relaxing factor)/nitric oxide does not seem to play an important role in the peptide-produced hypotension.

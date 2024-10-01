@@ -1,0 +1,15 @@
+Individual differences in renal ACE activity in healthy rats predict susceptibility to adriamycin-induced renal damage.
+BACKGROUND: In man, differences in angiotensin-converting enzyme (ACE) levels, related to ACE (I/D) genotype, are associated with renal prognosis.
+This raises the hypothesis that individual differences in renal ACE activity are involved in renal susceptibility to inflicted damage.
+Therefore, we studied the predictive effect of renal ACE activity for the severity of renal damage induced by a single injection of adriamycin in rats.
+METHODS: Renal ACE activity (Hip-His-Leu cleavage by cortical homogenates) was determined by renal biopsy in 27 adult male Wistar rats.
+After 1 week of recovery, proteinuria was induced by adriamycin [1.5 mg/kg intravenously (i.v.) n = 18; controls, saline i.v.
+n = 9].
+Proteinuria was measured every 2 weeks.
+After 12 weeks, rats were sacrificed and their kidneys harvested.
+RESULTS: As anticipated, adriamycin elicited nephrotic range proteinuria, renal interstitial damage and mild focal glomerulosclerosis.
+Baseline renal ACE positively correlated with the relative rise in proteinuria after adriamycin (r = 0.62, P<0.01), renal interstitial alpha-smooth muscle actin (r = 0.49, P<0.05), interstitial macrophage influx (r = 0.56, P<0.05), interstitial collagen III (r = 0.53, P<0.05), glomerular alpha-smooth muscle actin (r = 0.74, P<0.01) and glomerular desmin (r = 0.48, P<0.05).
+Baseline renal ACE did not correlate with focal glomerulosclerosis (r = 0.22, NS).
+In controls, no predictive values for renal parameters were observed.
+CONCLUSION: Individual differences in renal ACE activity predict the severity of adriamycin-induced renal damage in this outbred rat strain.
+This supports the assumption that differences in renal ACE activity predispose to a less favourable course of renal damage.

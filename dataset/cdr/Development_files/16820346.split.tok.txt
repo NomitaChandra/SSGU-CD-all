@@ -1,0 +1,8 @@
+Atorvastatin prevented and reversed dexamethasone - induced hypertension in the rat .
+To assess the antioxidant effects of atorvastatin ( atorva ) on dexamethasone ( dex ) - induced hypertension , 60 male Sprague - Dawley rats were treated with atorva 30 mg / kg / day or tap water for 15 days .
+Dex increased systolic blood pressure ( SBP ) from 109 + / - 1 . 8 to 135 + / - 0 . 6 mmHg and plasma superoxide ( 5711 + / - 284 . 9 saline , 7931 + / - 392 . 8 U / ml dex , P < 0 . 001 ) .
+In this prevention study , SBP in the atorva + dex group was increased from 115 + / - 0 . 4 to 124 + / - 1 . 5 mmHg , but this was significantly lower than in the dex - only group ( P ' < 0 . 05 ) .
+Atorva reversed dex - induced hypertension ( 129 + / - 0 . 6 mmHg , vs . 135 + / - 0 . 6 mmHg P ' < 0 . 05 ) and decreased plasma superoxide ( 7931 + / - 392 . 8 dex , 1187 + / - 441 . 2 atorva + dex , P < 0 . 0001 ) .
+Plasma nitrate / nitrite ( NOx ) was decreased in dex - treated rats compared to saline - treated rats ( 11 . 2 + / - 1 . 08 microm , 15 . 3 + / - 1 . 17 microm , respectively , P < 0 . 05 ) .
+Atorva affected neither plasma NOx nor thymus weight .
+Thus , atorvastatin prevented and reversed dexamethasone - induced hypertension in the rat .

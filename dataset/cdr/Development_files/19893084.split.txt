@@ -1,0 +1,8 @@
+Dynamic response of blood vessel in acute renal failure.
+In this study we postulated that during acute renal failure induced by gentamicin the transient or dynamic response of blood vessels could be affected, and that antioxidants can prevent the changes in dynamic responses of blood vessels.
+The new approach to ex vivo blood vessel experiments in which not only the end points of vessels response within the time interval is considered, but also dynamics of this response, was used in this paper.
+Our results confirm the alteration in dynamic response of blood vessels during the change of pressure in gentamicin-treated animals.
+The beneficial effects of vitamin C administration to gentamicin-treated animals are also confirmed through: lower level of blood urea and creatinine and higher level of potassium.
+The pressure dynamic responses of isolated blood vessels show a faster pressure change in gentamicin-treated animals (8.07 +/- 1.7 s vs. 5.64 +/- 0.18 s).
+Vitamin C administration induced slowdown of pressure change back to the control values.
+The pressure dynamic properties, quantitatively defined by comparative pressure dynamic and total pressure dynamic, confirm the alteration in dynamic response of blood vessels during the change of pressure in gentamicin-treated animals and beneficial effects of vitamin C administration.

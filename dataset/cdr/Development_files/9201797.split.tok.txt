@@ -1,0 +1,11 @@
+The attenuating effect of carteolol hydrochloride , a beta - adrenoceptor antagonist , on neuroleptic - induced catalepsy in rats .
+It is known that beta - adrenoceptor antagonists are effective in the treatment of akathisia , one of the extrapyramidal side effects that occur during neuroleptic treatment .
+Neuroleptic - induced catalepsy , a model of neuroleptic - induced extrapyramidal side effects , was considered suitable as a model for predicting neuroleptic - induced akathisia in humans , although neuroleptic - induced catalepsy was not considered a specific test for neuroleptic - induced akathisia .
+Therefore , the effects of carteolol , a beta - adrenoceptor antagonist , on haloperidol - induced catalepsy in rats were behaviorally studied and compared with those of propranolol and biperiden , a muscarinic receptor antagonist .
+Carteolol , as well as propranolol and biperiden , inhibited the haloperidol - induced catalepsy .
+The inhibitory effect of carteolol was almost comparable to that of propranolol , but was weaker than that of biperiden .
+Carteolol did not evoke postsynaptic dopamine receptor - stimulating behavioral signs such as stereotypy and hyperlocomotion in rats .
+Carteolol did not antagonize the inhibitory effects of haloperidol on apomorphine - induced stereotypy and locomotor activity in rats .
+In addition , carteolol did not evoke 5 - HT1A receptor - stimulating behavioral signs such as flat body posture and forepaw treading and did not inhibit 5 - hydroxytryptophan - induced head twitch in rats .
+Finally , carteolol did not inhibit physostigmine - induced lethality in rats .
+These results strongly suggest that carteolol improves haloperidol - induced catalepsy via its beta - adrenoceptor antagonistic activity and is expected to be effective in the treatment of akathisia without attenuating neuroleptic - induced antipsychotic effects due to its postsynaptic dopamine receptor antagonistic activity .

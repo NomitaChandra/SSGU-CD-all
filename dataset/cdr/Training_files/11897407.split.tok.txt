@@ -1,0 +1,10 @@
+99mTc - glucarate for detection of isoproterenol - induced myocardial infarction in rats .
+Infarct - avid radiopharmaceuticals are necessary for rapid and timely diagnosis of acute myocardial infarction .
+The animal model used to produce infarction implies artery ligation but chemical induction can be easily obtained with isoproterenol .
+A new infarct - avid radiopharmaceutical based on glucaric acid was prepared in the hospital radiopharmacy of the INCMNSZ .
+99mTc - glucarate was easy to prepare , stable for 96 h and was used to study its biodistribution in rats with isoproterenol - induced acute myocardial infarction .
+Histological studies demonstrated that the rats developed an infarct 18 h after isoproterenol administration .
+The rat biodistribution studies showed a rapid blood clearance via the kidneys .
+Thirty minutes after 99mTc - glucarate administration the standardised heart uptake value S ( h ) UV was 4 . 7 in infarcted rat heart which is six times more than in normal rats .
+ROIs drawn over the gamma camera images showed a ratio of 4 . 4 .
+The high image quality suggests that high contrast images can be obtained in humans and the 96 h stability makes it an ideal agent to detect , in patients , early cardiac infarction .

@@ -1,0 +1,13 @@
+Adequate timing of ribavirin reduction in patients with hemolysis during combination therapy of interferon and ribavirin for chronic hepatitis C .
+BACKGROUND : Hemolytic anemia is one of the major adverse events of the combination therapy of interferon and ribavirin .
+Because of ribavirin - related hemolytic anemia , dose reduction is a common event in this therapy .
+In this clinical retrospective cohort study we have examined the suitable timing of ribavirin reduction in patients with hemolysis during combination therapy .
+METHODS : Thirty - seven of 160 patients who had HCV - genotype 1b , had high virus load , and received 24 - week combination therapy developed anemia with hemoglobin level < 10 g / dl or anemia - related signs during therapy .
+After that , these 37 patients were reduced one tablet of ribavirin ( 200 mg ) per day .
+After reduction of ribavirin , 27 of 37 patients could continue combination therapy for a total of 24 weeks ( group A ) .
+However , 10 of 37 patients with reduction of ribavirin could not continue combination therapy because their < 8 . 5 g / dl hemoglobin values decreased to or anemia - related severe side effects occurred ( group B ) .
+We assessed the final efficacy and safety after reduction of ribavirin in groups A and B .
+RESULTS : A sustained virological response ( SVR ) was 29 . 6 % ( 8 / 27 ) in group A and 10 % ( 1 / 10 ) in group B , respectively .
+A 34 . 4 % ( 12 / 27 ) of SVR + biological response in group A was higher than 10 % ( 1 / 10 ) in group B ( P = 0 . 051 ) , with slight significance .
+With respect to hemoglobin level at the time of ribavirin reduction , a rate of continuation of therapy in patients with > or = 10 g / dl hemoglobin was higher than that in patients with < 10 g / dl ( P = 0 . 036 ) .
+CONCLUSIONS : Reduction of ribavirin at hemoglobin level > or = 10 g / dl is suitable in terms of efficacy and side effects .

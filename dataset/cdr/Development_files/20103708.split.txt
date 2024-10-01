@@ -1,0 +1,12 @@
+The protective role of Nrf2 in streptozotocin-induced diabetic nephropathy.
+OBJECTIVE: Diabetic nephropathy is one of the major causes of renal failure, which is accompanied by the production of reactive oxygen species (ROS).
+Nrf2 is the primary transcription factor that controls the antioxidant response essential for maintaining cellular redox homeostasis.
+Here, we report our findings demonstrating a protective role of Nrf2 against diabetic nephropathy.
+RESEARCH DESIGN AND METHODS: We explore the protective role of Nrf2 against diabetic nephropathy using human kidney biopsy tissues from diabetic nephropathy patients, a streptozotocin-induced diabetic nephropathy model in Nrf2(-/-) mice, and cultured human mesangial cells.
+RESULTS: The glomeruli of human diabetic nephropathy patients were under oxidative stress and had elevated Nrf2 levels.
+In the animal study, Nrf2 was demonstrated to be crucial in ameliorating streptozotocin-induced renal damage.
+This is evident by Nrf2(-/-) mice having higher ROS production and suffering from greater oxidative DNA damage and renal injury compared with Nrf2(+/+) mice.
+Mechanistic studies in both in vivo and in vitro systems showed that the Nrf2-mediated protection against diabetic nephropathy is, at least, partially through inhibition of transforming growth factor-beta1 (TGF-beta1) and reduction of extracellular matrix production.
+In human renal mesangial cells, high glucose induced ROS production and activated expression of Nrf2 and its downstream genes.
+Furthermore, activation or overexpression of Nrf2 inhibited the promoter activity of TGF-beta1 in a dose-dependent manner, whereas knockdown of Nrf2 by siRNA enhanced TGF-beta1 transcription and fibronectin production.
+CONCLUSIONS: This work clearly indicates a protective role of Nrf2 in diabetic nephropathy, suggesting that dietary or therapeutic activation of Nrf2 could be used as a strategy to prevent or slow down the progression of diabetic nephropathy.

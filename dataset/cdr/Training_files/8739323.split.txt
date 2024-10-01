@@ -1,0 +1,10 @@
+Effect of some anticancer drugs and combined chemotherapy on renal toxicity.
+The nephrotoxic action of anticancer drugs such as nitrogranulogen (NG), methotrexate (MTX), 5-fluorouracil (5-FU) and cyclophosphamide (CY) administered alone or in combination [MTX + 5-FU + CY (CMF)] was evaluated in experiments on Wistar rats.
+After drug administration, creatinine concentrations in the plasma and in the urine of the rats were determined, as well as creatinine clearance.
+Histopathologic evaluation of the kidneys was also performed.
+After MTX administration a significant increase (p = 0.0228) in the plasma creatinine concentration and a significant (p = 0.0001) decrease in creatinine clearance was noted compared to controls.
+After the administration of NG, 5-FU and CY neither a statistically significant increase in creatinine concentration nor an increase in creatinine clearance was observed compared to the group receiving no cytostatics.
+Following polytherapy according to the CMF regimen, a statistically significant decrease (p = 0.0343) in creatinine clearance was found, but creatinine concentration did not increase significantly compared to controls.
+CY caused hemorrhagic cystitis in 40% of rats, but it did not cause this complication when combined with 5-FU and MTX.
+Histologic changes were found in rat kidneys after administration of MTX, CY and NG, while no such change was observed after 5-FU and joint administration of MTX + 5-FU + CY compared to controls.
+Our studies indicate that nephrotoxicity of MTX + 5-FU + CY administered jointly is lower than in monotherapy.

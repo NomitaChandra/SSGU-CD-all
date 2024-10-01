@@ -1,0 +1,10 @@
+Systolic pressure variation is greater during hemorrhage than during sodium nitroprusside-induced hypotension in ventilated dogs.
+The systolic pressure variation (SPV), which is the difference between the maximal and minimal values of the systolic blood pressure (SBP) after one positive-pressure breath, was studied in ventilated dogs subjected to hypotension.
+Mean arterial pressure was decreased to 50 mm Hg for 30 minutes either by hemorrhage (HEM, n = 7) or by continuous infusion of sodium nitroprusside (SNP, n = 7).
+During HEM-induced hypotension the cardiac output was significantly lower and systemic vascular resistance higher compared with that in the SNP group.
+The systemic, central venous, pulmonary capillary wedge pressures, and heart rates, were similar in the two groups.
+Analysis of the respiratory changes in the arterial pressure waveform enabled differentiation between the two groups.
+The SPV during hypotension was 15.7 +/- 6.7 mm Hg in the HEM group, compared with 9.1 +/- 2.0 mm Hg in the SNP group (P less than 0.02).
+The delta down, which is the measure of decrease of SBP after a mechanical breath, was 20.3 +/- 8.4 and 10.1 +/- 3.8 mm Hg in the HEM and SNP groups, respectively, during hypotension (P less than 0.02).
+It is concluded that increases in the SPV and the delta down are characteristic of a hypotensive state due to a predominant decrease in preload.
+They are thus more important during absolute hypovolemia than during deliberate hypotension.

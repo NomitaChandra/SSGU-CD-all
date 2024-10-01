@@ -1,0 +1,13 @@
+Quinine-induced arrhythmia in a patient with severe malaria.
+It was reported that there was a case of severe malaria patient with jaundice who presented with arrhythmia (premature ventricular contraction) while getting quinine infusion was reported.
+A man, 25 years old, was admitted to hospital with high fever, chill, vomiting, jaundice.
+The patient was fully conscious, blood pressure 120/80 mmHg, pulse rate 100 x/minute, regular.
+On admission, laboratory examination showed Plasmodium falciparum (++++), total bilirubin 8.25 mg/dL, conjugated bilirubin 4.36 mg/dL, unconjugated bilirubin 3.89 mg/dL, potassium 3.52 meq/L Patient was diagnosed as severe malaria with jaundice and got quinine infusion in dextrose 5% 500 mg/8 hour.
+On the second day the patient had vomitus, diarrhea, tinnitus, loss of hearing.
+After 30 hours of quinine infusion the patient felt palpitation and electrocardiography (ECG) recording showed premature ventricular contraction (PVC) > 5 x/minute, trigemini, constant type--sinoatrial block, positive U wave.
+He was treated with lidocaine 50 mg intravenously followed by infusion 1500 mg in dextrose 5%/24 hour and potassium aspartate tablet.
+Quinine infusion was discontinued and changed with sulfate quinine tablets.
+Three hours later the patient felt better, the frequency of PVC reduced to 4 - 5 x/minute and on the third day ECG was normal, potassium level was 3.34 meq/L.
+He was discharged on 7th day in good condition.
+Quinine, like quinidine, is a chincona alkaloid that has anti-arrhythmic property, although it also pro-arrhythmic that can cause various arrhythmias, including severe arrhythmia such as multiple PVC.
+Administration of parenteral quinine must be done carefully and with good observation because of its pro-arrhythmic effect, especially in older patients who have heart diseases or patients with electrolyte disorder (hypokalemia) which frequently occurs due to vomiting and or diarrhea in malaria cases.

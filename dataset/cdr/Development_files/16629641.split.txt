@@ -1,0 +1,9 @@
+Definition and management of anemia in patients infected with hepatitis C virus.
+Chronic infection with hepatitis C virus (HCV) can progress to cirrhosis, hepatocellular carcinoma, and end-stage liver disease.
+The current best treatment for HCV infection is combination therapy with pegylated interferon and ribavirin.
+Although this regimen produces sustained virologic responses (SVRs) in approximately 50% of patients, it can be associated with a potentially dose-limiting hemolytic anemia.
+Hemoglobin concentrations decrease mainly as a result of ribavirin-induced hemolysis, and this anemia can be problematic in patients with HCV infection, especially those who have comorbid renal or cardiovascular disorders.
+In general, anemia can increase the risk of morbidity and mortality, and may have negative effects on cerebral function and quality of life.
+Although ribavirin-associated anemia can be reversed by dose reduction or discontinuation, this approach compromises outcomes by significantly decreasing SVR rates.
+Recombinant human erythropoietin has been used to manage ribavirin-associated anemia but has other potential disadvantages.
+Viramidine, a liver-targeting prodrug of ribavirin, has the potential to maintain the virologic efficacy of ribavirin while decreasing the risk of hemolytic anemia in patients with chronic hepatitis C.

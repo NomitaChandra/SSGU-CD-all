@@ -1,0 +1,8 @@
+Effects of UMB24 and (+/-)-SM 21, putative sigma2-preferring antagonists, on behavioral toxic and stimulant effects of cocaine in mice.
+Earlier studies have demonstrated that antagonism of sigma1 receptors attenuates the convulsive, lethal, locomotor stimulatory and rewarding actions of cocaine in mice.
+In contrast, the contribution of sigma2 receptors is unclear because experimental tools to selectively target this subtype are unavailable.
+To begin addressing this need, we characterized UMB24 (1-(2-phenethyl)-4-(2-pyridyl)-piperazine) and (+/-)-SM 21 (3alpha-tropanyl-2-(4-chorophenoxy)butyrate) in receptor binding and behavioral studies.
+Receptor binding studies confirmed that UMB24 and (+/-)-SM 21 display preferential affinity for sigma2 over sigma1 receptors.
+In behavioral studies, pretreatment of Swiss Webster mice with UMB24 or (+/-)-SM 21 significantly attenuated cocaine-induced convulsions and locomotor activity, but not lethality.
+When administered alone, (+/-)-SM 21 produced no significant effects compared to control injections of saline, but UMB24 had locomotor depressant actions.
+Together, the data suggest that sigma2 receptor antagonists have the potential to attenuate some of the behavioral effects of cocaine, and further development of more selective, high affinity ligands are warranted.

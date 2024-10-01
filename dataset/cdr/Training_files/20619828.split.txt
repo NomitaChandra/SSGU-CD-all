@@ -1,0 +1,9 @@
+A novel, multiple symptom model of obsessive-compulsive-like behaviors in animals.
+BACKGROUND: Current animal models of obsessive-compulsive disorder (OCD) typically involve acute, drug-induced symptom provocation or a genetic association with stereotypies or anxiety.
+None of these current models demonstrate multiple OCD-like behaviors.
+METHODS: Neonatal rats were treated with the tricyclic antidepressant clomipramine or vehicle between days 9 and 16 twice daily and behaviorally tested in adulthood.
+RESULTS: Clomipramine exposure in immature rats produced significant behavioral and biochemical changes that include enhanced anxiety (elevated plus maze and marble burying), behavioral inflexibility (perseveration in the spontaneous alternation task and impaired reversal learning), working memory impairment (e.g., win-shift paradigm), hoarding, and corticostriatal dysfunction.
+Dopamine D2 receptors were elevated in the striatum, whereas serotonin 2C, but not serotonin 1A, receptors were elevated in the orbital frontal cortex.
+CONCLUSIONS: This is the first demonstration of multiple symptoms consistent with an OCD-like profile in animals.
+Moreover, these behaviors are accompanied by biochemical changes in brain regions previously identified as relevant to OCD.
+This novel model of OCD demonstrates that drug exposure during a sensitive period can program disease-like systems permanently, which could have implications for current and future therapeutic strategies for this and other psychiatric disorders.

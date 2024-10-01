@@ -1,0 +1,14 @@
+Hypothalamic prolactin receptor messenger ribonucleic acid levels, prolactin signaling, and hyperprolactinemic inhibition of pulsatile luteinizing hormone secretion are dependent on estradiol.
+Hyperprolactinemia can reduce fertility and libido.
+Although central prolactin actions are thought to contribute to this, the mechanisms are poorly understood.
+We first tested whether chronic hyperprolactinemia inhibited two neuroendocrine parameters necessary for female fertility: pulsatile LH secretion and the estrogen-induced LH surge.
+Chronic hyperprolactinemia induced by the dopamine antagonist sulpiride caused a 40% reduction LH pulse frequency in ovariectomized rats, but only in the presence of chronic low levels of estradiol.
+Sulpiride did not affect the magnitude of a steroid-induced LH surge or the percentage of GnRH neurons activated during the surge.
+Estradiol is known to influence expression of the long form of prolactin receptors (PRL-R) and components of prolactin's signaling pathway.
+To test the hypothesis that estrogen increases PRL-R expression and sensitivity to prolactin, we next demonstrated that estradiol greatly augments prolactin-induced STAT5 activation.
+Lastly, we measured PRL-R and suppressor of cytokine signaling (SOCS-1 and -3 and CIS, which reflect the level of prolactin signaling) mRNAs in response to sulpiride and estradiol.
+Sulpiride induced only SOCS-1 in the medial preoptic area, where GnRH neurons are regulated, but in the arcuate nucleus and choroid plexus, PRL-R, SOCS-3, and CIS mRNA levels were also induced.
+Estradiol enhanced these effects on SOCS-3 and CIS.
+Interestingly, estradiol also induced PRL-R, SOCS-3, and CIS mRNA levels independently.
+These data show that GnRH pulse frequency is inhibited by chronic hyperprolactinemia in a steroid-dependent manner.
+They also provide evidence for estradiol-dependent and brain region-specific regulation of PRL-R expression and signaling responses by prolactin.

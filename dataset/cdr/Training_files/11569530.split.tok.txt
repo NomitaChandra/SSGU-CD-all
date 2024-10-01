@@ -1,0 +1,12 @@
+Pharmacokinetic / pharmacodynamic assessment of the effects of E4031 , cisapride , terfenadine and terodiline on monophasic action potential duration in dog .
+1 . Torsades de pointes ( TDP ) is a potentially fatal ventricular tachycardia associated with increases in QT interval and monophasic action potential duration ( MAPD ) .
+TDP is a side - effect that has led to withdrawal of several drugs from the market ( e . g . terfenadine and terodiline ) .
+2 .
+The potential of compounds to cause TDP was evaluated by monitoring their effects on MAPD in dog .
+Four compounds known to increase QT interval and cause TDP were investigated : terfenadine , terodiline , cisapride and E4031 .
+On the basis that only free drug in the systemic circulation will elicit a pharmacological response target , free concentrations in plasma were selected to mimic the free drug exposures in man .
+Infusion regimens were designed that rapidly achieved and maintained target - free concentrations of these drugs in plasma and data on the relationship between free concentration and changes in MAPD were obtained for these compounds .
+3 .
+These data indicate that the free ED50 in plasma for terfenadine ( 1 . 9 nM ) , terodiline ( 76 nM ) , cisapride ( 11 nM ) and E4031 ( 1 . 9 nM ) closely correlate with the free concentration in man causing QT effects .
+For compounds that have shown TDP in the clinic ( terfenadine , terodiline , cisapride ) there is little differentiation between the dog ED50 and the efficacious free plasma concentrations in man ( < 10 - fold ) reflecting their limited safety margins .
+These data underline the need to maximize the therapeutic ratio with respect to TDP in potential development candidates and the importance of using free drug concentrations in pharmacokinetic / pharmacodynamic studies .

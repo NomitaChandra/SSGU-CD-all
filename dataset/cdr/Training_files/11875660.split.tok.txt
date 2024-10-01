@@ -1,0 +1,11 @@
+Sequential observations of exencephaly and subsequent morphological changes by mouse exo utero development system : analysis of the mechanism of transformation from exencephaly to anencephaly .
+Anencephaly has been suggested to develop from exencephaly ; however , there is little direct experimental evidence to support this , and the mechanism of transformation remains unclear .
+We examined this theory using the exo utero development system that allows direct and sequential observations of mid - to late - gestation mouse embryos .
+We observed the exencephaly induced by 5 - azacytidine at embryonic day 13 . 5 ( E13 . 5 ) , let the embryos develop exo utero until E18 . 5 , and re - observed the same embryos at E18 . 5 .
+We confirmed several cases of transformation from exencephaly to anencephaly .
+However , in many cases , the exencephalic brain tissue was preserved with more or less reduction during this period .
+To analyze the transformation patterns , we classified the exencephaly by size and shape of the exencephalic tissue into several types at E13 . 5 and E18 . 5 .
+It was found that the transformation of exencephalic tissue was not simply size - dependent , and all cases of anencephaly at E18 . 5 resulted from embryos with a large amount of exencephalic tissue at E13 . 5 .
+Microscopic observation showed the configuration of exencephaly at E13 . 5 , frequent hemorrhaging and detachment of the neural plate from surface ectoderm in the exencephalic head at E15 . 5 , and multiple modes of reduction in the exencephalic tissue at E18 . 5 .
+From observations of the vasculature , altered distribution patterns of vessels were identified in the exencephalic head .
+These findings suggest that overgrowth of the exencephalic neural tissue causes the altered distribution patterns of vessels , subsequent peripheral circulatory failure and / or hemorrhaging in various parts of the exencephalic head , leading to the multiple modes of tissue reduction during transformation from exencephaly to anencephaly .

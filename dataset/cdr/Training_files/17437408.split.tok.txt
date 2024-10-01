@@ -1,0 +1,15 @@
+Upregulation of brain expression of P - glycoprotein in MRP2 - deficient TR ( - ) rats resembles seizure - induced up - regulation of this drug efflux transporter in normal rats .
+PURPOSE : The multidrug resistance protein 2 ( MRP2 ) is a drug efflux transporter that is expressed predominantly at the apical domain of hepatocytes but seems also to be expressed at the apical membrane of brain capillary endothelial cells that form the blood - brain barrier ( BBB ) .
+MRP2 is absent in the transport - deficient ( TR ( - ) ) Wistar rat mutant , so that this rat strain was very helpful in defining substrates of MRP2 by comparing tissue concentrations or functional activities of compounds in MRP2 - deficient rats with those in transport - competent Wistar rats .
+By using this strategy to study the involvement of MRP2 in brain access of antiepileptic drugs ( AEDs ) , we recently reported that phenytoin is a substrate for MRP2 in the BBB .
+However , one drawback of such studies in genetically deficient rats is the fact that compensatory changes with upregulation of other transporters can occur .
+This prompted us to study the brain expression of P - glycoprotein ( Pgp ) , a major drug efflux transporter in many tissues , including the BBB , in TR ( - ) rats compared with nonmutant ( wild - type ) Wistar rats .
+METHODS : The expression of MRP2 and Pgp in brain and liver sections of TR ( - ) rats and normal Wistar rats was determined with immunohistochemistry , by using a novel , highly selective monoclonal MRP2 antibody and the monoclonal Pgp antibody C219 , respectively .
+RESULTS : Immunofluorescence staining with the MRP2 antibody was found to label a high number of microvessels throughout the brain in normal Wistar rats , whereas such labeling was absent in TR ( - ) rats .
+TR ( - ) rats exhibited a significant up - regulation of Pgp in brain capillary endothelial cells compared with wild - type controls .
+No such obvious upregulation of Pgp was observed in liver sections .
+A comparable overexpression of Pgp in the BBB was obtained after pilocarpine - induced seizures in wild - type Wistar rats .
+Experiments with systemic administration of the Pgp substrate phenobarbital and the selective Pgp inhibitor tariquidar in TR ( - ) rats substantiated that Pgp is functional and compensates for the lack of MRP2 in the BBB .
+CONCLUSIONS : The data on TR ( - ) rats indicate that Pgp plays an important role in the compensation of MRP2 deficiency in the BBB .
+Because such a compensatory mechanism most likely occurs to reduce injury to the brain from cytotoxic compounds , the present data substantiate the concept that MRP2 performs a protective role in the BBB .
+Furthermore , our data suggest that TR ( - ) rats are an interesting tool to study consequences of overexpression of Pgp in the BBB on access of drugs in the brain , without the need of inducing seizures or other Pgp - enhancing events for this purpose .

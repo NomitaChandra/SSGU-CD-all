@@ -1,0 +1,7 @@
+Nitro-L-arginine methyl ester: a potential protector against gentamicin ototoxicity.
+The nitric oxide (NO) inhibitor nitro-L-arginine methyl ester (L-NAME) may act as an otoprotectant against high-frequency hearing loss caused by gentamicin, but further studies are needed to confirm this.Aminoglycoside antibiotics are still widely used by virtue of their efficacy and low cost.
+Their ototoxicity is a serious health problem and, as their ototoxic mechanism involves the production of NO, we need to assess the use of NO inhibitors for the prevention of aminoglycoside-induced sensorineural hearing loss.
+In this experimental study we used 30 Sprague-Dawley rats, 27 of which had gentamicin instilled into the middle ear.
+The otoprotectant L-NAME was administered topically to 12/27 animals.
+Its effect was determined in terms of attenuation of hearing loss, measured by shifts in the auditory brainstem response threshold.
+L-NAME reduced gentamicin-induced hearing loss in the high-frequency range, but gave no protection in the middle or low frequencies.

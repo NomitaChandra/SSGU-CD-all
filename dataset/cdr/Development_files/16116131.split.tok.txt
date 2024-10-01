@@ -1,0 +1,4 @@
+rTMS of supplementary motor area modulates therapy - induced dyskinesias in Parkinson disease .
+The neural mechanisms and circuitry involved in levodopa - induced dyskinesia are unclear .
+Using repetitive transcranial magnetic stimulation ( rTMS ) over the supplementary motor area ( SMA ) in a group of patients with advanced Parkinson disease , the authors investigated whether modulation of SMA excitability may result in a modification of a dyskinetic state induced by continuous apomorphine infusion .
+rTMS at 1 Hz was observed to markedly reduce drug - induced dyskinesias , whereas 5 - Hz rTMS induced a slight but not significant increase .

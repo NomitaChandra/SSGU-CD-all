@@ -1,0 +1,9 @@
+MR imaging with quantitative diffusion mapping of tacrolimus-induced neurotoxicity in organ transplant patients.
+Our objective was to investigate brain MR imaging findings and the utility of diffusion-weighted (DW) imaging in organ transplant patients who developed neurologic symptoms during tacrolimus therapy.
+Brain MR studies, including DW imaging, were prospectively performed in 14 organ transplant patients receiving tacrolimus who developed neurologic complications.
+In each patient who had abnormalities on the initial MR study, a follow-up MR study was performed 1 month later.
+Apparent diffusion coefficient (ADC) values on the initial MR study were correlated with reversibility of the lesions.
+Of the 14 patients, 5 (35.7%) had white matter abnormalities, 1 (7.1%) had putaminal hemorrhage, and 8 (57.1%) had normal findings on initial MR images.
+Among the 5 patients with white matter abnormalities, 4 patients (80.0%) showed higher than normal ADC values on initial MR images, and all showed complete resolution on follow-up images.
+The remaining 1 patient (20.0%) showed lower than normal ADC value and showed incomplete resolution with cortical laminar necrosis.
+Diffusion-weighted imaging may be useful in predicting the outcomes of the lesions of tacrolimus-induced neurotoxicity.

@@ -1,0 +1,10 @@
+Serotonergic drugs , benzodiazepines and baclofen block muscimol - induced myoclonic jerks in a strain of mice .
+In male Swiss mice , muscimol produced myoclonic jerks .
+A 3 mg / kg ( i . p . ) dose induced this response in all of the mice tested and the peak response of 73 jerks per min was observed between 27 and 45 min .
+Increasing the brain serotonin levels by the administration of 5 - hydroxytryptophan ( 80 - 160 mg / kg ) in combination with a peripheral decarboxylase inhibitor resulted in an inhibition of the muscimol effect .
+However , in a similar experiment l - dopa ( 80 - 160 mg / kg ) was without effect .
+In doses of 3 - 10 mg / kg , the serotonin receptor agonist MK - 212 caused a dose - dependent blockade of the response of muscimol .
+Of the benzodiazepines , clonazepam ( 0 . 1 - 0 . 3 mg / kg ) was found to be several fold more potent than diazepam ( 0 . 3 - 3 mg / kg ) in blocking the myoclonic jerks .
+While ( - ) - baclofen ( 1 - 3 mg / kg ) proved to be an effective antagonist of muscimol , its ( + ) - isomer ( 5 - 20 mg / kg ) lacked this property .
+Considering the fact that 5 - HTP and the benzodiazepines have been found to be beneficial in the management of clinical myoclonus , the muscimol - induced myoclonus seems to be a satisfactory animal model that may prove useful for the development of new drug treatments for this condition .
+Our present study indicated the possible value of MK - 212 and ( - ) - baclofen in the management of clinical myoclonus .

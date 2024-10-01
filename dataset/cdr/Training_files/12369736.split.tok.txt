@@ -1,0 +1,11 @@
+Effects of 5 - HT1B receptor ligands microinjected into the accumbal shell or core on the cocaine - induced locomotor hyperactivity in rats .
+The present study was designed to examine the effect of 5 - HT1B receptor ligands microinjected into the subregions of the nucleus accumbens ( the shell and the core ) on the locomotor hyperactivity induced by cocaine in rats .
+Male Wistar rats were implanted bilaterally with cannulae into the accumbens shell or core , and then were locally injected with GR 55562 ( an antagonist of 5 - HT1B receptors ) or CP 93129 ( an agonist of 5 - HT1B receptors ) .
+Given alone to any accumbal subregion , GR 55562 ( 0 . 1 - 10 microg / side ) or CP 93129 ( 0 . 1 - 10 microg / side ) did not change basal locomotor activity .
+Systemic cocaine ( 10 mg / kg ) significantly increased the locomotor activity of rats .
+GR 55562 ( 0 . 1 - 10 microg / side ) , administered intra - accumbens shell prior to cocaine , dose - dependently attenuated the psychostimulant - induced locomotor hyperactivity .
+Such attenuation was not found in animals which had been injected with GR 55562 into the accumbens core .
+When injected into the accumbens shell ( but not the core ) before cocaine , CP 93129 ( 0 . 1 - 10 microg / side ) enhanced the locomotor response to cocaine ; the maximum effect being observed after 10 microg / side of the agonist .
+The later enhancement was attenuated after intra - accumbens shell treatment with GR 55562 ( 1 microg / side ) .
+Our findings indicate that cocaine induced hyperlocomotion is modified by 5 - HT1B receptor ligands microinjected into the accumbens shell , but not core , this modification consisting in inhibitory and facilitatory effects of the 5 - HT1B receptor antagonist ( GR 55562 ) and agonist ( CP 93129 ) , respectively .
+In other words , the present results suggest that the accumbal shell 5 - HT1B receptors play a permissive role in the behavioural response to the psychostimulant .

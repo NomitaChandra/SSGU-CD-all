@@ -1,0 +1,15 @@
+Placebo-level incidence of extrapyramidal symptoms (EPS) with quetiapine in controlled studies of patients with bipolar mania.
+OBJECTIVES: To evaluate extrapyramidal symptoms (EPS), including akathisia, with quetiapine in patients with bipolar mania.
+METHODS: Data were analyzed from four similarly designed, randomized, double-blind, 3- to 12-week studies.
+Two studies evaluated quetiapine monotherapy (up to 800 mg/day) (n = 209) versus placebo (n = 198), with lithium or haloperidol monotherapy as respective active controls.
+Two studies evaluated quetiapine (up to 800 mg/day) in combination with a mood stabilizer (lithium or divalproex, QTP + Li/DVP) (n = 196) compared to placebo and mood stabilizer (PBO + Li/DVP) (n = 203).
+Extrapyramidal symptoms were evaluated using the Simpson-Angus Scale (SAS), the Barnes Akathisia Rating Scale (BARS), adverse event reports and anticholinergic drug usage.
+RESULTS: The incidence of EPS-related adverse events, including akathisia, was no different with quetiapine monotherapy (12.9%) than with placebo (13.1%).
+Similarly, EPS-related adverse events with QTP + Li/DVP (21.4%) were no different than with PBO + Li/DVP (19.2%).
+Adverse events related to EPS occurred in 59.6% of patients treated with haloperidol (n = 99) monotherapy, whereas 26.5% of patients treated with lithium (n = 98) monotherapy experienced adverse events related to EPS.
+The incidence of akathisia was low and similar with quetiapine monotherapy (3.3%) and placebo (6.1%), and with QTP + Li/DVP (3.6%) and PBO + Li/DVP (4.9%).
+Lithium was associated with a significantly higher incidence (p < 0.05) of tremor (18.4%) than quetiapine (5.6%); cerebellar tremor, which is a known adverse effect of lithium, may have contributed to the elevated rate of tremor in patients receiving lithium therapy.
+Haloperidol induced a significantly higher incidence (p < 0.001) of akathisia (33.3% versus 5.9%), tremor (30.3% versus 7.8%), and extrapyramidal syndrome (35.4% versus 5.9%) than quetiapine.
+No significant differences were observed between quetiapine and placebo on SAS and BARS scores.
+Anticholinergic use was low and similar with quetiapine or placebo.
+CONCLUSIONS: In bipolar mania, the incidence of EPS, including akathisia, with quetiapine therapy is similar to that with placebo.

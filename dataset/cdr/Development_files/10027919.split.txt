@@ -1,0 +1,17 @@
+22-oxacalcitriol suppresses secondary hyperparathyroidism without inducing low bone turnover in dogs with renal failure.
+BACKGROUND: Calcitriol therapy suppresses serum levels of parathyroid hormone (PTH) in patients with renal failure but has several drawbacks, including hypercalcemia and/or marked suppression of bone turnover, which may lead to adynamic bone disease.
+A new vitamin D analogue, 22-oxacalcitriol (OCT), has been shown to have promising characteristics.
+This study was undertaken to determine the effects of OCT on serum PTH levels and bone turnover in states of normal or impaired renal function.
+METHODS: Sixty dogs were either nephrectomized (Nx, N = 38) or sham-operated (Sham, N = 22).
+The animals received supplemental phosphate to enhance PTH secretion.
+Fourteen weeks after the start of phosphate supplementation, half of the Nx and Sham dogs received doses of OCT (three times per week); the other half were given vehicle for 60 weeks.
+Thereafter, the treatment modalities for a subset of animals were crossed over for an additional eight months.
+Biochemical and hormonal indices of calcium and bone metabolism were measured throughout the study, and bone biopsies were done at baseline, 60 weeks after OCT or vehicle treatment, and at the end of the crossover period.
+RESULTS: In Nx dogs, OCT significantly decreased serum PTH levels soon after the induction of renal insufficiency.
+In long-standing secondary hyperparathyroidism, OCT (0.03 microg/kg) stabilized serum PTH levels during the first months.
+Serum PTH levels rose thereafter, but the rise was less pronounced compared with baseline than the rise seen in Nx control.
+These effects were accompanied by episodes of hypercalcemia and hyperphosphatemia.
+In animals with normal renal function, OCT induced a transient decrease in serum PTH levels at a dose of 0.1 microg/kg, which was not sustained with lowering of the doses.
+In Nx dogs, OCT reversed abnormal bone formation, such as woven osteoid and fibrosis, but did not significantly alter the level of bone turnover.
+In addition, OCT improved mineralization lag time, (that is, the rate at which osteoid mineralizes) in both Nx and Sham dogs.
+CONCLUSIONS: These results indicate that even though OCT does not completely prevent the occurrence of hypercalcemia in experimental dogs with renal insufficiency, it may be of use in the management of secondary hyperparathyroidism because it does not induce low bone turnover and, therefore, does not increase the risk of adynamic bone disease.

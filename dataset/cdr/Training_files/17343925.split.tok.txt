@@ -1,0 +1,15 @@
+Influence of smoking on developing cochlea .
+Does smoking during pregnancy affect the amplitudes of transient evoked otoacoustic emissions in newborns ?
+OBJECTIVE : Maternal tobacco smoking has negative effects on fetal growth .
+The influence of smoking during pregnancy on the developing cochlea has not been estimated , although smoking has been positively associated with hearing loss in adults .
+The objective of this study was to determine the effects of maternal smoking on transient evoked otoacoustic emissions ( TEOAEs ) of healthy neonates .
+METHODS : This study was undertaken as part of neonatal screening for hearing impairment and involved both ears of 200 newborns .
+Newborns whose mothers reported smoking during pregnancy ( n = 200 ears ) were compared to a control group of newborns ( n = 200 ears ) , whose mothers were non - smokers .
+Exposure to tobacco was characterized as low ( < 5 cigarettes per day , n = 88 ears ) , moderate ( 5 < or = cigarettes per day < 10 , n = 76 ) or high ( > or = 10 cigarettes per day , n = 36 ) .
+RESULTS : In exposed neonates , TEOAEs mean response ( across frequency ) and mean amplitude at 4000Hz was significantly lower than in non - exposed neonates .
+Comparisons between exposed newborns ' subgroups revealed no significant differences .
+However , by comparing each subgroup to control group , we found statistically significant decreases of TEOAEs amplitudes at 4000Hz for all three groups .
+Mean TEOAEs responses of highly exposed newborns were also significantly lower in comparison to our control group .
+CONCLUSION : In utero , exposure to tobacco smoking seems to have a small impact on outer hair cells .
+These effects seem to be equally true for all exposed newborns , regardless of the degree of exposure .
+Further studies are needed in order to establish a potential negative effect of maternal smoking on the neonate 's hearing acuity .

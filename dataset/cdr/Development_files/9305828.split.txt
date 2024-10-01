@@ -1,0 +1,10 @@
+Neuropeptide-Y immunoreactivity in the pilocarpine model of temporal lobe epilepsy.
+Neuropeptide-Y (NPY) is expressed by granule cells and mossy fibres of the hippocampal dentate gyrus during experimental temporal lobe epilepsy (TLE).
+This expression may represent an endogenous damping mechanism since NPY has been shown to block seizure-like events following high-frequency stimulation in hippocampal slices.
+The pilocarpine (PILO) model of epilepsy is characterized by an acute period of status epilepticus followed by spontaneous recurrent seizures and related brain damage.
+We report peroxidase-antiperoxidase immunostaining for NPY in several brain regions in this model.
+PILO-injected animals exhibited NPY immunoreactivity in the region of the mossy fibre terminals, in the dentate gyrus inner molecular layer and, in a few cases, within presumed granule cells.
+NPY immunoreactivity was also dramatically changed in the entorhinal cortex, amygdala and sensorimotor areas.
+In addition, PILO injected animals exhibited a reduction in the number of NPY-immunoreactive interneurons compared with controls.
+The results demonstrate that changes in NPY expression, including expression in the granule cells and mossy fibres and the loss of vulnerable NPY neurons, are present in the PILO model of TLE.
+However, the significance of this changed synthesis of NPY remains to be determined.

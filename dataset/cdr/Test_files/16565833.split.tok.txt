@@ -1,0 +1,16 @@
+The influence of the time interval between monoHER and doxorubicin administration on the protection against doxorubicin - induced cardiotoxicity in mice .
+PURPOSE : Despite its well - known cardiotoxicity , the anthracyclin doxorubicin ( DOX ) continues to be an effective and widely used chemotherapeutic agent .
+DOX - induced cardiac damage presumably results from the formation of free radicals by DOX .
+Reactive oxygen species particularly affect the cardiac myocytes because these cells seem to have a relatively poor antioxidant defense system .
+The semisynthetic flavonoid monohydroxyethylrutoside ( monoHER ) showed cardioprotection against DOX - induced cardiotoxicity through its radical scavenging and iron chelating properties .
+Because of the relatively short final half - life of monoHER ( about 30 min ) , it is expected that the time interval between monoHER and DOX might be of influence on the cardioprotective effect of monoHER .
+Therefore , the aim of the present study was to investigate this possible effect .
+METHODS : Six groups of 6 BALB / c mice were treated with saline , DOX alone or DOX ( 4 mg / kg i . v . ) preceded by monoHER ( 500 mg / kg i . p . ) with an interval of 10 , 30 , 60 or 120 min .
+After a 6 - week treatment period and additional observation for 2 weeks , the mice were sacrificed .
+Their cardiac tissues were processed for light microscopy , after which cardiomyocyte damage was evaluated according to Billingham ( in Cancer Treat Rep 62 ( 6 ) : 865 - 872 , 1978 ) .
+Microscopic evaluation revealed that treatment with DOX alone induced significant cardiac damage in comparison to the saline control group ( P < 0 . 001 ) .
+RESULTS : The number of damaged cardiomyocytes was 9 . 6 - fold ( 95 % CI 4 . 4 - 21 . 0 ) higher in mice treated with DOX alone than that in animals of the control group .
+The ratio of aberrant cardiomyocytes in mice treated with DOX preceded by monoHER and those in mice treated with saline ranged from 1 . 6 to 2 . 8 ( mean 2 . 2 , 95 % CI 1 . 2 - 4 . 1 , P = 0 . 019 ) .
+The mean protective effect by adding monoHER before DOX led to a significant 4 . 4 - fold reduction ( P < 0 . 001 , 95 % CI 2 . 3 - 8 . 2 ) of abnormal cardiomyocytes .
+This protective effect did not depend on the time interval between monoHER and DOX administration ( P = 0 . 345 ) .
+CONCLUSION : The results indicate that in an outpatient clinical setting monoHER may be administered shortly before DOX .

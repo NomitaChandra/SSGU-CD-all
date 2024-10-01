@@ -1,0 +1,17 @@
+Therapeutic drug monitoring of tobramycin : once - daily versus twice - daily dosage schedules .
+OBJECTIVE : To evaluate the effect of dosage regimen ( once - daily vs . twice - daily ) of tobramicyn on steady - state serum concentrations and toxicity .
+MATERIALS AND METHODS : Patients undergoing treatment with i . v .
+tobramycin ( 4 mg / kg / day ) were randomised to two groups .
+Group OD ( n = 22 ) received a once - daily dose of tobramycin and group TD ( n = 21 ) received the same dose divided into two doses daily .
+Tobramycin serum concentrations ( peak and trough ) were measured by enzyme multiplied immunoassay .
+The renal and auditory functions of the patients were monitored before , during and immediately after treatment .
+RESULTS : The two groups were comparable with respect to sex , age , body weight and renal function .
+No statistically significant differences were found in mean daily dose , duration of treatment , or cumulative dose .
+Trough concentrations were < 2 g / ml in the two groups ( 100 % ) .
+Peak concentrations were > 6 microg / ml in 100 % of the OD group and in 67 % of the TD group ( P < 0 . 01 ) .
+Mean peak concentrations were markedly different : 11 . 00 + / - 2 . 89 microg / ml in OD vs . 6 . 53 + / - 1 . 45 microg / ml in TD ( P < 0 . 01 ) .
+The pharmacokinetics parameters were : Ke , ( 0 . 15 + / - 0 . 03 / h in OD vs . 0 . 24 + / - 0 . 06 / h in TD ) , t1 / 2 , ( 4 . 95 + / - 1 . 41 h in OD vs . 3 . 07 + / - 0 . 71 h in TD ) , Vd ( 0 . 35 + / - 0 . 11 l / kg in OD vs . 0 . 33 + / - 0 . 09 l / kg in TD ) , Cl ( 0 . 86 + / - 0 . 29 ml / min / kg in OD vs . 1 . 28 + / - 0 . 33 ml / min / kg in TD ) .
+Increased serum creatinine was observed in 73 % of patients in OD versus 57 % of patients in TD , without evidence of nephrotoxicity .
+In TD group , three patients developed decreased auditory function , of which one presented with an auditory loss of - 30 dB , whereas in the OD group only one patient presented decreased auditory function .
+CONCLUSION : This small study suggests that a once - daily dosing regimen of tobramycin is at least as effective as and is no more and possibly less toxic than the twice - daily regimen .
+Using a single - dose therapy , peak concentration determination is not necessary , only trough samples should be monitored to ensure levels below 2 microg / ml .

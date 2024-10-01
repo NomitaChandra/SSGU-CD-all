@@ -1,0 +1,9 @@
+Modification of drug action by hyperammonemia .
+Pretreatment with ammonium acetate ( NH4Ac ) ( 6 mmol / kg s . c . ) approximately doubled the time morphine - treated mice remained on a hot surface and similarly increased muscular incoordination by diazepam , but NH4Ac treatment alone had no effect .
+Thus , hyperammonemia is capable of altering drug action and must be considered along with impaired drug metabolism in enhanced drug responses associated with liver disease .
+Experiments in vitro showed that acetylcholine - induced catecholamine release from bovine adrenal medulla is depressed as much as 50 % by 0 . 3 mM NH4Ac and KCl - induced contractions of guinea - pig ileum were inhibited 20 % by 5 mM NH4Ac .
+Addition of excess calcium reversed the depression in both tissues , but calcium - independent catecholamine release by acetaldehyde was not blocked by NH4Ac .
+These results suggested that ammonia blocks calcium channels .
+Parallels in the actions of NH4Ac and the calcium channel blocker verapamil support this concept .
+Both verapamil ( 10 mg / kg i . p . ) and NH4Ac pretreatment enhanced morphine analgesia - and diazepam - induced muscular incoordination and antagonized amphetamine - induced motor activity , and neither verapamil nor NH4Ac affected the convulsant action of metrazol .
+The data suggest that hyperammonemia exerts a calcium channel blocking action which enhances the effects of central nervous system depressants and certain opioid analgesics .

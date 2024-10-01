@@ -1,0 +1,9 @@
+Animal model of mania induced by ouabain : Evidence of oxidative stress in submitochondrial particles of the rat brain .
+The intracerebroventricular ( ICV ) administration of ouabain ( a Na ( + ) / K ( + ) - ATPase inhibitor ) in rats has been suggested to mimic some symptoms of human bipolar mania .
+Clinical studies have shown that bipolar disorder may be related to mitochondrial dysfunction .
+Herein , we investigated the behavioral and biochemical effects induced by the ICV administration of ouabain in rats .
+To achieve this aim , the effects of ouabain injection immediately after and 7 days following a single ICV administration ( at concentrations of 10 ( - 2 ) and 10 ( - 3 ) M ) on locomotion was measured using the open - field test .
+Additionally , thiobarbituric acid reactive substances ( TBARSs ) and superoxide production were measured in submitochondrial particles of the prefrontal cortex , hippocampus , striatum and amygdala .
+Our findings demonstrated that ouabain at 10 ( - 2 ) and 10 ( - 3 ) M induced hyperlocomotion in rats , and this response remained up to 7 days following a single ICV injection .
+In addition , we observed that the persistent increase in the rat spontaneous locomotion is associated with increased TBARS levels and superoxide generation in submitochondrial particles in the prefrontal cortex , striatum and amygdala .
+In conclusion , ouabain - induced mania - like behavior may provide a useful animal model to test the hypothesis of the involvement of oxidative stress in bipolar disorder .

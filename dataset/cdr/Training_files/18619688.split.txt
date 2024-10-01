@@ -1,0 +1,12 @@
+Adriamycin-induced autophagic cardiomyocyte death plays a pathogenic role in a rat model of heart failure.
+BACKGROUND: The mechanisms underlying heart failure induced by adriamycin are very complicated and still unclear.
+The aim of this study was to investigate whether autophagy was involved in the progression of heart failure induced by adriamycin, so that we can develop a novel treatment strategy for heart failure.
+METHODS: 3-methyladenine (3MA), a specific inhibitor on autophagy was used in a heart failure model of rats induced by adriamycin.
+Neonatal cardiomyocytes were isolated from Sprague-Dawley rat hearts and randomly divided into controls, an adriamycin-treated group, and a 3MA plus adriamycin-treated group.
+We then examined the morphology, expression of beclin 1 gene, mitochondrial permeability transition (MPT), and Na+-K+ ATPase activity in vivo.
+We also assessed cell viability, mitochondrial membrane potential changes and counted autophagic vacuoles in cultured cardiomyocytes.
+In addition, we analyzed the expression of autophagy associated gene, beclin 1 using RT-PCR and Western blotting in an animal model.
+RESULTS: 3MA significantly improved cardiac function and reduced mitochondrial injury.
+Furthermore, adriamycin induced the formation of autophagic vacuoles, and 3MA strongly downregulated the expression of beclin 1 in adriamycin-induced failing heart and inhibited the formation of autophagic vacuoles.
+CONCLUSION: Autophagic cardiomyocyte death plays an important role in the pathogenesis of heart failure in rats induced by adriamycin.
+Mitochondrial injury may be involved in the progression of heart failure caused by adriamycin via the autophagy pathway.

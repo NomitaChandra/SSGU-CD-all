@@ -1,0 +1,6 @@
+Relationship between nicotine - induced seizures and hippocampal nicotinic receptors .
+A controversy has existed for several years concerning the physiological relevance of the nicotinic receptor measured by alpha - bungarotoxin binding .
+Using mice derived from a classical F2 and backcross genetic design , a relationship between nicotine - induced seizures and alpha - bungarotoxin nicotinic receptor concentration was found .
+Mice sensitive to the convulsant effects of nicotine had greater alpha - bungarotoxin binding in the hippocampus than seizure insensitive mice .
+The binding sites from seizure sensitive and resistant mice were equally affected by treatment with dithiothreitol , trypsin or heat .
+Thus it appears that the difference between seizure sensitive and insensitive animals may be due to a difference in hippocampal nicotinic receptor concentration as measured with alpha - bungarotoxin binding .

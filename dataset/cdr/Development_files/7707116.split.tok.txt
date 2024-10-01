@@ -1,0 +1,17 @@
+Phase I trial of 13 - cis - retinoic acid in children with neuroblastoma following bone marrow transplantation .
+PURPOSE : Treatment of neuroblastoma cell lines with 13 - cis - retinoic acid ( cis - RA ) can cause sustained inhibition of proliferation .
+Since cis - RA has demonstrated clinical responses in neuroblastoma patients , it may be effective in preventing relapse after cytotoxic therapy .
+This phase I trial was designed to determine the maximal - tolerated dosage ( MTD ) , toxicities , and pharmacokinetics of cis - RA administered on an intermittent schedule in children with neuroblastoma following bone marrow transplantation ( BMT ) .
+PATIENTS AND METHODS : Fifty - one assessable patients , 2 to 12 years of age , were treated with oral cis - RA administered in two equally divided doses daily for 2 weeks , followed by a 2 - week rest period , for up to 12 courses .
+The dose was escalated from 100 to 200 mg / m2 / d until dose - limiting toxicity ( DLT ) was observed .
+A single intrapatient dose escalation was permitted .
+RESULTS : The MTD of cis - RA was 160 mg / m2 / d .
+Dose - limiting toxicities in six of nine patients at 200 mg / m2 / d included hypercalcemia ( n = 3 ) , rash ( n = 2 ) , and anemia / thrombocytopenia / emesis / rash ( n = 1 ) .
+All toxicities resolved after cis - RA was discontinued .
+Three complete responses were observed in marrow metastases .
+Serum levels of 7 . 4 + / - 3 . 0 mumol / L ( peak ) and 4 . 0 + / - 2 . 8 mumol / L ( trough ) at the MTD were maintained during 14 days of therapy .
+The DLT correlated with serum levels > or = 10 mumol / L .
+CONCLUSION : The MTD of cis - RA given on this intermittent schedule was 160 mg / m2 / d .
+Serum levels known to be effective against neuroblastoma in vitro were achieved at this dose .
+The DLT included hypercalcemia , and may be predicted by serum cis - RA levels .
+Monitoring of serum calcium and cis - RA levels is indicated in future trials .

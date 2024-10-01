@@ -1,0 +1,7 @@
+Effects of tetrandrine and fangchinoline on experimental thrombosis in mice and human platelet aggregation.
+Tetrandrine (TET) and fangchinoline (FAN) are two naturally occurring analogues with a bisbenzylisoquinoline structure.
+The present study was undertaken to investigate the effects of TET and FAN on the experimental thrombosis induced by collagen plus epinephrine (EP) in mice, and platelet aggregation and blood coagulation in vitro.
+In the in vivo study, the administration (50 mg/kg, i.p.) of TET and FAN in mice showed the inhibition of thrombosis by 55% and 35%, respectively, while acetylsalicylic acid (ASA, 50 mg/kg, i.p.), a positive control, showed only 30% inhibition.
+In the vitro human platelet aggregations induced by the agonists used in tests, TET and FAN showed the inhibitions dose dependently.
+In addition, neither TET nor FAN showed any anticoagulation activities in the measurement of the activated partial thromboplastin time (APTT), prothrombin time (PT) and thrombin time (TT) using human-citrated plasma.
+These results suggest that antithrombosis of TET and FAN in mice may be mainly related to the antiplatelet aggregation activities.

@@ -1,0 +1,10 @@
+Proteomic analysis of striatal proteins in the rat model of L - DOPA - induced dyskinesia .
+L - DOPA - induced dyskinesia ( LID ) is among the motor complications that arise in Parkinson 's disease ( PD ) patients after a prolonged treatment with L - DOPA .
+To this day , transcriptome analysis has been performed in a rat model of LID [ Neurobiol .
+Dis . , 17 ( 2004 ) , 219 ] but information regarding the proteome is still lacking .
+In the present study , we investigated the changes occurring at the protein level in striatal samples obtained from the unilaterally 6 - hydroxydopamine - lesion rat model of PD treated with saline , L - DOPA or bromocriptine using two - dimensional difference gel electrophoresis and mass spectrometry ( MS ) .
+Rats treated with L - DOPA were allocated to two groups based on the presence or absence of LID .
+Among the 2000 spots compared for statistical difference , 67 spots were significantly changed in abundance and identified using matrix - assisted laser desorption / ionization time - of - flight MS , atmospheric pressure matrix - assisted laser desorption / ionization and HPLC coupled tandem MS ( LC / MS / MS ) .
+Out of these 67 proteins , LID significantly changed the expression level of five proteins : alphabeta - crystalin , gamma - enolase , guanidoacetate methyltransferase , vinculin , and proteasome alpha - 2 subunit .
+Complementary techniques such as western immunoblotting and immunohistochemistry were performed to investigate the validity of the data obtained using the proteomic approach .
+In conclusion , this study provides new insights into the protein changes occurring in LID .

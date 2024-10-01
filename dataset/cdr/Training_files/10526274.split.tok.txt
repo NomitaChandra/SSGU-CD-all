@@ -1,0 +1,23 @@
+Gemcitabine plus vinorelbine in nonsmall cell lung carcinoma patients age 70 years or older or patients who can not receive cisplatin .
+Oncopaz Cooperative Group .
+BACKGROUND : Although the prevalence of nonsmall cell lung carcinoma ( NSCLC ) is high among elderly patients , few data are available regarding the efficacy and toxicity of chemotherapy in this group of patients .
+Recent reports indicate that single agent therapy with vinorelbine ( VNB ) or gemcitabine ( GEM ) may obtain a response rate of 20 - 30 % in elderly patients , with acceptable toxicity and improvement in symptoms and quality of life .
+In the current study the efficacy and toxicity of the combination of GEM and VNB in elderly patients with advanced NSCLC or those with some contraindication to receiving cisplatin were assessed .
+METHODS : Forty - nine patients with advanced NSCLC were included , 38 of whom were age > / = 70 years and 11 were age < 70 years but who had some contraindication to receiving cisplatin .
+All patients were evaluable for response and toxicity .
+Treatment was comprised of VNB , 25 mg / m ( 2 ) , plus GEM , 1000 mg / m ( 2 ) , both on Days 1 , 8 , and 15 every 28 days .
+Patients received a minimum of three courses unless progressive disease was detected .
+RESULTS : One hundred sixty - five courses were administered , with a median of 3 .
+6 courses per patient .
+The overall response rate was 26 % ( 95 % confidence interval , 15 - 41 % ) .
+Two patients attained a complete response ( 4 % ) and 11 patients ( 22 % ) achieved a partial response .
+Eastern Cooperative Oncology Group performance status improved in 35 % of those patients with an initial value > 0 , whereas relief of at least 1 symptom without worsening of other symptoms was noted in 27 patients ( 55 % ) .
+The median time to progression was 16 weeks and the 1 - year survival rate was 33 % .
+Toxicity was mild .
+Six patients ( 12 % ) had World Health Organization Grade 3 - 4 neutropenia , 2 patients ( 4 % ) had Grade 3 - 4 thrombocytopenia , and 2 patients ( 4 % ) had Grade 3 neurotoxicity .
+Three patients with severe neutropenia ( 6 % ) died of sepsis .
+The median age of those patients developing Grade 3 - 4 neutropenia was significantly higher than that of the remaining patients ( 75 years vs . 72 years ; P = 0 . 047 ) .
+CONCLUSIONS : The combination of GEM and VNB is moderately active and well tolerated except in patients age > / = 75 years .
+This age group had an increased risk of myelosuppression .
+Therefore the prophylactic use of granulocyte - colony stimulating factor should be considered with this treatment .
+New chemotherapy combinations with higher activity and lower toxicity are needed for elderly patients with advanced NSCLC .

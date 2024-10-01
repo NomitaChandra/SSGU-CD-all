@@ -1,0 +1,6 @@
+Myo - inositol - 1 - phosphate ( MIP ) synthase inhibition : in - vivo study in rats .
+Lithium and valproate are the prototypic mood stabilizers and have diverse structures and targets .
+Both drugs influence inositol metabolism .
+Lithium inhibits IMPase and valproate inhibits MIP synthase .
+This study shows that MIP synthase inhibition does not replicate or augment the effects of lithium in the inositol sensitive pilocarpine - induced seizures model .
+This lack of effects may stem from the low contribution of de - novo synthesis to cellular inositol supply or to the inhibition of the de - novo synthesis by lithium itself .

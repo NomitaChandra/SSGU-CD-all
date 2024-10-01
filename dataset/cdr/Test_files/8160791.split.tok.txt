@@ -1,0 +1,10 @@
+Mechanisms for protective effects of free radical scavengers on gentamicin - mediated nephropathy in rats .
+Studies were performed to examine the mechanisms for the protective effects of free radical scavengers on gentamicin ( GM ) - mediated nephropathy .
+Administration of GM at 40 mg / kg sc for 13 days to rats induced a significant reduction in renal blood flow ( RBF ) and inulin clearance ( CIn ) as well as marked tubular damage .
+A significant reduction in urinary guanosine 3 ' , 5 ' - cyclic monophosphate ( cGMP ) excretion and a significant increase in renal cortical renin and endothelin - 1 contents were also observed in GM - mediated nephropathy .
+Superoxide dismutase ( SOD ) or dimethylthiourea ( DMTU ) significantly lessened the GM - induced decrement in CIn .
+The SOD - induced increase in glomerular filtration rate was associated with a marked improvement in RBF , an increase in urinary cGMP excretion , and a decrease in renal renin and endothelin - 1 content .
+SOD did not attenuate the tubular damage .
+In contrast , DMTU significantly reduced the tubular damage and lipid peroxidation , but it did not affect renal hemodynamics and vasoactive substances .
+Neither SOD nor DMTU affected the renal cortical GM content in GM - treated rats .
+These results suggest that 1 ) both SOD and DMTU have protective effects on GM - mediated nephropathy , 2 ) the mechanisms for the protective effects differ for SOD and DMTU , and 3 ) superoxide anions play a critical role in GM - induced renal vasoconstriction .

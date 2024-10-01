@@ -1,0 +1,13 @@
+Temocapril, a long-acting non-SH group angiotensin converting enzyme inhibitor, modulates glomerular injury in chronic puromycin aminonucleoside nephrosis.
+The purpose of the present study was to determine whether chronic administration of temocapril, a long-acting non-SH group angiotensin converting enzyme (ACE) inhibitor, reduced proteinuria, inhibited glomerular hypertrophy and prevented glomerulosclerosis in chronic puromycin aminonucleoside (PAN) - induced nephrotic rats.
+Nephrosis was induced by injection of PAN (15mg/100g body weight) in male Sprague-Dawley (SD) rats.
+Four groups were used, i) the PAN group (14), ii) PAN/temocapril (13), iii) temocapril (14) and iv) untreated controls (15).
+Temocapril (8 mg/kg/day) was administered to the rats which were killed at weeks 4, 14 or 20.
+At each time point, systolic blood pressure (BP), urinary protein excretion and renal histopathological findings were evaluated, and morphometric image analysis was done.
+Systolic BP in the PAN group was significantly high at 4, 14 and 20 weeks, but was normal in the PAN/temocapril group.
+Urinary protein excretion in the PAN group increased significantly, peaking at 8 days, then decreased at 4 weeks, but rose again significantly at 14 and 20 weeks.
+Temocapril did not attenuate proteinuria at 8 days, but it did markedly lower it from weeks 4 to 20.
+The glomerulosclerosis index (GSI) was 6.21 % at 4 weeks and respectively 25.35 % and 30.49 % at 14 and 20 weeks in the PAN group.
+There was a significant correlation between urinary protein excretion and GSI (r = 0.808, p < 0.0001).
+The ratio of glomerular tuft area to the area of Bowman's capsules (GT/BC) in the PAN group was significantly increased, but it was significantly lower in the PAN/temocapril group.
+It appears that temocapril was effective in retarding renal progression and protected renal function in PAN neprotic rats.

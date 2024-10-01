@@ -1,0 +1,7 @@
+Contribution of the glycine site of NMDA receptors in rostral and intermediate-caudal parts of the striatum to the regulation of muscle tone in rats.
+The aim of the present study was to assess the contribution of the glycine site of NMDA receptors in the striatum to the regulation of muscle tone.
+Muscle tone was examined using a combined mechanoand electromyographic method, which measured simultaneously the muscle resistance (MMG) of the rat's hind foot to passive extension and flexion in the ankle joint and the electromyographic activity (EMG) of the antagonistic muscles of that joint: gastrocnemius and tibialis anterior.
+Muscle rigidity was induced by haloperidol (2.5 mg/kg i.p.).
+5,7-dichlorokynurenic acid (5,7-DCKA), a selective glycine site antagonist, injected in doses of 2.5 and 4.5 microg/0.5 microl bilaterally, into the rostral region of the striatum, decreased both the haloperidol-induced muscle rigidity (MMG) and the enhanced electromyographic activity (EMG).
+5,7-DCKA injected bilaterally in a dose of 4.5 microg/0.5 microl into the intermediate-caudal region of the striatum of rats not pretreated with haloperidol had no effect on the muscle tone.
+The present results suggest that blockade of the glycine site of NMDA receptors in the rostral part of the striatum may be mainly responsible for the antiparkinsonian action of this drug.

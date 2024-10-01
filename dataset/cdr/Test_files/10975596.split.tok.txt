@@ -1,0 +1,8 @@
+Hemodynamic and antiadrenergic effects of dronedarone and amiodarone in animals with a healed myocardial infarction .
+The hemodynamic and antiadrenergic effects of dronedarone , a noniodinated compound structurally related to amiodarone , were compared with those of amiodarone after prolonged oral administration , both at rest and during sympathetic stimulation in conscious dogs with a healed myocardial infarction .
+All dogs ( n = 6 ) randomly received orally dronedarone ( 10 and 30 mg / kg ) , amiodarone ( 10 and 30 mg / kg ) , and placebo twice daily for 7 days , with a 3 - week washout between consecutive treatments .
+Heart rate ( HR ) , mean arterial pressure ( MBP ) , positive rate of increase of left ventricular pressure ( + LVdP / dt ) , echocardiographically assessed left ventricular ejection fraction ( LVEF ) , and fractional shortening ( FS ) , as well as chronotropic response to isoproterenol and exercise - induced sympathetic stimulation were evaluated under baseline and posttreatment conditions .
+Resting values of LVEF , FS , + LVdP / dt , and MBP remained unchanged whatever the drug and the dosing regimen , whereas resting HR was significantly and dose - dependently lowered after dronedarone and to a lesser extent after amiodarone .
+Both dronedarone and amiodarone significantly reduced the exercise - induced tachycardia and , at the highest dose , decreased the isoproterenol - induced tachycardia .
+Thus , dronedarone and amiodarone displayed a similar level of antiadrenergic effect and did not impair the resting left ventricular function .
+Consequently , dronedarone might be particularly suitable for the treatment and prevention of various clinical arrhythmias , without compromising the left ventricular function .

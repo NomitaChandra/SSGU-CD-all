@@ -1,0 +1,9 @@
+Urinary enzymes and protein patterns as indicators of injury to different regions of the kidney.
+Acute experimental models of renal damage to the proximal tubular, glomerular, and papillary regions of the rat were produced by administration of hexachloro-1:3-butadiene (HCBD), puromycin aminonucleoside (PAN), and 2-bromoethylamine (BEA), respectively.
+Several routine indicators of nephrotoxicity, the enzymes alkaline phosphatase and N-acetyl-beta-glucosaminidase, and the molecular weight of protein excretion were determined on urine samples.
+Tubular damage produced by HCBD or BEA was discriminated both quantitatively and qualitatively from glomerular damage produced by PAN.
+The latter was characterized by a pronounced increase in protein excretion, especially proteins with molecular weight greater than 40,000 Da.
+In contrast, protein excretion in tubular damage was raised only slightly and characterized by excretion of proteins of a wide range of molecular weights.
+Proximal tubular damage caused by HCBD and papillary damage caused by BEA were distinguished both by conventional urinalysis (volume and specific gravity) and by measurement of the two urinary enzymes.
+Alkaline phosphatase and glucose were markedly and transiently elevated in proximal tubular damage and N-acetyl-beta-glucosaminidase showed a sustained elevation in papillary damage.
+It is concluded that both selective urinary enzymes and the molecular weight pattern of urinary proteins can be used to provide diagnostic information about the possible site of renal damage.

@@ -1,0 +1,10 @@
+Effect of alpha-tocopherol and deferoxamine on methamphetamine-induced neurotoxicity.
+Methamphetamine (MA)-induced dopaminergic neurotoxicity is believed to be associated with the increased formation of free radicals.
+This study examined the effect of alpha-tocopherol (alpha-TC), a scavenger of reactive oxygen species, and deferoxamine (DFO), an iron chelator, on the MA-induced neurotoxicity.
+Male rats were treated with MA (10 mg/kg, every 2 h for four injections).
+The rat received either alpha-TC (20 mg/kg) intraperitoneally for 3 days and 30 min prior to MA administration or DFO (50 mg/kg) subcutaneously 30 min before MA administration.
+The concentrations of dopamine (DA), serotonin and their metabolites decreased significantly after MA administration, which was inhibited by the alpha-TC and DFO pretreatment.
+alpha-TC and DFO attenuated the MA-induced hyperthermia as well as the alterations in the locomotor activity.
+The level of lipid peroxidation was higher and the reduced glutathione concentration was lower in the MA-treated rats.
+These changes were significantly attenuated by alpha-TC and DFO.
+This suggests that alpha-TC and DFO ameliorate the MA-induced neuronal damage by decreasing the level of oxidative stress.

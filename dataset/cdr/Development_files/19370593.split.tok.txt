@@ -1,0 +1,19 @@
+Long term hormone therapy for perimenopausal and postmenopausal women .
+BACKGROUND : Hormone therapy ( HT ) is widely used for controlling menopausal symptoms and has also been used for the management and prevention of cardiovascular disease , osteoporosis and dementia in older women .
+This is an updated version of the original Cochrane review first published in 2005 .
+OBJECTIVES : To assess the effect of long - term HT on mortality , cardiovascular outcomes , cancer , gallbladder disease , cognition , fractures and quality of life .
+SEARCH STRATEGY : We searched the following databases to November 2007 : Trials Register of the Cochrane Menstrual Disorders and Subfertility Group , Cochrane Central Register of Controlled Trials , MEDLINE , EMBASE , Biological Abstracts .
+Also relevant non - indexed journals and conference abstracts .
+SELECTION CRITERIA : Randomised double - blind trials of HT versus placebo , taken for at least one year by perimenopausal or postmenopausal women .
+HT included oestrogens , with or without progestogens , via oral , transdermal , subcutaneous or transnasal routes .
+DATA COLLECTION AND ANALYSIS : Two authors independently assessed trial quality and extracted data .
+MAIN RESULTS : Nineteen trials involving 41 , 904 women were included .
+In relatively healthy women , combined continuous HT significantly increased the risk of venous thrombo - embolism or coronary event ( after one year 's use ) , stroke ( after three years ) , breast cancer and gallbladder disease .
+Long - term oestrogen - only HT significantly increased the risk of venous thrombo - embolism , stroke and gallbladder disease ( after one to two years , three years and seven years ' use respectively ) , but did not significantly increase the risk of breast cancer .
+The only statistically significant benefits of HT were a decreased incidence of fractures and ( for combined HT ) colon cancer , with long - term use .
+Among women aged over 65 who were relatively healthy ( i . e . generally fit , without overt disease ) and taking continuous combined HT , there was a statistically significant increase in the incidence of dementia .
+Among women with cardiovascular disease , long - term use of combined continuous HT significantly increased the risk of venous thrombo - embolism . One trial analysed subgroups of 2839 relatively healthy 50 to 59 year old women taking combined continuous HT and 1637 taking oestrogen - only HT , versus similar - sized placebo groups .
+The only significantly increased risk reported was for venous thrombo - embolism in women taking combined continuous HT : their absolute risk remained low , at less than 1 / 500 .
+However , this study was not powered to detect differences between groups of younger women .
+AUTHORS ' CONCLUSIONS : HT is not indicated for the routine management of chronic disease .
+We need more evidence on the safety of HT for menopausal symptom control , though short - term use appears to be relatively safe for healthy younger women .
