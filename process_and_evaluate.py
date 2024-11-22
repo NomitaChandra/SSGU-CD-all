@@ -92,9 +92,10 @@ set_seed(args)
 model = Model(args, config, model, num_labels=1)
 
 #set to cpu --> change to gpu
-model.to('cpu')
+device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 model_path = '/Users/kavithakamarthy/Downloads/SSGU-CD-all/out/train_filter_bert_cdr_seed_BSCELoss_tree_0.3_0.5_66_best'
-model.load_state_dict(torch.load(model_path, map_location=torch.device('cpu')))
+model.load_state_dict(torch.load(model_path, map_location=device))
+model.to(device)
 
 # read in the test data
 test_file = os.path.join(args.data_dir, args.test_file)
@@ -104,6 +105,6 @@ test_features = read(args, test_file, tokenizer, max_seq_length=args.max_seq_len
 test_score, test_output, preds = evaluate(args, model, test_features, tag="test", generate=True)
 
 # print the test score
-print(test_score)
+# print(test_score)
 
 subprocess.run(["python", "re_postprocessing.py"])
