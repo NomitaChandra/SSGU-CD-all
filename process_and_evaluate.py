@@ -105,3 +105,5 @@ test_score, test_output, preds = evaluate(args, model, test_features, tag="test"
 
 # print the test score
 print(test_score)
+
+subprocess.run(["python", "re_postprocessing.py"])

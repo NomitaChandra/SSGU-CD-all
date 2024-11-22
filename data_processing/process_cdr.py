@@ -22,7 +22,7 @@ def main(input_path):
         process_input_file = os.path.join(input_path, f"CDR_{d}Set.PubTator.txt")
         process_output_file = os.path.join(input_path, d)
         subprocess.run([
-            "python3", "/Users/kavithakamarthy/Downloads/SSGU-CD-all/data_processing/process.py",
+            "python3", "process.py",
             "--input_file", process_input_file,
             "--output_file", process_output_file,
             "--data", "CDR"
