@@ -104,8 +104,8 @@ def evaluate(args, model, features, tag="dev", generate=False):
                   }
         with torch.no_grad():
             output = model(**inputs)
-            loss = output[0]
-            pred = output[1].cpu().numpy()
+            # loss = output[0]
+            pred = output[0].cpu().numpy()
             pred[np.isnan(pred)] = 0
             preds.append(pred)
             golds.append(np.concatenate([np.array(label, np.float32) for label in batch[2]], axis=0))

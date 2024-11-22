@@ -229,8 +229,11 @@ class Model(nn.Module):
 
         output = (get_label(logits, num_labels=self.num_labels))
         if labels is not None:
-            labels = [torch.tensor(label) for label in labels]
-            labels = torch.cat(labels, dim=0).to(logits)
-            loss = self.loss_fn(logits.float(), labels.float())
-            output = [loss.to(sequence_output), output]
+            # labels = [torch.tensor(label) for label in labels]
+            # labels = torch.cat(labels, dim=0).to(logits)
+            # print(f"logits shape: {logits.shape}, labels shape: {labels.shape}")
+            # loss = self.loss_fn(logits.float(), labels.float())
+            # output = [loss.to(sequence_output), output]
+            output = [output]
         return output
+        
